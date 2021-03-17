@@ -4,6 +4,4 @@ I'm adding helpful notes to the source of truth and I have created a few exercis
 
 I will try to keep it updated.
 
-I hope.
 
-Friends
