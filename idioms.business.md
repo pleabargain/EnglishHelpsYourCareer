@@ -824,12 +824,10 @@ Everyone kept restating their opinions but nothing was agreed on. We were runnin
 
 ## safe bet
 
-A "safe bet" means something that will probably
-happen.
+A "safe bet" means something that will probably happen.
 <details><summary><b>Examples</b></summary>
 <p>
-It's a safe bet that smartphones will be much more
-advanced in 10 years.
+It's a safe bet that smartphones will be much more advanced in 10 years.
 
 </p>
 </details>
@@ -851,10 +849,7 @@ We're all worried about losing our jobs. We're in the same boat.
 
 ## second nature
 
-When someone does something so well that it
-seems like they were born knowing how to do it, we
-say that the activity is "second nature" to that
-person.
+When someone does something so well that it seems like they were born knowing how to do it, we say that the activity is "second nature" to that person.
 <details><summary><b>Examples</b></summary>
 <p>
 She's been a computer programmer for ten years. At this point, programming is second nature to her.
@@ -917,8 +912,7 @@ We have a brand new, state-of-the-art facility.
 
 ## smooth/clear sailing
 
-"Smooth sailing" is a term used to describe a situation where success is achieved without
-difficulties.
+"Smooth sailing" is a term used to describe a situation where success is achieved without difficulties.
 <details><summary><b>Examples</b></summary>
 <p>
 One of our largest competitors went out of business and it's been smooth sailing ever since.
@@ -938,13 +932,11 @@ If you want to fill out form 41-a and send it to the government, you have to do 
 
 ## stand one's ground
 
-To "stand one's ground" means to not change one's
-opinion or position.
+To "stand one's ground" means to not change one's opinion or position.
 <details><summary><b>Examples</b></summary>
 <p>
 
-We tried to change the dress code, but Human
-Resources stood their ground.
+We tried to change the dress code, but Human Resources stood their ground.
 </p>
 </details>
 
@@ -967,33 +959,28 @@ To "start off on the right foot" means to start something in a positive way.
 <details><summary><b>Examples</b></summary>
 <p>
 
-We offered them a very generous price on their first
-order and everything shipped on time. We really started
-off on the right foot.
+We offered them a very generous price on their first order and everything shipped on time. We really started off on the right foot.
 </p>
 </details>
 
 ## take something lying down
 
-To "take something lying down" means to accept
-something unpleasant without fighting back.
+To "take something lying down" means to accept something unpleasant without fighting back.
 <details><summary><b>Examples</b></summary>
 <p>
-The proposed law would kill our industry, but we're
-not going to take it lying down. We're going to fight
-back and make sure the law isn't passed.
+The proposed law would kill our industry, but we're not going to take it lying down. We're going to fight back and make sure the law isn't passed.
 </p>
 </details>
 
 
 ## talk someone out of something
 
-To "talk someone out of something" means to
-convince someone not to do something.
+To "talk someone out of something" means to convince someone not to do something.
 <details><summary><b>Examples</b></summary>
 <p>
-I wanted to make a real estate investment, but my
-financial adviser talked me out of it.
+I wanted to make a real estate investment, but my financial adviser talked me out of it.
+
+My daughter wants to become a mercenary and fight in Syria. We are trying to talk her out of it.
 
 </p>
 </details>
@@ -1001,24 +988,26 @@ financial adviser talked me out of it.
 
 ## the elephant in the room
 
-"The elephant in the room" refers to an obvious
-problem or controversial issue that no one wants to
-talk about.
+"The elephant in the room" refers to an obvious problem or controversial issue that no one wants to talk about.
 <details><summary><b>Examples</b></summary>
 <p>
 
 We should have been talking about our huge debt, but no one wanted to talk about the elephant in the room.
+
+
 </p>
 </details>
 
 ## think outside the box
 
-To "think outside the box" means to think of
-creative, unconventional solutions instead of common ones.
+To "think outside the box" means to think of creative, unconventional solutions instead of common ones.
 <details><summary><b>Examples</b></summary>
 <p>
 
 Creating a product that no one has sold before is an example of thinking outside the box.
+
+Everybody talks about thinking outside of the box but very few people explain why.
+
 </p>
 </details>
 
@@ -1034,20 +1023,19 @@ I was trying to learn Russian, but I got frustrated and threw in the towel.
 
 ## touch base
 
-To "touch base" means to make contact with
-someone.
+To "touch base" means to make contact with someone.
 <details><summary><b>Examples</b></summary>
 <p>
 
 Let me make a few phone calls to try to get an answer to your question. I'll touch base with you later today.
+
+
 </p>
 </details>
 
 ## twist someone's arm
 
-To "twist someone's arm" means to persuade or
-convince someone to do something that he or she
-does not want to do.
+To "twist someone's arm" means to persuade or convince someone to do something that he or she does not want to do.
 <details><summary><b>Examples</b></summary>
 <p>
 The owner thought the budget was a little high. We had to twist his arm to get him to agree to it.
@@ -1064,7 +1052,6 @@ If something is undecided, it is "up in the air."
 <p>
 We're looking for a test market right now, but nothing has been decided yet. Everything's still up in the air.
 
-
 We're still up in the air on which platform we should use.
 
 
@@ -1080,6 +1067,8 @@ obstacles and difficulties is an "uphill battle.”
 <p>
 Getting promoted to team lead is going to be an uphill battle.
 He doesn't have much support at the moment.
+
+The soldiers were climbing the hill and fighting the enemy on the hill top. It was an uphill battle.
 
 
 </p>
@@ -1103,13 +1092,7 @@ We have to get the upper hand on this situation! We are losing too many staff to
 
 ## white collar
 
-A "white collar worker" is someone who works in an
-office (customer service, management, sales, etc.). The
-opposite of a white collar worker is a "blue collar
-worker." A blue collar worker is someone who works
-with his hands (manufacturing, construction,
-maintenance, etc.). "White collar" (and "blue collar") can
-also be used to describe a job, position, or place.
+A "white collar worker" is someone who works in an office (customer service, management, sales, etc.). The opposite of a white collar worker is a "blue collar worker." A blue collar worker is someone who works with his hands (manufacturing, construction, maintenance, etc.). "White collar" (and "blue collar") can also be used to describe a job, position, or place.
 <details><summary><b>Examples</b></summary>
 <p>
 There are mostly manufacturing positions outside of the city. There aren't many white-collar jobs.
@@ -1121,17 +1104,13 @@ There are mostly manufacturing positions outside of the city. There aren't many 
 
 ## writing on the wall
 
-The "writing on the wall" refers to the evidence and
-clues that something (usually negative) is going to
-happen.
+The "writing on the wall" refers to the evidence and clues that something (usually negative) is going to happen.
 <details><summary><b>Examples</b></summary>
 <p>
-I'm going to get my resume ready. I can see the
-writing on the wall.
+I'm going to get my resume ready. I can see the writing on the wall.
 
 This project is doomed. The writing is on the wall.
 </p>
 </details>
 
 
-## 
