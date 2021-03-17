@@ -379,6 +379,9 @@ To "go broke" means to go bankrupt or to lose all the money a person or business
 <details><summary><b>Examples</b></summary>
 <p>
 There was too much competition and their expenses were too high. They eventually went broke.
+
+The restaurant went broke during the pandemic.
+
 </p>
 </details>
 
@@ -388,8 +391,9 @@ When someone wastes or loses something, it is said to "go down the drain."
 <details><summary><b>Examples</b></summary>
 <p>
 
-He dropped out of college in his third year and never continued his studies. All of his hard work
-and money went down the drain.
+He dropped out of college in his third year and never continued his studies. All of his hard work and money went down the drain.
+
+
 </p>
 </details>
 
@@ -399,8 +403,10 @@ To "go the extra mile" means to do more than what people expect.
 <details><summary><b>Examples</b></summary>
 <p>
 
-We go the extra mile for our customers. If someone is dissatisfied with a purchase, we refund their
-money and offer them a discount on their next purchase.
+We go the extra mile for our customers. If someone is dissatisfied with a purchase, we refund their money and offer them a discount on their next purchase.
+
+I promise I will go the extra mile to ensure your satisfaction.
+
 </p>
 </details>
 
@@ -410,6 +416,8 @@ If something is "going through the roof," it means it is rapidly increasing.
 <p>
 
 We're happy our number of Facebook followers has gone through the roof.
+
+Sales of face masks went through the roof in 2020.
 </p>
 </details>
 
@@ -419,6 +427,8 @@ If something is in a "gray area,” it means that it is something undefined and 
 <details><summary><b>Examples</b></summary>
 <p>
 I asked our lawyers if it was legal, and they said it wasn't clear. It's a gray area.
+
+
 </p>
 </details>
 
@@ -429,6 +439,8 @@ If something is "ground-breaking," it means it is new and innovative.
 <details><summary><b>Examples</b></summary>
 <p>
 The iPhone was a ground-breaking piece of technology when it was released in 2008.
+
+Space-X represents ground-breaking technology in rocket science.
 </p>
 </details>
 
