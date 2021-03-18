@@ -83,7 +83,7 @@
 # All along
 * If you have known or suspected something all along, then you have felt this from the beginning.
 # All and sundry
-* This idiom is a way of emphasising 'all', like saying 'each and every one'.
+* This idiom is a way of emphasizing 'all', like saying 'each and every one'.
 # All ears
 * If someone says they're all ears, they are very interested in hearing about something.
 # All eyes on me
@@ -388,7 +388,7 @@
 *  If someone beats the daylights out of another person, they hit them repeatedly. ('Knock' can also be used and it can be
 *  made even stronger by saying 'the living daylights'.)
 # Beat to the punch
-*  If you beat someone to the punch, you act before them and gain an advantage.<br />
+*  If you beat someone to the punch, you act before them and gain an advantage.
 # Beating a dead horse
 *  (USA) If someone is trying to convince people to do or feel something without any hope of succeeding, they're beating
 *  a dead horse. This is used when someone is trying to raise interest in an issue that no-one supports anymore; beating a
@@ -413,11 +413,11 @@
 # Beer and skittles
 *  (UK) People say that life is not all beer and skittles, meaning that it is not about self-indulgence and pleasure.
 # Before the ink is dry
-*  <p>If people make an agreement or contract and then the situation changes very quickly, it changes before the ink is
-*  dry.</p>
+*  If people make an agreement or contract and then the situation changes very quickly, it changes before the ink is
+*  dry.
 # Before you can say Jack Robinson
-*  <p>The term Jack Robinson represents 'a short amount of time'. </p><p>When you do something before you can say
-*  Jack Robinson, you do it very quickly.</p>
+*  The term Jack Robinson represents 'a short amount of time'. When you do something before you can say
+*  Jack Robinson, you do it very quickly.
 # Beg the question
 *  In philosophy "to beg the question" is to assume something to be true that has not yet been proved. I have seen the
 *  idiom also to mean that a question is crying out to be asked.
@@ -443,7 +443,7 @@
 # Bells and whistles
 *  Bells and whistles are attractive features that things like computer programs have, though often a bit unnecessary.
 # Bells on
-*  (USA) <p>To be somewhere with bells on means to arrive there happy and delighted to attend.</p>
+*  (USA) To be somewhere with bells on means to arrive there happy and delighted to attend.
 # Belly up
 *  If things go belly up, they go badly wrong.
 # Below par
@@ -496,7 +496,7 @@
 
 # Beyond belief
        If people behave in such a way that you find it almost impossible to accept that they actually did it, then you can say
-       that their behaviour was beyond belief.
+       that their behavior was beyond belief.
 
 # Beyond our ken
 * If something's beyond your ken, it is beyond your understanding.
@@ -578,7 +578,7 @@
 # Black hole
 * If there is a black hole in financial accounts, money has disappeared.
 # Black sheep
-* Someone who is the black sheep doesn't fit into a group or family because their behaviour or character is not good
+* Someone who is the black sheep doesn't fit into a group or family because their behavior or character is not good
 * enough.
 # Bleeding edge
 * Similar to 'cutting edge', this implies a technology or process that is at the forefront or beyond current practices.
@@ -882,7 +882,7 @@
 # Catch someone red-handed
 *  If someone is caught red-handed, they are found doing something wrong or illegal.
 # Caught with your hand in the cookie jar
-*  (USA) If someone is caught with his or her hand in the cookie jar, he or she is caught doing something wrong.<br />
+*  (USA) If someone is caught with his or her hand in the cookie jar, he or she is caught doing something wrong.
 # Chalk and cheese
 *  Things, or people, that are like chalk and cheese are very different and have nothing in common.
 # Change horses in midstream
@@ -969,7 +969,7 @@
 # Climb on the bandwagon
 * When people climb on the bandwagon they do something because it is popular and everyone else is doing it.
 # Close at hand
-* If something is close at hand, it is nearby or conveniently located.<br />
+* If something is close at hand, it is nearby or conveniently located.
 # Close but no cigar
 * (USA) If you are close but no cigar, you are close to success, but have not got there.
 # Close call
@@ -999,9 +999,6 @@
 * (UK) Taking, bringing, or carrying coals to Newcastle is doing something that is completely unnecessary.
 # Cock and bull story
 * A cock and bull story is a lie someone tells that is completely unbelievable.
-
----* * * *      
-* * * * * * * * *       ---
 
 
 # Cold feet
@@ -1116,7 +1113,7 @@
 # Cut corners
 * If people try to do something as cheaply or as quickly as possible, often sacrificing quality, they are cutting corners.
 # Cut down the tall poppies
-* (AU) If people cut down the tall poppies, they criticise people who stand out from the crowd.
+* (AU) If people cut down the tall poppies, they criticize people who stand out from the crowd.
 # Cut it fine
 * If you cut it fine, you only just manage to do something- at the very last moment. 'Cut things fine' is the same. 'Cut it a
 * bit fine' is a common variation.
@@ -1130,8 +1127,6 @@
 
 
 
----* * * ** 
-* * * * * * * * **  ---
 
 
 # Cut to the chase
@@ -1209,7 +1204,7 @@
 * When people say that the devil in the detail, they mean that small things in plans and schemes that are often
 * overlooked can cause serious problems later on.
 # Devil may care
-* <p>If you live a devil-may-care life it means you are willing to take more risks than most people.</p>
+* If you live a devil-may-care life it means you are willing to take more risks than most people.
 # Devil's advocate
 * If someone plays Devil's advocate in an argument, they adopt a position they don't believe in just for the sake of the
 * argument
@@ -1234,7 +1229,7 @@
 # Discretion is the better part of valour
 * This idiom means that it is often better to think carefully and not act than to do something that may cause problems.
 # Dish the dirt
-* If you dish the dirt on something or someone, you make unpleasant or shocking information public.<br />
+* If you dish the dirt on something or someone, you make unpleasant or shocking information public.
 # Do a Devon Loch
 * (UK) If someone does a Devon Loch, they fail when they were very close to winning. Devon Loch was a horse that
 * collapsed just short of the winning line of the Grand National race.
@@ -1602,7 +1597,7 @@
 # Food for thought
 * If something is food for thought, it is worth thinking about or considering seriously.
 # Fool me once, shame on you; fool me twice, shame on me
-* This means that you should learn from your mistakes and not allow people to take advantage of you repeatedly.<br />
+* This means that you should learn from your mistakes and not allow people to take advantage of you repeatedly.
 # Fools rush in where angels fear to tread
 * This idiom is used where people who are inexperienced or lack knowledge do something that more informed people
 * would avoid.
@@ -1712,7 +1707,7 @@
 * (UK) If someone is paid for a period when they are not working, either after they have given in their notice or when
 * they are being investigated, they are on gardening leave.
 # Gather pace
-* If events gather pace, they move faster.<br />
+* If events gather pace, they move faster.
 # Gather steam
 * If something gathers speed, it moves or progresses at an increasing speed.
 # Get your feathers in a bunch
@@ -1726,13 +1721,13 @@
 * If you get in on the ground floor, you enter a project or venture at the start before people know how successful it might
 * be.
 # Get it in the neck
-* (UK) If you get it in the neck, you are punished or criticised for something.
+* (UK) If you get it in the neck, you are punished or criticized for something.
 # Get my drift
 * If you get someone's drift, you understand what they are trying to say. ('Catch their drift' is an alternative form.)
 # Get on like a house on fire
 * If people get on like a house on fire, they have a very close and good relationship.
 # Get on your nerves
-* If something gets on your nerves, it annoys or irritates you.<br />
+* If something gets on your nerves, it annoys or irritates you.
 # Get on your soapbox
 * If someone on their soapbox, they hold forth (talk a lot) about a subject they feel strongly about.
 # Get out of bed on the wrong side
@@ -1758,8 +1753,8 @@
 # Get your head around something
 * If you get your head around something, you come to understand it even though it is difficult to comprehend.
 # Get your teeth into
-* <p>If you get your teeth into something, you become involved in or do something that is intellectually challenging or
-* satisfying.</p><p> </p><p>('Dig you teeth into' and 'sink your teeth into' are also used.) </p>
+* If you get your teeth into something, you become involved in or do something that is intellectually challenging or
+* satisfying. ('Dig you teeth into' and 'sink your teeth into' are also used.) 
 # Ghost of a chance
 * If something or someone hasn't got a ghost of a chance, they have no hope whatsoever of succeeding.
 # Ghostly presence
@@ -1767,8 +1762,6 @@
 # Gift of the gab
 * If someone has the gift of the gab, they speak in a persuasive and interesting way.
 
----* * * *      
-* * * * * * * * ** ---
 
 
 # Gild the lily
@@ -1785,8 +1778,7 @@
 * Where there is give and take, people make concessions in order to get things they want in negotiations.
 
 # Give as good as you get
-* If you give as good as you get, you are prepared to treat people as badly as they treat you and to fight for what you
-* believe.<br />
+* If you give as good as you get, you are prepared to treat people as badly as they treat you and to fight for what you believe.
 # Give it some stick
 * (UK) If you give something some stick, you put a lot of effort into it.
 # Give me a hand
@@ -1794,14 +1786,14 @@
 # Give someone a leg up
 * If you give someone a leg up, you help them to achieve something that they couldn't have done alone.
 # Give someone a piece of your mind
-* If you give someone a piece of your mind, you criticise them strongly and angrily.
+* If you give someone a piece of your mind, you criticize them strongly and angrily.
 # Give someone a run for their money
 * If you can give someone a run for the money, you are as good, or nearly as good, as they are at something.
 # Give someone enough rope
 * If you give someone enough rope, you give them the chance to get themselves into trouble or expose themselves. (The
 * full form is 'give someone enough rope and they'll hang themselves)
 # Give someone stick
-* (UK) If someone gives you stick, they criticise you or punish you.
+* (UK) If someone gives you stick, they criticize you or punish you.
 # Give the nod
 * (UK) If you give the nod to something, you approve it or give permission to do it.
 # Give up the ghost
@@ -1814,7 +1806,7 @@
 * unexplainable, but because its game day its obvious why there is traffic.
 # Glass ceiling
 * The glass ceiling is the discrimination that prevents women and minorities from getting promoted to the highest levels
-* of companies and organisations.
+* of companies and organizations.
 # Gloves are off
 * When the gloves are off, people start to argue or fight in a more serious way. ('The gloves come off' and 'take the
 * gloves off' are also used. It comes from boxing, where fighters normally wear gloves so that they don't do too much
@@ -1911,8 +1903,8 @@
 * A person who can be relied on is a good egg. Bad egg is the opposite.
 
 # Good fences make good neighbours
-*  <p>This means that it is better for people to mind their own business and to respect the privacy of
-*  others.</p><p>('Good fences make good neighbors' is the American English spelling.) </p>
+*  This means that it is better for people to mind their own business and to respect the privacy of
+*  others.('Good fences make good neighbors' is the American English spelling.) 
 # Good shape
 *  If something's in good shape, it's in good condition. If a person's in good shape, they are fit and healthy.
 # Good spell
@@ -2013,7 +2005,7 @@
 # Hale and hearty
 *  Someone who is hale and hearty is in very good health.
 # Half a mind
-*  If you have half a mind to do something, you haven't decided to do it, but are thinking seriously about doing it.<br />
+*  If you have half a mind to do something, you haven't decided to do it, but are thinking seriously about doing it.
 # Half-baked
 *  A half-baked idea or scheme hasn't not been thought through or planned very well.
 # Hammer and tongs
@@ -2069,7 +2061,7 @@
 # Have a bash
 * If you have a bash at something, you try to do it, especially when there isn't much chance of success.
 # Have a go
-* If you have a go, you try to do something, often when you don't think you have much chance of succeeding.<br />
+* If you have a go, you try to do something, often when you don't think you have much chance of succeeding.
 # Have a trick up your sleeve
 * If you have a trick up your sleeve, you have a secret strategy to use when the time is right.
 # Have the floor
@@ -2168,7 +2160,7 @@
 # High-wire act
 * A high-wire act is a dangerous or risky strategy, plan, task, etc.
 # Himalayan blunder
-* A Himalayan blunder is a very serious mistake or error.<br />
+* A Himalayan blunder is a very serious mistake or error.
 # Hit a nerve
 * If something hits a nerve, it upsets someone or causes them pain, often when it is something they are trying to hide.
 # Hit and miss
@@ -2317,7 +2309,7 @@
 *  Any attempt to improve on a system that already works is pointless and may even hurt it.
 # If the cap fits, wear it
 *  This idiom means that if the description is correct, then it is describing the truth, often when someone is being
-*  criticised. ('If the shoe fits, wear it' is an alternative)
+*  criticized. ('If the shoe fits, wear it' is an alternative)
 # If wishes were horses, beggars would ride
 *  This means that wishing for something or wanting it is not the same as getting or having it.
 # If you will
@@ -2686,7 +2678,7 @@
 # Kiss of death
 * The kiss of death is an action that means failure or ruin for someone, a scheme, a plan, etc.
 # Kiss something goodbye
-* If someone tells you that you can kiss something goodbye, you have no chance of getting or having it.<br />
+* If someone tells you that you can kiss something goodbye, you have no chance of getting or having it.
 # Kissing cousin
 * A kissing cousin is someone you are related to, but not closely.
 # Kitchen-sink
@@ -3048,7 +3040,7 @@
 # Man in the street
 * The man in the street is an idiom to describe ordinary people, especially when talking about their opinions and ideas.
 # Man of his word
-* <p align="left">A man of his word is a person who does what he says and keeps his promises.</p>
+* <p align="left">A man of his word is a person who does what he says and keeps his promises.
 # Man of letters
 * A man of letters is someone who is an expert in the arts and literature, and often a writer too.
 # Man of means
@@ -3149,7 +3141,7 @@
 *  If people launder money, they get money made illegally into the mainstream so that it is believed to be legitimate and
 *  clean.
 # Money makes many things
-*  This means that money is important.<br />
+*  This means that money is important.
 # Money to burn
 *  If someone is very rich, they have money to burn.
 # Monkey business
@@ -3267,7 +3259,7 @@
 # Never a rose without the prick
 * This means that good things always have something bad as well; like the thorns on the stem of a rose.
 # Never darken my door again
-* <p align="left">This is a way of telling someone never to visit you again.</p>
+* <p align="left">This is a way of telling someone never to visit you again.
 # New blood
 * If something needs new blood, it has become stale and needs new ideas or people to invigorate it.
 # New brush sweeps clean
@@ -3335,8 +3327,8 @@
 # No skin off my nose
 *  If something's no skin off your nose, it doesn't affect or bother you at all.
 # No smoke without fire
-*  <p>This idiom means that when people suspect something, there is normally a good reason for the suspicion, even if
-*  there is no concrete evidence.</p><p>('Where's there's smoke, there's fire' is also used.) </p>
+*  This idiom means that when people suspect something, there is normally a good reason for the suspicion, even if
+*  there is no concrete evidence.('Where's there's smoke, there's fire' is also used.) 
 # No spine
 *  If someone has no spine, they lack courage or are cowardly.
 # No spring chicken
@@ -3662,8 +3654,8 @@
 # Over the moon
 *  If you are over the moon about something, you are overjoyed.
 # Over the top
-*  <p>If something is over the top, it is excessive or unnecessary.</p><p>It refers to the moment a soldier leaves the
-*  trenches. </p>
+*  If something is over the top, it is excessive or unnecessary.It refers to the moment a soldier leaves the
+*  trenches. 
 # Over your head
 *  If something is over your head, or goes over your head, it is too complex or difficult for you to understand.
 # Over-egg the pudding
@@ -3828,7 +3820,7 @@
 * Pork barrel politics involves investing money in an area to get political support rather than using the money for the
 * common good.
 # Pot calling the kettle black
-* If someone hypocritically criticises a person for something that they themselves do, then it is a case of the pot calling
+* If someone hypocritically criticizes a person for something that they themselves do, then it is a case of the pot calling
 * the kettle black.
 # Pot-luck
 * If you take pot-luck, you take whatever happens to be available at the time.
@@ -4011,7 +4003,7 @@
 # Raise Cain
 *  (USA) If someone raises Cain, they make a big fuss publicly, causing a disturbance.
 # Raise eyebrows
-*  <p>If something raises eyebrows, it shocks or surprises people.<br /></p>
+*  If something raises eyebrows, it shocks or surprises people.
 # Rake over old coals
 *  (UK) If you go back to old problems and try to bring them back, making trouble for someone, you are raking over old
 *  coals.
@@ -4120,7 +4112,7 @@
 * * * * * * * * *      ---
 
 
-*  If you roll with the punches, you are flexible and able to adapt to difficult circumstances.<br />
+*  If you roll with the punches, you are flexible and able to adapt to difficult circumstances.
 # Rolling in the aisles
 *  If the audience watching something are laughing loudly, the show has them rolling in the aisles.
 # Rome was not built in a day
@@ -4175,7 +4167,7 @@
 # Run rings around someone
 *  If you run rings around someone, you are so much better than them that they have no chance of keeping up with you.
 # Run the gauntlet
-*  If somebody is being criticised harshly by a lot of people, they are said to run the gauntlet.
+*  If somebody is being criticized harshly by a lot of people, they are said to run the gauntlet.
 # Run the show
 *  If someone runs the show, they like to be in control and make all the decisions.
 # Run your mouth off
@@ -4200,7 +4192,7 @@
 ---
 
 # Sacred cow
-* Something that is a sacred cow is held in such respect that it cannot be criticised or attacked.
+* Something that is a sacred cow is held in such respect that it cannot be criticized or attacked.
 # Safe and sound
 * If you arrive safe and sound, then nothing has harmed you on your way.
 # Safe bet
@@ -4388,7 +4380,7 @@
 # Shrinking violet
 * A shrinking violet is a shy person who doesn't express their views and opinions.
 # Sick and tired
-* If you are sick and tired of something, it has been going on for a long time and you can no longer tolerate it.<br />
+* If you are sick and tired of something, it has been going on for a long time and you can no longer tolerate it.
 # Sick as a dog
 * If somebody's as sick as a dog, they throw up (=vomit) violently.
 # Sick as a parrot
@@ -4426,7 +4418,7 @@
 # Sit pretty
 * Someone who's sitting pretty is in a very advantageous situation.
 # Sitting duck
-* A sitting duck is something or someone that is easy to criticise or target.
+* A sitting duck is something or someone that is easy to criticize or target.
 # Six feet under
 * If someone is six feet under, they are dead.
 # Six of one and half-a-dozen of the other
@@ -4509,7 +4501,7 @@
 # Smooth as a baby's bottom
 * If something is smooth as a baby's bottom, it has a regular, flat surface.
 # Smooth sailing
-* <p>If something is smooth sailing, then you can progress without difficulty.</p><p>('Plain sailing' is an also used.) </p>
+* If something is smooth sailing, then you can progress without difficulty.('Plain sailing' is an also used.) 
 # Snake in the grass
 * Someone who is a snake in the grass betrays you even though you have trusted them.
 # Snake oil salesperson
@@ -4639,7 +4631,7 @@
 *  If something sticks or stands out like a sore thumb, it is clearly and obviously different from the things that are around
 *  it.
 # Stick to your guns
-*  If you stick to your guns, you keep your position even though people attack or criticise you.
+*  If you stick to your guns, you keep your position even though people attack or criticize you.
 # Stick your neck out
 *  If you stick you neck out, you take a risk because you believe in something.
 # Stick your neck out
@@ -4650,8 +4642,8 @@
 *  A sticking point is a controversial issue that blocks progress in negotiations, etc, where compromise is unlikely or
 *  impossible.
 # Sticky end
-*  (UK) <p>If someone comes to a sticky end, they die in an unpleasant way.</p><p> </p><p>(Meet a sticky end' is also
-*  used.) </p>
+*  (UK) If someone comes to a sticky end, they die in an unpleasant way. (Meet a sticky end' is also
+*  used.) 
 # Sticky wicket
 *  (UK) If you are on a sticky wicket, you are in a difficult situation.
 # Stiff upper lip
@@ -5067,7 +5059,7 @@
 # Tough row to hoe
 * (USA) A tough row to hoe is a situation that is difficult to handle. ('A hard row to hoe' is an alternative form.)
 # Trade barbs
-* <p>If people trade barbs, they insult or attack each other.</p>
+* If people trade barbs, they insult or attack each other.
 # Tread the boards
 * When someone treads the boards, they perform on stage in a theatre.
 # Tread water
@@ -5089,13 +5081,13 @@
 # Truth will out
 *  Truth will out means that, given time, the facts of a case will emerge no matter how people might try to conceal them.
 # Turf war
-*  If people or organisations are fighting for control of something, it is a turf war.
+*  If people or organizations are fighting for control of something, it is a turf war.
 # Turn a blind eye
 *  When people turn a blind eye, they deliberately ignore something, especially if people are doing something wrong.
 # Turn a deaf ear
 *  If someone turns a deaf ear to you, they don't listen to you.
 # Turn a new leaf
-*  If someone turns a new leaf, they change their behaviour and stop doing wrong or bad things.
+*  If someone turns a new leaf, they change their behavior and stop doing wrong or bad things.
 # Turn the corner
 *  To get over a bad run. When a loss making venture ceases to make losses, it has "turned the corner".
 # Turn the other cheek
@@ -5119,7 +5111,7 @@
 # Two left feet
 *  A person with two left feet can't dance.
 # Two peas in a pod
-*  <p>If things or people are like two peas in a pod, they look very similar or are always together.</p>
+*  If things or people are like two peas in a pod, they look very similar or are always together.
 # Two sides of the same coin
 *  If two things are two sides of the same coin, there is much difference between them.
 # Two-faced
@@ -5129,10 +5121,9 @@
 ---
 
 # U-turn
-*  If a government changes its position radically on an issue, especially when they have promised not to do so, this is a U-
-*  turn.
+*  If a government changes its position radically on an issue, especially when they have promised not to do so, this is a U-turn.
 # Ugly as a stick
-*  (USA) If someone is as ugly as a stick, they are very ugly indeed.<br />
+*  (USA) If someone is as ugly as a stick, they are very ugly indeed.
 # Ugly duckling
 *  An ugly duckling is a child who shows little promise, but who develops later into a real talent or beauty.
 # Uncharted waters
@@ -5140,22 +5131,18 @@
 *  know what might happen. ('Unchartered waters' is an incorrect form that is a common mistake.)
 # Uncle Sam
 *  (USA) Uncle Sam is the government of the USA.
+
 # Under a cloud
-
----* * * *    
-* * * * * * * * ** ---
-
 
 *  If someone is suspected of having done something wrong, they are under a cloud.
 # Under a flag of convenience
-*  If a ship sails under a flag of convenience, it is registered in a country where taxes, etc, are lower than in the country it
-*  comes from, so if someone does something under a flag of convenience, they attempt to avoid regulations and taxes by
+*  If a ship sails under a flag of convenience, it is registered in a country where taxes, etc, are lower than in the country it comes from, so if someone does something under a flag of convenience, they attempt to avoid regulations and taxes by
 *  a similar means.
 # Under false colours
 *  If someone does something under false colours/colors, they pretend to be something they are not in order to deceive
 *  people so that they can succeed.
 # Under fire
-*  If someone is being attacked and cricitised heavily, they are under fire.
+*  If someone is being attacked and criticized heavily, they are under fire.
 # Under lock and key
 *  If something is under lock and key, it is stored very securely.
 # Under the radar
@@ -5181,8 +5168,7 @@
 # Up in the air
 *  If a matter is up in the air, no decision has been made and there is uncertainty about it.
 # Up sticks
-*  (UK) If you up sticks, you leave somewhere, usually permanently and without warning- he upped sticks and went to
-*  work abroad.
+*  (UK) If you up sticks, you leave somewhere, usually permanently and without warning- he upped sticks and went to  work abroad.
 # Up the ante
 *  If you up the ante, you increase the importance or value of something, especially where there's an element of risk as
 *  the term comes from gambling, where it means to increase the stake (the amount of money bet).
@@ -5207,12 +5193,8 @@
 
 
 
----* * * *      
-* * * * * * * * *      ---
 
-
-* You you are up to your eyes in something, you are deeply involved or to have too much of something like work. ('Up the
-* neck', 'up to the eyeballs' and 'up to the ears' are also used.)
+* You you are up to your eyes in something, you are deeply involved or to have too much of something like work. ('Up the neck', 'up to the eyeballs' and 'up to the ears' are also used.)
 # Up to the neck
 * If someone's in something up to the neck, they are very involved in it, especially when it's something wrong.
 # Up to your neck
@@ -5254,7 +5236,7 @@
 *  If someone is waiting in the wings, or in the wings, they are in the background, but nearby, ready to act on short notice.
 # Wake-up call
 *  A wake-up call is a warning of a threat or a challenge, especially when it means that people will have to change their
-*  behaviour to meet it.
+  behavior to meet it.
 # Walk a fine line
 *  If you have to walk a fine line, you have to be very careful not to annoy or anger people or groups that are competing.
 *  ('Walk a thin line' is an alternative.)
@@ -5266,26 +5248,20 @@
 *  An undertaking that is easy is a walk in the park. The opposite is also true - "no walk in the park".
 
 # Walk on eggshells
-* If you have to walk on eggshells when with someone, you have to be very careful because they get angry or offended
-* very easily.
+* If you have to walk on eggshells when with someone, you have to be very careful because they get angry or offended very easily.
 # Walk the green mile
 * Someone or something that is walking the green mile is heading towards the inevitable.
 
 
----* * * *    
-* * * * * * * * *      ---
-
 
 # Wallflower
-* A woman politician given an unimportant government position so that the government can pretend it takes women
-* seriously is a wallflower.
+* A woman politician given an unimportant government position so that the government can pretend it takes women seriously is a wallflower.
 # War of words
-* A war of words is a bitter argument between people or organisations, etc.
+* A war of words is a bitter argument between people or organizations, etc.
 # Warm the cockles of your heart
 * If something warms the cockles of your heart, it makes you feel happy.
 # Warpath
-* If someone is on the warpath, they are very angry about something and will do anything to get things sorted the way
-* they want.
+* If someone is on the warpath, they are very angry about something and will do anything to get things sorted the way they want.
 # Warts and all
 * If you like someone warts and all, you like them with all their faults.
 # Wash your hands of something
@@ -5305,8 +5281,7 @@
 # Watering hole
 * (UK) A watering hole is a pub.
 # Weak at the knees
-* If people go weak at the knees, they have a powerful emotional reaction to something and feel that they might fall
-* over.
+* If people go weak at the knees, they have a powerful emotional reaction to something and feel that they might fall over.
 # Wear sackcloth and ashes
 * If someone displays their grief or contrition publicly, they wear sackcloth and ashes.
 # Wear your heart on your sleeve
@@ -5314,8 +5289,7 @@
 # Weather a storm
 * If you weather a storm, you get through a crisis or hard times.
 # Weight off your shoulders
-* If something is a weight off your shoulders, you have relieved yourself of a burden, normally a something that has been
-* troubling you or worrying you.
+* If something is a weight off your shoulders, you have relieved yourself of a burden, normally a something that has been troubling you or worrying you.
 # Wet behind the ears
 * Someone who is wet behind the ears is either very young or inexperienced.
 # Wet blanket
@@ -5327,8 +5301,7 @@
 # What goes around comes around
 * This saying means that of people do bad things to other people, bad things will happen to them.
 # What will be will be
-* The expression what will be will be is used to describe the notion that fate will decide the outcome of a course of
-* events, even if action is taken to try to alter it.
+* The expression what will be will be is used to describe the notion that fate will decide the outcome of a course of  events, even if action is taken to try to alter it.
 # What's good for the goose is good for the gander
 * This idiom means that the sexes should be treated the same way and not be subjected to different standards.
 # What's your take on that?
@@ -5341,13 +5314,11 @@
 # When hell freezes over
 *  An impossible or very unlikely situation or event
 # When in Rome, do as the Romans
-*  This idiom means that when you are visiting a different place or culture, you should try to follow their customs and
-*  practices.
+*  This idiom means that when you are visiting a different place or culture, you should try to follow their customs and  practices.
 # When it rains, it pours
 *  This idiom means that when things go wrong, a lot of things go wrong at the same time.
 # Where the rubber meets the road
-*  (USA) Where the rubber meets the road is the most important point for something, the moment of truth. An athlete
-*  can train all day, but the race is where the rubber meets the road and they'll know how good they really are.
+*  (USA) Where the rubber meets the road is the most important point for something, the moment of truth. An athlete  can train all day, but the race is where the rubber meets the road and they'll know how good they really are.
 # Where there's a will, there's a way
 *  This idiom means that if people really want to do something, they will manage to find a way of doing it.
 # Whet your appetite
@@ -5355,9 +5326,7 @@
 # Which came first the chicken or the egg?
 *  This idiomatic expression is used when it is not clear who or what caused something.
 # While the cat's away, the mouse will play
-*  People whose behaviour is strictly controlled go over the top when the authority is not around, which is why most
-*  teenagers have parties when their parents have gone on holiday. The parents are the scary authority figures, but the
-*  cat's away and the kids are the mice partying and enjoying their freedom.
+*  People whose behavior is strictly controlled go over the top when the authority is not around, which is why most  teenagers have parties when their parents have gone on holiday. The parents are the scary authority figures, but the  cat's away and the kids are the mice partying and enjoying their freedom.
 # Whistle for it
 *  If someone says that you can whistle for something, they are determined to ensure that you don't get it.
 # Whistle-stop tour
@@ -5365,8 +5334,7 @@
 # Whistling Dixie
 *  (USA) If someone is whistling Dixie, they talk about things in a more positive way than the reality.
 # Whistling in the dark
-*  If someone is whistling in the dark, they believe in a positive result, even though everybody else is sure it will not
-*  happen.
+*  If someone is whistling in the dark, they believe in a positive result, even though everybody else is sure it will not  happen.
 # Whistling past the graveyard
 *  (USA) If someone is whistling past the graveyard, they are trying to remain cheerful in difficult circumstances.
 *  ('Whistling past the cemetery' is also used.)
@@ -5375,8 +5343,7 @@
 # White as snow
 *  If something or someone is as white as snow, they are perfect or completely uncorrupted and honest.
 # White elephant
-*  A white elephant is an expensive burden; something that costs far too much money to run, like the Millennium Dome in
-*  the UK.
+*  A white elephant is an expensive burden; something that costs far too much money to run, like the Millennium Dome in  the UK.
 # White lie
 *  If you tell a white lie, you lie in order not to hurt someone's feelings.
 # White-bread
@@ -5388,8 +5355,7 @@
 # Whole ball of wax
 *  (USA) The whole ball of wax is everything.
 # Whole kit and caboodle
-*  The whole kit and caboodle means 'everything' required or involved in something. ('Kaboodle' is an alternative
-*  spelling.)
+*  The whole kit and caboodle means 'everything' required or involved in something. ('Kaboodle' is an alternative  spelling.)
 # Whole new ball game
 *  If something's a whole new ball game, it is completely new or different.
 # Whole shebang

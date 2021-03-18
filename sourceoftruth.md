@@ -819,7 +819,7 @@ Bob: I was being examined by my doctor. (past-continuous)
 * I don't like to create documentation at all!
 * I should create an entire solution that will resolve an issue for a client.
 
-## deny denied (d)
+## deny denied (d)  (reg)
 * We are in a state of denial.
 
 ## demand demanded (id) (reg)
@@ -830,9 +830,13 @@ Bob: I was being examined by my doctor. (past-continuous)
 ## detail detailed (d) (reg)
 * We should have received a detailed report by now.
 
-## detect
+## detect detected (id) (reg)
 * My code will detect the users' touch and or wave across the UI.
 
+## determine determined (d) (reg)
+* How was this [determined,established]?
+* He is filled with great determination to rule the planet!
+* She has the determination to become a great QC/QA specialist.
 
 ## question questioned (d) (reg)
 * I have been questioning the wisdom of my decision ever since.
@@ -1744,6 +1748,9 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 * He shared with me a list of questions from the exam.
 * He should have shared the information with you already
 
+## shave shaved  (d) (reg)
+* When  I am working from home, I only shave once a week!
+
 ## decay decayed (d) (reg)
 * The bodies were rotted and decayed.
 * The McDonald's french fries should have decayed by now!
@@ -1862,6 +1869,7 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 
 ## complete completed (id) (reg)
 * They should have completed their tasks by now.
+* I completed my day at midnight.
 * I have only completed one week of four.
 
 
@@ -2161,6 +2169,9 @@ I have gone to my mother's home to help her.
 ## grab grabbed (reg)~to hold
 * When I saw the money flying out of the ATM, I grabbed as much as I could and ran!
 
+
+## greet greeted (id) (reg)
+* We were greeted by the manager.
 
 ## grow grew grown (irr)
 * I grew up in a small town.
@@ -3095,6 +3106,8 @@ Bob: He's on my team but I don't work with him directly.
 * We might try to go to the movies tonight.
 
 ## take took taken (irr)
+* I took a walk outside to get some fresh air.
+* I took a break from work for a few couple of hours.
 * We took the car to  the post office to buy more stamps.
 * I'll take a look at it.
 * He tried to take advantage of a drunk woman at a party.
@@ -3252,6 +3265,9 @@ Bob: No, I can't swim.
 Ana: Is Peter bringing Steve to my party?
 Bob: Yes, Peter will bring Steve to the party.
 
+## brush brushed (t) (reg)
+
+
 
 ## burn burned (d) (reg)
 * We let a candle burn a hole in the table cloth.
@@ -3347,6 +3363,7 @@ Ana: I need to write letters to my clients.
 * We could have smuggled in a bottle of booze into Maldives.
 
 ## start started (id) (reg)
+* I have started to speak more slowly.
 * He started yelling at her.
 * I started work late today.
 * I'm going to start it after my vacation.
@@ -3536,6 +3553,21 @@ Bob: I will do my best.
 
 
 # phrases
+
+## to sort out
+* I took me awhile to sort it out.
+
+## to check in at a hotel
+
+## to grab something
+
+## to pass through customs
+
+## to take advantage
+* I took advantage of the open bar!
+
+## stuck in line
+* We were stuck in line for hours!
 
 ## more than he bargained for
 * His new job turned out to be more than he bargained for! He's working ten hours a day, six days a week.
@@ -6129,7 +6161,11 @@ decaffeinated coffee
 * How much of a quarterly growth rate?
 * Who have you identified as potential partners?
 * What is the most important rule for your company?
-* 
+  
+
+
+# topic REACT
+
 
 # topic Docker
 
@@ -7308,7 +7344,10 @@ Bob: I notified the developers of the issue.
 * Is it a charter flight?
 * When do you travel?
 
-
+topic travel 
+suitcase
+pack suitcase
+airport
 
 
 # topic travel to Thailand
