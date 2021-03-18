@@ -9,7 +9,6 @@ It was a tough break for us when Dennis quit. He was one of our top performers.
 </p>
 </details>
 
-
 ## ahead of the curve
 
 To be "ahead of the curve" means to be more advanced than the competition.
