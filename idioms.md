@@ -1,21 +1,130 @@
 
 # A bit much
 * If something is excessive or annoying, it is a bit much.
+<details><summary><b>example</b></summary>
+<p>
+
+The salesman was a bit much. He never stopped talking.
+
+She bought a bit too much at the market.
+
+</p>
+</details>
+
 # A day late and a dollar short
 * (USA) If something is a day late and a dollar short, it is too little, too late.
+
+<details><summary><b>examples</b></summary>
+<p>
+
+We were a day late and a dollar short when we delivered the project.
+
+The government's response to the pandemic was consistently a day late and a dollar short.
+
+
+Ever since the crisis took hold last summer, most of the big firms have been a day late and dollar short in responding.
+
+The landlord complained that I'm always a day late and a dollar short!
+
+</p>
+</details>
+
+
+
+# a hell of a [party,night]
+* A great party! 
+
+<details><summary><b>examples</b></summary>
+<p>
+
+Last year during the holidays, I held so many extravagant gatherings that my friend Elizabeth gave me a bottle labeled, "A fool and his money can throw a hell of a party".
+
+
+</p>
+</details>
+
+
+
+
 # A fool and his money are soon parted
-* People who aren't careful with their money spend it quickly. 'A fool and his money are easily parted' is an alternative form. What I want to know is, how did the fool get his money?
+* People who aren't careful with their money spend it quickly. 'A fool and his money are easily parted' is an alternative form. (What I want to know is, how did the fool get his money?)
+
+<details><summary><b>examples</b></summary>
+<p>
+Last year during the holidays, I held so many extravagant gatherings that my friend Elizabeth gave me a guest towel reading, "A fool and his money can throw a hell of a party".
+
+
+</p>
+</details>
+
+
+
+
 # A little bird told me
 * If someone doesn't want to say where they got some information from, they can say that a little bird told them.
+
+<details><summary><b>examples</b></summary>
+<p>
+
+A little bird told me that our client will continue to work with us.
+
+
+</p>
+</details>
+
+
 # A OK
-* If things are A OK, they are absolutely fine.
+* If things are A OK, they are absolutely fine. The alliteration of the A and KAY is important here!
+<details><summary><b>examples</b></summary>
+<p>
+
+He responded that everything would be A OK!
+
+After my vacation I felt A OK!
+
+Everything will be A OK! I'll take care of it!
+
+
+</p>
+</details>
+
 # A penny for your thoughts
 * This idiom is used as a way of asking someone what they are thinking about.
+
+<details><summary><b>examples</b></summary>
+<p>
+
+
+
+</p>
+</details>
+
 ## A penny saved is a penny earned
 * This means that we shouldn't spend or waste money, but try to save it.
+
+<details><summary><b>examples</b></summary>
+<p>
+
+
+
+</p>
+</details>
+
+
+
 # A poor man's something
-* Something or someone that can be compared to something or someone else, but is not as good is a poor man's version;
-* a writer who uses lots of puns but isn't very funny would be a poor man's Oscar Wilde.
+* Something or someone that can be compared to something or someone else, but is not as good is a poor man's version; a writer who uses lots of puns but isn't very funny would be a poor man's Oscar Wilde.
+
+
+<details><summary><b>examples</b></summary>
+<p>
+
+
+
+</p>
+</details>
+
+
 # A pretty penny
 * If something costs a pretty penny, it is very expensive.
 # A rising tide lifts all boats
@@ -27,19 +136,39 @@
 * If something is a steal, it costs much less than it is really worth.
 # A1
 * If something is A1, it is the very best or finest.
+
 # Abide by a decision
 * If you abide by a decision, you accept it and comply with it, even though you might disagree with it.
+
 # Abject lesson
 * (India) An abject lesson serves as a warning to others. (In some varieties of English 'object lesson' is used.)
+
 # About face
 * If someone changes their mind completely, this is an about face. It can be used when companies, governments, etc, change their position on an issue.
+
 # Above board
 * If things are done above board, they are carried out in a legal and proper manner.
+ 
 # Absence makes the heart grow fonder
 * This idiom means that when people are apart, their love grows stronger.
+
 # Accident waiting to happen
 * If something is an accident waiting to happen, there's definitely going to be an accident or it's bound to go wrong.
 * ('Disaster waiting to happen' is also used.)
+
+
+<details><summary><b>examples</b></summary>
+<p>
+
+A drunk teenager behind the wheel is an accident waiting to happen.
+
+</p>
+</details>
+
+
+
+
+
 # Ace up your sleeve
 * If you have an ace up your sleeve, you have something that will give you an advantage that other people don't know about.
 # Achilles' heel

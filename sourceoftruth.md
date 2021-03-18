@@ -12,6 +12,163 @@
   * It [[MODAL],will,can, could,must, should, would, may, might] be very [ADJECTIVE, simple, easy, hard, boring, difficult,annoying, frustrating, confusing].
 
 # conjunctions
+## despite
+*  despite is used to introduce a fact that is in sharp contrast with another fact.
+
+<details><summary><b>examples</b></summary>
+<p>
+Despite all her faults, everybody like her.
+
+</p>
+</details>
+
+
+## provided
+*  provided means if or only if
+<details><summary><b>examples</b></summary>
+<p>
+They can stay provided they don't make any noise.
+
+</p>
+</details>
+  
+
+##  unless
+*  Unless means except on the condition that
+<details><summary><b>examples</b></summary>
+<p>
+You don't need to go unless you want to.
+</p>
+</details>
+   
+
+
+
+##  since
+*  since is used to show result
+
+<details><summary><b>examples</b></summary>
+<p>
+Since you are here, I will show you.
+</p>
+</details>
+   
+
+
+##  so
+*  So is used to show result
+
+<details><summary><b>examples</b></summary>
+<p>
+We won the lottery so we bought a new house.
+</p>
+</details>
+
+##  if
+*  show conditions
+
+<details><summary><b>examples</b></summary>
+<p>
+Let me know if you are going to the store.
+</p>
+</details>
+
+##  yet
+*  shows contrast or joins opposites
+
+<details><summary><b>examples</b></summary>
+<p>
+We haven't finished the task yet.
+</p>
+</details>
+
+
+
+##  after
+*  order, sequence
+<details><summary><b>examples</b></summary>
+<p>
+We can leave after they bring out the cake.
+
+</p>
+</details>
+
+
+
+##  because
+* because is used to show reason
+<details><summary><b>examples</b></summary>
+<p>
+We have to leave early because there is a storm blowing in.
+
+</p>
+</details>
+
+
+
+##  although
+* show two opposite statements
+<details><summary><b>examples</b></summary>
+<p>
+Although he sings rarely, he's quite good at Karaoke.
+</p>
+</details>
+
+
+
+##  whereas
+ * show contrast
+<details><summary><b>examples</b></summary>
+<p>
+She is quite tall whereas her husband is very short.
+</p>
+</details>
+
+
+
+##  but
+* used to join two ideas that are opposites
+<details><summary><b>examples</b></summary>
+<p>
+I am very hungry but the fridge is empty.
+</p>
+</details>
+
+
+
+##  besides
+* in addition to, also. It is a preposition.
+<details><summary><b>examples</b></summary>
+<p>
+She has a night job besides her day job.
+</p>
+</details>
+
+
+
+##  unlike
+*  different from, not similar to
+<details><summary><b>examples</b></summary>
+<p>
+She is completely unlike her husband.
+</p>
+</details>
+
+
+
+
+##  therefore
+* show result/effect of an action
+<details><summary><b>examples</b></summary>
+<p>
+She came first. Therefore she got a good seat.
+</p>
+</details>
+
+
+
+
+
 * For
 * And
 * Nor
@@ -1089,6 +1246,7 @@ Bob: We must sign and send them as soon as possible.
 * What have you been doing since we last spoke?
 * I should have spoken a little bit slower.
 * You should speak slowly.
+* We only speak rarely.
 
 
 
@@ -1804,6 +1962,9 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 ## advise advised (d) (reg)
 * We had advised her to stay away from that part of town.
 
+## admit admitted  (id) (reg)
+* I admitted to my wife that I lost 100USD at the casino!
+
 ## add added (id) (reg)
 * I could have added more salt to the bread but I didn't.
 * My manager must have added this task today because I did not see it before.
@@ -2104,6 +2265,7 @@ Bob:I made the decision to postpone my trip.
 ---
 
 ## learn learned (d)(reg)
+* I have learned a few new words.
 * Have you learned anything today?
 * What have you learned this week?
 * We were learning about X.
@@ -3106,6 +3268,7 @@ Bob: He's on my team but I don't work with him directly.
 * We might try to go to the movies tonight.
 
 ## take took taken (irr)
+* I am currently taking courses.
 * I took a walk outside to get some fresh air.
 * I took a break from work for a few couple of hours.
 * We took the car to  the post office to buy more stamps.
@@ -3551,8 +3714,62 @@ Bob: I will do my best.
 
 # suffixes
 
+# emotions
+* angry
+* anxious
+* ashamed
+* bored
+* cautious
+* confident
+* confused
+* depressed
+* depressed
+* disgusted
+* distraught
+* ecstatic
+* embarrassed
+* enraged
+* excited
+* frightened
+* frustrated
+* guilty
+* happy
+* hopeful
+* hopeless
+* hysterical
+* jealous
+* lonely
+* lovestruck
+* mischievous
+* miserable
+* overwhelmed
+* sad
+* shocked
+* shy
+* smug
+* surprised
+* suspicious
+
 
 # phrases
+
+## to free up your mind
+* I need to disconnect for a bit and free up my mind.
+
+
+## It's a work in progress!
+
+## it's on the tip of my tongue
+* It's on the tip of my tongue, but I don't remember!
+
+## got sidetracked
+* I didn't finish doing the dishes because I got sidetracked by the kids.
+
+## there's something wrong with my ...
+* There's something wrong with my internet?
+
+## wipe that smug off of your mug!
+* My mother told me to wipe that smug off of my mug after I told her that I kissed the beauty queen!
 
 ## to sort out
 * I took me awhile to sort it out.
@@ -8579,6 +8796,7 @@ You mentioned X. How does that relate to Y?
 Let me explain that ...
 As far as I know ... 
 What I can say is ... 
+Allow me to repeat myself... 
 Please allow me to explain ... 
 Let me explain that in more detail ...
 Let me explain what it means ... 
