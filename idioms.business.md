@@ -10,11 +10,9 @@ It was a tough break for us when Dennis quit. He was one of our top performers.
 </details>
 
 
-
 ## ahead of the curve
 
-To be "ahead of the curve" means to be more
-advanced than the competition.
+To be "ahead of the curve" means to be more advanced than the competition.
 
 
 <details><summary><b>Examples</b></summary>
@@ -27,8 +25,7 @@ We're investing a lot of money in research and development so we can stay ahead 
 
 ## ahead of the pack
 
-To be "ahead of the pack" means to be better or
-more successful than the competition.
+To be "ahead of the pack" means to be better or more successful than the competition.
 
 
 <details><summary><b>Examples</b></summary>
@@ -41,7 +38,6 @@ If we want to stay ahead of the pack, we're going to have to work hard and conti
 
 
 
-
 ## at stake
 
 "At stake" means at risk.
@@ -50,6 +46,8 @@ If we want to stay ahead of the pack, we're going to have to work hard and conti
 <details><summary><b>Examples</b></summary>
 <p>
 I'm a little nervous about giving this presentation. There's a lot at stake.
+
+We have a lot at stake here. Please keep this in mind.
 </p>
 </details>
 
@@ -58,17 +56,13 @@ I'm a little nervous about giving this presentation. There's a lot at stake.
 
 ## back to square one
 
-To go "back to square one" means to start
-something over again.
+To go "back to square one" means to start something over again.
 
 <details><summary><b>Examples</b></summary>
 <p>
 
-Our programmers identified what they thought the
-problem was with the software. After working for
-several hours, it turns out that the problem is
-something different. We're back to square one,
-unfortunately.
+Our programmers identified what they thought the problem was with the software. After working for several hours, it turns out that the problem is
+something different. We're back to square one, unfortunately.
 </p>
 </details>
 
@@ -91,6 +85,8 @@ A "backroom deal" is an agreement or decision that is made without the public kn
 <p>
 
 I think they got the government contract because of a backroom deal.
+
+A backroom deal is another way of saying corrupt practices.
 </p>
 </details>
 
@@ -146,8 +142,7 @@ We are regularly audited by several regulatory agencies. It's important that we 
  
 ## call it a day
 
-To "call it a day" means to decide to stop working
-for the day.
+To "call it a day" means to decide to stop working for the day.
 <details><summary><b>Examples</b></summary>
 <p>
 
@@ -169,8 +164,7 @@ Mike was caught off guard when they asked him to direct the meeting.
 
 To "cave" or "cave in" means to give in or agree to something that someone previously did not want to accept.
 
-The employees complained about the change in
-policy, but the supervisor refused to cave in.
+The employees complained about the change in policy, but the supervisor refused to cave in.
 ## change of pace
 
 "A change of pace" is something different from a normal routine or schedule.
@@ -184,8 +178,7 @@ It's nice to go on business trips because it's a change of pace.
 
 ## come up short
 
-To "come up short" means to try to achieve
-something but fail. We often say that someone has "come up short" when someone fails to achieve a goal, but not completely.
+To "come up short" means to try to achieve something but fail. We often say that someone has "come up short" when someone fails to achieve a goal, but not completely.
 
 <details><summary><b>Examples</b></summary>
 <p>
@@ -196,8 +189,7 @@ The charity fund raiser was supposed to raise three million dollars, but we came
 
 ## corner a market
 
-To "corner a market" means to dominate a
-particular market.
+To "corner a market" means to dominate a particular market.
 <details><summary><b>Examples</b></summary>
 <p>
 Apple has tried to corner the market on smart phones. They have a large percentage of market share.
@@ -217,8 +209,7 @@ We don't cut corners on our luxury products.
 
 ## cut one's losses
 
-To "cut one's losses" means to stop doing
-something that is unproductive and won't ever generate results.
+To "cut one's losses" means to stop doing something that is unproductive and won't ever generate results.
 <details><summary><b>Examples</b></summary>
 <p>
 
@@ -281,8 +272,7 @@ They're not sure what their game plan is for the upcoming election.
 
 ## get back in/into the swing of things
 
-To "get back in/into the swing of things" means to get used to doing something again after having a
-break from that activity.
+To "get back in/into the swing of things" means to get used to doing something again after having a break from that activity.
 <details><summary><b>Examples</b></summary>
 <p>
 
@@ -292,8 +282,7 @@ Our company shuts down operations for three weeks during the holiday season. Whe
 
 ## get down to business
 
-To "get down to business" means to stop making small talk and start talking about serious topics
-related to business.
+To "get down to business" means to stop making small talk and start talking about serious topics related to business.
 <details><summary><b>Examples</b></summary>
 <p>
 
@@ -307,6 +296,8 @@ To "get something off the ground" means to start a project or business.
 <details><summary><b>Examples</b></summary>
 <p>
 
+
+
 We're glad the planning process is over. We're looking forward to getting the project off the ground.
 </p>
 </details>
@@ -318,6 +309,9 @@ To "get the ball rolling" means to start something (a project, for example).
 <p>
 
 We need to get the ball rolling on this project. The deadline is in June, and it's already April.
+
+
+
 </p>
 </details>
 
@@ -327,15 +321,16 @@ If someone likes you, you are "on the good side" of that person.
 <details><summary><b>Examples</b></summary>
 <p>
 
-I always remember my coworkers' birthdays and get them a card or small gift. I like to get on
-people's good side.
+I always remember my coworkers' birthdays and get them a card or small gift. I like to get on people's good side.
+
+I've been trying to get on the good side of my mother-in-law.
+
 </p>
 </details>
 
 ## get/have one's foot in the door
 
-To "get or have one's foot in the door" means to take a low-level position with a company with the
-goal of eventually getting a better position with the same company.
+To "get or have one's foot in the door" means to take a low-level position with a company with the goal of eventually getting a better position with the same company.
 <details><summary><b>Examples</b></summary>
 <p>
 
