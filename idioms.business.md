@@ -127,6 +127,11 @@ maintenance, etc.).
 
 The opposite is a "white collar worker." A white collar worker is someone who works in an office (customer service, management, sales, etc.). "Blue collar" (and "white collar") can also be used to describe a job, position, or a place. It's a blue collar town with a lot of farmers and factory workers.
 
+<details><summary><b>Examples</b></summary>
+<p>
+We are regularly audited by several regulatory agencies. It's important that we do everything by the book.
+</p>
+</details>
 
 ## by the book
 
@@ -847,7 +852,7 @@ If people are in the same situation, they're in the "same boat."
 <p>
 We're all worried about losing our jobs. We're in the same boat.
 
-
+During the Covid19, we were all in the same boat of worry, sickness, and death.
 
 </p>
 </details>
