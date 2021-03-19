@@ -887,6 +887,7 @@ Bob: I don't sing karaoke song very often, so I don't really have a favorite.
 
 
 # Books & Reading
+* Who do you ask for book recommendations?
 * What book would you like to see as a movie?
 * Do you like scary movies and books?
 * Read any good books lately?
