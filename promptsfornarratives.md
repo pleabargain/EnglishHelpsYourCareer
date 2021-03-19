@@ -906,7 +906,6 @@ Bob: I don't sing karaoke song very often, so I don't really have a favorite.
 * To What Writer Would You Award a Prize?
 
 # Writing
-
 * Do You Keep a Diary or Journal?
 * Why Do You Write?
 * Are You a Good Storyteller?
