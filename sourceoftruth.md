@@ -317,14 +317,14 @@ Bob:   I like this weather! The snow is beautiful!  I went by foot to the park a
 
 
 ## with 
-Since Jennifer was a year younger than her friends, she had a hard time keeping up with them.
+* Since Jennifer was a year younger than her friends, she had a hard time keeping up with them.
 * Please bear with me until I finish this [task,job].
 * We still haven't come up with an interesting theme for the [marketing,advertising] campaign.
 
 
 ## despite
 * Despite being rich, intelligent, a great dancer, tall, dark and handsome he was [totally,utterly] alone!
-* 
+* The flight is only about half the price , despite its being more than double the distance.
 
 ## For
 * He apologized to her for his [poor,rude] behavior.
@@ -2349,6 +2349,11 @@ I have gone to my mother's home to help her.
 ## require required (d)(reg)
 * I am required to pass an exam in order to get promoted.
 * My new job requires to be online ten hours a day.
+* We will require more information from the client.
+* We should require more information from the client.
+* We can require more information from the client.
+* I may require you to go out and buy coffee for me!
+* I might require you to go out and buy coffee for me!
 
 
 ## request requested (id) (reg)
@@ -5396,8 +5401,69 @@ She was horribly disfigured after the accident.
   * use soon instead
 
 
+# NATO
+
+A	Alfa/Alpha	● ▬	AL FAH
+
+B	Bravo	▬ ● ● ●	BRAH VOH
+
+C	Charlie	▬ ● ▬ ●	CHAR LEE
+
+D	Delta	▬ ● ●	DELL TAH
+
+E	Echo	●	ECK OH
+
+F	Foxtrot	● ● ▬ ●	FOKS TROT
+
+G	Golf	▬ ▬ ●	GOLF
+
+H	Hotel	● ● ● ●	HOH TELL
+
+I	India	● ●	IN DEE AH
+
+J	Juliett	● ▬ ▬ ▬	JEW LEE ETT
+
+K	Kilo	▬ ● ▬	KEY LOH
+
+L	Lima	● ▬ ● ●	LEE MAH
+
+M	Mike	▬ ▬	MIKE
+
+N	November	▬ ●	NO VEMBER
+
+O	Oscar	▬ ▬ ▬	OSS CAH
+
+P	Papa	● ▬ ▬ ●	PAH PAH
+
+Q	Quebec	▬ ▬ ● ▬	KEH BECK
+
+R	Romeo	● ▬ ●	ROW ME OH
+
+S	Sierra	● ● ●	SEE AIRRAH
+
+T	Tango	▬	TANG OH
+
+U	Uniform	● ● ▬	YOU NEE FORM
+
+V	Victor	● ● ● ▬	VIK TAH
+
+W	Whiskey	● ▬ ▬	WISS KEY
+
+X	X-ray	▬ ● ● ▬	ECKS RAY
+
+Y	Yankee	▬ ▬ ● ●	YANG KEY
+
+Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
+
+
 
 # adjectives
+
+## funky
+Get your funk on!
+
+## content
+* She was [content,happy] with her gift basket.
 
 ## notorious
 * She was notorious for being late to every meeting!
@@ -8509,6 +8575,11 @@ Do you know many people in Spain ?
 
 
 # nouns
+
+## poverty
+* Poverty can happen to anyone in certain circumstances.
+
+
 
 ## caveats
 * There are some caveats.
