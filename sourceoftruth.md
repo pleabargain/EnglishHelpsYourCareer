@@ -1634,6 +1634,7 @@ Ana: We will talk in the park.
 * I was taught to say please and thank you by my grandfather.
 
 ## tell someone told, told (irr)
+* 
 * The host told us that our reservation was cancelled.
 * I have a lot to tell you!
 * Let me tell you something about [my,her,his,our,their] [family,hobbies].
@@ -2098,11 +2099,13 @@ Bob: Thank you for the reminder! I'll chew on that idea later!
 * After realizing that my phone was missing, I tried to call it.
 
 
-## surprise surprised 
+## surprise surprised (d) (reg)
 * It was surprising to me!
 * They should have been surprised by the pay raise but they weren't.
+* I shouldn't be surprised by his behavior.
 
 ## read read read (irr)
+* We read the kids a story from a book.
 * She wrote him a long letter, but he didn't read it.
 * Why didn't he read it? Because he doesn't like to read and he doesn't like her.
 * I used to read a lot more than I do now.
@@ -2447,6 +2450,7 @@ Bob: Igor should have provided the information to you already.
 ## impress impressed (T) (reg)
 * Fewer things impress me as I get older.
 * That was the most impressive wedding I've ever been to!
+* I'm not impressed by these results.
 
 ## improve improved (d)(reg)
 * They should have improved this by now.
@@ -2456,6 +2460,7 @@ Bob: Igor should have provided the information to you already.
 * It's hard to keep everyone's attention during an online meeting.
 
 ## know knew known (irr)
+* I know what I should expect pretty much everyday.
 * I didn't know it was possible.
 * As you may know, PHP consumes more resources than Go.
 * I know that one of my weaknesses is difficulty keeping up with the technology.
@@ -3275,6 +3280,7 @@ Bob: He's on my team but I don't work with him directly.
 * We might try to go to the movies tonight.
 
 ## take took taken (irr)
+* Because we take such a long nap, we go to bed very late.
 * I am currently taking courses.
 * I took a walk outside to get some fresh air.
 * I took a break from work for a few couple of hours.
@@ -3355,6 +3361,7 @@ Bob: I took [the,this] situation too seriously!
 * You are not permitted to leave your laptop on the desk.
 
 ## live lived (d) (reg)
+* When I  lived with my parents
 * They have lived here for a long time.
 * I live near a church now.
 * I lived near a church when I was younger.
@@ -3759,6 +3766,11 @@ Bob: I will do my best.
 
 
 # phrases
+
+## same shit, different day
+Ana: How's your day?
+
+Bob: Oh, you know. Same shit, different day.
 
 ## to free up your mind
 * I need to disconnect for a bit and free up my mind.
@@ -8364,7 +8376,11 @@ I don't normally throw in the towel at the first sign of trouble!
   * solutions
   * answers
   * problems
-  * 
+
+* one of the 
+  * ways
+  * children
+  * dogs
 * one of my favorite
   * foods
   * books
@@ -8714,6 +8730,8 @@ The boy ought to catch something later today.
 ---
 
 # opposites
+calm<>manic
+vertical<>horizontal
 waste of time <> more efficient
 happy<>sad
 major<>minor

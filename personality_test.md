@@ -199,9 +199,7 @@ Bob: I don't think I'm a manipulative person. Sometimes I have to manipulate oth
 
 
 
-#  Are you  very spontaneous - I act without thinking
-
-
+#  Are you  very spontaneous? Can you act without thinking?
 
 
 
@@ -266,7 +264,7 @@ Ana: When your information can help others to be better.
 
 #  Are you  afraid to draw attention to myself?
 
-#  I never sit still - I'm always on the go?
+#  Do you ever sit still - are you always on the go?
 
 #  Do you prefer to stick with things that you know?
 

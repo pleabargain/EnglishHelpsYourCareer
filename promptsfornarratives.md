@@ -302,7 +302,7 @@
 * How Competitive Are You?
 * Do You Perform Better When You're Competing or When You're Collaborating?
 * How Emotionally Intelligent Are You?
-* Do You Take More Risks When You Are Around Your Friends?
+* Do You Take More Risks When You Are Around Your friends?
 * Do You Unknowingly Submit to Peer Pressure?
 * Do You Think You're Brave?
 * How Much of a Daredevil Are You?
@@ -451,7 +451,7 @@
 * What Would You Grab in a Fire?
 * What Would You Put in Your Emergency 'Go-Bag'?
 * Who Lived Long Ago Where You Live Now?
-* What Would Your Dream Home Be Like?
+* What Would Your dream Home Be Like?
 
 
 # Children & Child Rearing Children
@@ -672,7 +672,7 @@
 * What Is Your Racial and Ethnic Identity?
 * Have You Ever Tried to Hide Your Racial or Ethnic Identity?
 * How Often Do You Interact With People of Another Race or   Ethnicity?
-* Do You Ever Talk About Issues of Race and Class With Your Friends?
+* Do You Ever Talk About Issues of Race and Class With Your friends?
 * Is Your Generation Really 'Postracial'?
 * What's the Racial Makeup of Your School?
 * Does Your School Seem Integrated?
@@ -878,11 +878,11 @@ Bob: I don't sing karaoke song very often, so I don't really have a favorite.
 # Video Games
 
 * What are your favorite video games?
-* What Have You Learned Playing Video Games?
-* Do You Play Violent Video Games?
+* What Have You Learned Playing Video games?
+* Do You Play Violent Video games?
 * When Should You Feel Guilty for Killing Zombies?
 * Who Are Your Opponents in Online Gaming?
-* Do You Like Watching Other People Play Video Games?
+* Do You Like Watching Other People Play Video games?
 * How Excited Are You About the Possibilities of Virtual Reality?
 
 
@@ -921,32 +921,32 @@ Bob: I don't sing karaoke song very often, so I don't really have a favorite.
 
 # The Arts
 * What's the Coolest Thing You've Ever Seen in a Museum?
-* What Are the Most Memorable Works of Visual Art You Have Seen?
+* What are the most memorable works of visual art you have seen?
 * What Are Your Favorite Works of Art?
 * How Important Is Arts Education?
 * What has arts education done for you?
 
 # Small Talk
-* How was the weekend?
+* How was your weekend?
 * What is the weather forecast for this weekend?
 * What are your plans for the weekend?
 
 # Language & Speech
 * What words do you hate?
-* What Words or Phrases Do You Think Are Overused?
+* What words or phrases do you think are overused?
 * How Much Slang Do You Use? What Are Your Favorite Words?
 * What Current Slang Words and Expressions Do You Think Will Endure?
 * Why Do So Many People Say 'Like' and 'Totally' All the Time?
 * Do You Say 'Kind of, Sort of' More Than You Realize?
 * How Much Do You Curse?
 * How Good Are You at Coming Up With Witty Comebacks?
-* When Did You Last Have a Great Conversation?
+* When did you last have a great conversation?
 * How Often Do You Have 'Deep Discussions'?
 * Do You Wish Your Conversations Were Less Small Talk and More 'Big Talk'?
 * When Do You Choose Making a Phone Call Over Sending a Text?
-* How Much Information Is 'Too Much Information'?
+* How much information Is 'Too Much Information'?
 * Do You Sometimes 'Hide' Behind Irony?
-* How Good Is Your Grammar?
+* How good is your grammar?
 * Do You Speak a Second, or Third, Language?
 * When Do You Remember Learning a New Word?
 * What Does Your Body Language Communicate?
@@ -959,10 +959,10 @@ Bob: I don't sing karaoke song very often, so I don't really have a favorite.
 
 
 # Learning & Studying
-* Do You Have Too Much Homework?
+* Do you have too much work?
 * Does Your Homework Help You Learn?
 * Do You Participate in Class?
-* What Is Your Best Subject?
+* What was your best subject in school?
 * What's the Most Challenging Assignment You've Ever Had?
 * What Memorable Experiences Have You Had in Learning Science or Math?
 * Are You Afraid of Math?
@@ -986,17 +986,17 @@ Bob: I don't sing karaoke song very often, so I don't really have a favorite.
 * What Do You Wish Your Teachers Knew About You?
 * What Do You Wish Your Teachers Knew About You?
 * When Has a Teacher Inspired You?
-* What Teacher Would You Like to Thank?
-* What Makes a Good Teacher?
+* What teacher would you like to thank?
+* What makes a good teacher?
 * Have You Ever Been Humiliated by a Teacher? How Did it Affect You?
 * Have Your Teachers or Textbooks Ever Gotten It Wrong?
 * Do Your Teachers Use Technology Well?
-* Do You Have a Tutor?
+* Have you hired a tutor?
 
 
 
 # School Life
-* Did You Like School?
+* Did you like school?
 * Are You Stressed About School?
 * Are High School Students Being Worked Too Hard?
 * What Are You Really Learning at School?
@@ -1126,11 +1126,11 @@ better: What languages were commonly used on your last project?
 * What does a typical day look like for you?
 * What Do You Want to Be When You Grow Up?
 * Do You Have a Life Calling?
-* What's Your Dream Job?
+* What's Your dream Job?
 * What Are Your Longtime Interests or Passions?
 * Do You Think You Will Have a Career That You Love?
 * What Do You Want More From a Career: Happiness or Wealth?
-* What Investment Are You Willing to Make to Get Your Dream Job?
+* What Investment Are You Willing to Make to Get Your dream Job?
 * Would You Consider a Nontraditional Occupation?
 * Would You Rather Work From Home or in an Office?
 * What Hidden Talents Might You Have?
@@ -1207,15 +1207,15 @@ better: What languages were commonly used on your last project?
 * Who is your best friend? What about this person makes them so special?
 * Ideally, what characteristics would your friends have?
 * What have your friends taught you?
-* Do You Have a Best Friend?
-* How Often Do You Spend One-on-One Time With Your Closest Friends?
-* How Do You Feel About Introducing Friends from Different Parts of Your Life?
-* Do You Find It Easier to Make New Friends Online or In Person?
-* How Good a Friend Are You?
-* How Have You Helped a Friend in a Time of Need?
-* Do You Like Your Friends?
-* Is Competitiveness an Obstacle to Making or Keeping Friendships?
-* How Should You Handle the End of a Friendship?
+* Do You Have a Best friend?
+* How Often Do You Spend One-on-One Time With Your Closest friends?
+* How Do You Feel About Introducing friends from Different Parts of Your Life?
+* Do You Find It Easier to Make New friends Online or In Person?
+* How Good a friend Are You?
+* How Have You Helped a friend in a Time of Need?
+* Do You Like Your friends?
+* Is Competitiveness an Obstacle to Making or Keeping friendships?
+* How Should You Handle the End of a friendship?
 * Have You Ever Felt Left Out?
 
 
@@ -1247,9 +1247,9 @@ better: What languages were commonly used on your last project?
 * What Extreme Sports Interest You Most?
 * Why Do You Play Sports?
 * What Rules Would You Like to See Changed in Your Favorite Sports?
-* Do You Enjoy Playing Games or Solving Puzzles?
-* What Are Your Favorite Board Games?
-* What Are Your Favorite Games?
+* Do You Enjoy Playing games or Solving Puzzles?
+* What Are Your Favorite Board games?
+* What Are Your Favorite games?
 * What Game Would You Like to Redesign?
 
 # vacations
@@ -1655,26 +1655,26 @@ Bill: I spent time with my girlfriend and some friends.
 
 # Winter
 ## Winter verbs: 
-skiing
-melt
+* skiing
+* melt
 
 
 ## Winter nouns
-ice
-snow
+* ice
+* snow
 * Holidays
-presents
+* presents
 
 ## Winter adjectives
-snowy
-icy
-uncomfortable
-chilly
+* snowy
+* icy
+* uncomfortable
+* chilly
 * Windy
 * Wet
 * White
 * Dreary
-cloudy
+* cloudy
 
 
 
@@ -1692,18 +1692,19 @@ cloudy
 * What Would Your Fantasy Spring Break Be Like?
 
 ## Summer
-* What Are You Looking Forward to This Summer?
-* What Would Your Ideal Summer Camp Be Like?
-* What Are Your Favorite Summer Hangouts? e.g. forests, pool, park, beach, mountains, Cafe
-* What's Your Favorite Summer Food?
-* What Is Your Favorite Summer Movie?
-* What's on Your Summer Reading List?
-* Do You Have a Summer Job?
-* Do You Choose Summer Activities to Look Good on Applications?
-* What Are the Best Things You Did This Summer?
-* How Can People Make the Most of Long Holiday Weekends?
-* What's Your Sunday Routine?
+* What are you looking forward to this summer?
+* What would your ideal summer camp be like?
+* What are your favorite summer hangouts? E.G. Forests, pool, park, beach, mountains, cafe
+* What's your favorite summer food?
+* What is your favorite summer movie?
+* What's on your summer reading list?
+* Do you have a summer job?
+* Do you choose summer activities to look good on applications?
+* What are the best things you did this summer?
+* how can people make the most of long holiday weekends?
+* What's your sunday routine?
 * What are your thoughts on camping?
+
 
 
 
@@ -1812,13 +1813,13 @@ cloudy
 
 
 # Shopping
-* What's Your Favorite Store?
-* To What Company Would You Write a Letter of Complaint or Admiration?
-* To What Business Would You Like to Give Advice?
-* Do You Ever Hang Out at the Mall?
-* How Would You Make Over Your Mall?
-* Do You Shop at Locally Owned Businesses?
-* What Are the Best Things You've Acquired Secondhand?
+* What's your favorite store?
+* To what company would you write a letter of complaint or admiration?
+* To what business would you like to give advice?
+* Do you ever hang out at the mall?
+* How would you make over your mall?
+* Do you shop at locally owned businesses?
+* What are the best things you've acquired secondhand?
 
 
 # career
@@ -1883,7 +1884,7 @@ cloudy
 * Why would you buy a car?
 * How Important Is It to Have a Driver's License?
 * Are You a Good Driver?
-* Do You Have a Dream Car?
+* Do you have a dream car?
 * Would You Like to Ride in a Car That Drives Itself?
 
 
@@ -1964,7 +1965,7 @@ Ana: I'm trying to sort my garbage and conserve electricity wisely.
 * What News Stories Are You Following?
 * How Do You Get Your News?
 * Is Your Online World Just a 'Filter Bubble' of People With the Same Opinions?
-* Do Your Friends on Social Media All Have the Same Political Opinions You Do?
+* Do Your friends on Social Media All Have the Same Political Opinions You Do?
 
 
 
