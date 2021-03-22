@@ -11,7 +11,7 @@ are
 ---
 
 (return)
-We'll stay here till she ___ .
+We'll stay here until she ___ .
 
 <details><summary><b>Answer</b></summary>
 <p>
