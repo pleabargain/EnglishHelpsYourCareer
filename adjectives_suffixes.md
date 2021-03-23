@@ -59,11 +59,26 @@ graph TD;
 
 ## -ary
 Meaning: of or relating to
-Examples: budgetary, planetary, military, honorary
+Examples: 
+```mermaid
+graph TD;
+
+    -ary--> budgetary; -ary-->  planetary; -ary-->  military; -ary-->  honorary
+
+
+```
+
+
 
 ## -ful
 Meaning: full of or notable of
-Examples: grateful, beautiful, wonderful, fanciful
+
+```mermaid
+graph TD;
+
+-ful--> grateful; -ful-->  beautiful; -ful-->  wonderful; -ful-->  fanciful
+
+```
 
 ## -ic
 Meaning: relating to
