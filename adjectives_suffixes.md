@@ -14,7 +14,11 @@ Meaning: capable of being
 graph TD;
     -able--> available;
     -able--> enjoyable;
-    -able-->preventable; -able-->adaptable;-able--> predictable;
+    -able-->preventable; 
+    -able-->adaptable;
+    -able--> predictable;
+    -able--> dependable;
+    -able--> capable;
     
 ```
 
@@ -48,6 +52,7 @@ graph TD;
 
 ## -ant
 Meaning: inclined to or tending to
+
 ```mermaid
 graph TD;
 
@@ -60,7 +65,7 @@ graph TD;
 
 ## -ary
 Meaning: of or relating to
-Examples: 
+
 ```mermaid
 graph TD;
 
@@ -87,23 +92,62 @@ graph TD;
 
 ## -ic
 Meaning: relating to
-Examples: iconic, organic, heroic, poetic
+```mermaid
+graph TD; 
+-ic--> iconic;
+ -ic-->  organic; 
+ -ic-->  heroic; 
+ -ic-->  poetic
+```
 
-## -ious, 
+## -ious
 Meaning: having qualities of
-Examples: gracious, cautious, 
+
+```mermaid
+graph TD; 
+-ious--> gracious; 
+-ious-->  cautious; 
+-ious-->  fallacious
+```
 
 ## -ous
-humorous, fabulous
+
+Meaning: having qualities of
+```mermaid
+graph TD; 
+-ous--> humorous; 
+-ous-->  fabulous
+```
+
 
 ## -ive
 Meaning: quality or nature of
-Examples: creative, expensive, expressive, pensive
+
+```mermaid
+graph TD; 
+-ive-->  creative; 
+-ive-->  expensive; 
+-ive-->  expressive; 
+-ive-->  pensive;
+```
 
 ## -less
 Meaning: without something
-Examples: hopeless, faultless, fearless, restless
+
+```mermaid
+graph TD; 
+-less-->hopeless; 
+-less-->  faultless; 
+-less-->  fearless; 
+-less-->  restless
+```
 
 ## -y
 Meaning: made up of or characterized by
-Examples: brainy, fruity, tasty, grouchy
+```mermaid
+graph TD; 
+-y-->brainy; 
+-y-->  fruity; 
+-y-->  tasty; 
+-y-->  grouchy;
+```
