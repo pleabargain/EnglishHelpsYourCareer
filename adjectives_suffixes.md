@@ -150,4 +150,5 @@ graph TD;
 -y-->  fruity; 
 -y-->  tasty; 
 -y-->  grouchy;
+-y-->  salty;
 ```
