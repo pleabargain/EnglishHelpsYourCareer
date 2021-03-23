@@ -24,7 +24,8 @@ Meaning: capable of being
 graph TD;
     -ible--> responsible;
     -ible--> reprehensible;
-        -ible--> credible;
+        -ible--> credible; 
+        -ible--> flexible;
 
 
 ```
@@ -76,7 +77,11 @@ Meaning: full of or notable of
 ```mermaid
 graph TD;
 
--ful--> grateful; -ful-->  beautiful; -ful-->  wonderful; -ful-->  fanciful
+-ful--> grateful; 
+-ful-->  beautiful; 
+-ful-->  wonderful; 
+-ful-->  fanciful;
+-ful-->  hopeful;
 
 ```
 
