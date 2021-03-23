@@ -1196,7 +1196,9 @@ Bob: We must sign and send them as soon as possible.
 ## signify signified (d) (reg)
 * I am not sure what this [signifies,means].
 
-
+## remind reminded (id) (reg) 
+* I should have reminded you earlier.
+* It reminds me of home.
 
 ## remember remembered (d) (reg)
 * I can't remember the last time I was at work in the office!
@@ -1268,6 +1270,7 @@ Bob: Sure, I can talk to him about that.
 * I caught a cold.
 * Mike caught a cold in the mountains. 
 * Look! The cat has caught a mouse.
+* I don't remember if I caught anything last time I went fishing.
 
 
 
@@ -3767,6 +3770,9 @@ Bob: I will do my best.
 
 # phrases
 
+## my mouth was working faster than my brain
+
+
 ## same shit, different day
 Ana: How's your day?
 
@@ -5413,7 +5419,7 @@ She was horribly disfigured after the accident.
   * use soon instead
 
 
-# NATO
+# NATO Alphabet
 
 A	Alfa/Alpha	● ▬	AL FAH
 
@@ -5590,6 +5596,9 @@ Ana: He's an idiot!
 ## ill
 * I was feeling weak and ill last night.
 * If you are feeling ill, you must stay at home.
+
+## immense
+* I have immense respect for scientists.
 
 ## quiet
 * We need to quiet in the library.

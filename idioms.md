@@ -17,14 +17,19 @@ She bought a bit too much at the market.
 <details><summary><b>examples</b></summary>
 <p>
 
-We were a day late and a dollar short when we delivered the project.
+Ana: Yes, I would like to buy your car.
 
-The government's response to the pandemic was consistently a day late and a dollar short.
+Bob: Sorry, you are a day light and a dollar short. I sold the car this morning.
 
+---
 
-Ever since the crisis took hold last summer, most of the big firms have been a day late and dollar short in responding.
+* We were a day late and a dollar short when we delivered the project.
 
-The landlord complained that I'm always a day late and a dollar short!
+* The government's response to the pandemic was consistently a day late and a dollar short.
+
+* Ever since the crisis took hold last summer, most of the big firms have been a day late and dollar short in responding.
+
+* The landlord complained that I'm always a day late and a dollar short!
 
 </p>
 </details>
@@ -99,7 +104,7 @@ Everything will be A OK! I'll take care of it!
 </p>
 </details>
 
-## A penny saved is a penny earned
+# A penny saved is a penny earned
 * This means that we shouldn't spend or waste money, but try to save it.
 
 <details><summary><b>examples</b></summary>
