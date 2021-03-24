@@ -343,3 +343,56 @@ fore--> foresee;
 ```
 
 
+# inter- 	
+
+meaning between 	
+
+
+```mermaid
+graph TD;
+
+inter --> interact; inter --> intermix; inter --> interface; inter --> intercede;
+```
+
+# pre- 	
+
+meaning: before 	
+
+
+```mermaid
+graph TD;
+pre-->pre-expose;pre--> prejudge;pre--> pretest
+```
+
+# sub- 	
+
+meaning
+
+under/below 	
+
+```mermaid
+graph TD;
+sub--> subcontract;sub-->  subdivide;
+sub-->  subcontinent;
+```
+
+
+# trans- 	
+meaning
+
+across, over 	
+
+```mermaid
+graph TD;
+trans --> transform;trans -->  transcribe;trans -->  transplant;
+```
+
+# under -
+
+meaning: not enough
+
+```mermaid
+graph TD;
+under--> underbelly;
+under--> underperform;
+```
