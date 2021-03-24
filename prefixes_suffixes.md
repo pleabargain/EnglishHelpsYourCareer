@@ -154,7 +154,7 @@ graph TD;
 ```
 
 
-# Prefix to create negatives 	Examples
+# Prefixes to create negatives 	Examples
 
 ## negative + adjective > adjective
 
@@ -163,7 +163,7 @@ graph TD;
 graph TD; 
 im --> 	immature;
 im --> impatient;
-im --> improbable, 
+im --> improbable; 
 in --> inconvenient; 
 ir --> irreplaceable;
 il --> illegal;
@@ -219,14 +219,127 @@ dis -->  dishonest;
 
 
 ---
+
+# Prefix to create new verbs
+re-
+
+meaning: again or back
 ```mermaid
 graph TD; 
+re --> restrucure;
+re --> revisit;
+
+```
+
+dis - 
+
+meaning: reverse the meaning of the word
+
+```mermaid
+graph TD; 
+dis --> disappear;
+ dis --> disapprove;
+
+```
+
+over -
+
+meaning: too much
+
+```mermaid
+graph TD; 
+over --> overkill;
+over --> overwork;
+
+```
+un -
+
+meaning: reverse the meaning of the word
+
+
+```mermaid
+graph TD; 
+un --> undead;
+un --> unfasten;
+
+```
+
+mis- 	
+
+meaning: badly or wrongly 	
+
+```mermaid
+graph TD; 
+
+mis --> mislead; mis --> misinform; mis --> misidentify;
 
 
 ```
 
+out- 	
+
+meaning: more or better than others 	
+
+```mermaid
+graph TD; 
+
+out -->outperform;
+out --> outbid;
+```
+
+
+be- 	
+
+meaning: make or cause 	
+```mermaid
+graph TD; 
+
+be--> befriend;
+be--> belittle;
+```
+
+
+
+co- 	
+
+meaning: together 	
+
+This prefix has a couple of different spellings.
+
 ```mermaid
 graph TD; 
 
 
+co --> coexist; 
+co --> cooperate; 
+co --> co-own;
 ```
+
+
+de- 	
+
+meaning: do the opposite of 	
+
+```mermaid
+graph TD; 
+
+de--> devalue; 
+de--> deselect;
+
+```
+
+
+fore- 	
+
+meaning: earlier, before 	
+
+```mermaid
+graph TD; 
+
+fore--> forecast; 
+fore--> foreclose; 
+fore--> foresee; 
+
+```
+
+
