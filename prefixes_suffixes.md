@@ -1,6 +1,6 @@
-# adjectives suffixes
+# mermaid diagrams
 
-## mermaid diagrams
+# http://www.uefap.com/vocab/build/building.htm
 
 To view as diagrams, you need to install: 
 
@@ -8,8 +8,12 @@ https://chrome.google.com/webstore/detail/github-%2B-mermaid/goiiopgdnkogdbjmncg
 
 
 
-## -able
-Meaning: capable of being
+# adjectives suffixes
+
+
+
+
+## -able Meaning: capable of being > adjective
 ```mermaid
 graph TD;
     -able--> available;
@@ -22,8 +26,7 @@ graph TD;
     
 ```
 
-## -ible
-Meaning: capable of being
+## -ible Meaning: capable of being > adjective 
 ```mermaid
 graph TD;
     -ible--> responsible;
@@ -36,13 +39,28 @@ graph TD;
 
 
 
-## -al
-Meaning: pertaining to
+## -al Meaning: pertaining to > noun
 
 ```mermaid
 graph TD;
 
-    -al--> theatrical; -al-->natural; -al-->criminal; -al-->seasonal;
+    -al--> theatrical; 
+    -al-->natural; 
+    -al-->criminal; 
+    -al-->seasonal;
+
+
+```
+
+## -al Meaning: result of V
+
+```mermaid
+graph TD;
+
+    -al--> denial; 
+    -al--> refusal; 
+    -al-->dismissal; 
+    -al-->seasonal;
 
 
 ```
@@ -50,13 +68,15 @@ graph TD;
 
 
 
-## -ant
-Meaning: inclined to or tending to
+## -ant Meaning:  person who is V+ant > noun 
 
 ```mermaid
 graph TD;
 
-    -ant--> vigilant;-ant-->  defiant; -ant--> brilliant; -ant--> reliant;
+    -ant--> vigilant;
+    -ant-->  defiant; 
+    -ant--> brilliant; 
+    -ant--> reliant;
     -ant--> hesitant;
 
 
@@ -73,6 +93,16 @@ graph TD;
 
 
 ```
+
+## -ent Meaning:  person who is V+ant > noun 
+
+```mermaid
+graph TD;
+-ent -->different;
+-ent --> dependent;
+-ent--> excellent;
+```
+
 
 
 
@@ -116,7 +146,8 @@ Meaning: having qualities of
 ```mermaid
 graph TD; 
 -ous--> humorous; 
--ous-->  fabulous
+-ous-->  fabulous;
+-ous-->  dangerous;
 ```
 
 
@@ -127,6 +158,8 @@ Meaning: quality or nature of
 graph TD; 
 -ive-->  creative; 
 -ive-->  expensive; 
+-ive-->  attractive; 
+
 -ive-->  expressive; 
 -ive-->  pensive;
 ```
@@ -139,7 +172,7 @@ graph TD;
 -less-->hopeless; 
 -less-->  faultless; 
 -less-->  fearless; 
--less-->  restless
+-less-->  restless;
 ```
 
 ## -y
@@ -221,7 +254,8 @@ dis -->  dishonest;
 ---
 
 # Prefix to create new verbs
-re-
+
+## re-
 
 meaning: again or back
 ```mermaid
@@ -231,7 +265,7 @@ re --> revisit;
 
 ```
 
-dis - 
+## dis - 
 
 meaning: reverse the meaning of the word
 
@@ -242,7 +276,7 @@ dis --> disappear;
 
 ```
 
-over -
+## over -
 
 meaning: too much
 
@@ -252,7 +286,7 @@ over --> overkill;
 over --> overwork;
 
 ```
-un -
+## un -
 
 meaning: reverse the meaning of the word
 
@@ -264,7 +298,7 @@ un --> unfasten;
 
 ```
 
-mis- 	
+## mis- 	
 
 meaning: badly or wrongly 	
 
@@ -276,7 +310,7 @@ mis --> mislead; mis --> misinform; mis --> misidentify;
 
 ```
 
-out- 	
+## out- 	
 
 meaning: more or better than others 	
 
@@ -288,7 +322,7 @@ out --> outbid;
 ```
 
 
-be- 	
+## be- 	
 
 meaning: make or cause 	
 ```mermaid
@@ -300,7 +334,7 @@ be--> belittle;
 
 
 
-co- 	
+## co- 	
 
 meaning: together 	
 
@@ -316,7 +350,7 @@ co --> co-own;
 ```
 
 
-de- 	
+## de- 	
 
 meaning: do the opposite of 	
 
@@ -329,7 +363,7 @@ de--> deselect;
 ```
 
 
-fore- 	
+## fore- 	
 
 meaning: earlier, before 	
 
@@ -343,7 +377,7 @@ fore--> foresee;
 ```
 
 
-# inter- 	
+## inter- 	
 
 meaning between 	
 
@@ -354,7 +388,7 @@ graph TD;
 inter --> interact; inter --> intermix; inter --> interface; inter --> intercede;
 ```
 
-# pre- 	
+## pre- 	
 
 meaning: before 	
 
@@ -364,7 +398,7 @@ graph TD;
 pre-->pre-expose;pre--> prejudge;pre--> pretest
 ```
 
-# sub- 	
+## sub- 	
 
 meaning
 
@@ -377,7 +411,7 @@ sub-->  subcontinent;
 ```
 
 
-# trans- 	
+## trans- 	
 meaning
 
 across, over 	
@@ -387,7 +421,7 @@ graph TD;
 trans --> transform;trans -->  transcribe;trans -->  transplant;
 ```
 
-# under -
+## under -
 
 meaning: not enough
 
@@ -397,3 +431,95 @@ under--> underbelly;
 under--> underperform;
 ```
 
+# suffixes 
+
+
+## -ity state or quality of being
+
+```mermaid
+graph TD;
+-ity --> ability;
+```
+
+## -ness state or quality of being
+
+```mermaid
+graph TD;
+-ness --> darkness;
+```
+
+
+## -cy state or quality of being
+
+```mermaid
+graph TD;
+-cy --> frequency;
+```
+
+## -er person concerned with N
+
+```mermaid
+graph TD;
+-er --> programmer;
+```
+
+
+## -ism doctrine of N
+
+```mermaid
+graph TD;
+-ism --> capitalism;
+```
+
+## -ship state of being  N
+
+```mermaid
+graph TD;
+-ship --> leadership;
+```
+
+## -age collection of N > noun
+
+```mermaid
+graph TD;
+-age --> baggage;
+-age --> storage;
+```
+
+## -age action result of > noun
+
+```mermaid
+graph TD;
+-age --> wastage;
+-age --> heritage;
+```
+
+
+
+
+## -tion meaning action/instance of V-ing > NOUN
+
+```mermaid
+graph TD;
+-tion --> alteration;
+-tion -->  demonstration;
+```
+
+## -sion meaning action/instance of V-ing > NOUN
+
+
+
+```mermaid
+graph TD;
+-sion --> expansion; 
+-sion -->inclusion;
+-sion --> admission;
+```
+
+## -ment meaning	action/instance of V-ing > NOUN
+
+```mermaid
+graph TD;
+-ment -->development; 
+-ment -->punishment; 
+-ment -->unemployment;
