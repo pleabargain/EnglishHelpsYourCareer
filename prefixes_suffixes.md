@@ -18,8 +18,8 @@ https://chrome.google.com/webstore/detail/github-%2B-mermaid/goiiopgdnkogdbjmncg
 graph TD;
     -able--> available;
     -able--> enjoyable;
-    -able-->preventable; 
-    -able-->adaptable;
+    -able--> preventable; 
+    -able--> adaptable;
     -able--> predictable;
     -able--> dependable;
     -able--> capable;
@@ -29,39 +29,32 @@ graph TD;
 ## -ible Meaning: capable of being > adjective 
 ```mermaid
 graph TD;
-    -ible--> responsible;
-    -ible--> reprehensible;
-        -ible--> credible; 
-        -ible--> flexible;
-
-
-```
-
-
-
-## -al Meaning: pertaining to > noun
-
-```mermaid
-graph TD;
-
-    -al--> theatrical; 
-    -al-->natural; 
-    -al-->criminal; 
-    -al-->seasonal;
-
+-ible--> responsible;
+-ible--> reprehensible;
+-ible--> credible; 
+-ible--> flexible;
 
 ```
 
-## -al Meaning: result of V
+
+
+## -al Meaning: pertaining to > adjective
 
 ```mermaid
 graph TD;
+-al--> theatrical; 
+-al--> natural; 
+-al--> criminal; 
+-al--> seasonal;
+```
 
-    -al--> denial; 
-    -al--> refusal; 
-    -al-->dismissal; 
-    -al-->seasonal;
+## -al Meaning: result of Verb > noun
 
+```mermaid
+graph TD;
+-al--> denial; 
+-al--> refusal; 
+-al--> dismissal; 
 
 ```
 
@@ -247,6 +240,7 @@ graph TD;
 dis --> disloyal;
 dis -->  dissimilar;
 dis -->  dishonest;
+dis -->  disobey;
 
 ```
 
@@ -461,6 +455,7 @@ graph TD;
 ```mermaid
 graph TD;
 -er --> programmer;
+-er --> plumber;
 ```
 
 
