@@ -3711,6 +3711,8 @@ Bob: I will do my best.
 ## ride ridden (irr)
 * Have you ever ridden a [bicycle,horse,motorcycle,skateboard]?
 
+## rig rigged (d) (reg)
+* The runner claimed that the contest was rigged.
 
 ## bite bit bitten (irr)
 * The neighbor's dog bit her.
@@ -3769,6 +3771,9 @@ Bob: I will do my best.
 
 
 # phrases
+
+## from womb to tomb
+* The Chinese communist gov't promised it's citizens that the the government would take care of them from womb to tomb.
 
 ## my mouth was working faster than my brain
 
@@ -5477,8 +5482,20 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 # adjectives
 
+## cruelty
+* The old woman down the hall was accused of cruelty to animals.
+
+## desperate
+* She is desperate for a cup of coffee!
+
+## rigid
+* The laws are very rigid in Saudi Arabia
+
+## eager
+She was very eager to go home.
+
 ## funky
-Get your funk on!
+* Get your funk on!
 
 ## content
 * She was [content,happy] with her gift basket.
@@ -6351,6 +6368,9 @@ Dad: Because it is a feature of water. When it is hot it becomes a gas and gas i
 What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
+
+# topic technical debt
+
 
 # topic Machine Learning OPs
 * A/B testing
@@ -8555,8 +8575,8 @@ I don't normally throw in the towel at the first sign of trouble!
 * doubt
 * plumber
 * thumb
-* tomb
 * womb
+* tomb
 
 ## silent t (don't pronounce the T!)
 * bustle
