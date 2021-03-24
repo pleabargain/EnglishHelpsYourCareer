@@ -8565,6 +8565,10 @@ I don't normally throw in the towel at the first sign of trouble!
 * listen
 * hustle
 
+## silent h (don't pronounce the H!)
+* honest
+* whistle
+
 
 # determiners
 ## determiner: much
