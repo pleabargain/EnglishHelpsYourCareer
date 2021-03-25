@@ -3772,6 +3772,10 @@ Bob: I will do my best.
 
 # phrases
 
+## practice what you preach
+
+## lead by example
+
 ## from womb to tomb
 * The Chinese communist gov't promised it's citizens that the the government would take care of them from womb to tomb.
 
