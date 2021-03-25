@@ -83,6 +83,7 @@ graph TD;
     -ary-->  planetary; 
     -ary-->  military;
      -ary-->  honorary
+     -ary-->  contrary
 
 ```
 
@@ -373,7 +374,10 @@ sub-->  subcontinent;
 
 ```mermaid
 graph TD;
-trans --> transform;trans -->  transcribe;trans -->  transplant;
+trans --> transform;
+trans -->  transcribe;
+trans -->  transplant;
+trans --> transparent;
 ```
 
 ## under - meaning: not enough
@@ -474,3 +478,7 @@ graph TD;
 -ment -->punishment; 
 -ment -->unemployment;
 ```
+
+
+## todo
+con -

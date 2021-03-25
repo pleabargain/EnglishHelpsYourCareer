@@ -3772,6 +3772,8 @@ Bob: I will do my best.
 
 # phrases
 
+## We'll go over the material later!
+
 ## practice what you preach
 
 ## lead by example
@@ -8130,6 +8132,11 @@ Bob: Sounds good! I like hearing that I'm doing a good job and that I'm getting 
 * average
 * excellent
 
+## topic open space layout
+* What are some advantages to an open office layout?
+* What are some dis-advantages to an open office layout?
+  * If your staff is used to working in small offices, then they will probably be unhappy in an open layout office.
+
 ## topic interview brand manager
 
 * How does brand management work?
@@ -8629,6 +8636,9 @@ Do you know many people in Spain ?
 
 # nouns
 
+## violation
+* It's in violation of government regulations! I would NOT advise you do this.
+
 ## poverty
 * Poverty can happen to anyone in certain circumstances.
 
@@ -8812,6 +8822,7 @@ I can't explain it to you.
 I don't know what it's called.
 I'm not sure how to explain this.
 I have never thought about it.
+I don't know how to explain it.
 I'm not familiar with the problem.
 I'm not familiar with the depth of the problem.
 I have no idea what this is about.
