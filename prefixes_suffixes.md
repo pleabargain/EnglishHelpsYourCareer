@@ -12,7 +12,6 @@ https://chrome.google.com/webstore/detail/github-%2B-mermaid/goiiopgdnkogdbjmncg
 
 
 
-
 ## -able Meaning: capable of being > adjective
 ```mermaid
 graph TD;
@@ -76,14 +75,14 @@ graph TD;
 ```
 
 
-## -ary
-Meaning: of or relating to
+## -ary Meaning: of or relating to
 
 ```mermaid
 graph TD;
-
-    -ary--> budgetary; -ary-->  planetary; -ary-->  military; -ary-->  honorary
-
+    -ary--> budgetary; 
+    -ary-->  planetary; 
+    -ary-->  military;
+     -ary-->  honorary
 
 ```
 
@@ -97,10 +96,7 @@ graph TD;
 ```
 
 
-
-
-## -ful
-Meaning: full of or notable of
+## -ful Meaning: full of or notable of
 
 ```mermaid
 graph TD;
@@ -113,8 +109,7 @@ graph TD;
 
 ```
 
-## -ic
-Meaning: relating to
+## -ic Meaning: relating to
 ```mermaid
 graph TD; 
 -ic--> iconic;
@@ -123,8 +118,7 @@ graph TD;
  -ic-->  poetic
 ```
 
-## -ious
-Meaning: having qualities of
+## -ious Meaning: having qualities of
 
 ```mermaid
 graph TD; 
@@ -133,9 +127,8 @@ graph TD;
 -ious-->  fallacious
 ```
 
-## -ous
+## -ous Meaning: having qualities of
 
-Meaning: having qualities of
 ```mermaid
 graph TD; 
 -ous--> humorous; 
@@ -144,8 +137,7 @@ graph TD;
 ```
 
 
-## -ive
-Meaning: quality or nature of
+## -ive Meaning: quality or nature of
 
 ```mermaid
 graph TD; 
@@ -157,8 +149,7 @@ graph TD;
 -ive-->  pensive;
 ```
 
-## -less
-Meaning: without something
+## -less Meaning: without something
 
 ```mermaid
 graph TD; 
@@ -168,11 +159,11 @@ graph TD;
 -less-->  restless;
 ```
 
-## -y
-Meaning: made up of or characterized by
+## -y Meaning: made up of or characterized by
 ```mermaid
 graph TD; 
--y-->brainy; 
+-y--> brainy; 
+-y--> smelly; 
 -y-->  fruity; 
 -y-->  tasty; 
 -y-->  grouchy;
@@ -194,8 +185,6 @@ in --> inconvenient;
 ir --> irreplaceable;
 il --> illegal;
 
-
-
 ```
 ## negative + adjective > adjective
 ```mermaid
@@ -204,9 +193,7 @@ graph TD;
 ir --> irreplaceable;
 ir --> irresponsible;
 
-
 ```
-
 
 ## negative + adjective > adjective
 
@@ -225,9 +212,9 @@ un -->  unjust;
 ```mermaid
 graph TD; 
 
-non- --> 	non-fiction; 
-non- -->non-political; 
-non- -->non-neutral;
+non- --> non-fiction; 
+non- --> non-political; 
+non- --> non-neutral;
 
 
 ```
@@ -244,24 +231,19 @@ dis -->  disobey;
 
 ```
 
-
 ---
 
 # Prefix to create new verbs
 
-## re-
-
-meaning: again or back
+## re- meaning: again or back
 ```mermaid
 graph TD; 
-re --> restrucure;
+re --> restructure;
 re --> revisit;
-
+re --> reinstate;
 ```
 
-## dis - 
-
-meaning: reverse the meaning of the word
+## dis - meaning: reverse the meaning of the word
 
 ```mermaid
 graph TD; 
@@ -270,9 +252,7 @@ dis --> disappear;
 
 ```
 
-## over -
-
-meaning: too much
+## over - meaning: too much
 
 ```mermaid
 graph TD; 
@@ -280,9 +260,7 @@ over --> overkill;
 over --> overwork;
 
 ```
-## un -
-
-meaning: reverse the meaning of the word
+## un - meaning: reverse the meaning of the word
 
 
 ```mermaid
@@ -292,21 +270,19 @@ un --> unfasten;
 
 ```
 
-## mis- 	
-
-meaning: badly or wrongly 	
+## mis- meaning: badly or wrongly 	
 
 ```mermaid
 graph TD; 
 
-mis --> mislead; mis --> misinform; mis --> misidentify;
+mis --> mislead; 
+mis --> misinform; 
+mis --> misidentify;
 
 
 ```
 
-## out- 	
-
-meaning: more or better than others 	
+## out- meaning: more or better than others 	
 
 ```mermaid
 graph TD; 
@@ -316,9 +292,8 @@ out --> outbid;
 ```
 
 
-## be- 	
+## be- 	meaning: make or cause 	
 
-meaning: make or cause 	
 ```mermaid
 graph TD; 
 
@@ -328,15 +303,12 @@ be--> belittle;
 
 
 
-## co- 	
-
-meaning: together 	
+## co- 	meaning: together 	
 
 This prefix has a couple of different spellings.
 
 ```mermaid
 graph TD; 
-
 
 co --> coexist; 
 co --> cooperate; 
@@ -344,9 +316,7 @@ co --> co-own;
 ```
 
 
-## de- 	
-
-meaning: do the opposite of 	
+## de- 	meaning: do the opposite of 	
 
 ```mermaid
 graph TD; 
@@ -357,9 +327,7 @@ de--> deselect;
 ```
 
 
-## fore- 	
-
-meaning: earlier, before 	
+## fore- meaning: earlier, before 	
 
 ```mermaid
 graph TD; 
@@ -371,32 +339,29 @@ fore--> foresee;
 ```
 
 
-## inter- 	
-
-meaning between 	
+## inter- meaning between 	
 
 
 ```mermaid
 graph TD;
 
-inter --> interact; inter --> intermix; inter --> interface; inter --> intercede;
+inter --> interact; 
+inter --> intermix; 
+inter --> interface; 
+inter --> intercede;
 ```
 
-## pre- 	
-
-meaning: before 	
+## pre- meaning: before 	
 
 
 ```mermaid
 graph TD;
-pre-->pre-expose;pre--> prejudge;pre--> pretest
+
+pre--> prejudge;
+pre--> pretest
 ```
 
-## sub- 	
-
-meaning
-
-under/below 	
+## sub- meaning under/below 	
 
 ```mermaid
 graph TD;
@@ -404,20 +369,14 @@ sub--> subcontract;sub-->  subdivide;
 sub-->  subcontinent;
 ```
 
-
-## trans- 	
-meaning
-
-across, over 	
+## trans- 	meaning across, over 	
 
 ```mermaid
 graph TD;
 trans --> transform;trans -->  transcribe;trans -->  transplant;
 ```
 
-## under -
-
-meaning: not enough
+## under - meaning: not enough
 
 ```mermaid
 graph TD;
@@ -490,8 +449,6 @@ graph TD;
 ```
 
 
-
-
 ## -tion meaning action/instance of V-ing > NOUN
 
 ```mermaid
@@ -501,8 +458,6 @@ graph TD;
 ```
 
 ## -sion meaning action/instance of V-ing > NOUN
-
-
 
 ```mermaid
 graph TD;
@@ -518,3 +473,4 @@ graph TD;
 -ment -->development; 
 -ment -->punishment; 
 -ment -->unemployment;
+```
