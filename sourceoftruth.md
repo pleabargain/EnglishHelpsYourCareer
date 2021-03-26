@@ -8645,7 +8645,8 @@ Do you know many people in Spain ?
 ## poverty
 * Poverty can happen to anyone in certain circumstances.
 
-
+## superstition
+* Every culture has its own batch of superstitions.
 
 ## caveats
 * There are some caveats.
