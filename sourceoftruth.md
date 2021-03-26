@@ -7919,7 +7919,7 @@ show
 
 
 # topic: weekend plans
-* I'm **planning** to *go* to my ***mother's***.
+* I'm planning to go to my mother's.
 * I'm going to my mother's place and meet a friend.
 * What do you think we should do over the weekend?
 * 
