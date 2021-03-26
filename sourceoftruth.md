@@ -7915,12 +7915,14 @@ show
 
 
 
-
+# topic formula one
 
 
 # topic: weekend plans
 * I'm **planning** to *go* to my ***mother's***.
 * I'm going to my mother's place and meet a friend.
+* What do you think we should do over the weekend?
+* 
 
 ---
 
@@ -7932,7 +7934,7 @@ Ana: Yah! Sure. What movie did you want to see?
 
 Bob: I want to see Titanic again!
 
-Ana: Oh, that's a great movie! Sure I could see it again.
+Ana: Oh, that's a great movie! Sure, I could see it again.
 
 Bob: Ok, we can meet Saturday night at 6 p.m. near the XYZ cinema.
 
