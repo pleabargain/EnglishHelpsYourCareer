@@ -5488,6 +5488,9 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 # adjectives
 
+## superstitious
+* He is very superstitious. Don't talk to him about mirrors!
+
 ## cruelty
 * The old woman down the hall was accused of cruelty to animals.
 
