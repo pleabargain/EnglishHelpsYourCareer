@@ -618,22 +618,18 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 *  available from a literal interpretation of the words.
 # Between you and me and the cat's whiskers
 *  This idiom is used when telling someone something that you want them to keep secret.
+
 # Beyond a shadow of a doubt
 *  If something's beyond a shadow of a doubt, then absolutely no doubts remain about it.
 
 
 
-
----* * * ** 
-* * * * * * * * *       ---
-
-
 # Beyond belief
-       If people behave in such a way that you find it almost impossible to accept that they actually did it, then you can say
-       that their behavior was beyond belief.
+*  If people behave in such a way that you find it almost impossible to accept that they actually did it, then you can say that their behavior was beyond belief.
 
 # Beyond our ken
 * If something's beyond your ken, it is beyond your understanding.
+  
 # Beyond the pale
 * If something's beyond the pale, it is too extreme to be acceptable morally or socially.
 # Big Apple
@@ -643,236 +639,295 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 # Big cheese
 * The big cheese is the boss.
 # Big fish
-* An important person in a company or an organisation is a big fish.
+* An important person in a company or an organization is a big fish.
 # Big fish in a small pond
-* A big fish in a small pond is an important person in a small place or organisation.
+* A big fish in a small pond is an important person in a small place or organization.
 # Big hitter
 * A big hitter is someone who commands a lot of respect and is very important in their field.
 # Big nose
 * If someone has a big nose, it means they are excessively interested in everyone else's business.
+  
 # Big picture
 * The big picture of something is the overall perspective or objective, not the fine detail.
+  
 # Big time
 * This can be used to with the meaning 'very much'- if you like something big time, you like it a lot.
+
 # Bigger fish to fry
-* If you aren't interested in something because it isn't important to you and there are more important things for you to
-* do, you have bigger fish to fry.
+* If you aren't interested in something because it isn't important to you and there are more important things for you to do, you have bigger fish to fry.
+
 # Bird in the hand is worth two in the bush
-* 'A bird in the hand is worth two in the bush' is a proverb meaning that it is better to have something that is certain than
-* take a risk to get more, where you might lose everything.
+* 'A bird in the hand is worth two in the bush' is a proverb meaning that it is better to have something that is certain than take a risk to get more, where you might lose everything.
+
 # Bird's eye view
 * If you have a bird's eye view of something, you can see it perfectly clearly.
+
 # Bird-brain
 * Someone who has a bird-brain, or is bird-brained, is stupid.
+
 # Birds and the bees
 * If a child is taught about the birds and the bees, they are taught about sex.
+
 # Birds of a feather flock together
 * This idiom means that people with similar interests will stick together.
+
 # Birthday suit
 * If you are in your birthday suit, you are naked.
+
 # Bit between your teeth
-* If you take or have the bit between your teeth, you take or have control of a situation. (Bit = piece of metal in a horse's
-* mouth)
+* If you take or have the bit between your teeth, you take or have control of a situation. (Bit = piece of metal in a horse's mouth)
+  
 # Bit part
 * If someone has a small or unimportant role in something, they have a bit part.
 
 # Bit player
 *  A bit player has a small or unimportant role in something.
+
 # Bite off more than you can chew
 *  If you bite off more than you can chew, you take on more responsibilities than you can manage. 'Don't bite off more
 *  than you can chew' is often used to advise people against agreeing to more than they can handle.
+
 # Bite the bullet
 *  If you have to bite the bullet, you have to accept or face something unpleasant because it cannot be avoided.
+
 # Bite the dust
 *  This is a way of saying that somebody has died, especially if they are killed violently like a soldier in battle.
 
 
 
 
----* * * *      
-* * * * * * * * *     ---
-
-
 # Bite your lip
-* If you have to bite your lip, you have to make a conscious effort not to react or to keep quiet about something that
-* displeases you.
+* If you have to bite your lip, you have to make a conscious effort not to react or to keep quiet about something that displeases you.
+
 # Bite your tongue
 * If you bite your tongue, you refrain from speaking because it is socially or otherwise better not to.
+
 # Bits and bobs
 * Bits and bobs are small, remnant articles and things- the same as odds and ends.
+
 # Bitter end
 * If you do something to the bitter end, you do it to the very end, no matter how unsuccessful you are.
+
 # Bitter pill to swallow
 * A bitter pill to swallow is something that is hard to accept.
+
 # Black and white
 * When it is very clear who or what is right and wrong, then the situation is black and white.
+
 # Black as Newgate's knocker
-* (UK) If things are as black as Newgate's knocker, they are very bad. Newgate was an infamous prison in England, so its
-* door knocker meant trouble.
+* (UK) If things are as black as Newgate's knocker, they are very bad. Newgate was an infamous prison in England, so its door knocker meant trouble.
+
 # Black hole
 * If there is a black hole in financial accounts, money has disappeared.
+
 # Black sheep
-* Someone who is the black sheep doesn't fit into a group or family because their behavior or character is not good
-* enough.
+* Someone who is the black sheep doesn't fit into a group or family because their behavior or character is not good enough.
+
 # Bleeding edge
 * Similar to 'cutting edge', this implies a technology or process that is at the forefront or beyond current practices.
 * However, because it is unproven, it is often dangerous to use (hence the 'bleeding').
+
 # Bleeding heart
 * A bleeding heart is a person who is excessively sympathetic towards other people.
 
 # Blessing in disguise
 *  If some bad luck or misfortune ultimately results in something positive, it's a blessing in disguise.
+
 # Blind as a bat
 *  If you are in total darkness and can't see anything at all, you are as blind as a bat.
+
 # Blind leading the blind
-*  When the blind are leading the blind, the people in charge of something don't know anything more than the people
-*  they are in charge of, when they should have greater knowledge.
+*  When the blind are leading the blind, the people in charge of something don't know anything more than the people they are in charge of, when they should have greater knowledge.
+
 # Blink of an eye
 *  If something happens in the blink of an eye, it happens so fast it is almost impossible to notice it.
+
 # Blood and thunder
 *  An emotional speech or performance is full of blood and thunder.
+
 # Blood is thicker than water
 *  This idiom means that family relationships are stronger than others.
+
 # Blood is worth bottling
-*  (AU) If an Australian says to you "Your blood is worth bottling", he/she is complimenting or praising you for doing
-*  something or being someone very special.
+*  (AU) If an Australian says to you "Your blood is worth bottling", he/she is complimenting or praising you for doing something or being someone very special.
+
 # Blood out of a stone
 *  If something is like getting blood out of a stone, it is very difficult indeed.
+
 # Blood out of a stone
-*  'You can't get blood out of a stone' means that it is impossible to get something from someone if they don't have it. We
-*  also say that it was 'like getting blood from a stone' when it was very hard to get an answer from someone. 'Blood from
-*  a rock' is an alternative.
+*  'You can't get blood out of a stone' means that it is impossible to get something from someone if they don't have it. We  also say that it was 'like getting blood from a stone' when it was very hard to get an answer from someone. 'Blood from  a rock' is an alternative.
+  
 # Blood, sweat and tears
 *  If something will take blood, sweat and tears, it will be very difficult and will require a lot of effort and sacrifice.
+
 # Blow a gasket
 *  If you blow a gasket, you get very angry.
+
 # Blow by blow
 *  A blow-by-blow description gives every detail in sequence.
+
 # Blow hot and cold
-*  If you blow hot and cold on an idea, your attitude and opinion keeps changing; one minute you are for it, the next you
-*  are against.
+*  If you blow hot and cold on an idea, your attitude and opinion keeps changing; one minute you are for it, the next you  are against.
 
-
-
----* * * *    
-* * * * * * * * *       ---
 
 
 # Blow off steam
 * (USA) If you blow off steam, you express your anger or frustration.
+
 # Blow out of the water
 * If something, like an idea, is blown out of the water, it is destroyed or defeated comprehensively.
+
 # Blow the cobwebs away
 * If you blow the cobwebs away, you make sweeping changes to something to bring fresh views and ideas in.
 
 # Blow your own trumpet
 *  If someone blows their own trumpet, they boast about their talents and achievements.
+
 # Blow your stack
 *  If you blow your stack, you lose your temper.
+
 # Blow your top
 *  If someone blows their top, they lose their temper.
+
 # Blue blood
 *  Someone with blue blood is royalty.
+
 # Blue-eyed boy
-*  Someone's blue-eyed boy is their favourite person.
+*  Someone's blue-eyed boy is their favorite person.
+
 # Bob's your uncle
-*  (UK) This idiom means that something will be successful: Just tell him that I gave you his name and Bob's your uncle-
-*  he'll help you.
+*  (UK) This idiom means that something will be successful: Just tell him that I gave you his name and Bob's your uncle-  he'll help you.
+
 # Body politic
-*  A group of people organised under a single government or authority (national or regional) is a body politic.
+*  A group of people organized under a single government or authority (national or regional) is a body politic.
+
 # Bolt from the blue
 *  If something happens unexpectedly and suddenly, it is a bolt from the blue.
+
 # Bone of contention
 *  If there is an issue that always causes tension and arguments, it is a bone of contention.
+
 # Bone to pick
-*  If you have a bone to pick with someone, you are annoyed about something they have done and want to tell them how
-*  you feel.
+*  If you have a bone to pick with someone, you are annoyed about something they have done and want to tell them how  you feel.
+
 # Boot is on the other foot
 *  When the boot's on the other foot, a person who was in a position of weakness is now in a position of strength.
+
 # Born to the purple
 *  Someone who is born to the purple is born in a royal or aristocratic family. ("Born in the purple" is also used.)
+
 # Born with a silver spoon in your mouth
 *  If you are born with a silver spoon in your mouth, you are born into a rich family.
+
 # Bottom line
 *  In accountancy, the bottom line is net income, and is used idiomatically to mean the conclusion.
+
 # Bounce off the walls
 *  If someone's bouncing off the walls, they are very excited about something.
+
 # Bouquet of orchids
 *  Id someone deserves a bouquet of orchids, they have done something worthy of praise.
+
 # Box and dice
 *  Box and dice means everything.
+
 # Box clever
 *  (UK) If you box clever, you use your intelligence to get what you want, even if you have to cheat a bit.
+
 # Boxing and coxing
-*  If people are boxing and coxing, they are sharing responsibilities so that one of them is working while the other isn't. It
-*  can also be used when couples are sharing a house, but their relationship has broken down and when one is at home,
-*  the other stays out.
+*  If people are boxing and coxing, they are sharing responsibilities so that one of them is working while the other isn't. It  can also be used when couples are sharing a house, but their relationship has broken down and when one is at home,  the other stays out.
+
 # Brain surgery
 *  If something is not brain surgery, it isn't very complicated or difficult to understand or master.
+
 # Brass monkey
 *  If it's brass monkey weather, or cold enough to freeze the balls off a brass monkey, it is extremely cold.
+
 # Brass neck
 *  (UK) Someone who has the brass neck to do something has no sense of shame about what they do.
+
 # Brass tacks
 *  If you get down to brass tacks, you get down to the real business.
+Ana: I want to talk about our budget.
+
+Bob: Great! Let's get down to brass tacks! 
+
 # Bread and butter
 *  Bread and butter issues are ones that affect people directly and in a very important way.
-
----* * * *     
-* * * * * * * * *   ---
 
 
 # Breadwinner
 * Used to describe the person that earns the most money. For example - She's the breadwinner in the family.
+  
 # Break a leg
 * This idiom is a way of wishing someone good luck.
+
 # Break even
 * If you break even, you don't make any money, but you don't lose any either.
+
 # Break ground
-* If you break ground, or break new ground, you make progress, taking things into a new area or going further than
-* anyone has gone before. 'Ground-breaking' is used an adjective.
+* If you break ground, or break new ground, you make progress, taking things into a new area or going further than anyone has gone before. 'Ground-breaking' is used an adjective.
+  
 # Break the ice
-* When you break the ice, you get over any initial embarrassment or shyness when you meet someone for the first time
-* and start conversing.
+* When you break the ice, you get over any initial embarrassment or shyness when you meet someone for the first time and start conversing.
+
 # Break your duck
 * (UK) If you break your duck, you do something for the first time.
+
 # Break your heart
 * If someone upsets you greatly, they break your heart, especially if they end a relationship.
+
 # Breathe down your neck
 * If someone follows you or examines what you're doing very closely, they are breathing down your neck.
+
 # Breathe your last
 * When you breathe your last, you die.
+
 # Bright as a button
 * A person who is as bright as a button is very intelligent or smart.
+
 # Bright-eyed and bushy-tailed
 * If someone's bright-eyed and bushy-tailed, they are full of energy and enthusiasm.
+
 # Brighten up the day
 * If something brightens up your day, something happens that makes you feel positive and happy all day long.
+
 # Bring a knife to a gunfight
 * If someone brings a knife to a gunfight, they are very badly prepared for something.
+
 # Bring home the bacon
 * A person who brings home the bacon earns the money that a family live on.
+
 # Bring someone to book
 * If somebody is brought to book, they are punished or made to account for something they have done wrong.
+
 # Bring the house down
 * Something that brings the house down is acclaimed and praised vigorously.
+
 # Broad church
-* If an organisation is described as broad church, it is tolerant and accepting of different opinions and ideas.
+* If an organization is described as broad church, it is tolerant and accepting of different opinions and ideas.
+
 # Broad strokes
 * If something is described or defined with broad stokes, then only an outline is given, without fine details.
+
 # Brown nose
-* When someone tries to make themselves popular with somebody, usually in a position of authority, especially by
-* flattering them, they are brown nosing.
+* When someone tries to make themselves popular with somebody, usually in a position of authority, especially by flattering them, they are brown nosing.
+
 # Brownie points
 * If you try to earn Brownie points with someone, you do things you know will please them.
+
 # Brush under the carpet
 * If you brush something under the carpet, you are making an attempt to ignore it, or hide it from others.
+
 # Bull in a China shop
 * If someone behaves like a bull in a China shop, they are clumsy when they should be careful.
+
 # Bun in the oven
 * If a woman has a bun in the oven, she is pregnant.
+
 # Bundle of nerves
 * Someone who is a bundle of nerves is very worried or nervous.
+
 # Burn the candle at both ends
 * Someone who burns the candle at both ends lives life at a hectic pace, doing things which are likely to affect their
 * health badly.
@@ -1644,7 +1699,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 * * * * * * * * * * ---
 
 
-*  (UK) A fifth columnist is a member of a subversive organisation who tries to help an enemy invade.
+*  (UK) A fifth columnist is a member of a subversive organization who tries to help an enemy invade.
 # Fifth wheel
 *  (USA) A fifth wheel is something unnecessary or useless.
 # Fight an uphill battle
@@ -2906,7 +2961,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 # Leave well alone
 * If you leave something well alone, you keep a safe distance from it, either physically or metaphorically.
 # Left hand doesn't know what the right hand is doing
-* If the left hand doesn't know what the right hand is doing, then communication within a company, organisation, group,
+* If the left hand doesn't know what the right hand is doing, then communication within a company, organization, group,
 * etc, is so bad that people don't know what the others are doing.
 # Left in the dark
 * If you are left in the dark about something, you aren't given the information that you should have.
@@ -3405,7 +3460,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 * version is 'a new brush sweeps clean, but an old brush knows the corners', which warns that experience is also a
 * valuable thing. Sometimes 'broom' is used instead of 'brush'.
 # New kid on the block
-* A new kid on the block is a person who has recently joined a company, organisation, team, etc, and does not know how
+* A new kid on the block is a person who has recently joined a company, organization, team, etc, and does not know how
 * things work yet.
 # New lease of life
 * If someone finds new enthusiasm and energy for something, they have a new lease of life.
@@ -4148,7 +4203,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 # Rake someone over the coals
 *  (USA) If you rake someone over the coals, you criticize or scold them severely.
 # Rank and file
-*  The rank and file are the ordinary members of a company, organisation, etc, excluding the managers and directors.
+*  The rank and file are the ordinary members of a company, organization, etc, excluding the managers and directors.
 # Rat race
 *  The rat race is the ruthless, competitive struggle for success in work, etc.
 # Rather you than me
@@ -4282,7 +4337,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 # Rub someone up the wrong way
 *  If you annoy or irritate someone when you didn't mean to, you rub them up the wrong way.
 # Rudderless ship
-*  If an organisation, company, government, etc, is like a rudderless ship, it has no clear direction and drifts about without
+*  If an organization, company, government, etc, is like a rudderless ship, it has no clear direction and drifts about without
 *  reaching its goals.
 # Ruffle a few feathers
 *  If you ruffle a few feathers, you annoy some people when making changes or improvements.
@@ -4468,7 +4523,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 # Shanks's pony
 * (UK) If you go somewhere by Shanks's pony, you walk there.
 # Shape up or ship out
-* If someone has to shape up or ship out, they have to improve or leave their job, organisation, etc.
+* If someone has to shape up or ship out, they have to improve or leave their job, organization, etc.
 # Sharp as a tack
 * (USA) If someone is as sharp as a tack, they are very clever indeed.
 # Sharp cookie
@@ -4728,7 +4783,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 # Square Mile
 * (UK) The Square Mile is the City, the financial area of London.
 # Square peg in a round hole
-* If somebody's in a situation, organisation, etc, where they don't fit in and feel out of place, they are a square peg in a
+* If somebody's in a situation, organization, etc, where they don't fit in and feel out of place, they are a square peg in a
 * round hole.
 # Squeaky clean
 * If something is squeaky clean, it is very clean indeed- spotless. If a person is squeaky clean, they have no criminal record
@@ -4917,7 +4972,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 * disadvantages as well of the advantages of something.
 # Take up the torch
 * If you take up the torch, you take on a challenge or responsibility, usually when someone else retires, or leaves an
-* organisation, etc.
+* organization, etc.
 # Take your breath away
 * If something takes your breath away, it astonishes or surprises you.
 # Take your eye off the ball
