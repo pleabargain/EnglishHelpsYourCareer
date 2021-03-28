@@ -5622,14 +5622,19 @@ Bob: Great! Let's get down to brass tacks!
 *  If something is white-bread, it is very ordinary, safe and boring.
 # Who wears the pants?
 *  (USA) The person who wears the pants in a relationship is the dominant person who controls things.
+
 # Who wears the trousers?
 *  (UK) The person who wears the trousers in a relationship is the dominant person who controls things.
+
 # Whole ball of wax
 *  (USA) The whole ball of wax is everything.
+
 # Whole kit and caboodle
 *  The whole kit and caboodle means 'everything' required or involved in something. ('Kaboodle' is an alternative  spelling.)
+
 # Whole new ball game
 *  If something's a whole new ball game, it is completely new or different.
+
 # Whole shebang
 *  The whole shebang includes every aspect of something.
 
@@ -5637,45 +5642,61 @@ Bob: Great! Let's get down to brass tacks!
 
 # Wide berth
 *  If you give someone a wide berth, you keep yourself well away from them because they are dangerous.
+
 # Wide of the mark
 *  If something is wide of the mark, it is inaccurate or incorrect.
+
 # Wild goose chase
 *  A wild goose chase is a waste of time- time spent trying to do something unsuccessfully.
+
 # Will never fly
 *  If an idea or project, etc, will never fly, it has no chance of succeeding.
+
 # Will-o'-the-wisp
 *  Something that deceives by its appearance is a will-o’-the-wisp; it looks good, but turns out to be a disappointment.
+
 # Win by a nose
 *  If somebody wins by a nose, they only just beat the others.
+
 # Window dressing
-*  If something is done to pretend to be dealing with an issue or problem, rather than actually dealing with it, it is window
-*  dressing.
+*  If something is done to pretend to be dealing with an issue or problem, rather than actually dealing with it, it is window dressing.
 # Wing and a prayer
-*  If you do something on a wing and a prayer, you try to do something and hope you'll succeed even though you have
-*  very little chance of success.
+*  If you do something on a wing and a prayer, you try to do something and hope you'll succeed even though you have very little chance of success.
+
 # Winner takes all
 *  If everything goes to the winner, as in an election, the winner takes all.
+
 # Wipe the floor with
 *  (UK) If you wipe the floor with someone, you destroy the arguments or defeat them easily.
+
 # Wipe the smile of someone's face
 *  If you wipe the smile of someone's face, you do something to make someone feel less pleased with themselves.
+
 # With a heavy hand
 *  If someone does something with a heavy hand, they do it in a strict way, exerting a lot of control.
+
 # With child
 *  (UK) If a woman's with child, she's pregnant.
+
 # With flying colours (colors)
 *  If you pass something with flying colours (colors), you pass easily, with a very high mark or grade.
+
 # Wither on the vine
 *  If something withers on the vine, it fails to get the intended result, doesn't come to fruition.
+
 # Without a hitch
 *  If something happens without a hitch, nothing at all goes wrong.
+
 # Wolf in sheep's clothing
 *  A wolf in sheep's clothing is something dangerous that looks quite safe and innocent.
+
 # Wood for the trees
 *  (UK) If someone can't see the wood for the trees, they get so caught up in small details that they fail to understand the
-*  bigger picture.
+  bigger picture.
+
 # word salad
 * When someone uses a bunch of words to explain something that only needs a few words.
+
 # Word of mouth
 *  If something becomes known by word of mouth, it is because people are talking about it, not through publicity, etc.
 # Word of the law
