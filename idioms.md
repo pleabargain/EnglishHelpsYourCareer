@@ -3094,24 +3094,29 @@ Bob: Great! Let's get down to brass tacks!
 * If something if like pulling teeth, it is very difficult, especially if trying to extract information or to get a straight answer from someone.
 # Like taking candy from a baby
 * (USA) If something is like taking candy from a baby, it is very easy to do.
+
 # Like the back of your hand
 * If you know something like the back of your hand, you know it very well indeed.
+
 # Like the clappers
 * If something is going like the clappers, it is going very fast.
+
 # Like there's no tomorrow
 * If you do something like there's no tomorrow, you do it fast or energetically.
+
 # Like two peas in a pod
 * Things that are like two peas in a pod are very similar or identical,
+
 # Like white on rice
-* (USA) If you do something like white on rice, you do it very closely: When Bob found out I had front row tickets for the
-* concert, he stuck to me like white on rice.
+* (USA) If you do something like white on rice, you do it very closely: When Bob found out I had front row tickets for the concert, he stuck to me like white on rice.
+
 # Like wildfire
 * If something happens or spreads like wildfire, it happens very quickly and intensely.
+
 # Lily-livered
 * Someone who is lily-livered is a coward.
 # Lines of communication
-* Lines of communication are the routes used to communicate by people or groups who are in conflict; a government
-* might open lines of communication with terrorists if it wished to negotiate with them.
+* Lines of communication are the routes used to communicate by people or groups who are in conflict; a government might open lines of communication with terrorists if it wished to negotiate with them.
 # Lion's share
 * The lion's share of something is the biggest or best part.
 # Lip service
@@ -3119,17 +3124,22 @@ Bob: Great! Let's get down to brass tacks!
 * is hollow and empty.
 # Little pitchers have big ears
 * (USA) This means that children hear more and understand the world around them better than many adults realize.<br
-* />
+
 # Live wire
 * A person who is very active, both mentally and physically, is a live wire.
+
 # Lo and behold
 * This phrase is used to express surprise.
+
 # Loan shark
 * A loan shark lends money at very high rates of interest.
+
 # Lock horns
 * When people lock horns, they argue or fight about something.
+
 # Lock the stable door after the horse has bolted
 * If someone takes action too late, they do this; there is no reason to lock an empty stable.
+
 # Lock, stock and barrel
 *  This is an expressions that means 'everything'; if someone buys a company lock, stock and barrel, they buy absolutely  everything to do with the company.
 # Long in the tooth
@@ -4419,8 +4429,7 @@ Bob: Great! Let's get down to brass tacks!
 # Russian roulette
 *  If people take a dangerous and unnecessary risk, they are playing Russian roulette.
 # Rusty needle
-*  When something is described as a rusty needle, it is badly damaged but still works, or if someone very is sick or tired
-*  but still manages to do things at a fairly good level. An alternative form is "a tarnished needle".
+*  When something is described as a rusty needle, it is badly damaged but still works, or if someone very is sick or tired but still manages to do things at a fairly good level. An alternative form is "a tarnished needle".
 
 
 
@@ -4447,21 +4456,22 @@ Bob: Great! Let's get down to brass tacks!
 * Your salad days are an especially happy period of your life.
 # Salt in a wound
 * If you rub salt in a wound, you make someone feel bad about something that is already a painful experience. 'Pour salt
-* on a wound' is an alternative form of the idiom.
+  on a wound' is an alternative form of the idiom.
 # Salt of the earth
 * People who are salt of the earth are decent, dependable and unpretentious.
 # Save face
 * If someone saves face, they manage to protect their reputation.
 # Save someone's bacon
-* If something saves your bacon, it saves your life or rescues you from a desperate situation. People can also save your
-* bacon.
+* If something saves your bacon, it saves your life or rescues you from a desperate situation. People can also save your bacon.
+
 # Save your skin
 * If someone saves their skin, they manage to avoid getting into serious trouble.
+
 # Saved by the bell
 * If you are saved by the bell, you are rescued from a danger or a tricky situation just in time.
+
 # Saving grace
-* If someone has some character defects, but has a characteristic that compensate for their failings and shortcomings,
-* this is their saving grace.
+* If someone has some character defects, but has a characteristic that compensate for their failings and shortcomings, this is their saving grace.
 # Say uncle
 * (USA) If you say uncle, you admit defeat. ('Cry uncle' is an alternative form.)
 # Say when
@@ -4496,11 +4506,9 @@ Bob: Great! Let's get down to brass tacks!
 # Seamy side
 * The seamy side of something is the unpleasant or sordid aspect it has.
 # Searching question
-* A searching question goes straight to the heart of the subject matter, possibly requiring an answer with a degree of
-* honesty that the other person finds uncomfortable.
+* A searching question goes straight to the heart of the subject matter, possibly requiring an answer with a degree of honesty that the other person finds uncomfortable.
 # Second thoughts
-* If some has second thoughts, they start to think that an idea, etc, is not as good as it sounded at first and are starting to
-* have doubts.
+* If some has second thoughts, they start to think that an idea, etc, is not as good as it sounded at first and are starting to have doubts.
 # Second wind
 * If you overcome tiredness and find new energy and enthusiasm, you have second wind.
 # See eye to eye
@@ -4516,15 +4524,13 @@ Bob: Great! Let's get down to brass tacks!
 # Seeing is believing
 * This idiom means that people can only really believe what they experience personally.
 # Seen better days
-* If something's seen better days, it has aged badly and visibly compared to when it was new. The phrase can also be
-* used to describe people.
+* If something's seen better days, it has aged badly and visibly compared to when it was new. The phrase can also be used to describe people.
 # Sell down the river
 * If you sell someone down the river, you betray their trust.
 # Sell like hot cakes
 * If a product is selling very well, it is selling like hot cakes.
 # Sell your birthright for a mess of pottage
-* If a person sells their birthright for a mess of pottage, they accept some trivial financial or other gain, but lose
-* something much more important. 'Sell your soul for a mess of pottage' is an alternative form.
+* If a person sells their birthright for a mess of pottage, they accept some trivial financial or other gain, but lose something much more important. 'Sell your soul for a mess of pottage' is an alternative form.
 # Sell your soul
 * If someone sells their soul, their betray the most precious beliefs.
 # Send someone to Coventry
