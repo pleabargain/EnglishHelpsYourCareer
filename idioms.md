@@ -3293,28 +3293,31 @@ Bob: Great! Let's get down to brass tacks!
 # Melting pot
 * A melting pot is a place where people from many ethnicities and nationalities live together.
 
----* * * *   
-* * * * * * * * *      ---
-
 
 # Memory like a sieve
-*  If somebody can't retain things for long in his or her memory and quickly forgets, he or she has a memory like a sieve. A
-*  sieve has lots of tiny holes in it to let liquids out while keeping the solids inside.
+*  If somebody can't retain things for long in his or her memory and quickly forgets, he or she has a memory like a sieve. A  sieve has lots of tiny holes in it to let liquids out while keeping the solids inside.
+
 # Memory like an elephant
-*  'An elephant never forgets' is a saying, so if a person has a memory like an elephant, he or she has a very good memory
-*  indeed.
+*  'An elephant never forgets' is a saying, so if a person has a memory like an elephant, he or she has a very good memory  indeed.
+
 # Mend fences
 *  When people mend fences, they try to improve or restore relations that have been damaged by disputes or arguments.
+
 # Method in his madness
 *  If there's method in someone's madness, they do things in a strange and unorthodox way, but manage to get results.
+
 # Mickey Mouse
 *  If something is Mickey Mouse, it is intellectually trivial or not of a very high standard.
+
 # Midas touch
 *  If someone has the Midas touch, they make a lot of money out of any scheme they try.
+
 # Mighty oaks from little acorns grow
 *  Big or great things start very small.
+
 # Millstone round your neck
 *  A millstone around your neck is a problem that prevents you from doing what you want to do.
+
 # Mind the gap
 *  Mind the gap is an instruction used on the Underground in the UK to warn passengers to be careful when leaving the
 *  tube or train as there is quite a distance between the train and the platform.
@@ -4170,18 +4173,15 @@ Bob: Great! Let's get down to brass tacks!
 *  If you make some money easily, you make a quick buck.
 # Quick off the mark
 *  If someone is quick off the mark, they are very quick to use, start or do something new.
+
 # Quick on the trigger
 *  Someone who is quick on the trigger acts or responds quickly.
+
 # Quids in
 *  (UK) If somebody is quids in, they stand to make a lot of money from something.
+
 # Quiet as a mouse
 *  If someone's as quiet as a mouse, they make absolutely no noise.
-
-
-
-
----* * * *      
-* * * * * * * * *     ---
 
 
 
@@ -4306,20 +4306,20 @@ Bob: Great! Let's get down to brass tacks!
 # Roll out the red carpet
 * If you roll out the red carpet, you treat someone in a special way, especially when welcoming them.
 # Roll with the punches
-
----* * * *    
-* * * * * * * * *      ---
-
-
 *  If you roll with the punches, you are flexible and able to adapt to difficult circumstances.
+
 # Rolling in the aisles
 *  If the audience watching something are laughing loudly, the show has them rolling in the aisles.
+
 # Rome was not built in a day
 *  This idiom means that many things cannot be done instantly, and require time and patience.
+
 # Rooted to the spot
 *  If someone is rooted to the spot, they canot move, either physically or they cannot think their way out of a problem.
+
 # Rose-colored glasses
 *  If people see things through rose-colored (coloured) glasses, they see them in a more positive light than they really are.
+
 # Rose-tinted glasses
 *  If people see things through rose-tinted glasses, they see them in a more positive light than they really are.
 # Rough and ready
@@ -4370,12 +4370,8 @@ Bob: Great! Let's get down to brass tacks!
 # Run the show
 *  If someone runs the show, they like to be in control and make all the decisions.
 # Run your mouth off
-
----* * * *     
-* * * * * * * * *       ---
-
-
 *  If someone runs their mouth off, they talk too much.
+
 # Run-of-the-mill
 *  If something is run-of-the-mill, there is nothing exceptional about it- it is ordinary or average.
 # Running on empty
@@ -4496,37 +4492,35 @@ Bob: Great! Let's get down to brass tacks!
 # Separate the sheep from the goats
 * If you separate the sheep from the goats, you sort out the good from the bad.
 # Separate the wheat from the chaff
-
-
-
----* * * *      
-* * * * * * * * *   ---
-
-
-* When you separate the wheat from the chaff, you select what is useful or valuable and reject what is useless or
-* worthless.
+* When you separate the wheat from the chaff, you select what is useful or valuable and reject what is useless or worthless.
 # Separate the wheat from the chaff
-* If you separate the wheat from the chaff, you separate things that are of a high standard from things that are of low
-* quality.
+* If you separate the wheat from the chaff, you separate things that are of a high standard from things that are of low quality.
+
 # Set in stone
 * If something is set in stone, it cannot be changed or altered.
+
 # Set the wheels in motion
 * When you set the wheels in motion, you get something started.
+
 # Set your sights on
 * If you set your sights on someone or something, it is your ambition to beat them or to achieve that goal.
+
 # Seven sheets to the wind
 * If someone is seven sheets to the wind, they are very drunk.
+
 # Seventh heaven
 * If you are in seventh heaven, you are extremely happy.
+
 # Shades of meaning
-* Shades of meaning is a phrase used to describe the small, subtle differences in meaning between similar words or
-* phrases; 'kid' and 'youth' both refer to young people, but carry differing views and ideas about young people.
+* Shades of meaning is a phrase used to describe the small, subtle differences in meaning between similar words or phrases; 'kid' and 'youth' both refer to young people, but carry differing views and ideas about young people.
 # Shaggy dog story
 * A shaggy dog story is a joke which is a long story with a silly end.
 # Shake a leg
 * If you shake a leg, you are out of bed and active.
+
 # Shanks's pony
 * (UK) If you go somewhere by Shanks's pony, you walk there.
+
 # Shape up or ship out
 * If someone has to shape up or ship out, they have to improve or leave their job, organization, etc.
 # Sharp as a tack
@@ -4537,25 +4531,33 @@ Bob: Great! Let's get down to brass tacks!
 * If you shed light on something, you make it clearer and easier to understand.
 # Shifting sands
 * If the sands are shifting, circumstances are changing.
+
 # Shilly-shally
 * If people shilly-shally, they can't make up their minds about something and put off the decision.
+
 # Ship came in
 * If your ship has come in, something very good has happened to you.
 # Shipshape and Bristol fashion
 * If things are shipshape and Bristol fashion, they are in perfect working order.
+
 # Shoe is on the other foot
-* If the shoe is on the other foot, someone is experiencing what they used to make others experience, normally negative
-* things.
+* If the shoe is on the other foot, someone is experiencing what they used to make others experience, normally negative things.
+
 # Shoestring
 * If you do something on a shoestring, you try to spend the absolute minimum amount of money possible on it.
+
 # Shoot yourself in the foot
 * If you shoot yourself in the foot, you do something that damages your ambition, career, etc.
+
 # Shooting fish in a barrel
 * If something is like shooting fish in a barrel, it is so easy that success is guaranteed.
+
 # Short end of the stick
 * If someone gets the short end of the stick, they are unfairly treated or don't get what they deserve.
+
 # Short shrift
 * If somebody gives you short shrift, they treat you rudely and brusquely, showing no interest or sympathy.
+
 # Shot across the bow
 * A shot across the bow is a warning to tell someone to stop doing something or face very serious consequences.
 # Shot in the dark
@@ -4616,41 +4618,50 @@ Bob: Great! Let's get down to brass tacks!
 * If something is all at sixes and sevens, then there is a lot of disagreement and confusion about what should be done.
 # Sixty-four-thousand-dollar-question
 * The sixty-four-thousand-dollar-question is the most important question that can be asked about something.
+
 # Skate on thin ice
 * If someone is skating on thin ice, they are taking a big risk.
 
----* * * *      
-* * * * * * * * *       ---
 
 
 # Skeleton in the closet
 * If someone has a skeleton in the closet, they have a dark, shameful secret in their past that they want to remain secret.
+
 # Skin and bones
 * If someone is skin and bones, they are very underweight and look bad.
+
 # Skin in the game
 * A person who has skin in the game has invested in the company they are running.
 # Skin someone alive
 * If someone skins you alive, they admonish and punish you hard.
+
 # Skunkworks
-* An unauthorised, or hidden program or activity, often research-oriented, and out of the bureaucratic chain of
-* command is known as a 'skunkworks'.
+* An unauthorised, or hidden program or activity, often research-oriented, and out of the bureaucratic chain of command is known as a 'skunkworks'.
+
 # Slap on the wrist
-* If someone gets a slap on the wrist, they get a very minor punishment when they could have been punished more
-* severely.
+* If someone gets a slap on the wrist, they get a very minor punishment when they could have been punished more severely.
+
 # Sleep like a baby
 * If you sleep very well, you sleep like a baby.
+
 # Sleep like a log
 * If you sleep like a log, you sleep very soundly.
+
 # Sleep well- don't let the bedbugs bite
 * This is a way of wishing someone a good night's sleep.
+
 # Sleight of hand
 * Sleight of hand is the ability to use your hands in a clever way, like a magician performing tricks you can't see.
+
 # Slim chance
 * A slim chance is a very small chance.
+
 # Slip of the tongue
 * If you say something accidentally, it is a slip of the tongue.
+
 # Slippery customer
 * A person from whom it is difficult to get anything definite or fixed is a slippery customer.
+
 # Slippery slope
 * A slippery slope is where a measure would lead to further worse measures.
 # Slough of despond
@@ -4672,19 +4683,23 @@ Bob: Great! Let's get down to brass tacks!
 * A smarty pants is someone who displays the intelligence in an annoying way.
 # Smell a rat
 * If you smell a rat, you know instinctively that something is wrong or that someone is lying to you.
+
 # Smoke and mirrors
 * An attempt to conceal something is smoke and mirrors.
+
 # Smoke like a chimney
 * Someone who smokes very heavily smokes like a chimney.
+
 # Smoke the peace pipe
 * If people smoke the peace pipe, they stop arguing and fighting.
+
 # Smokestack industry
 * Heavy industries like iron and steel production, especially if they produce a lot of pollution, are smokestack industries.
+
 # Smoking gun
 * A smoking gun is definitive proof of someone's guilt.
 
----* * * *     
-* * * * * * * * *      ---
+
 
 
 # Smooth as a baby's bottom
