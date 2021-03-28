@@ -430,28 +430,29 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 *  A person who cannot be trusted is a bad egg. Good egg is the opposite.
 
 
----* * * *    
-* * * * * * * * *       ---
-
-
 # Bad shape
 *  If something's in bad shape, it's in bad condition. If a person's in bad shape, they are unfit or unhealthy.
+
 # Bad taste in your mouth
 *  If something leaves you with a bad taste in your mouth, you feel there is something wrong or bad about it.
+
 # Bad workers always blame their tools
-*  "A bad worker always blames their tools" - If somebody does a job badly or loses in a game and claims that they were
-*  let down by their equipment, you can use this to imply that this was not the case.
+*  "A bad worker always blames their tools" - If somebody does a job badly or loses in a game and claims that they were let down by their equipment, you can use this to imply that this was not the case.
+
 # Bag of nerves
 *  If someone is a bag of nerves, they are very worried or nervous.
+
 # Baker's dozen
 *  A Baker's dozen is 13 rather than 12.
+
 # Bald as a coot
 *  A person who is completely bald is as bald as a coot.
+
 # Ball is in your court
 *  If the ball is in your court, it is up to you to make the next decision or step.
+
 # Ballpark figure
-*  A ballpark figure is a rough or approximate number (guesstimate) to give a general idea of something, like a rough
-*  estimate for a cost, etc.
+*  A ballpark figure is a rough or approximate number (guesstimate) to give a general idea of something, like a rough estimate for a cost, etc.
 
 # Banana republic
 *  Banana republic is a term used for small countries that are dependent on a single crop or resource and governed badly
@@ -490,13 +491,9 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 *  A battle of nerves is a situation where neither side in a conflict or dispute is willing to back down and is waiting for the
 *  other side to weaken. ('A war of nerves' is an alternative form.)
 # Be that as it may
-*  Be that as it may is an expression which means that, while you are prepared to accept that there is some truth in what
-*  the other person has just said, it's not going to change your opinions in any significant manner.
+*  Be that as it may is an expression which means that, while you are prepared to accept that there is some truth in what the other person has just said, it's not going to change your opinions in any significant manner.
 
 
-
----* * * *      
-* * * * * * * * *    ---
 
 
 # Be up the spout
@@ -556,11 +553,8 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 *  In philosophy "to beg the question" is to assume something to be true that has not yet been proved. I have seen the
 *  idiom also to mean that a question is crying out to be asked.
 # Beggars can't be choosers
-*  This idiom means that people who are in great need must accept any help that is offered, even if it is not a complete
-*  solution to their problems.
+*  This idiom means that people who are in great need must accept any help that is offered, even if it is not a complete solution to their problems.
 
----* * * *    
-* * * * * * * * **   ---
 
 
 # Behind bars
@@ -935,26 +929,27 @@ Bob: Great! Let's get down to brass tacks!
 * If you stay up very late working or studying, you burn the midnight oil.
 # Burn your bridges
 * If you burn your bridges, you do something that makes it impossible to go back from the position you have taken.
+
 # Burning question
-
----* * * *   
-* * * * * * * * ** ---
-
-
 *  A burning question is something we all want to know about.
+
 # Bury the hatchet
 *  If you bury the hatchet, you make peace with someone and stop arguing or fighting.
 # Bury your head in the sand
 *  If someone buries their head in the sand, they ignore something that is obviously wrong.
+
 # Busman's holiday
 *  A busman's holiday is when you spend your free time doing the same sort of work as you do in your job.
+
 # Busted flush
 *  Someone or something that had great potential but ended up a useless failure is a busted flush.
 
 # Busy as a beaver
 *  If you're as busy as a beaver, you're very busy indeed.
+
 # Butter wouldn't melt in their mouth
 *  If someone looks as if butter wouldn't melt in their mouth, they look very innocent.
+
 # Butterflies in your stomach
 *  The nervous feeling before something important or stressful is known as butterflies in your stomach.
 # Button your lip
@@ -1060,16 +1055,17 @@ Bob: Great! Let's get down to brass tacks!
 # Cat's pajamas
 *  (USA) Something that is the cat's pajamas is excellent.
 
----* * * *      
-* * * * * * * * *      ---
 
 
 # Cat's whiskers
 *  Something excellent is the cat's whiskers.
+
 # Catch as catch can
 *  This means that people should try to get something any way they can.
+
 # Catch someone red-handed
 *  If someone is caught red-handed, they are found doing something wrong or illegal.
+
 # Caught with your hand in the cookie jar
 *  (USA) If someone is caught with his or her hand in the cookie jar, he or she is caught doing something wrong.
 # Chalk and cheese
@@ -1124,9 +1120,6 @@ Bob: Great! Let's get down to brass tacks!
 *  or their positions on issues.
 
 
-
----* * * *    
-* * * * * * * * **  ---
 
 
 # Circle the wagons
@@ -1243,16 +1236,14 @@ Bob: Great! Let's get down to brass tacks!
 * If you cook someone's goose, you ruin their plans.
 # Cook up a storm
 * If someone cooks up a storm, they cause a big fuss or generate a lot of talk about something.
+
 # Corner a market
 * If a business is dominant in an area and unlikely to be challenged by other companies, it has cornered the market.
+
 # Couch potato
-* A couch potato is an extremely idle or lazy person who chooses to spend most of their leisure time horizontal in front of
-* the TV and eats a diet that is mainly junk food.
+* A couch potato is an extremely idle or lazy person who chooses to spend most of their leisure time horizontal in front of the TV and eats a diet that is mainly junk food.
 
 
-
----* * * *     
-* * * * * * * * * * ---
 
 
 # Could eat a horse
@@ -1407,6 +1398,11 @@ Bob: Great! Let's get down to brass tacks!
 * (USA) This idiom means that different people do things in different ways that suit them.
 # Different strokes for different folks
 * (USA) This idiom means that different people do things in different ways that suit them.
+  
+# turns on a dime
+* AMERICAN. If something or someone turns on a dime, they suddenly change completely or do something completely different from what they were doing before. Note: A dime is an American coin worth ten cents. 
+* Employers need to be flexible and to turn on a dime in order to stay competitive.
+
 # Dime a dozen
 * (USA) If something is a dime a dozen, it is extremely common, possibly too common.
 # Dip your toes in the water
@@ -1437,9 +1433,6 @@ Bob: Great! Let's get down to brass tacks!
 * Dog days are very hot summer days.
 
 
-
----* * * *    
-* * * * * * * * *      ---
 
 
 # Dog eat dog
@@ -1480,10 +1473,13 @@ Bob: Great! Let's get down to brass tacks!
 *  examining it too closely.
 # Don't push my buttons!
 *  This can be said to someone who is starting to annoy you.
+
 # Don't sweat the small stuff
 *  (USA) This is used to tell people not to worry about trivial or unimportant issues.
+
 # Don't take any wooden nickels
 *  (USA) This idiom is used to advise people not to be cheated or ripped off.
+
 # Don't upset the applecart
 *  If you are advised not to upset the applecart, you are being told not to disturb the way things are done because it might
 *  ruin things.
@@ -1495,31 +1491,35 @@ Bob: Great! Let's get down to brass tacks!
 *  If a joke or story has been done to death, it has been told so often that it has stopped being funny.
 # Donkey's years
 *  This idiom means 'a very long time'.
+
 # Doormat
 *  A person who doesn't stand up for themselves and gets treated badly is a doormat.
+
 # Double Dutch
 *  (UK) If something is double Dutch, it is completely incomprehensible.
+
 # Double take
 *  If someone does a double take, they react very slowly to something to show how shocked or surprised they are.
 
----* * * *    
-* * * * * * * * *     ---
-
 
 # Double whammy
-* A double whammy is when something causes two problems at the same time, or when two setbacks occur at the same
-* time.
+* A double whammy is when something causes two problems at the same time, or when two setbacks occur at the same time.
+
 # Double-edged sword
-* If someone uses an argument that could both help them and harm them, then they are using a two-edged sword; it
-* cuts both ways.
+* If someone uses an argument that could both help them and harm them, then they are using a two-edged sword; it cuts both ways.
+
 # Doubting Thomas
 * A Doubting Thomas is someone who only believes what they see themselves, not what they are told.
+
 # Down and out
 * If someone is down and out, they are desperately poor and need help.
+
 # Down at heel
 * Someone who is down at heel is short of money. ('Down in heel' is used in American English)
+
 # Down for the count
 * If someone is down for the count, they have lost a struggle, like a boxer who has been knocked out.
+
 # Down in the doldrums
 * If somebody's down in the doldrums, they are depressed and lacking energy.
 # Down in the dumps
@@ -1530,82 +1530,107 @@ Bob: Great! Let's get down to brass tacks!
 * If something goes down the drain, especially money or work, it is wasted or produces no results.
 # Down the pan
 * If something has gone down the pan, it has failed or been ruined.
+
 # Down the tubes
 * If something has gone down the tubes, it has failed or been ruined.
 
 # Down to the wire
-*  (USA) If something goes down to the wire, like a competition, then it goes to the very last moment before it is clear
-*  who has won.
+*  (USA) If something goes down to the wire, like a competition, then it goes to the very last moment before it is clear  who has won.
+
 # Down-to-earth
 *  Someone who's down-to-earth is practical and realistic. It can also be used for things like ideas.
+
 # Drag your feet
-*  If someone is dragging their feet, they are taking too long to do or finish something, usually because they don't want to
-*  do it.
+*  If someone is dragging their feet, they are taking too long to do or finish something, usually because they don't want to  do it.
+
 # Drag your heels
 *  If you drag your heels, you either delay doing something or do it as slowly as possible because you don't want to do it.
+
 # Draw a blank
 *  If you try to find something out and draw a blank, you don't get any useful information.
+
 # Draw a line in the sand
 *  If you draw a line in the sand, you establish a limit beyond which things will be unacceptable.
+
 # Draw a long bow
 *  If someone draws a long bow, they lie or exaggerate.
+
 # Draw the line
 *  When you draw the line, you set out limits of what you find acceptable, beyond which you will not go.
+
 # Draw the shortest straw
 *  If someone draws the shortest straw, they lose or are chosen to do something unpleasant.
+
 # Dress to kill
 *  When someone is dressed to kill, they are dressed very smartly.
+
 # Dressed to the nines
 *  If you are in your very best clothes, you're dressed to the nines.
+
 # Drink like a fish
 *  If someone drinks like a fish, they drink far too much alcohol.
 # Drive a wedge
 *  If you drive a wedge between people, you exploit an issue so that people start to disagree.
 # Drive someone up the wall
 *  If something or someone drives you up the wall, they do something that irritates you greatly.
+
 # Drop in the bucket
 *  (USA) A drop in the bucket is something so small that it won't make any noticeable difference.
 
----* * * *    
-* * * * * * * * *       ---
+
 
 
 # Drop in the ocean
 *  A drop in the ocean implies that something will have little effect because it is small and mostly insignificant.
+
 # Drop someone a line
 *  If you drop someone a line, you send a letter to them.
+
 # Drop the ball
 *  If someone drops the ball, they are not doing their job or taking their responsibilities seriously enough and let
-*  something go wrong.
+  something go wrong.
+
 # Drunk as a lord
 *  (UK) Someone who is very drunk is as drunk as a lord.
+
 # Dry as a bone
 *  If your lawn is as dry as a bone, the soil is completely dry.
+
 # Dry spell
 *  If something or someone is having a dry spell, they aren't being as successful as they normally are.
+
 # Duck soup
 *  (USA) If something is duck soup, it is very easy.
+
 # Duck to water
 *  If you take to something like a duck to water, you find when you start that you have a natural affinity for it.
+
 # Ducks in a row
 *  (USA) If you have your ducks in a row, you are well-organized.
+
 # Dull as ditchwater
 *  (UK) If something is as dull as ditchwater, it is incredibly boring. A ditch is a long narrow hole or trench dug to contain
-*  water, which is normally a dark, dirty colour and stagnant (when water turns a funny colour and starts to smell bad). (In
-*  American English,'things are 'dull as dishwater'.)
+  water, which is normally a dark, dirty colour and stagnant (when water turns a funny colour and starts to smell bad). (In  American English,'things are 'dull as dishwater'.)
+
 # Dunkirk spirit
 *  (UK) Dunkirk spirit is when people pull together to get through a very difficult time.
+
 # Dutch auction
 *  If something is sold by setting a price, then reducing it until someone buys it, it is sold in a Dutch auction. It can also
-*  mean that something is changed until it is accepted by everyone.
+  mean that something is changed until it is accepted by everyone.
+
 # Dutch courage
 *  Dutch courage is the reckless bravery caused by drinking too much.
+
 # Dutch treat
 *  If something like a meal is a Dutch treat, then each person pays their own share of the bill.
+
 # Dutch uncle
 *  A Dutch uncle is a person who gives unwelcome advice.
+
 # Dwell on the past
 *  Thinking too much about the past, so that it becomes a problem is to dwell on the past.
+
 # Dyed-in-the-wool
 *  If someone is a dyed-in-the-wool supporter of a political party, etc, they support them totally, without any questions.
 
@@ -1616,23 +1641,26 @@ Bob: Great! Let's get down to brass tacks!
 
 # Face like thunder
 * If someone has a face like thunder, they are clearly very angry or upset about something.
+
 # Face the music
 * If you have to face the music, you have to accept the negative consequences of something you have done wrong.
+
 # Face value
 * If you take something at face value, you accept the appearance rather than looking deeper into the matter.
+
 # Facts of life
 * When someone is taught the facts of life, they learn about sex and reproduction.
+
 # Fair and square
 * If someone wins something fair and square, they follow the rules and win conclusively.
+
 # Fair crack of the whip
 * (UK) If everybody has a fair crack of the whip, they all have equal opportunities to do something.
+
 # Fair shake of the whip
 * (USA) If everybody has a fair shake of the whip, they all have equal opportunities to do something.
 
 
-
----* * * *     
-* * * * * * * * **  ---
 
 
 
@@ -1686,27 +1714,22 @@ Bob: Great! Let's get down to brass tacks!
 * If you feel blue, you are feeling unwell, mainly associated with depression or unhappiness.
 # Feet of clay
 * If someone has feet of clay, they have flaws that make them seem more human and like normal people.
+
 # Feet on the ground
 * A practical and realistic person has their feet on the ground.
 
 
 # Fiddle while Rome burns
 *  If people are fiddling while Rome burns, they are wasting their time on futile things while problems threaten to destroy
-*  them.
+  them.
 # Fifth columnist
-
----* * * *      
-* * * * * * * * * * ---
-
-
 *  (UK) A fifth columnist is a member of a subversive organization who tries to help an enemy invade.
 # Fifth wheel
 *  (USA) A fifth wheel is something unnecessary or useless.
 # Fight an uphill battle
 *  When you fight an uphill battle, you have to struggle against very unfavourable circumstances.
 # Fight tooth and nail
-*  If someone will fight tooth and nail for something, they will not stop at anything to get what they want. ('Fight tooth
-*  and claw' is an alternative.)
+*  If someone will fight tooth and nail for something, they will not stop at anything to get what they want. ('Fight tooth and claw' is an alternative.)
 # Fighting chance
 *  If you have a fighting chance, you have a reasonable possibility of success.
 # Find your feet
@@ -1737,36 +1760,41 @@ Bob: Great! Let's get down to brass tacks!
 # Fish out of water
 *  If you are placed in a situation that is completely new to you and confuses you, you are like a fish out of water.
 # Fishy
-*  If there is something fishy about someone or something, there is something suspicious; a feeling that there is
-*  something wrong, though it isn't clear what it is.
+*  If there is something fishy about someone or something, there is something suspicious; a feeling that there is something wrong, though it isn't clear what it is.
+
 # Fit as a fiddle
 *  If you are fit as a fiddle, you are in perfect health.
+
 # Fit for a king
 *  If something is fit for a king, it is of the very highest quality or standard.
+
 # Fit of pique
 *  If someone reacts badly because their pride is hurt, this is a fit of pique.
+
 # Fit the bill
 *  If something fits the bill, it is what is required for the task.
+
 # Fit to be tied
 *  If someone is fit to be tied, they are extremely angry.
+
 # Flash in the pan
 *  If something is a flash in the pan, it is very noticeable but doesn't last long, like most singers, who are very successful for
-*  a while, then forgotten.
+  a while, then forgotten.
+
 # Flat out
 *  If you work flat out, you work as hard and fast as you possibly can.
+
 # Fleet of foot
 *  If someone is fleet of foot, they are very quick.
+
 # Flesh and blood
 *  Your flesh and blood are your blood relatives, especially your immediate family.
 
----* * * *       
-* * * * * * * * *       ---
 
 
 # Flogging a dead horse
-* (UK) If someone is trying to convince people to do or feel something without any hope of succeeding, they're flogging a
-* dead horse. This is used when someone is trying to raise interest in an issue that no-one supports anymore; beating a
-* dead horse will not make it do any more work.
+* (UK) If someone is trying to convince people to do or feel something without any hope of succeeding, they're flogging a dead horse. This is used when someone is trying to raise interest in an issue that no-one supports anymore; beating a dead horse will not make it do any more work.
+  
 # Flowery speech
 * Flowery speech is full of lovely words, but may well lack substance.
 # Fly by the seat of one's pants
@@ -1816,16 +1844,13 @@ Bob: Great! Let's get down to brass tacks!
 *  If the result of, say, a football match is a foregone conclusion, then the result is obvious before the game has even
 *  begun.
 # Forest for the trees
-*  (USA) If someone can't see the forest for the trees, they get so caught up in small details that they fail to understand
-*  the bigger picture.
+*  (USA) If someone can't see the forest for the trees, they get so caught up in small details that they fail to understand the bigger picture.
+
 # Foul play
 *  If the police suspect foul play, they think a crime was committed.
+
 # Four corners of the earth
 *  If something goes to, or comes from, the four corners of the earth, it goes or comes absolutely everywhere.
-
----* * * *     
-* * * * * * * * *       ---
-
 
 # Four-square behind
 * If someone stands four-square behind someone, they give that person their full support.
@@ -1887,18 +1912,17 @@ Bob: Great! Let's get down to brass tacks!
        A game plane is a strategy.
 # Garbage in, garbage out
 
----* * * *     
-* * * * * * * * ** ---
-
-
 * If a computer system or database is built badly, then the results will be bad.
+
 # Gardening leave
-* (UK) If someone is paid for a period when they are not working, either after they have given in their notice or when
-* they are being investigated, they are on gardening leave.
+* (UK) If someone is paid for a period when they are not working, either after they have given in their notice or when they are being investigated, they are on gardening leave.
+
 # Gather pace
 * If events gather pace, they move faster.
+
 # Gather steam
 * If something gathers speed, it moves or progresses at an increasing speed.
+
 # Get your feathers in a bunch
 * If you get your feathers in a bunch, you get upset or angry about something.
 # Get along famously
@@ -2011,16 +2035,14 @@ Bob: Great! Let's get down to brass tacks!
 * A person who does things in an unconventional manner, especially if their methods are not generally approved of, is
 * said to go against the grain. Such an individual can be called a maverick.
 # Go awry
-
----* * * *      
-* * * * * * * * *      ---
-
-
 * If things go awry, they go wrong.
+
 # Go blue
 * If you go blue, you are very cold indeed. ('Turn blue' is an alternative form.)
+
 # Go bust
 *  If a company goes bust, it goes bankrupt.
+
 # Go Dutch
 *  If you go Dutch in a restaurant, you pay equal shares for the meal.
 # Go fly a kite
@@ -2068,16 +2090,16 @@ Bob: Great! Let's get down to brass tacks!
 * reference to an all purpose first rule applicable to many groups or protocols, but referred to a verse in the Bible about
 * treating people they way you would want them to treat you, which was considered the First Rule of behavior towards
 * all by all.
+
 # Golden touch
 * Someone with a golden touch can make money from or be successful at anything they do.
+
 # Gone fishing
 * If someone has gone fishing, they are not very aware of what is happening around them.
-# Gone for a burton
-* (UK) If something's gone for a burton, it has been spoiled or ruined. If a person has gone for a burton, they are either in
-* serious trouble or have died.
 
----* * * *       
-* * * * * * * * **   ---
+# Gone for a burton
+* (UK) If something's gone for a burton, it has been spoiled or ruined. If a person has gone for a burton, they are either in serious trouble or have died.
+
 
 
 # Gone pear-shaped
@@ -2091,7 +2113,7 @@ Bob: Great! Let's get down to brass tacks!
 # Good egg
 * A person who can be relied on is a good egg. Bad egg is the opposite.
 
-# Good fences make good neighbours
+# Good fences make good neighbors
 *  This means that it is better for people to mind their own business and to respect the privacy of
 *  others.('Good fences make good neighbors' is the American English spelling.) 
 # Good shape
@@ -2102,8 +2124,8 @@ Bob: Great! Let's get down to brass tacks!
 *  than they normally do.
 # Good time
 *  If you make good time on a journey, you manage to travel faster than you expected.
-# Good walls make good neighbours
-*  Your relationship with your neighbours depends, among other things, on respecting one another's privacy.
+# Good walls make good neighbors
+*  Your relationship with your neighbors depends, among other things, on respecting one another's privacy.
 # Goody two-shoes
 *  A goody two-shoes is a self-righteous person who makes a great deal of their virtue.
 # Grab the bulls by its horns
@@ -2139,20 +2161,20 @@ Bob: Great! Let's get down to brass tacks!
 # Great unwashed
 * This is a term used for the working class masses.
 # Great white hope
-
----* * * *       
-* * * * * * * * ** ---
-
-
 *  Someone who is expected to be a great success is a great white hope.
+
 # Greek to me
 *  If you don't understand something, it's all Greek to you.
+
 # Green around the gills
 *  If someone looks green around the gills, they look ill.
+
 # Green fingers
 *  (UK) Someone with green fingers has a talent for gardening.
+
 # Green light
 *  If you are given the green light, you are given approval to do something.
+
 # Green thumb
 *  (USA) Someone with a talent for gardening has a green thumb.
 # Green-eyed monster
@@ -2162,17 +2184,22 @@ Bob: Great! Let's get down to brass tacks!
 *  task
 # Grey area
 *  A grey/gray area is one where there is no clear right or wrong.
+
 # Grey matter
 *  Grey/gray matter is the human brain.
+
 # Grey pound
 *  (UK) In the UK, the grey pound is an idiom for the economic power of elderly people.
+
 # Grey suits
 *  The men in grey suits are people who have a lot of power in business or politics, but aren't well-known or charismatic.
 
 # Grin and bear it
 * If you have to grin and bear it, you have to accept something that you don't like.
+
 # Grin like a Cheshire cat
 * If someone has a very wide smile, they have a grin like a Cheshire cat.
+
 # Grist for the mill
 * Something that you can use to your advantage is grist for the mill. ('Grist to the mill' is also used.)
 # Guinea-pig
@@ -2204,53 +2231,57 @@ Bob: Great! Let's get down to brass tacks!
 *  If people are hand in glove, they have an extremely close relationship.
 # Hand that rocks the cradle
 
----* * * *      
-* * * * * * * * **  ---
-
-
-* Women have a great power and influence because they have the greatest influence over the development of children-
-* the hand that rocks the cradle. ('The hand that rocks the cradle rules the world' is the full form.)
+* Women have a great power and influence because they have the greatest influence over the development of children- the hand that rocks the cradle. ('The hand that rocks the cradle rules the world' is the full form.)
 # Hand to mouth
-* Someone who's living from hand to mouth, is very poor and needs the little money they have coming in to cover their
-* expenses.
+* Someone who's living from hand to mouth, is very poor and needs the little money they have coming in to cover their expenses.
+  
 # Hands down
 * If someone is better hands down than everyone else, they are much better.
+
 # Handwriting like chicken scratch
 * If your handwriting is very hard to read, it is like chicken scratch.
+
 # Hang by a thread
 * If something hangs by a thread, there is a very small chance indeed of it being successful or surviving.
 
 # Hang in the balance
-* If an outcome is hanging in the balance, there are at least two possibilities and it is impossible to predict which will win
-* out.
+* If an outcome is hanging in the balance, there are at least two possibilities and it is impossible to predict which will win out.
+
 # Hang out to dry
 * If you hang someone out to dry, you abandon them when they are in trouble.
+
 # Hangdog expression
-* A hangdog expression is one where the person's showing their emotions very clearly, maybe a little too clearly for your
-* liking. It's that mixture of misery and self-pity that is similar to a dog when it's trying to get something it wants but
-* daren't take without permission.
+* A hangdog expression is one where the person's showing their emotions very clearly, maybe a little too clearly for your liking. It's that mixture of misery and self-pity that is similar to a dog when it's trying to get something it wants but daren't take without permission.
+  
 # Hanged for a sheep as a lamb
-* This is an expression meaning that if you are going to get into trouble for doing something, then you ought to stop
-* worrying and should try to get everything you can before you get caught.
+* This is an expression meaning that if you are going to get into trouble for doing something, then you ought to stop worrying and should try to get everything you can before you get caught.
+
 # Hard as nails
 * A person who is as hard as nails is either physically tough or has little or no respect for other people's feelings.
+
 # Hard cheese
 * (UK) Hard cheese means hard luck.
+
 # Hard of hearing
 * Someone who's hard of hearing is a bit deaf.
+
 # Hard sell
 * If someone puts a lot of pressure on you to do or buy something, they are hard selling it.
 # Haste makes waste
 * This idiom means that if you try to do something quickly, without planning it, you're likely to end up spending more
 * time, money, etc, doing it.
+
 # Hat trick
 * Three successes one after the other is a hat trick.
+
 # Hatchet job
 * A piece of criticism that destroys someone's reputation is a hatchet job.
 # Have a bash
 * If you have a bash at something, you try to do it, especially when there isn't much chance of success.
+
 # Have a go
 * If you have a go, you try to do something, often when you don't think you have much chance of succeeding.
+
 # Have a trick up your sleeve
 * If you have a trick up your sleeve, you have a secret strategy to use when the time is right.
 # Have the floor
@@ -2267,12 +2298,8 @@ Bob: Great! Let's get down to brass tacks!
 # Having a gas
 * If you're having a gas, you are having a laugh and enjoying yourself in company.
 # He'll rue the day
-
----* * * *      
-* * * * * * * * *     ---
-
-
 * He'll rue the day that he crossed me. This means that the person will one day bitterly regret what they have done.
+
 # Head for the hills
 * If people head for the hills, they run away from trouble.
 # Head is in the clouds
@@ -2335,29 +2362,27 @@ Bob: Great! Let's get down to brass tacks!
 *  for very long.
 # Hiding to nothing
 
-
-
----* * * *    
-* * * * * * * * *     ---
-
-
-* If people are on a hiding to nothing, their schemes and plans have no chance of succeeding. 'Hiding to nowhere' is an
-* alternative.
+* If people are on a hiding to nothing, their schemes and plans have no chance of succeeding. 'Hiding to nowhere' is an alternative.
 # High and dry
 * If you are left high and dry, you are left alone and given no help at all when you need it.
 # High and mighty
-* The high and mighty are the people with authority and power. If a person is high and mighty, they behave in a superior
-* and condescending way.
+* The high and mighty are the people with authority and power. If a person is high and mighty, they behave in a superior and condescending way.
+
 # High-handed
 * If someone is high-handed, they behave arrogantly and pompously.
+
 # High-wire act
 * A high-wire act is a dangerous or risky strategy, plan, task, etc.
+
 # Himalayan blunder
 * A Himalayan blunder is a very serious mistake or error.
+
 # Hit a nerve
 * If something hits a nerve, it upsets someone or causes them pain, often when it is something they are trying to hide.
+
 # Hit and miss
 * Something that is hit and miss is unpredictable and may produce results or may fail.
+
 # Hit the airwaves
 * If someone hits the airwaves, they go on radio and TV to promote something or to tell their side of a story.
 # Hit the bull's-eye
@@ -2400,10 +2425,6 @@ Bob: Great! Let's get down to brass tacks!
 # Hollow victory
 * A hollow victory is where someone wins something in name, but are seen not to have gained anything by winning.
 # Holy smoke!
-
----* * * *    
-* * * * * * * * **  ---
-
 
 * This is a way of expressing surprise: "Holy smoke! Look at all of those geese!"
 # Home stretch
@@ -2464,21 +2485,16 @@ Bob: Great! Let's get down to brass tacks!
 *  If you want to show disbelief or surprise about an action, you can ask a question using 'how come'. How come he got
 *  the job? (You can't believe that they gave the job to somebody like him)
 # How do you like them apples
+* (USA) This idiomatic expression is used to express surprise or shock at something that has happened. It can also be used to boast about something you have done.
 
----* * * *       
-* * * * * * * * ** ---
-
-
-* (USA) This idiomatic expression is used to express surprise or shock at something that has happened. It can also be used
-* to boast about something you have done.
 # How long is a piece of string
-* If someone has no idea of the answer to a question, they can ask 'How long is a piece of string?' as a way of indicating
-* their ignorance.
+* If someone has no idea of the answer to a question, they can ask 'How long is a piece of string?' as a way of indicating their ignorance.
+
 # How's tricks?
 * This is used as a way of asking people how they are and how things have been going in their life.
+
 # Hue and cry
-* Hue and cry is an expression that used to mean all the people who joined in chasing a criminal or villain. Nowadays, if
-* you do something without hue and cry, you do it discreetly and without drawing attention.
+* Hue and cry is an expression that used to mean all the people who joined in chasing a criminal or villain. Nowadays, if you do something without hue and cry, you do it discreetly and without drawing attention.
 
 
 
@@ -2486,37 +2502,38 @@ Bob: Great! Let's get down to brass tacks!
 ---
 
 # I hereby give notice of my intention
-*  Hereby is used sometimes in formal, official declarations and statements to give greater force to the speaker' or the
-*  writer's affirmation. People will say it sometimes to emphasise their sincerity and correctness.
+*  Hereby is used sometimes in formal, official declarations and statements to give greater force to the speaker' or the  writer's affirmation. People will say it sometimes to emphasise their sincerity and correctness.
 # I should cocoa
 *  (UK) This idiom comes from 'I should think so', but is normally used sarcastically to mean the opposite.
+
 # I'll eat my hat
-*  You can say this when you are absolutely sure that you are right to let the other person know that there is no chance of
-*  your being wrong.
+*  You can say this when you are absolutely sure that you are right to let the other person know that there is no chance of your being wrong.
+
 # I've got a bone to pick with you
 *  If somebody says this, they mean that they have some complaint to make against the person they are addressing.
 # I've got your number
-*  You have made a mistake and I am going to call you on it. You are in trouble (a threat). I have a disagreement with you.
-*  I understand your true nature.
+*  You have made a mistake and I am going to call you on it. You are in trouble (a threat). I have a disagreement with you. I understand your true nature.
 # If it ain't broke, don't fix it
 *  Any attempt to improve on a system that already works is pointless and may even hurt it.
 # If the cap fits, wear it
-*  This idiom means that if the description is correct, then it is describing the truth, often when someone is being
-*  criticized. ('If the shoe fits, wear it' is an alternative)
+*  This idiom means that if the description is correct, then it is describing the truth, often when someone is being criticized. ('If the shoe fits, wear it' is an alternative)
 # If wishes were horses, beggars would ride
 *  This means that wishing for something or wanting it is not the same as getting or having it.
 # If you will
-*  'If you will' is used as a way of making a concession in a sentence: He wasn't a very honest person, a liar if you will.
-*  Here, it is used a way of accepting that the reader or listener might think of the person as a liar, but without commit the
-*  writer or speaker to that position fully.
+*  'If you will' is used as a way of making a concession in a sentence: He wasn't a very honest person, a liar if you will. Here, it is used a way of accepting that the reader or listener might think of the person as a liar, but without commit the  writer or speaker to that position fully.
+
 # If you'll pardon my French
 *  (UK) This idiom is used as a way of apologising for swearing.
+
 # Ill-gotten gains
 *  Ill-gotten gains are profits or benefits that are made either illegally or unfairly.
+
 # In a cleft stick
 *  If you are in a cleft stick, you are in a difficult situation, caught between choices.
+
 # In a flash
 *  If something happens in a flash, it happens very quickly indeed.
+
 # In a heartbeat
 *  If something happens very quickly or immediately, it happens in a heartbeat.
 # In a jam
@@ -2528,13 +2545,8 @@ Bob: Great! Let's get down to brass tacks!
 # In a pickle
 *  If you are in a pickle, you are in some trouble or a mess.
 # In a tick
-
-
----* * * *      
-* * * * * * * * ** ---
-
-
 * (UK) If someone will do something in a tick, they'll do it very soon or very quickly.
+
 # In all honesty
 * If you say something in all honesty, you are telling the complete truth. It can be used as a way of introducing a negative
 * opinion whilst trying to be polite; in all honesty, I have to say that I wasn't very impressed.
@@ -2594,8 +2606,6 @@ Bob: Great! Let's get down to brass tacks!
 * (UK) If a woman's in the club, she's pregnant. 'In the pudding club' is an alternative form.
 # In the dock
 
----* * * *      
-* * * * * * * * *    ---
 
 
 * If someone is in the dock, they are on trial in court.
@@ -2658,18 +2668,15 @@ Bob: Great! Let's get down to brass tacks!
 # Ins and outs
 * If you know the ins and outs of something, you know all the details.
 
----* * * *   
-* * * * * * * * *       ---
-
-
 # Into each life some rain must fall
 *  This means that bad or unfortunate things will happen to everyone at some time.
+
 # Into thin air
 *  If something vanishes or disappears without trace, it vanishes into thin air; no-one knows where it has gone.
+
 # Iron fist
-*  Someone who rules or controls something with an iron fist is in absolute control and tolerates no dissent. An iron fist in
-*  a velvet glove is used to describe someone who appears soft on the outside, but underneath is very hard. 'Mailed fist' is
-*  an alternative form.
+*  Someone who rules or controls something with an iron fist is in absolute control and tolerates no dissent. An iron fist in  a velvet glove is used to describe someone who appears soft on the outside, but underneath is very hard. 'Mailed fist' is  an alternative form.
+
 # Irons in the fire
 *  A person who has a few irons in the fire has a number of things working to their advantage at the same time.
 # Is Saul also among the prophets?
@@ -2722,30 +2729,29 @@ Bob: Great! Let's get down to brass tacks!
 *  If a number of people want the same opportunity and are struggling to emerge as the most likely candidate, they are
 *  jockeying for position.
 # John Doe
+* John Doe is a name given to an unidentified male who may be party to legal proceedings, or to an unidentified person in hospital, or dead. Jane Doe is the female equivalent.
 
----* * * *     
-* * * * * * * * **  ---
-
-
-* John Doe is a name given to an unidentified male who may be party to legal proceedings, or to an unidentified person
-* in hospital, or dead. Jane Doe is the female equivalent.
 # John Q Public
 * (USA) John Q Public is the typical, average person.
+
 # Johnny-come-lately
-* A Johnny-come-lately is someone who has recently joined something or arrived somewhere, especially when they want
-* to make changes that are not welcome.
+* A Johnny-come-lately is someone who has recently joined something or arrived somewhere, especially when they want to make changes that are not welcome.
+
 # Joined at the hip
 * If people are joined at the hip, they are very closely connected and think the same way.
 
 # Juggle frogs
 * If you are juggling frogs, you are trying to do something very difficult.
+
 # Jump on the bandwagon
 * If people jump on the bandwagon, they get involved in something that has recently become very popular.
+
 # Jump the gun
 * If you jump the gun, you start doing something before the appropriate time.
+
 # Jump through hoops
-* If you are prepared to jump through hoops for someone, you are prepared to make great efforts and sacrifices for
-* them.
+* If you are prepared to jump through hoops for someone, you are prepared to make great efforts and sacrifices for them.
+
 # Jungle out there
 * If someone says that it is a jungle out there, they mean that the situation is dangerous and there are no rules.
 # Jury's out
@@ -2753,18 +2759,18 @@ Bob: Great! Let's get down to brass tacks!
 # Just around the corner
 * If something is just around the corner, then it is expected to happen very soon.
 # Just coming up to
-* If the time is just coming up to nine o'clock, it means that it will be nine o'clock in a very few seconds. You'll hear them
-* say it on the radio in the morning.
+* If the time is just coming up to nine o'clock, it means that it will be nine o'clock in a very few seconds. You'll hear them say it on the radio in the morning.
 # Just deserts
-* If a bad or evil person gets their just deserts, they get the punishment or suffer the misfortune that it is felt they
-* deserve.
+* If a bad or evil person gets their just deserts, they get the punishment or suffer the misfortune that it is felt they deserve.
+
 # Just in the nick of time
 * If you do something in the nick of time, you just manage to do it just in time, with seconds to spare.
+
 # Just off the boat
 * If someone is just off the boat, they are naive and inexperienced.
+
 # Just what the doctor ordered
 * If something's just what the doctor ordered, it is precisely what is needed.
-
 
 
 
@@ -2788,46 +2794,51 @@ Bob: Great! Let's get down to brass tacks!
 # Keep posted
 *  If you keep posted about something, you keep up-to-date with information and developments.
 
----* * * *      
-* * * * * * * * **  ---
-
 
 # Keep someone at arm's length
 * If you keep someone or something at arm's length, you keep a safe distance away from them.
+
 # Keep the wolf at bay
 * If you keep the wolf at bay, you make enough money to avoid going hungry or falling heavily into debt.
+
 # Keep up with the Joneses
-* People who try to keep up with the Joneses are competitive about material possessions and always try to have the
-* latest and best things.
+* People who try to keep up with the Joneses are competitive about material possessions and always try to have the latest and best things.
+
 # Keep your chin up
 * (UK) This expression is used to tell someone to have confidence.
+
 # Keep your chin up
 * This idiom is used as a way of encouraging someone and telling them not to give up.
+
 # Keep your ear to the ground
-* If you keep your ear to the ground, you try to keep informed about something, especially if there are rumours or
-* uncertainties.
+* If you keep your ear to the ground, you try to keep informed about something, especially if there are rumours or uncertainties.
+
 # Keep your eye on the ball
 * If you keep your eye on the ball, you stay alert and pay close attention to what is happening.
+
 # Keep your eyes peeled
 * If you keep your eyes peeled, you stay alert or watchful.
+
 # Keep your fingers crossed
 * If you are keeping your fingers crossed, you are hoping for a positive outcome.
+
 # Keep your hair on
 * Keep your hair on is advice telling someone to keep calm and not to over-react or get angry.
+
 # Keep your head above water
 * If you are just managing to survive financially, you are keeping your head above water.
+
 # Keep your nose clean
-* If someone is trying to keep their Nose Clean, they are trying to stay out of trouble by not getting involved in any sort of
-* wrong-doing.
+* If someone is trying to keep their Nose Clean, they are trying to stay out of trouble by not getting involved in any sort of wrong-doing.
 
 # Keep your nose to the grindstone
 * If you keep your nose to the grindstone, you work hard and seriously.
 # Keep your options open
-* If someone's keeping their options open, they aren't going to restrict themselves or rule out any possible course of
-* action.
+* If someone's keeping their options open, they aren't going to restrict themselves or rule out any possible course of action.
+
 # Keep your pecker up
-* If someone tells you to keep your pecker up, they are telling you not to let your problems get on top of you and to try
-* to be optimistic.
+* If someone tells you to keep your pecker up, they are telling you not to let your problems get on top of you and to try to be optimistic.
+
 # Keep your powder dry
 * If you keep your powder dry, you act cautiously so as not to damage your chances.
 # Keep your shirt on!
@@ -2848,14 +2859,11 @@ Bob: Great! Let's get down to brass tacks!
 # Kick the ballistics
 * It means you realise the intensity of a situation. For example, there is too much unemployment now, so the prime
 * minister must kick the ballistics and change his policy.
+
 # Kick the bucket
 * When someone kicks the bucket, they die.
+
 # Kick up your heels
-
----* * * *      
-* * * * * * * * ** ---
-
-
 * If you kick up your heels, you go to parties or celebrate something.
 # Kid gloves
 * If someone is handled with kid gloves, they are given special treatment and handled with great care.
@@ -2913,16 +2921,12 @@ Bob: Great! Let's get down to brass tacks!
 ---
 
 # Labor of love
-*  A labor of love is a project or task undertaking for the interest or pleasure in doing it rather than the reward, financial
-*  or otherwise.
-
----* * * *      
-* * * * * * * * ** ---
+*  A labor of love is a project or task undertaking for the interest or pleasure in doing it rather than the reward, financial or otherwise.
 
 
 # Labour of love
-* A labour of love is a project or task undertaking for the interest or pleasure in doing it rather than the reward, financial
-* or otherwise.
+* A labour of love is a project or task undertaking for the interest or pleasure in doing it rather than the reward, financial or otherwise.
+  
 # Lame duck
 * If something or someone is a lame duck, they are in trouble.
 # Land of nod
@@ -2979,36 +2983,38 @@ Bob: Great! Let's get down to brass tacks!
 * This idiom means that people cannot change basic aspects of their character, especially negative ones. ("A leopard
 * doesn't change its spots" is also used.)
 # Lesser of two evils
-
----* * * *      
-* * * * * * * * **   ---
-
-
 *  Something that is the lesser of two evils, is an unpleasant option, but not as bad as the other.
+
 # Let alone
-*  This is used to emphasise how extreme something could be: 'We hadn't got the money to phone home, let alone stay in
-*  a hotel.' This emphasises the utter impossibility of staying in a hotel.
+*  This is used to emphasise how extreme something could be: 'We hadn't got the money to phone home, let alone stay in a hotel.' This emphasises the utter impossibility of staying in a hotel.
+
 # Let bygones be bygones
 *  If people decide to let bygones be bygones, they decide to forget old problems or grievances they have with each other.
 
 # Let sleeping dogs lie
-* If someone is told to let sleeping dogs lie, it means that they shouldn't disturb a situation as it would result in trouble or
-* complications.
+* If someone is told to let sleeping dogs lie, it means that they shouldn't disturb a situation as it would result in trouble or complications.
+
 # Let the cat out of the bag
 * If you accidentally reveal a secret, you let the cat out of the bag.
+
 # Let the chips fall where they may
 * This means that we shouldn't try to control events, because destiny controls them.
+
 # Let the devil take the hindmost
-* This idiom means that you should think of yourself and not be concerned about other people; look after yourself and
-* let the devil take the hindmost.
+* This idiom means that you should think of yourself and not be concerned about other people; look after yourself and let the devil take the hindmost.
+
 # Let the genie out of the bottle
 * If people let the genie out of the bottle, they let something bad happen that cannot be put right or controlled.
+
 # Let the grass grow round your feet
 * If you let the grass grow round your feet, you delay doing things instead of taking action.
+
 # Let your hair down
 * If someone lets their hair down, they relax and stop feeling inhibited or shy.
+
 # Letter of the law
 * If people interpret laws and regulations strictly, ignoring the ideas behind them, they follow the letter of the law.
+
 # Level playing field
 * If there's a level playing field everybody is treated equally.
 # Lie low
@@ -3043,23 +3049,21 @@ Bob: Great! Let's get down to brass tacks!
 * If someone needs something like a Fish Needs a Bicycle, they do not need it at all, originally a feminist slogan: A woman
 * needs a man like a fish needs a bicycle.
 # Like a fish out of water
-
----* * * *       
-* * * * * * * * * *  ---
-
-
 * If someone feels like a fish out of water, they are very uncomfortable in the situation they are in.
+
 # Like a hawk
 * If you watch something or someone like a hawk, you observe very closely and carefully.
 # Like a headless chicken
 * If someone rushes about like a headless chicken, they move very fast all over the place, usually without thinking.
 # Like a rat deserting a sinking ship
-* If people leave a company because they know that it's about to have serious problems, or turn their back on a person
-* about to be in a similar situation, they are said to be like rats deserting a sinking ship.
+* If people leave a company because they know that it's about to have serious problems, or turn their back on a person about to be in a similar situation, they are said to be like rats deserting a sinking ship.
+
 # Like clockwork
 * If something happens like clockwork, it happens at very regular times or intervals.
+
 # Like father, like son
 * This idiom is used when different generations of a family behave in the same way or have the same talents of defects.
+
 # Like lambs to the slaughter
 * If somebody does something unpleasant without any resistance, they go like lambs to the slaughter.
 # Like peas in a pod
@@ -3106,89 +3110,94 @@ Bob: Great! Let's get down to brass tacks!
 # Lock the stable door after the horse has bolted
 * If someone takes action too late, they do this; there is no reason to lock an empty stable.
 # Lock, stock and barrel
-
-
-
----* * * **  
-* * * * * * * * *    ---
-
-
-*  This is an expressions that means 'everything'; if someone buys a company lock, stock and barrel, they buy absolutely
-*  everything to do with the company.
+*  This is an expressions that means 'everything'; if someone buys a company lock, stock and barrel, they buy absolutely  everything to do with the company.
 # Long in the tooth
 *  If someone is long in the tooth, they are a bit too old to do something.
 # Long time no see
 *  'Long time no see' means that the speaker has not seen that person for a long time.
 # Look after number 1
-*  You are number one, so this idiom means that you should think about yourself first, rather than worrying about other
-*  people.
+*  You are number one, so this idiom means that you should think about yourself first, rather than worrying about other  people.
 # Look after the pennies and the pounds will look after themselves
-*  (UK) If you look after the pennies, the pounds will look after themselves, meaning that if someone takes care not to
-*  waste small amounts of money, they will accumulate capital. ('Look after the pence and the pounds will look after
-*  themselves' is an alternative form of this idiom.)
+*  (UK) If you look after the pennies, the pounds will look after themselves, meaning that if someone takes care not to  waste small amounts of money, they will accumulate capital. ('Look after the pence and the pounds will look after  themselves' is an alternative form of this idiom.)
 # Look before you leap
 *  This idiom means that you should think carefully about the possible results or consequences before doing something.
+
 # Look on the bright side
 *  If you look on the bright side, you try to see things in an optimistic way, especially when something has gone wrong.
+
 # Look out for number one
 *  If you look out for number one, you take care of yourself and your interests, rather than those of other people.
+
 # Look what the cat dragged in
 *  This idiom is used when someone arrives somewhere looking a mess or flustered and bothered.
+
 # Lose the plot
 *  If someone loses the plot, they have stopped being rational about something.
+
 # Lose your lunch
 *  (UK) If you lose your lunch, you vomit.
+
 # Lose your marbles
 *  If someone has lost their marbles, they've gone mad.
+
 # Lose your shirt
 *  If someone loses their shirt, they lose all their money through a bad investment, gambling, etc.
+
 # Low-hanging fruit
 *  Low-hanging fruit are things that are easily achieved.
+
 # Lower than a snake's belly
 *  Someone or something that is lower than a snake's belly is of a very low moral standing.
+
 # Lower the bar
 *  If people change the standards required to make things easier, they lower the bar.
+
 # Lower your sights
 *  If you lower your sights, you accept something that is less than you were hoping for.
+
 # Luck of the draw
 *  To have the 'Luck of the draw' is to win something in a competition where the winner is chosen purely by chance.
-
-
-
-
----* * * *   
-* * * * * * * * *      ---
-
 
 
 ---
 
 # Mad as a badger
 *  If someone is as mad as a badger, they are crazy.
+
 # Mad as a hornet
 *  (USA) If someone is as mad as a hornet, they are very angry indeed.
+
 # Mad as a March hare
 *  Someone who is excitable and unpredictable is as mad as a March hare.
+
 # Mailed fist
-*  Someone who rules or controls something with a mailed fist is in absolute control and tolerates no dissent. A mailed fist
-*  in a velvet glove is used to describe someone who appears soft on the outside, but underneath is very hard. 'Iron fist' is
-*  an alternative form.
+*  Someone who rules or controls something with a mailed fist is in absolute control and tolerates no dissent. A mailed fist in a velvet glove is used to describe someone who appears soft on the outside, but underneath is very hard. 'Iron fist' is
+  an alternative form.
+
 # Major league
 *  Something major league is very important.
+
 # Make a better fist
 *  If someone makes a better fist of doing something, they do a better job.
+
 # Make a killing
 *  If you make a killing, you do something that makes you a lot of money.
+
 # Make a meal
 *  If someone makes a meal of something, they spend too long doing it or make it look more difficult than it really is.
+
 # Make a mint
 *  If someone is making a mint, they are making a lot of money.
+
 # Make a monkey of someone
 *  If you make a monkey of someone, you make them look foolish.
+
 # Make a mountain out of a molehill
 *  If somebody makes a mountain out of a molehill, they exaggerate the importance or seriousness of a problem.
+
 # Make a pitch
 *  If you make a pitch for something, you make a bid, offer or other attempt to get it.
+
 # Make a request
 *  If you request something, or make a request, you are asking for something you want or need.
 # Make a song and dance
@@ -3212,17 +3221,16 @@ Bob: Great! Let's get down to brass tacks!
 *  embarrassment.
 # Make out like a bandit
 *  (USA) If someone is extremely successful in a venture, they make out like a bandit.
+
 # Make waves
 *  If someone makes waves, they cause a lot of trouble.
+
 # Make your blood boil
 *  If something makes your blood boil, it makes you very angry.
+
 # Make your flesh crawl
-*  If something makes your flesh crawl, it really scares or revolts you. ('Make your flesh creep' is an alternative. 'Make
-*  your skin crawl' is also used.)
+*  If something makes your flesh crawl, it really scares or revolts you. ('Make your flesh creep' is an alternative. 'Make your skin crawl' is also used.)
 
-
----* * * *    
-* * * * * * * * *   ---
 
 
 # Make your hair stand on end
@@ -3478,52 +3486,54 @@ Bob: Great! Let's get down to brass tacks!
 # Night owl
 * A night owl is someone who goes to bed very late.
 
-
----* * * *       
-* * * * * * * * ** ---
-
-
 # Ninth circle of hell
-* In Dante's Inferno, the ninth circle of hell is the centre where the worst punishments are found, so it is used
-* idiomatically for something that couldn't get worse.
+* In Dante's Inferno, the ninth circle of hell is the centre where the worst punishments are found, so it is used idiomatically for something that couldn't get worse.
+
 # Nip it in the bud
-* If you nip something in the bud, you deal with a problem when it is still small, before it can grow into something
-* serious.
+* If you nip something in the bud, you deal with a problem when it is still small, before it can grow into something serious.
+
 # Nitty gritty
 * If people get down to the nitty gritty, they concentrate on the most important and serious issues.
+
 # No bed of roses
 * If something isn't a bed of roses, it is difficult.
+
 # No can do
 * No can do means that the speaker can't do whatever it is that has been asked of him or her.
+
 # No great shakes
 * If someone is no great shakes at something, they are not very good at it.
+
 # No holds barred
 * If there are no holds barred, there are no rules of conduct; you can do anything.
 
 
 
-
 # No ifs or buts
-*  Ifs and Buts is a term used to describe the reasons people give for not wanting to do something. To show that you don't
-*  wish to accept any excuses, you can tell somebody that you wish to hear no ifs or buts Here IF & BUT have become
-*  nouns
+*  Ifs and Buts is a term used to describe the reasons people give for not wanting to do something. To show that you don't wish to accept any excuses, you can tell somebody that you wish to hear no ifs or buts Here IF & BUT have become  nouns.
+
 # No love lost
-*  If there is no love lost between two people they have a strong enmity towards or hate for the other and make no effort
-*  to conceal it.
+*  If there is no love lost between two people they have a strong enmity towards or hate for the other and make no effort  to conceal it.
+
 # No quarter
 *  This means without mercy. We can say no quarter given or asked.
+
 # No question
 *  This idiom means that something is certain or definite.
+
 # No questions asked
-*  If something is to be done and no questions asked, then it doesn't matter what methods are used or what rules are
-*  broken to ensure that it gets done.
+*  If something is to be done and no questions asked, then it doesn't matter what methods are used or what rules are  broken to ensure that it gets done.
+
 # No skin off my nose
 *  If something's no skin off your nose, it doesn't affect or bother you at all.
+
 # No smoke without fire
 *  This idiom means that when people suspect something, there is normally a good reason for the suspicion, even if
-*  there is no concrete evidence.('Where's there's smoke, there's fire' is also used.) 
+  there is no concrete evidence.('Where's there's smoke, there's fire' is also used.) 
+
 # No spine
 *  If someone has no spine, they lack courage or are cowardly.
+
 # No spring chicken
 *  If someone is no spring chicken, they are not young.
 # No time for
@@ -3544,7 +3554,7 @@ Bob: Great! Let's get down to brass tacks!
 *  an alternative.)
 
 ---* * * *      
-* * * * * * * * ** ---
+* * * * * * * * neighbors ---
 
 
 # Nose in the air
@@ -3928,8 +3938,6 @@ Bob: Great! Let's get down to brass tacks!
 # Piece of cake
 *  If something is a piece of cake, it is really easy.
 
----* * * ** 
-* * * * * * * * **   ---
 
 
 # Pieces of the same cake
@@ -4120,12 +4128,10 @@ Bob: Great! Let's get down to brass tacks!
 # Put your foot down
 * When someone puts their foot down, they make a firm stand and establish their authority on an issue.
 
----* * * *     
-* * * * * * * * **  ---
-
 
 # Put your foot in it
 *  If you put your foot in it, you do or say something embarrassing and tactless or get yourself into trouble.
+
 # Put your foot in your mouth
 *  If you put your foot in your mouth, you say something stupid or embarrassing.
 # Put your hand on your heart
@@ -4429,25 +4435,24 @@ Bob: Great! Let's get down to brass tacks!
 # Scales fall from your eyes
 * When the scales fall from your eyes, you suddenly realise the truth about something.
 
----* * * *     
-* * * * * * * * **  ---
-
 
 # Scare the daylights out of someone
-* If you scare the daylights out of someone, you terrify them. (This can be made even stronger by saying 'the living
-* daylights'.)
+* If you scare the daylights out of someone, you terrify them. (This can be made even stronger by saying 'the living daylights'.)
+
 # Scarlet woman
 * This idiom is used as a pejorative term for a sexually promiscuous woman, especially an adulteress.
+
 # Scattered to the four winds
 * If something's scattered to the four winds, it goes out in all directions.
+
 # Scent blood
 * If you can scent blood, you feel that a rival is having difficulties and you are going to beat them.
+
 # Scot free
-* If someone escapes scot free, they avoid payment or punishment. 'Scot' is an old word for a tax, so it originally referred
-* to avoiding taxes, though now has a wider sense of not being punished for someone that you have done.
+* If someone escapes scot free, they avoid payment or punishment. 'Scot' is an old word for a tax, so it originally referred to avoiding taxes, though now has a wider sense of not being punished for someone that you have done.
+
 # Scraping the barrel
-* When all the best people, things or ideas and so on are used up and people try to make do with what they have left,
-* they are scraping the barrel.
+* When all the best people, things or ideas and so on are used up and people try to make do with what they have left, they are scraping the barrel.
 # Scream blue murder
 * If someone shouts very loudly in anger, or fear, they scream blue murder.
 # Screw loose
@@ -4556,18 +4561,9 @@ Bob: Great! Let's get down to brass tacks!
 # Shot in the dark
 * If you have a shot in the dark at something, you try something where you have little hope of success.
 # Shotgun marriage
-
-
-
----* * * *   
-* * * * * * * * **  ---
-
-
-* A shotgun marriage, or shotgun wedding, is one that is forced because of pregnancy. It is also used idiomatically for a
-* compromise, agreement or arrangement that is forced upon groups or people by necessity.
+* A shotgun marriage, or shotgun wedding, is one that is forced because of pregnancy. It is also used idiomatically for a compromise, agreement or arrangement that is forced upon groups or people by necessity.
 # Show me the money
-* When people say this, they either want to know how much they will be paid for something or want to see evidence that
-* something is valuable or worth paying for.
+* When people say this, they either want to know how much they will be paid for something or want to see evidence that something is valuable or worth paying for.
 # Show someone a clean pair of heels
 * If you show someone a clean pair of heels, you run faster than them when they are chasing you.
 # Shrinking violet
@@ -4750,54 +4746,50 @@ Bob: Great! Let's get down to brass tacks!
 # Spirit of the law
 * The spirit of the law is the idea or ideas that the people who made the law wanted to have effect.
 # Spit blood
-
----* * * *     
-* * * * * * * * ** ---
-
-
 * If someone is spitting blood, they are absolutely furious.
+
 # Spitting image
 * If a person is the spitting image of somebody, they look exactly alike.
 # Split hairs
 * If people split hairs, they concentrate on tiny and unimportant details to find fault with something.
 # Spoil the ship for a ha'pworth of tar
-* (UK) If someone spoils the ship for a ha'pworth (halfpenny's worth) of tar, they spoil something completely by trying to
-* make a small economy.
+* (UK) If someone spoils the ship for a ha'pworth (halfpenny's worth) of tar, they spoil something completely by trying to make a small economy.
 # Spot on
 * If something is spot on, it is exactly right.
 # Sprat to catch a mackerel
-* If you use a sprat to catch a mackerel, you make a small expenditure or take a small risk in the hope of a much greater
-* gain.
+* If you use a sprat to catch a mackerel, you make a small expenditure or take a small risk in the hope of a much greater gain.
 # Spur of the moment
-* If you do something on the spur of the moment, you do it because you felt like it at that time, without any planning or
-* preparation.
+* If you do something on the spur of the moment, you do it because you felt like it at that time, without any planning or preparation.
 
 
 
 # Sputnik moment
-* A Sputnik moment is a point where people realise that they are threatened of challenged and have to redouble their
-* efforts to catch up. It comes from the time when the Soviet Union launched the first satellite, the Sputnik 1, and beat
-* the USA into space.
+* A Sputnik moment is a point where people realise that they are threatened of challenged and have to redouble their efforts to catch up. It comes from the time when the Soviet Union launched the first satellite, the Sputnik 1, and beat the USA into space.
+  
 # Square meal
 * A square meal is a substantial or filling meal.
+
 # Square Mile
 * (UK) The Square Mile is the City, the financial area of London.
+
 # Square peg in a round hole
-* If somebody's in a situation, organization, etc, where they don't fit in and feel out of place, they are a square peg in a
-* round hole.
+* If somebody's in a situation, organization, etc, where they don't fit in and feel out of place, they are a square peg in a round hole.
+
 # Squeaky clean
-* If something is squeaky clean, it is very clean indeed- spotless. If a person is squeaky clean, they have no criminal record
-* and are not suspected of illegal or immoral activities.
+* If something is squeaky clean, it is very clean indeed- spotless. If a person is squeaky clean, they have no criminal record and are not suspected of illegal or immoral activities.
+
 # Squeaky wheel gets the grease
-* (USA) When people say that the squeaky wheel gets the grease, they mean that the person who complains or protests
-* the loudest attracts attention and service.
+* (USA) When people say that the squeaky wheel gets the grease, they mean that the person who complains or protests the loudest attracts attention and service.
+
 # Squeeze blood out of a turnip
-* (USA) When people say that you can't squeeze blood out of a turnip, it means that you cannot get something from a
-* person, especially money, that they don't have.
+* (USA) When people say that you can't squeeze blood out of a turnip, it means that you cannot get something from a person, especially money, that they don't have.
+
 # Stand in good stead
 * If something will stand you in good stead, it will probably be advantageous in the future.
+
 # Stars and stripes
 * The stars and stripes is the American flag.
+
 # Stars in your eyes
 * Someone who dreams of being famous has stars in their eyes.
 # State of the art
@@ -4815,22 +4807,24 @@ Bob: Great! Let's get down to brass tacks!
 * This idiom is a way of telling someone to hurry up or to go faster.
 # Step up to the plate
 
----* * * *      
-* * * * * * * * **   ---
-
-
 *  If someone steps up to the plate, they take on or accept a challenge or a responsibility.
+
 # Stick out like a sore thumb
 *  If something sticks or stands out like a sore thumb, it is clearly and obviously different from the things that are around
-*  it.
+  it.
+
 # Stick to your guns
 *  If you stick to your guns, you keep your position even though people attack or criticize you.
+
 # Stick your neck out
 *  If you stick you neck out, you take a risk because you believe in something.
+
 # Stick your neck out
 *  If you stick your neck out, you take a risk.
+
 # Stick-in-the-mud
 *  A stick-in-the-mud is someone who doesn't like change and wants things to stay the same.
+
 # Sticking point
 *  A sticking point is a controversial issue that blocks progress in negotiations, etc, where compromise is unlikely or
 *  impossible.
@@ -4855,32 +4849,32 @@ Bob: Great! Let's get down to brass tacks!
 *  hole in clothes that requires stitching.
 # Stone dead
 *  This idiom is a way of emphasizing that there were absolutely no signs of life or movement.
+
 # Stone's throw
 *  If a place is a stone's throw from where you are, it is a very short distance away.
 
 # Stool pigeon
 * (USA) A stool pigeon is a police informer.
 # Storm in a teacup
-* If someone exaggerates a problem or makes a small problem seem far greater than it really is, then they are making a
-* storm in a teacup.
+* If someone exaggerates a problem or makes a small problem seem far greater than it really is, then they are making a storm in a teacup.
 # Straw man
-* A straw man is a weak argument that is easily defeated. It can also be a person who is used as to give an illegal or
-* inappropriate activity an appearance of respectability.
+* A straw man is a weak argument that is easily defeated. It can also be a person who is used as to give an illegal or inappropriate activity an appearance of respectability.
+
 # Straw poll
 * A straw poll is a small unofficial survey or ballot to find out what people think about an issue.
+
 # Straw that broke the camel's back
-* The straw that broke the camel's back is the problem that made you lose your temper or the problem that finally
-* brought about the collapse of something.
+* The straw that broke the camel's back is the problem that made you lose your temper or the problem that finally brought about the collapse of something.
+
 # Streets ahead
 * If people are streets ahead of their rivals, they are a long way in front.
+
 # Strike a chord
 * If strikes a chord, it is familiar to you, reminds you of something or is connected to you somehow.
-# Stroll down memory lane
-* If you take a stroll down memory lane, you talk about the past or revisit places that were important to you in the past.
-* (You can also 'take a trip down memory lane'.)
 
----* * * *       
-* * * * * * * * *      ---
+# Stroll down memory lane
+* If you take a stroll down memory lane, you talk about the past or revisit places that were important to you in the past. (You can also 'take a trip down memory lane'.)
+
 
 
 # Strong as an ox
@@ -4931,20 +4925,22 @@ Bob: Great! Let's get down to brass tacks!
 *  If you take a leaf out of someone's book, you copy something they do because it will help you.
 # Take a punch
 *  If somebody takes a blow, something bad happens to them.
+
 # Take a raincheck
 *  If you take a rain check, you decline an offer now, suggesting you will accept it later. ('Raincheck' is also used.)
+
 # Take a straw poll
 *  If you take a straw poll, you sound a number of people out to see their opinions on an issue or topic.
+
 # Take by the scruff of the neck
 *  If you take something by the scruff on the neck, you take complete control of it.
+
 # Take for granted
-*  If you take something for granted, you don't worry or think about it because you assume you will always have it. If you
-*  take someone for granted, you don't show your appreciation to them.
+*  If you take something for granted, you don't worry or think about it because you assume you will always have it. If you  take someone for granted, you don't show your appreciation to them.
+
 # Take it on the chin
 *  If you take something on the chin, something bad happens to you and you take it directly without fuss.
 
----* * * *    
-* * * * * * * * *       ---
 
 
 # Take someone down a peg
@@ -5007,19 +5003,16 @@ Bob: Great! Let's get down to brass tacks!
 # Tally ho!
 * (UK) This is an exclamation used for encouragement before doing something difficult or dangerous.
 
----* * * *     
-* * * * * * * * *      ---
-
 
 # Taste blood
-*  If someone has tasted blood, they have achieved something and are encouraged to think that victory is within their
-*  grasp.
+*  If someone has tasted blood, they have achieved something and are encouraged to think that victory is within their grasp.
+
 # Taste of your own medicine
-*  If you give someone a taste of their own medicine, you do something bad to someone that they have done to you to
-*  teach them a lesson.
+*  If you give someone a taste of their own medicine, you do something bad to someone that they have done to you to  teach them a lesson.
+
 # Teach your grandmother to suck eggs
-*  When people say 'don't teach your grandmother to suck eggs', they mean that people shouldn't try to teach someone
-*  who has experience or is an expert in that area.
+*  When people say 'don't teach your grandmother to suck eggs', they mean that people shouldn't try to teach someone  who has experience or is an expert in that area.
+
 # Tear your hair out
 *  If someone is tearing their hair out, they are extremely worried or agitated about something.
 # Tears before bedtime
@@ -5070,13 +5063,7 @@ Bob: Great! Let's get down to brass tacks!
 # There are many ways to skin a cat
 * This is an expression meaning there are many different ways of doing the same thing.
 # There's no such thing as a free lunch
-
----* * * *     
-* * * * * * * * * * ---
-
-
-* This idiom means that you don't get things for free, so if something appears to be free, there's a catch and you'll have
-* to pay in some way.
+* This idiom means that you don't get things for free, so if something appears to be free, there's a catch and you'll have to pay in some way.
 # There's the rub
 * The meaning of this idiom is 'that's the problem'.
 # Thick and fast
@@ -5135,42 +5122,48 @@ Bob: Great! Let's get down to brass tacks!
 * If someone throws you a line, they give you help when you are in serious difficulties.
 # Throw someone in at the deep end
 
----* * * *       
-* * * * * * * * *       ---
+* If you are thrown in at the deep end, you have to deal with serious issues the moment you start something like a job, instead of having time to acquire experience.
 
-
-* If you are thrown in at the deep end, you have to deal with serious issues the moment you start something like a job,
-* instead of having time to acquire experience.
 # Throw someone to the wolves
 * If someone is thrown to the wolves, they are abandoned and have to face trouble without any support.
+
 # Throw the baby out with the bath water
 * If you get rid of useful things when discarding inessential things, you throw the baby out with the bath water.
+
 # Throw the book at someone
 * If you throw the book at someone, you punish them as severely as possible.
+
 # Throw your hat in the ring
-* If someone throws their hat in the ring, they announce that they want to take part in a competition or contest. 'Toss
-* your hat in the ring' is an alternative.
+* If someone throws their hat in the ring, they announce that they want to take part in a competition or contest. 'Toss your hat in the ring' is an alternative.
+
 # Throw your weight around
-* If someone throws their weight around, they use their authority or force of personality to get what they want in the
-* face of opposition.
+* If someone throws their weight around, they use their authority or force of personality to get what they want in the face of opposition.
+
 # Thumb your nose at
 * If you thumb your nose at something, you reject it or scorn it.
+
 # Thumbs down & thumbs up
 * If something gets the thumbs up, it gets approval, while the thumbs down means disapproval.
+
 # Tickle your fancy
 * If something tickles your fancy, it appeals to you and you want to try it or have it.
+
 # Tickled pink
 * If you are very pleased about something, you are tickled pink.
-# Tickled pink
 * If something tickles you pink, it amuses you.
+
 # Tie the knot
 * When people tie the knot, they get married.
+
 # Tight rein
 * If things or people are kept on a tight rein, they are given very little freedom or controlled carefully.
+
 # Tight ship
 * If you run a tight ship, you control something strictly and don't allow people much freedom of action.
+
 # Tighten your belt
 * If you have to tighten your belt, you have to economise.
+
 # Till the pips squeak
 * If someone will do something till the pips squeak, they will do it to the limit, even though it will make other people
 * suffer.
@@ -5199,35 +5192,40 @@ Bob: Great! Let's get down to brass tacks!
 * If someone responds to an insult by being rude back, it's tit for tat- repaying something negative the same way.
 # To a fault
 
----* * * *     
-* * * * * * * * ** ---
-
-
 * If something does something to a fault, they do it excessively. So someone who is generous to a fault is too generous.
+
 # To a man
 * If a group of people does, believes, thinks, etc, something to a man, then they all do it.
+
 # To a T
 * If something is done to a T, it is done perfectly.
+
 # To err is human, to forgive divine
 * This idiom is used when someone has done something wrong, suggesting that they should be forgiven.
+
 # To little avail
-* If something is to little avail, it means that, despite great efforts, something ended in failure, but taking comfort from
-* the knowledge that nothing else could have been done to avert or avoid the result.
+* If something is to little avail, it means that, despite great efforts, something ended in failure, but taking comfort from the knowledge that nothing else could have been done to avert or avoid the result.
+
 # To the end of time
 * To the end of time is an extravagant way of saying 'forever'.
+
 # Toe the line
 * If someone toes the line, they follow and respect the rules and regulations.
+
 # Tomorrow's another day
 * This means that things might turn out better or that there might be another opportunity in the future.
+
 # Tongue in cheek
 * If something is tongue in cheek, it isn't serious or meant to be taken seriously.
+
 # Too big for your boots
 * If someone is too big for their boots, they are conceited and have an exaggerated sense of their own importance.
+
 # Too big for your britches
 * If someone is too big for their britches, they are conceited and have an exaggerated sense of their own importance.
+
 # Too many chiefs and not enough Indians
-* When there are too many chiefs and not enough Indians, there are two many managers and not enough workers to
-* work efficiently.
+* When there are too many chiefs and not enough Indians, there are two many managers and not enough workers to work efficiently.
 # Too many cooks spoil the broth
 * This means that where there are too many people trying to do something, they make a mess of it.
 # Toot you own horn
@@ -5263,44 +5261,56 @@ Bob: Great! Let's get down to brass tacks!
 # True blue
 * A person who is true blue is loyal and dependable, someone who can be relied on in all circumstances.
 
----* * * *      
-* * * * * * * * *      ---
 
 
 # True colours
 *  If someone shows their true colours, they show themselves as they really are. ('True colors' is the American spelling.)
+
 # Trump card
 *  A trump card is a resource or strategy that is held back for use at a crucial time when it will beat rivals or opponents.
+
 # Truth will out
 *  Truth will out means that, given time, the facts of a case will emerge no matter how people might try to conceal them.
+
 # Turf war
 *  If people or organizations are fighting for control of something, it is a turf war.
+
 # Turn a blind eye
 *  When people turn a blind eye, they deliberately ignore something, especially if people are doing something wrong.
+
 # Turn a deaf ear
 *  If someone turns a deaf ear to you, they don't listen to you.
+
 # Turn a new leaf
 *  If someone turns a new leaf, they change their behavior and stop doing wrong or bad things.
+
 # Turn the corner
 *  To get over a bad run. When a loss making venture ceases to make losses, it has "turned the corner".
+
 # Turn the other cheek
-*  If you turn the other cheek, you are humble and do not retaliate or get outwardly angry when someone offends or
-*  hurts you, in fact, you give them the opportunity to re-offend instead and compound their unpleasantness.
+*  If you turn the other cheek, you are humble and do not retaliate or get outwardly angry when someone offends or hurts you, in fact, you give them the opportunity to re-offend instead and compound their unpleasantness.
+
 # Turn the tables
 *  If circumstances change completely, giving an advantage to those who seemed to be losing, the tables are turned.
+
 # Turn up like a bad penny
 *  If someone turns up like a bad penny, they go somewhere where they are not wanted.
+
 # Turn your nose up
-*  If someone turns their nose up at something, they reject it or look odwn on it because they don't think it is good
-*  enough for them.
+*  If someone turns their nose up at something, they reject it or look odwn on it because they don't think it is good enough for them.
+
 # Twenty-four seven
 *  Twenty-four seven or 24/7 means all the time, coming from 24 hours a day, 7 days a week.
+
 # Twinkling of an eye
 *  If something happens in the twinkling of an eye, it happens very quickly.
+
 # Twist someone's arm
 *  If you twist someone's arm, you put pressure on them to try to make them do what you want them to do.
+
 # Two cents
 *  If you add or throw in your two cents, you give your opinion on an issue.
+
 # Two left feet
 *  A person with two left feet can't dance.
 # Two peas in a pod
