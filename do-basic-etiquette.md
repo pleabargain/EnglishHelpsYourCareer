@@ -4,11 +4,11 @@ sequenceDiagram
     participant do
     participant other
     do->>other: Greet people with a hello.
-    loop internal
+    loop internal thoughts
         other->>other: I like to be recognized.
     end
     do->>other: Shake hands
-    loop internal
+    loop internal thoughts
         other->>other: Maybe not the best idea in a pandemic!.
     end
     do->>other: use the person's name
