@@ -4627,41 +4627,49 @@ Bob: Great! Let's get down to brass tacks!
 # Sight for sore eyes
 * Someone or something that is a sight for sore eyes is a pleasure to see.
 # Sight to behold
-* If something is a sight to behold, it means that seeing it is in some way special, either spectacularly beautiful or, equally,
-* incredibly ugly or revolting, etc.
+* If something is a sight to behold, it means that seeing it is in some way special, either spectacularly beautiful or, equally, incredibly ugly or revolting, etc.
 # Signed, sealed and delivered
 * If something's signed, sealed and delivered, it has been done correctly, following all the necessary procedures.
 # Silence is golden
 * It is often better to say nothing than to talk, so silence is golden.
 # Silly season
-* The silly season is midsummer when Parliament is closed and nothing much is happening that is newsworthy, which
-* reduces the press to reporting trivial and stupid stories.
+* The silly season is midsummer when Parliament is closed and nothing much is happening that is newsworthy, which reduces the press to reporting trivial and stupid stories.
 # Silver bullet
 * A silver bullet is a complete solution to a large problem, a solution that seems magical.
+
 # Silver screen
 * The silver screen is the cinema.
+
 # Silver surfer
 * A silver surfer is an elderly person who uses the internet.
+
 # Since time immemorial
-* If something has happened since time immemorial, it's been going on for such a long time that nobody can remember a
-* time without it.
+* If something has happened since time immemorial, it's been going on for such a long time that nobody can remember a time without it.
 
 # Sing from the same hymn sheet
 * If people are singing from the same hymn sheet, they are expressing the same opinions in public.
+
 # Sink or swim
 * Of you are left to sink or swim, no one gives you any help and it's up to you whether you fail or succeed.
+
 # Sit on the fence
 * If someone sits on the fence, they try not to support either side in a dispute.
+
 # Sit pretty
 * Someone who's sitting pretty is in a very advantageous situation.
+
 # Sitting duck
 * A sitting duck is something or someone that is easy to criticize or target.
+
 # Six feet under
 * If someone is six feet under, they are dead.
+
 # Six of one and half-a-dozen of the other
 * This is an idiom used when there is little or no difference between two options.
+
 # Sixes and sevens
 * If something is all at sixes and sevens, then there is a lot of disagreement and confusion about what should be done.
+
 # Sixty-four-thousand-dollar-question
 * The sixty-four-thousand-dollar-question is the most important question that can be asked about something.
 
@@ -4678,6 +4686,7 @@ Bob: Great! Let's get down to brass tacks!
 
 # Skin in the game
 * A person who has skin in the game has invested in the company they are running.
+
 # Skin someone alive
 * If someone skins you alive, they admonish and punish you hard.
 
@@ -4721,8 +4730,7 @@ Bob: Great! Let's get down to brass tacks!
 # Small beer
 * If something is small beer, it's unimportant.
 # Small fry
-* If someone is small fry, they are unimportant. The term is often used when the police arrest the less important
-* criminals, but are unable to catch the leaders and masterminds.
+* If someone is small fry, they are unimportant. The term is often used when the police arrest the less important criminals, but are unable to catch the leaders and masterminds.
 # Smart Alec
 * A smart Alec is a conceited person who likes to show off how clever and knowledgeable they are.
 # Smarty pants
@@ -5666,11 +5674,12 @@ Bob: Great! Let's get down to brass tacks!
 # Wood for the trees
 *  (UK) If someone can't see the wood for the trees, they get so caught up in small details that they fail to understand the
 *  bigger picture.
+# word salad
+* When someone uses a bunch of words to explain something that only needs a few words.
 # Word of mouth
 *  If something becomes known by word of mouth, it is because people are talking about it, not through publicity, etc.
 # Word of the law
-*  The word of the law means that the law is interpreted in an absolutely literal way which goes against the ideas that the
-*  lawmakers had wished to implement.
+*  The word of the law means that the law is interpreted in an absolutely literal way which goes against the ideas that the  lawmakers had wished to implement.
 # Words fail me
 *  If words fail you, you can't find the words to express what you are trying to say.
 # Work like a dog
@@ -5686,60 +5695,75 @@ Bob: Great! Let's get down to brass tacks!
 # World at your feet
 *  If everything is going well and the future looks full of opportunity, you have the world at your feet.
 # World is your oyster
-
-
 *  When the world is your oyster, you are getting everything you want from life.
+
 # Worm information
 *  If you worm information out of somebody, you persuade them to tell you something they wanted to keep from you.
+
 # Worm's eye view
 *  A worm's eye view of something is the view from below, either physically or socially.
+
 # Worse for wear
-*  If something's worse for wear, it has been used for a long time and, consequently, isn't in very good condition. A person
-*  who's worse for wear is drunk or high on drugs and looking rough.
+*  If something's worse for wear, it has been used for a long time and, consequently, isn't in very good condition. A person  who's worse for wear is drunk or high on drugs and looking rough.
+
 # Worse things happen at sea
 *  This idiomatic expression is used as a way of telling someone not to worry so much about their problems.
+
 # Worth your salt
 *  Someone who is worth their salt deserves respect.
+
 # Wouldn't touch it with a bargepole
 *  (UK) If you wouldn't touch something with a bargepole, you would not consider being involved under any
-*  circumstances. (In American English, people say they wouldn't touch it with a ten-foot pole)
+  circumstances. (In American English, people say they wouldn't touch it with a ten-foot pole)
+
 # Wouldn't touch it with a ten-foot pole
 *  (USA) If you wouldn't touch something with a ten-foot pole, you would not consider being involved under any
-*  circumstances. (In British English, people say they wouldn't touch it with a bargepole)
+  circumstances. (In British English, people say they wouldn't touch it with a bargepole)
+
 # Wrap yourself in the flag
 *  If someone wraps themselves in the flag, they pretend to be doing something for patriotic reasons or out of loyalty, but
-*  their real motives are selfish. ('Drape yourself in the flag' is an alternative form of this idiom)
+  their real motives are selfish. ('Drape yourself in the flag' is an alternative form of this idiom)
+
 # Wrench in the works
 *  (USA) If someone puts or throws a wrench, or monkey wrench, in the works, they ruin a plan. In British English,
-*  'spanner' is used instead of 'wrench'.
+  'spanner' is used instead of 'wrench'.
+
 # Writ large
 *  If something is writ large, it is emphasized or highlighted.
+
 # Writing on the wall
 *  If the writing's on the wall for something, it is doomed to fail.
+
 # Written all over your face
 *  If someone has done something wrong or secret, but cannot hide it in their expression, it is written all over their face.
+
 # Wrong end of the stick
 *  If someone has got the wrong end of the stick, they have misunderstood what someone has said to them.
+
 # Wrong foot
 *  If you start something on the wrong foot, you start badly.
 
 
 
 # X factor
-* The dangers for people in the military that civilians do not face, for which they receive payment, are known as the X
-* factor.
+* The dangers for people in the military that civilians do not face, for which they receive payment, are known as the X factor.
+
 # X marks the spot
 * This is used to say where something is located or hidden.
+
 # X-rated
 * If something is x-rated, it is not suitable for children.
 
 
 # Zero hour
 *  The time when something important is to begin is zero hour.
+
 # Zero tolerance
 *  If the police have a zero tolerance policy, they will not overlook any crime, no matter how small or trivial.
+
 # Zip it
 *  This is used to tell someone to be quiet.
+
 # Zip your lip
 *  If someone tells you to zip your lip, they want to to shut up or keep quiet about something. ('Zip it' is also used.)
 
