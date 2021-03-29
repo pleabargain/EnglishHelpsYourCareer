@@ -2521,6 +2521,7 @@ Bob:I have known the best direction to your [home,place] for months. (present pe
 
 ## recall recalled (d) (reg) 
 * As I recall...
+* They recalled the car because of faulty brakes.
 
 ## refund refunded (id) (reg)
 * The hotel refunded our money.
@@ -3265,6 +3266,10 @@ Bob: He's on my team but I don't work with him directly.
 * They had solved the problem before we arrived.
 * It was strange that they couldn't solve it.
 
+## react reacted(id) reg
+* I think she reacted with constraint.
+
+
 ## reach reached (t) (reg)
 * I have reached the end of the road.
 
@@ -3771,6 +3776,8 @@ Bob: I will do my best.
 
 
 # phrases
+
+## It's pretty much the same.
 
 ## We'll go over the material later!
 
@@ -5341,6 +5348,9 @@ Bob: I will have been living in my apartment for three years in January.
 
 # adverbs
 
+## correctly
+* I am not thinking about this problem correctly.
+
 ## notoriously
 
 * The company is notoriously known for not paying it's suppliers.
@@ -6373,10 +6383,17 @@ Dad: Because it is a feature of water. When it is hot it becomes a gas and gas i
 * rule: interviews: Your collar should always be clean and white.
 
 
-
 What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
+
+
+# topic pair programming
+
+# topic debugging
+
+# topic debugging SWIFT x-code
+
 
 # topic technical debt
 
@@ -8392,6 +8409,7 @@ This report doesn't cut the mustard! You are missing the TPS cover page.
 
 ## figure it out
 * I can figure it out.
+* If you can't figure it out, call me.
 
 
 

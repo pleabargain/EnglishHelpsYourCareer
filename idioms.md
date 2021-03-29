@@ -202,8 +202,11 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 * If you do something against the clock, you are rushed and have very little time to do it.
 # Against the grain
 * If doing something goes against the grain, you're unwilling to do it because it contradicts what you believe in, but you have no real choice.
+
 # Age before beauty
 * When this idiom is used, it is a way of allowing an older person to do something first, though often in a slightly sarcastic way.
+
+
 # Agony aunt
 * (UK) An agony aunt is a newspaper columnist who gives advice to people having problems, especially personal ones.
 # Ahead of the pack
@@ -222,69 +225,111 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 * If someone says they're all ears, they are very interested in hearing about something.
 # All eyes on me
 * If all eyes are on someone, then everyone is paying attention to them.
+
 # All fingers and thumbs
 * If you're all fingers and thumbs, you are too excited or clumsy to do something properly that requires manual dexterity.
 * 'All thumbs' is an alternative form of the idiom.
+
 # All hat, no cattle
 * (USA) When someone talks big, but cannot back it up, they are all hat, no cattle.
+
 # All heart
 * Someone who is all heart is very kind and generous.
+
 # All hell broke loose
 * When all hell breaks loose, there is mayhem, chaos, confusion and trouble.
+
+<details><summary><b>examples</b></summary>
+<p>
+The cops broke in while we were playing poker and all hell broke loose!
+</p>
+</details>
+
 # All in your head
 * If something is all in your head, you have imagined it and it is not real.
+<details><summary><b>examples</b></summary>
+<p>
+This conspiracy is all in your head!
+</p>
+</details>
+
+
+
 # All mod cons
 * (UK)If something has all mod cons, it has all the best and most desirable features. It is an abbreviation of 'modern convenience' that was used in house adverts.
+
 # All mouth and trousers
 * (UK) Someone who's all mouth and trousers talks or boasts a lot but doesn't deliver. 'All mouth and no trousers' is also used, though this is a corruption of the original.
+
 # All of the above
 * This idiom can be used to mean everything that has been said or written, especially all the choices or possibilities.
 
 
 
 # All over the map
-*  (USA) If something like a discussion is all over the map, it doesn't stick to the main topic and goes off on tangents.
+*  (USA) If something like a discussion is all over the map, it doesn't stick to the main topic and goes off on tangents. If somebody is talking about a lot of random things, they are all over the map.
+  
 # All over the place
 *  If something is completely disorganized or confused, it is all over the place.
+  
 # All over the shop
 * (UK) If something is completely disorganized or confused, it is all over the shop.
+
 # All roads lead to Rome
 *  This means that there can be many different ways of doing something.
+
 # All set
 *  If you're all set, you are ready for something.
+Ana: We ready?
+
+Bob: We're all set!
+
 # All skin and bone
-*  If a person is very underweight, they are all skin and bone, or bones.
+*  If a person is very underweight, they are all skin and bone, or bones.Someone who is very skinny.
+
 # All square
 *  If something is all square, nobody has an advantage or is ahead of the others.
+
 # All talk and no trousers
 *  (UK) Someone who is all talk and no trousers, talks about doing big, important things, but doesn't take any action.
+
 # All that glitters is not gold
 *  Another Shakespearian addition to English: This means that appearances can be deceptive and things that look or sound valuable can be worthless. ('All that glistens is not gold' is an alternative.)
+
 # All the rage
-*  If something's all the rage, it is very popular or fashionable at the moment.
+*  If something's all the rage, it is very popular or fashionable at the moment. It's very trendy.
+  
 # All the tea in China
 *  If someone won't do something for all the tea in China, they won't do it no matter how much money they are offered.
+
 # All your eggs in one basket
 *  If you put all your eggs in one basket, you risk everything at once, instead of trying to spread the risk. (This is often used  as a negative imperative- 'Don't put all your eggs in one basket'. 'Have your eggs in one basket' is also used.)
+
 # All's fair in love and war
 *  This idiom is used to say that where there is conflict, people can be expected to behave in a more vicious way.
 # All-singing, all-dancing
 *  If something's all-singing, all-dancing, it is the latest version with the most up-to-date features.
+
 # Alter ego
 *  An alter ego is a very close and intimate friend. It is a Latin phrase that literally means 'other self'.
+
 # Always a bridesmaid, never a bride
 *  If someone is always a bridesmaid, never a bride, they never manage to fulfill their ambition- they get close, but never
   manage the recognition, etc, they crave.
+
 # Ambulance chaser
-*  A lawyer who encourages people who have been in accidents or become ill to sue for compensation is an ambulance
-   chaser.
+*  A lawyer who encourages people who have been in accidents or become ill to sue for compensation is an ambulance  chaser.
 # Amen
+
+
 *  Some use 'Amen' or 'Amen to that' as a way of agreeing with something that has just been said.
+
 # An old flame
-*  An old flame is a person that somebody has had an emotional, usually passionate, relationship with, who is still looked
-   on fondly and with affection.
+*  An old flame is a person that somebody has had an emotional, usually passionate, relationship with, who is still looked on fondly and with affection.
+  
 # And all that jazz
 *  Everything related or similar is included.
+
 # Answers on a postcard
 *  This idiom can be used to suggest that the answer to something is very obvious or that the person would really like to
   hear what people think.
@@ -294,8 +339,10 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 *  This means that in an emergency any solution will do, even one that would normally be unacceptable.
 # Any Tom, Dick or Harry
 *  If something could be done by any Tom, Dick or Harry, it could be done by absolutely anyone.
+
 # Apple of your eye
 *  Something or, more often, someone that is very special to you is the 'apple of your' eye.
+
 # Apron strings
 *  A man who is tied to a woman's apron strings is excessively dependent on her, especially when it is his mother's apron
   strings.
@@ -303,68 +350,90 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 
 # Argue the toss
 *  (UK) If you argue the toss, you refuse to accept a decision and argue about it.
+
 # Arm and a leg
 *  If something costs an arm and a leg, it is very expensive.
+
 # Armchair critic
 *  An armchair critic is someone who offers advice but never shows that they could actually do any better.
+
 # Armchair quarterback
 *  (US)An armchair quarterback is someone who [offers advice to|yells at] an American football game but probably can't get out of the chair they are sitting in because they are so fat.
 
 
-
 # Armed to the teeth
-
-
 *  If people are armed to the teeth, they have lots of weapons.
+
 # Arrow in the quiver
 *  An arrow in the quiver is a strategy or option that could be used to achieve your objective.
+
 # As a rule
 *  If you do something as a rule, then you usually do it.
+* As a rule, I start my morning with a glass of water.
+*  As a rule, I don't leave my API keys on public servers.
+*    As a rule, I use different passwords on different websites.
+
 # As cold as ice
 *  This idiom can be used to describe a person who does not show any emotion.
+
 # As cold as stone
 *  If something is as cold as stone, it is very cold. If a person is as cold as stone, they are unemotional.
+
 # As cool as a cucumber
 *  If someone is as cool as a cucumber, they don't get worried by anything.
+
 # As mad as a hatter
 *  This simile means that someone is crazy or behaves very strangely. In the past many people who made hats went  insane because they had a lot of contact with mercury.
+
 # As neat as a new pin
 *  This idiom means tidy and clean.
+
 # As one man
 *  If people do something as one man, then they do it at exactly the same time or in complete agreement.
+
 # As the actress said to the bishop
 *  (UK) This idiom is used to highlight a sexual reference, deliberate or accidental.
+
 # As the crow flies
 *  This idiom is used to describe the shortest possible distance between two places.
+
 # As you sow, so shall you reap
 *  This means that if you do bad things to people, bad things will happen to you, or good things if you do good things.
 *  https://en.wiktionary.org/wiki/as_you_sow,_so_shall_you_reap
+
 # Asleep at the switch
-*  If someone is asleep at the switch, they are not doing their job or taking their responsibilities very carefully. 'Asleep at
-  the wheel' is an alternative.
+*  If someone is asleep at the switch, they are not doing their job or taking their responsibilities very carefully. 'Asleep at the wheel' is an alternative.
 
 # Asleep at the wheel
-*  If someone is asleep at the wheel, they are not doing their job or taking their responsibilities very carefully. 'Asleep at
-  the switch' is an alternative.
+*  If someone is asleep at the wheel, they are not doing their job or taking their responsibilities very carefully. 'Asleep at the switch' is an alternative.
 
 # At a loose end
 *  (UK) If you are at a loose end, you have spare time but don't know what to do with it.
+
 # At arm's length
 *  (India) If something is at arm's length, it is very close to you.
+
 # At death's door
 *  If someone looks as if they are at death's door, they look seriously unwell and might actually be dying.
+
 # At each other's throats
 *  If people are at each other's throats, they are fighting, arguing or competing ruthlessly.
+
 # At full tilt
 *  If something is at full tilt, it is going or happening as fast or as hard as possible.
+
 # At loggerheads
 *  If people are at loggerheads, they are arguing and can't agree on anything.
+  
 # At loose ends
 *  (USA) If you are at a loose end, you have spare time but don't know what to do with it.
+
 # At odds
 *  If you are at odds with someone, you cannot agree with them and argue.
+
 # At sea
 *  If things are at sea, or all at sea, they are disorganized and chaotic.
+
 # At the coalface
 * (UK) If you work at the coalface, you deal with the real problems and issues, rather than sitting in a office discussing things in  a detached way.
 
@@ -372,60 +441,78 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 
 # At the drop of a hat
 *  If you would do something at the drop of a hat, you'd do it immediately.
+
 # At the end of the day
 *  This is used to mean 'in conclusion' or 'when all is said and done'.
+
 # At the end of your rope
 *  (USA) If you are at the end of your rope, you are at the limit of your patience or endurance.
+
 # At the end of your tether
 *  (UK) If you are at the end of your tether, you are at the limit of your patience or endurance.
+
 # At your wit's end
-*  If you're at your wit's end, you really don't know what you should do about something, no matter how hard you think
-*  about it.
+*  If you're at your wit's end, you really don't know what you should do about something, no matter how hard you think about it.
+
 # At your wits' end
 *  If you are at your wits' end, you have no idea what to do next and are very frustrated.
+
 # Average Joe
 *  An average Joe is an ordinary person without anything exceptional about them.
+
 # Avowed intent
 *  If someone makes a solemn or serious promise publicly to attempt to reach a certain goal, this is their avowed intent.
+
 # Awe inspiring
 *  Something or someone that is awe inspiring amazes people in a slightly frightening but positive way.
+
 # AWOL
-*  AWOL stands for "Absent Without Leave", or "Absent Without Official Leave". Orignially a military term, it is used when
-*  someone has gone missing without telling anyone or asking for permission.
+*  AWOL stands for "Absent Without Leave", or "Absent Without Official Leave". Originally a military term, it is used when someone has gone missing without telling anyone or asking for permission.
+
 # Axe to grind
-*  If you have an axe to grind with someone or about something, you have a grievance, a resentment and you want to get
-*  revenge or sort it out. In American English, it is 'ax'.
+*  If you have an axe to grind with someone or about something, you have a grievance, a resentment and you want to get revenge or sort it out. In American English, it is 'ax'.
 
 ---
 
 # Babe in arms
 *  A babe in arms is a very young child, or a person who is very young to be holding a position.
+
 # Babe in the woods
-*  A babe in the woods is a naive, defenceless, young person.
+*  A babe in the woods is a naive, defenseless, young person.
+
 # Baby boomer
-*  (USA) A baby boomer is someone born in the years after the end of the Second World War, a period when the
-*  population was growing very fast.
+*  (USA) A baby boomer is someone born in the years after the end of the Second World War, a period when the  population was growing very fast.
+
 # Back burner
 *  If an issue is on the back burner, it is being given low priority.
+
 # Back foot
 *  (UK) If you are on your back foot, you are at a disadvantage and forced to be defensive of your position.
+
 # Back number
 *  Something that's a back number is dated or out of fashion.
+
 # Back the wrong horse
 *  If you back the wrong horse, you give your support to the losing side in something.
+
 # Back to back
 *  If things happen back to back, they are directly one after another.
+
 # Back to square one
 *  If you are back to square one, you have to start from the beginning again.
+
 # Back to the drawing board
 *  If you have to go back to the drawing board, you have to go back to the beginning and start something again.
+
 # Back to the salt mine
 *  If someone says they have to go back to the salt mine, they have to return to work.
+
 # Backseat driver
-*  A backseat driver is an annoying person who is fond of giving advice to the person performing a task or doing
-*  something, especially when the advice is either wrong or unwelcome.
+*  A backseat driver is an annoying person who is fond of giving advice to the person performing a task or doing something, especially when the advice is either wrong or unwelcome.
+
 # Bad blood
 *  If people feel hate because of things that happened in the past, there is bad blood between them.
+
 # Bad egg
 *  A person who cannot be trusted is a bad egg. Good egg is the opposite.
 
@@ -455,41 +542,54 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 *  A ballpark figure is a rough or approximate number (guesstimate) to give a general idea of something, like a rough estimate for a cost, etc.
 
 # Banana republic
-*  Banana republic is a term used for small countries that are dependent on a single crop or resource and governed badly
-*  by a corrupt elite.
+*  Banana republic is a term used for small countries that are dependent on a single crop or resource and governed badly  by a corrupt elite.
+
 # Banana skin
 *  (UK) A banana skin is something that is an embarrassment or causes problems.
+
 # Bandit territory
 *  An area or an industry, profession, etc, where rules and laws are ignored or flouted is bandit territory.
+
 # Baptism of fire
-*  A baptism of fire was a soldier's first experience of shooting. Any unpleasant experience undergone, usually where it is
-*  also a learning experience, is a baptism of fire.
+*  A baptism of fire was a soldier's first experience of shooting. Any unpleasant experience undergone, usually where it is  also a learning experience, is a baptism of fire.
+
 # Bar fly
 *  A bar fly is a person who spends a lot of time drinking in different bars and pubs.
+
 # Bare your heart
-*  If you bare your heart to someone, you tell them you personal and private feelings. ('Bare your soul' is an alternative
-*  form of the idiom.)
+*  If you bare your heart to someone, you tell them you personal and private feelings. ('Bare your soul' is an alternative form of the idiom.)
+
 # Barefaced liar
 *  A barefaced liar is one who displays no shame about lying even if they are exposed.
+
 # Bark is worse than their bite
 *  Someone who's bark is worse than their bite may well get angry and shout, but doesn't take action.
+
 # Barking up the wrong tree
 *  If you are barking up the wrong tree, it means that you have completely misunderstood something or are totally wrong.
+
 # Barkus is willing
 *  This idiom means that someone is willing to get married.
+
 # Barrack-room lawyer
 *  (UK) A barrack-room lawyer is a person who gives opinions on things they are not qualified to speak about.
 # Barrel of laughs
 *  If someone's a barrel of laughs, they are always joking and you find them funny.
+
 # Basket case
 *  If something is a basket case, it is so bad that it cannot be helped.
+*  example: She's been a basket case since her husband left her.
+
 # Bat an eyelid
 *  If someone doesn't bat an eyelid, they don't react or show any emotion when surprised, shocked, etc.
+
 # Batten down the hatches
 *  If you batten down the hatches, you prepare for the worst that could happen to you.
+
 # Battle of nerves
 *  A battle of nerves is a situation where neither side in a conflict or dispute is willing to back down and is waiting for the
-*  other side to weaken. ('A war of nerves' is an alternative form.)
+  other side to weaken. ('A war of nerves' is an alternative form.)
+
 # Be that as it may
 *  Be that as it may is an expression which means that, while you are prepared to accept that there is some truth in what the other person has just said, it's not going to change your opinions in any significant manner.
 
@@ -498,60 +598,78 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 
 # Be up the spout
 *  (UK) If a woman is up the spout, she is pregnant.
+
 # Bean counter
 *  A bean counter is an accountant.
+
 # Bear fruit
 *  If something bears fruit, it produces positive results.
+
 # Bear the brunt
 *  People who bear the brunt of something endure the worst of something bad.
 # Beard the lion in his own den
 *  If you confront a powerful or dangerous rival on their territory, you are bearding the lion in his own den.
+
 # Beat about the bush
 *  If someone doesn't say clearly what they mean and try to make it hard to understand, they are beating about (around)
-*  the bush.
+  the bush.
+* example: Stop beating around the bush and get to the point!
+
 # Beat someone to the draw
 *  (USA) If you beat someone to the draw, you do something before they do.
 
 # Beat swords into ploughshares
-*  If people beat swords into ploughshares, they spend money on humanitarian purposes rather than weapons. (The
-*  American English spelling is 'plowshares')
+*  If people beat swords into ploughshares, they spend money on humanitarian purposes rather than weapons. (The  American English spelling is 'plowshares')
+
 # Beat the daylights out of someone
 *  If someone beats the daylights out of another person, they hit them repeatedly. ('Knock' can also be used and it can be
-*  made even stronger by saying 'the living daylights'.)
+  made even stronger by saying 'the living daylights'.)
+
 # Beat to the punch
 *  If you beat someone to the punch, you act before them and gain an advantage.
+
 # Beating a dead horse
 *  (USA) If someone is trying to convince people to do or feel something without any hope of succeeding, they're beating
-*  a dead horse. This is used when someone is trying to raise interest in an issue that no-one supports anymore; beating a
-*  dead horse will not make it do any more work.
+  a dead horse. This is used when someone is trying to raise interest in an issue that no-one supports anymore; beating a
+  dead horse will not make it do any more work.
+
 # Beauty is in the eye of the beholder
 *  Beauty is in the eye of the beholder means that different people will find different things beautiful and that the
 *  differences of opinion don't matter greatly.
+
 # Beauty is only skin deep
 *  This idiom means that appearances can be deceptive and something that seems or looks good may turn out to be bad.
+
 # Beck and call
 *  Someone who does everything for you, no matter when you ask, is at your beck and call.
+
 # Bedroom eyes
 *  Someone with bedroom eyes has a sexy look in their eyes.
+* She gave me the sweetest bedroom eyes!
 # Bee in your bonnet
 *  If someone is very excited about something, they have a bee in their bonnet.
 # Bee's Knees
 *  If something is the bee's knees, it's outstanding or the best in its class.
 # Beeline for
 *  If you make a beeline for a place, you head there directly.
+
 # Been in the wars
 *  (UK) If someone has been in the wars, they have been hurt or look as if they have been in a struggle.
+
 # Beer and skittles
 *  (UK) People say that life is not all beer and skittles, meaning that it is not about self-indulgence and pleasure.
+
 # Before the ink is dry
-*  If people make an agreement or contract and then the situation changes very quickly, it changes before the ink is
-*  dry.
+*  If people make an agreement or contract and then the situation changes very quickly, it changes before the ink is dry.
+
+
 # Before you can say Jack Robinson
 *  The term Jack Robinson represents 'a short amount of time'. When you do something before you can say
 *  Jack Robinson, you do it very quickly.
+
 # Beg the question
-*  In philosophy "to beg the question" is to assume something to be true that has not yet been proved. I have seen the
-*  idiom also to mean that a question is crying out to be asked.
+*  In philosophy "to beg the question" is to assume something to be true that has not yet been proved. I have seen the idiom also to mean that a question is crying out to be asked.
+
 # Beggars can't be choosers
 *  This idiom means that people who are in great need must accept any help that is offered, even if it is not a complete solution to their problems.
 
@@ -559,8 +677,10 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 
 # Behind bars
 *  When someone is behind bars, they are in prison.
+
 # Behind closed doors
 *  If something happens away from the public eye, it happens behind closed doors.
+
 # Behind someone's back
 *  If you do something behind someone's back, you do it without telling them.
 # Behind the times
@@ -598,24 +718,26 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 *  This idiom is used to recommend being cautious rather than taking a risk.
 # Better than a stick in the eye
 *  If something is better than a stick in the eye, it isn't very good, but it is better than nothing.
+
 # Better the devil you know
-*  This is the shortened form of the full idiom, 'better the devil you know than the devil you don't', and means that it is
-*  often better to deal with someone or something you are familiar with and know, even if they are not ideal, than take a
-*  risk with an unknown person or thing.
+*  This is the shortened form of the full idiom, 'better the devil you know than the devil you don't', and means that it is often better to deal with someone or something you are familiar with and know, even if they are not ideal, than take a risk with an unknown person or thing.
+
 # Between a rock and a hard place
 *  If you are caught between a rock and a hard place, you are in a position where you have to choose between unpleasant
-*  alternatives, and your choice might cause you problems; you will not be able to satisfy everyone.
+  alternatives, and your choice might cause you problems; you will not be able to satisfy everyone.
+
 # Between the devil and the deep blue sea
 *  If you are caught between the devil and the deep blue sea, you are in a dilemma; a difficult choice.
+
 # Between the lines
-*  If you read between the lines, you find the real message in what you're reading or hearing, a meaning that is not
-*  available from a literal interpretation of the words.
+*  If you read between the lines, you find the real message in what you're reading or hearing, a meaning that is not available from a literal interpretation of the words.
+*  I don't want to have to read between the lines, what do you want?!
+
 # Between you and me and the cat's whiskers
 *  This idiom is used when telling someone something that you want them to keep secret.
 
 # Beyond a shadow of a doubt
 *  If something's beyond a shadow of a doubt, then absolutely no doubts remain about it.
-
 
 
 # Beyond belief
@@ -829,7 +951,7 @@ A drunk teenager behind the wheel is an accident waiting to happen.
 *  (UK) If you box clever, you use your intelligence to get what you want, even if you have to cheat a bit.
 
 # Boxing and coxing
-*  If people are boxing and coxing, they are sharing responsibilities so that one of them is working while the other isn't. It  can also be used when couples are sharing a house, but their relationship has broken down and when one is at home,  the other stays out.
+*  (UK) If people are boxing and coxing, they are sharing responsibilities so that one of them is working while the other isn't. It  can also be used when couples are sharing a house, but their relationship has broken down and when one is at home,  the other stays out.
 
 # Brain surgery
 *  If something is not brain surgery, it isn't very complicated or difficult to understand or master.
@@ -953,74 +1075,93 @@ Bob: Great! Let's get down to brass tacks!
 
 # Butterflies in your stomach
 *  The nervous feeling before something important or stressful is known as butterflies in your stomach.
+
 # Button your lip
 *  If you button your lip, you keep quiet and don't speak. It is also used as a way of telling someone to shut up.
+
 # By a hair's breadth
 *  If a person escapes from some danger by a hair's breadth, they only just managed to avoid it. The breadth is the
-*  thickness of a hair, so they probably feel somewhat lucky because the margin between success and what could easily
-*  have been failure was so close.
+  thickness of a hair, so they probably feel somewhat lucky because the margin between success and what could easily
+  have been failure was so close.
+
 # By a long chalk
 *  (UK) If you beat somebody by a long chalk, you win easily and comfortably.
+
 # By a whisker
 *  If you do something by a whisker, you only just manage to do it and come very near indeed to failing.
+
 # By dint of
 *  This means 'as a result of' or 'because of': It would be good to think he'd risen to position of Chief Executive by dint of
-*  hard work.
+  hard work.
+
 # By heart
 *  If you learn something by heart, you learn it word for word.
+
 # By hook or by crook
 *  If you are prepared to do something by hook or by crook, you are willing to do anything, good or bad, to reach your
-*  goal.
+  goal.
+
 # By leaps and bounds
 *  Something that happens by leaps and bounds happens very quickly in big steps.
 
 # By the back door
 *  If something is started or introduced by the back door, then it is not done openly or by following the proper
-*  procedures.
+  procedures.
+
 # By the book
 *  If you do something by the book, you do it exactly as you are supposed to.
+
 # By the same token
 *  If someone applies the same rule to different situations, they judge them by the same token: If things go well, he's full
-*  of praise, but, by the same token, when things go wrong he gets furious.
+  of praise, but, by the same token, when things go wrong he gets furious.
+
 # By the seat of your pants
 *  If you do something by the seat of your pants, you do it without help from anyone.
+
 # By the skin of your teeth
 *  If you do something by the skin of your teeth, you only just manage to do it and come very near indeed to failing.
+
 # By word of mouth
 *  If something becomes known by word of mouth, it gets known by being talked about rather than through publicity or
-*  advertising, etc.
+  advertising, etc.
 
 
 ---
 
 # Cake's not worth the candle
-* If someone says that the cake's not worth the candle, they mean that the result will not be worth the effort put in to
-* achieve it.
+* If someone says that the cake's not worth the candle, they mean that the result will not be worth the effort put in to achieve it.
 
 
 # Call a spade a spade
-* A person who calls a spade a spade is one speaks frankly and makes little or no attempt to conceal their opinions or to
-* spare the feelings of their audience.
+* A person who calls a spade a spade is one speaks frankly and makes little or no attempt to conceal their opinions or to spare the feelings of their audience.
+
 # Call the dogs off
 * If someone calls off their dogs, they stop attacking or criticizing someone.
+
 # Call the shots
 * If you call the shots, you are in charge and tell people what to do.
+
 # Call the tune
 * The person who calls the tune makes the important decisions about something.
+
 # Can of worms
 * If an action can create serious problems, it is opening a can of worms.
+
 # Can't dance and it's too wet to plow
-* (USA) When you can't dance and it's too wet to plow, you may as well do something because you can't or don't have
-* the opportunity to do anything else.
+* (USA) When you can't dance and it's too wet to plow, you may as well do something because you can't or don't have the opportunity to do anything else.
+
 # Can't hold a candle
 * If something can't hold a candle to something else, it is much worse.
+
 # Canary in a coal mine
 * (UK) A canary in a coal mine is an early warning of danger.
+
 # Card up your sleeve
 * If you have a card up your sleeve, you have a surprise plan or idea that you are keeping back until the time is right.
+
 # Carpetbagger
-* A carpetbagger is an opportunist without any scruples or ethics, or a politican who wants to represent a place they have
-* no connection with.
+* A carpetbagger is an opportunist without any scruples or ethics, or a politican who wants to represent a place they have no connection with.
+
 # Carrot and stick
 * If someone offers a carrot and stick, they offer an incentive to do something combined with the threat of punishment.
 # Carry the can
@@ -5221,6 +5362,8 @@ Bob: Great! Let's get down to brass tacks!
 # Tickled pink
 * If you are very pleased about something, you are tickled pink.
 * If something tickles you pink, it amuses you.
+
+# ticks all of the boxes
 
 # Tie the knot
 * When people tie the knot, they get married.
