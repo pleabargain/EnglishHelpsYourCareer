@@ -2263,11 +2263,9 @@ Bob: Great! Let's get down to brass tacks!
 * information or results.
 # Golden handshake
 * A golden handshake is a payment made to someone to get them to leave their job.
+
 # Golden rule
-* The golden rule is the most essential or fundamental rule associated with something. Originally, it was not a general
-* reference to an all purpose first rule applicable to many groups or protocols, but referred to a verse in the Bible about
-* treating people they way you would want them to treat you, which was considered the First Rule of behavior towards
-* all by all.
+* The golden rule is the most essential or fundamental rule associated with something. Originally, it was not a general reference to an all purpose first rule applicable to many groups or protocols, but referred to a verse in the Bible about treating people they way you would want them to treat you, which was considered the First Rule of behavior towards all by all.
 
 # Golden touch
 * Someone with a golden touch can make money from or be successful at anything they do.
@@ -2282,62 +2280,82 @@ Bob: Great! Let's get down to brass tacks!
 
 # Gone pear-shaped
 * (UK) If things have gone pear-shaped they have either gone wrong or produced an unexpected and unwanted result.
+
 # Gone to pot
 * If something has gone to pot, it has gone wrong and doesn't work any more.
+
 # Gone to the dogs
 * If something has gone to the dogs, it has gone badly wrong and lost all the good things it had.
+
 # Good antennae
 * Someone with good antennae is good at detecting things.
+
 # Good egg
 * A person who can be relied on is a good egg. Bad egg is the opposite.
 
 # Good fences make good neighbors
-*  This means that it is better for people to mind their own business and to respect the privacy of
-*  others.('Good fences make good neighbors' is the American English spelling.) 
+*  This means that it is better for people to mind their own business and to respect the privacy of  others.('Good fences make good neighbors' is the American English spelling.) 
+
 # Good shape
 *  If something's in good shape, it's in good condition. If a person's in good shape, they are fit and healthy.
+
 # Good spell
-*  A spell can mean a fairly or relatively short period of time; you'll hear weather forecasts predict a dry spell. Sports
-*  commentators will say that a sportsperson is going through a good spell when they're performing consistently better
-*  than they normally do.
+*  A spell can mean a fairly or relatively short period of time; you'll hear weather forecasts predict a dry spell. Sports commentators will say that a sportsperson is going through a good spell when they're performing consistently better than they normally do.
+
 # Good time
 *  If you make good time on a journey, you manage to travel faster than you expected.
+
 # Good walls make good neighbors
 *  Your relationship with your neighbors depends, among other things, on respecting one another's privacy.
+
 # Goody two-shoes
 *  A goody two-shoes is a self-righteous person who makes a great deal of their virtue.
+
 # Grab the bulls by its horns
 *  If you grab (take) the bull by its horns, you deal head-on and directly with a problem.
+
 # Grain of salt
 *  If you should take something with a grain of salt, you shouldn't necessarily believe it all. ('pinch of salt' is an alternative)
+
 # Grain of salt
 *  If you should take something with a grain of salt, you shouldn't accept it as true without looking more carefully at it.
+
 # Grasp the nettle
 *  (UK) If you grasp the nettle, you deal bravely with a problem.
+
 # Grass roots
-*  This idioms is often used in politics, where it refers to the ordinary people or voters. It can be used to mean people at
-*  the bottom of a hierarchy.
+*  This idioms is often used in politics, where it refers to the ordinary people or voters. It can be used to mean people at the bottom of a hierarchy.
+
 # Grass widow
 *  A grass widow is a woman whose husband is often away on work, leaving her on her own.
+
 # Graveyard shift
 *  If you have to work very late at night, it is the graveyard shift.
+
 # Gravy train
 *  If someone is on the gravy train, they have found and easy way to make lots of money.
+
 # Grease monkey
 *  A grease monkey is an idiomatic term for a mechanic.
+
 # Grease someone's palm
 *  If you grease someone's palm, you bribe them to do something.
+
 # Grease the skids
 *  If you grease the skids, you facilitate something.
+
 # Greased lightning
 *  If something or someone moves like greased lightning, they move very fast indeed.
+
 # Great guns
 *  If something or someone is going great guns, they are doing very well.
 
 # Great Scott
 * An exclamation of surprise.
+
 # Great unwashed
 * This is a term used for the working class masses.
+
 # Great white hope
 *  Someone who is expected to be a great success is a great white hope.
 
@@ -2355,11 +2373,13 @@ Bob: Great! Let's get down to brass tacks!
 
 # Green thumb
 *  (USA) Someone with a talent for gardening has a green thumb.
+
 # Green-eyed monster
 *  The green-eyed monster is an allegorical phrase for somebody's strong jealousy
+
 # Greenhorn
-*  A greenhorn or someone who is described simply as green lacks the relevant experience and knowledge for their job or
-*  task
+*  A greenhorn or someone who is described simply as green lacks the relevant experience and knowledge for their job or task.
+
 # Grey area
 *  A grey/gray area is one where there is no clear right or wrong.
 
@@ -2380,11 +2400,13 @@ Bob: Great! Let's get down to brass tacks!
 
 # Grist for the mill
 * Something that you can use to your advantage is grist for the mill. ('Grist to the mill' is also used.)
+
 # Guinea-pig
 * If you are a guinea-pig, you take part in an experiment of some sort and are used in the testing.
+
 # Gunboat diplomacy
-* If a nation conducts its diplomatic relations by threatening military action to get what it wants, it is using gunboat
-* diplomacy.
+* If a nation conducts its diplomatic relations by threatening military action to get what it wants, it is using gunboat diplomacy.
+
 # Gung ho
 * If someone is gung ho about something, they support it blindly and don't think about the consequences.
 
@@ -2392,25 +2414,30 @@ Bob: Great! Let's get down to brass tacks!
 
 # Hair of the dog
 *  If someone has a hair of the dog, they have an alcoholic drink as a way of getting rid of a hangover, the unpleasant
-*  effects of having drunk too much alcohol the night before. It is commonly used as a way of excusing having a drink early
-*  on in the day.
+  effects of having drunk too much alcohol the night before. It is commonly used as a way of excusing having a drink early on in the day.
+
 # Hairy at the heel
 *  (UK) Someone who is hairy at the heel is dangerous or untrustworthy.
+
 # Hale and hearty
 *  Someone who is hale and hearty is in very good health.
+
 # Half a mind
 *  If you have half a mind to do something, you haven't decided to do it, but are thinking seriously about doing it.
+
 # Half-baked
 *  A half-baked idea or scheme hasn't not been thought through or planned very well.
 
 # Hammer and tongs
-*  If people are going at it hammer and tongs, they are arguing fiercely. The idiom can also be used hen people are doing
-*  something energetically.
+*  If people are going at it hammer and tongs, they are arguing fiercely. The idiom can also be used hen people are doing something energetically.
+
 # Hand in glove
 *  If people are hand in glove, they have an extremely close relationship.
+
 # Hand that rocks the cradle
 
 * Women have a great power and influence because they have the greatest influence over the development of children- the hand that rocks the cradle. ('The hand that rocks the cradle rules the world' is the full form.)
+
 # Hand to mouth
 * Someone who's living from hand to mouth, is very poor and needs the little money they have coming in to cover their expenses.
   
@@ -2446,15 +2473,16 @@ Bob: Great! Let's get down to brass tacks!
 
 # Hard sell
 * If someone puts a lot of pressure on you to do or buy something, they are hard selling it.
+
 # Haste makes waste
-* This idiom means that if you try to do something quickly, without planning it, you're likely to end up spending more
-* time, money, etc, doing it.
+* This idiom means that if you try to do something quickly, without planning it, you're likely to end up spending more time, money, etc, doing it.
 
 # Hat trick
 * Three successes one after the other is a hat trick.
 
 # Hatchet job
 * A piece of criticism that destroys someone's reputation is a hatchet job.
+
 # Have a bash
 * If you have a bash at something, you try to do it, especially when there isn't much chance of success.
 
@@ -2463,33 +2491,43 @@ Bob: Great! Let's get down to brass tacks!
 
 # Have a trick up your sleeve
 * If you have a trick up your sleeve, you have a secret strategy to use when the time is right.
+
 # Have the floor
 * If someone has the floor, it is their turn to speak at a meeting.
+
 # Have your cake and eat it too
-* If someone wants to have their cake and eat it too, they want everything their way, especially when their wishes are
-* contradictory.
+* If someone wants to have their cake and eat it too, they want everything their way, especially when their wishes are contradictory.
+
 # Have your collar felt
 * If someone has their collar felt, they are arrested.
+
 # Have your tail up
 * If someone has their tail up, they are optimistic and expect to be successful.
+
 # Have your work cut out
 * If you have your work cut out, you are very busy indeed.
+
 # Having a gas
 * If you're having a gas, you are having a laugh and enjoying yourself in company.
+
 # He'll rue the day
 * He'll rue the day that he crossed me. This means that the person will one day bitterly regret what they have done.
 
 # Head for the hills
 * If people head for the hills, they run away from trouble.
+
 # Head is in the clouds
 * If a person has their head in the clouds, they have unrealistic, impractical ideas.
+
 # Head nor tail
 * If you can't make head nor tail of something, you cannot understand it at all or make any sense of it.
+
 # Head on a spike
 * If someone wants a head on a spike, they want to be able to destroy or really punish a person.
+
 # Head on the block
-* If someone's head is on the block, they are going to be held responsible and suffer the consequences for something
-* that has gone wrong.
+* If someone's head is on the block, they are going to be held responsible and suffer the consequences for something that has gone wrong.
+
 # Head over heels in love
 * When someone falls passionately in love and is intoxicated by the feeling has fallen head over heels in love.
 # heads up!
