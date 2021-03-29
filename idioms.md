@@ -935,14 +935,15 @@ Bob: Great! Let's get down to brass tacks!
 
 # Bury the hatchet
 *  If you bury the hatchet, you make peace with someone and stop arguing or fighting.
+*  
 # Bury your head in the sand
 *  If someone buries their head in the sand, they ignore something that is obviously wrong.
 
 # Busman's holiday
-*  A busman's holiday is when you spend your free time doing the same sort of work as you do in your job.
+*  (UK) A busman's holiday is when you spend your free time doing the same sort of work as you do in your job.
 
 # Busted flush
-*  Someone or something that had great potential but ended up a useless failure is a busted flush.
+* (gambling) Someone or something that had great potential but ended up a useless failure is a busted flush.
 
 # Busy as a beaver
 *  If you're as busy as a beaver, you're very busy indeed.
@@ -5601,19 +5602,26 @@ Bob: Great! Let's get down to brass tacks!
 *  People whose behavior is strictly controlled go over the top when the authority is not around, which is why most  teenagers have parties when their parents have gone on holiday. The parents are the scary authority figures, but the  cat's away and the kids are the mice partying and enjoying their freedom.
 # Whistle for it
 *  If someone says that you can whistle for something, they are determined to ensure that you don't get it.
+
 # Whistle-stop tour
 *  A whistle-stop tour is when someone visits a number of places quickly, not stopping for long.
+
 # Whistling Dixie
 *  (USA) If someone is whistling Dixie, they talk about things in a more positive way than the reality.
+
 # Whistling in the dark
 *  If someone is whistling in the dark, they believe in a positive result, even though everybody else is sure it will not  happen.
+
 # Whistling past the graveyard
 *  (USA) If someone is whistling past the graveyard, they are trying to remain cheerful in difficult circumstances.
 *  ('Whistling past the cemetery' is also used.)
+
 # White as a sheet
 *  A bad shock can make somebody go as white as a sheet.
+
 # White as snow
 *  If something or someone is as white as snow, they are perfect or completely uncorrupted and honest.
+
 # White elephant
 *  A white elephant is an expensive burden; something that costs far too much money to run, like the Millennium Dome in  the UK.
 # White lie
