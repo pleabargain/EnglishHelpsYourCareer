@@ -748,18 +748,25 @@ Bob: We're all set!
   
 # Beyond the pale
 * If something's beyond the pale, it is too extreme to be acceptable morally or socially.
+
 # Big Apple
 * (USA) The Big Apple is New York.
+
 # Big bucks
 * If someone is making big bucks, they are making a lot of money.
+
 # Big cheese
 * The big cheese is the boss.
+
 # Big fish
 * An important person in a company or an organization is a big fish.
+
 # Big fish in a small pond
 * A big fish in a small pond is an important person in a small place or organization.
+
 # Big hitter
 * A big hitter is someone who commands a lot of respect and is very important in their field.
+
 # Big nose
 * If someone has a big nose, it means they are excessively interested in everyone else's business.
   
@@ -800,8 +807,7 @@ Bob: We're all set!
 *  A bit player has a small or unimportant role in something.
 
 # Bite off more than you can chew
-*  If you bite off more than you can chew, you take on more responsibilities than you can manage. 'Don't bite off more
-*  than you can chew' is often used to advise people against agreeing to more than they can handle.
+*  If you bite off more than you can chew, you take on more responsibilities than you can manage. 'Don't bite off more  than you can chew' is often used to advise people against agreeing to more than they can handle.
 
 # Bite the bullet
 *  If you have to bite the bullet, you have to accept or face something unpleasant because it cannot be avoided.
@@ -1359,23 +1365,28 @@ Bob: Great! Let's get down to brass tacks!
 * of British weather, will deter me or stop me from being there.
 # Come to grips
 * If you come to grips with a problem or issue, you face up to it and deal with it.
+
 # Come up roses
 * If things come up roses, they produce a positive result, especially when things seemed to be going badly at first.
+
 # Come up smelling of roses
 * (UK) If someone comes up smelling of roses, they emerge from a situation with their reputation undamaged.
+
 # Come what may
-* If you're prepared to do something come what may, it means that nothing will stop or distract you, no matter how hard
-* or difficult it becomes.
+* If you're prepared to do something come what may, it means that nothing will stop or distract you, no matter how hard or difficult it becomes.
+
 # Come with the territory
 * If something comes with the territory, it is part of a job or responsibility and just has to be accepted, even if unpleasant.
+
 # Comfort zone
-* It is the temperature range in which the body doesn't shiver or sweat, but has an idiomatic sense of a place where
-* people feel comfortable, where they can avoid the worries of the world. It can be physical or mental.
+* It is the temperature range in which the body doesn't shiver or sweat, but has an idiomatic sense of a place where people feel comfortable, where they can avoid the worries of the world. It can be physical or mental.
+
 # Constitution of an ox
-* If someone has the constitution of an ox, they are less affected than most people by things like tiredness, illness,
-* alcohol, etc.
+* If someone has the constitution of an ox, they are less affected than most people by things like tiredness, illness, alcohol, etc.
+
 # Cook someone's goose
 * If you cook someone's goose, you ruin their plans.
+
 # Cook up a storm
 * If someone cooks up a storm, they cause a big fuss or generate a lot of talk about something.
 
@@ -1390,6 +1401,7 @@ Bob: Great! Let's get down to brass tacks!
 
 # Could eat a horse
 *  If you are very hungry, you could eat a horse.
+
 # Couldn't give two hoots
 *  If you couldn't give two hoots about something, you don't care at all about it.
 
@@ -1418,33 +1430,47 @@ Bob: Great! Let's get down to brass tacks!
 
 # Crème de la crème
 *  The crème de la crème is the very best of something.
+
 # Crocodile tears
 *  If someone cries crocodile tears, they pretend to be upset or affected by something.
+
 # Cross to bear
 *  If someone has a cross to bear, they have a heavy burden of responsibility or a problem that they alone must cope with.
+
 # Cry wolf
 *  If someone cries wolf, they raise a false alarm about something.
+
 # Cry your eyes out
 *  If you cry your eyes out, you cry uncontrollably.
+
 # Cry-baby
 *  A cry-baby is a person who gets emotional and cries too easily.
+
 # Curate's egg
+
 *  (UK) If something is a bit of a curate's egg, it is only good in parts.
+
 # Curiosity killed the cat
 *  As cats are naturally curious animals, we use this expression to suggest to people that excessive curiosity is not necessarily a good thing, especially where it is not their business.
+
 # Curry favour
 *  If people try to curry favour, they try to get people to support them. ('Curry favor' is the American spelling.)
 
 # Curve ball
 * (USA) If something is a curve ball, it is deceptive.
+
 # Cut and dried
 * If something is cut and dried, then everything has already been decided and, in the case of an opinion, might be a little stale and predictable.
+
 # Cut corners
 * If people try to do something as cheaply or as quickly as possible, often sacrificing quality, they are cutting corners.
+
 # Cut down the tall poppies
 * (AU) If people cut down the tall poppies, they criticize people who stand out from the crowd.
+
 # Cut it fine
 * If you cut it fine, you only just manage to do something- at the very last moment. 'Cut things fine' is the same. 'Cut it a bit fine' is a common variation.
+
 # Cut off your nose to spite your face
 * If you cut off your nose to spite your face, you do something rash or silly that ends up making things worse for you, often because you are angry or upset.
 # Cut the Gordian knot
@@ -2188,39 +2214,50 @@ Bob: Great! Let's get down to brass tacks!
 *  If you go Dutch in a restaurant, you pay equal shares for the meal.
 # Go fly a kite
 *  (USA) This is used to tell someone to go away and leave you alone.
+
 # Go for broke
 *  If someone goes for broke, they risk everything they have for a potentially greater gain.
+
 # Go fry an egg
 *  (USA) This is used to tell someone to go away and leave you alone.
+
 # Go hand in hand
 *  If things go hand in hand, they are associated and go together.
+
 # Go off on a tangent
 *  If someone goes off on a tangent, they change the subject completely in the middle of a conversation or talk.
+
 # Go pear-shaped
 *  If things have gone wrong, they have gone pear-shaped.
+
 # Go play in traffic
 *  This is used as a way of telling someone to go away.
+
 # Go round in circles
-*  If people are going round in circles, they keep discussing the same thing without reaching any agreement or coming to a
-*  conclusion.
+*  If people are going round in circles, they keep discussing the same thing without reaching any agreement or coming to a  conclusion.
+
 # Go south
 *  If things go south, they get worse or go wrong.
+
 # Go spare
 *  (UK) If you go spare, you lose your temper completely.
+
 # Go the extra mile
-*  If someone is prepared to go the extra mile, they will do everything they can to help or to make something succeed,
-*  going beyond their duty what could be expected of them .
+*  If someone is prepared to go the extra mile, they will do everything they can to help or to make something succeed, going beyond their duty what could be expected of them .
+
 # Go the whole hog
 *  If you go the whole hog, you do something completely or to its limits.
 
 # Go to seed
 * If someone has gone to seed, they have declined in quality or appearance.
+
 # Go under the hammer
 * If something goes under the hammer, it is sold in an auction.
-# Go west
-* If something goes west, it goes wrong. If someone goes west, they die.
+
+
 # Go with the flow
 * If you go with the flow, you accept things as they happen and do what everyone else wants to do.
+
 # Go-to guy
 * A go-to guy is a person whose knowledge of something is considerable so everyone wants to go to him or her for
 * information or results.
@@ -2365,6 +2402,7 @@ Bob: Great! Let's get down to brass tacks!
 *  If you have half a mind to do something, you haven't decided to do it, but are thinking seriously about doing it.
 # Half-baked
 *  A half-baked idea or scheme hasn't not been thought through or planned very well.
+
 # Hammer and tongs
 *  If people are going at it hammer and tongs, they are arguing fiercely. The idiom can also be used hen people are doing
 *  something energetically.
