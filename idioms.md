@@ -48,7 +48,10 @@ Last year during the holidays, I held so many extravagant gatherings that my fri
 </p>
 </details>
 
+# all wet
+(insult) Know nothings.
 
+* He's all wet! He knows nothing!
 
 
 # A fool and his money are soon parted
@@ -372,6 +375,9 @@ Bob: We're all set!
 * As a rule, I start my morning with a glass of water.
 *  As a rule, I don't leave my API keys on public servers.
 *    As a rule, I use different passwords on different websites.
+
+# a cold day in July
+* My wife never cooks, so I thought we would have  a cold day in July when I found her making dinner in the kitchen.
 
 # As cold as ice
 *  This idiom can be used to describe a person who does not show any emotion.
@@ -1137,6 +1143,8 @@ Bob: Great! Let's get down to brass tacks!
 # Cake's not worth the candle
 * If someone says that the cake's not worth the candle, they mean that the result will not be worth the effort put in to achieve it.
 
+# calm as a hindu cow
+* He remained as a hindu cow during the whole procedure.
 
 # Call a spade a spade
 * A person who calls a spade a spade is one speaks frankly and makes little or no attempt to conceal their opinions or to spare the feelings of their audience.
@@ -1170,39 +1178,48 @@ Bob: Great! Let's get down to brass tacks!
 
 # Carrot and stick
 * If someone offers a carrot and stick, they offer an incentive to do something combined with the threat of punishment.
+
 # Carry the can
 * If you carry the can, you take the blame for something, even though you didn't do it or are only partly at fault.
+
 # Case by case
 * If things are done case by case, each situation or issue is handled separately on its own merits and demerits.
 
 # Cash in your chips
-*  If you cash in your chips, you sell something to get what profit you can because you think its value is going to fall. It can
-*  also mean 'to die'.
+*  If you cash in your chips, you sell something to get what profit you can because you think its value is going to fall. It can  also mean 'to die'.
+
 # Cast doubt on
 *  If you make other people not sure about a matter, then you have cast doubt on it.
+
 # Cast pearls before swine
 *  If you cast pearls before swine, you offer something of value to someone who doesn't appreciate it- 'swine' are 'pigs'.
+
 # Cast your mind back
-*  If somebody tells you to cast your mind back on something, they want you to think about something that happened in
-*  the past, but which you might not remember very well, and to try to remember as much as possible.
+*  If somebody tells you to cast your mind back on something, they want you to think about something that happened in  the past, but which you might not remember very well, and to try to remember as much as possible.
+
 # Cast your net widely
 *  If you cast your net widely, you use a wide range of sources when trying to find something.
+
 # Castles in the air
 *  Plans that are impractical and will never work out are castles in the air.
+
 # Cat among the pigeons
 *  If something or someone puts, or sets or lets, the cat among the pigeons, they create a disturbance and cause trouble.
+
 # Cat burglar
 *  A cat burglar is a skillful thief who breaks into places without disturbing people or setting off alarms.
+
 # Cat fur and kitty britches
 *  (USA) When I used to ask my grandma what was for dinner, she would say "cat fur and kitty britches". This was her  Ozark way of telling me that I would get what she cooked. (Ozark is a region in the center of the United States) 
+
 # Cat got your tongue?
-*  If someone asks if the cat has got your tongue, they want to know why you are not speaking when they think you
-*  should.
+*  If someone asks if the cat has got your tongue, they want to know why you are not speaking when they think you should.
+
 # Cat nap
 *  If you have a short sleep during the day, you are cat napping.
+
 # Cat's pajamas
 *  (USA) Something that is the cat's pajamas is excellent.
-
 
 
 # Cat's whiskers
@@ -1216,153 +1233,201 @@ Bob: Great! Let's get down to brass tacks!
 
 # Caught with your hand in the cookie jar
 *  (USA) If someone is caught with his or her hand in the cookie jar, he or she is caught doing something wrong.
+
 # Chalk and cheese
 *  Things, or people, that are like chalk and cheese are very different and have nothing in common.
+
 # Change horses in midstream
-*  If people change horses in midstream, they change plans or leaders when they are in the middle of something, even
-*  though it may be very risky to do so.
+*  If people change horses in midstream, they change plans or leaders when they are in the middle of something, even though it may be very risky to do so.
+
 # Change of heart
 *  If you change the way you think or feel about something, you have a change of heart.
+
 # Change tack
 *  If you change tack, you use a different method for dealing with something.
+
 # Change your tune
 *  If someone changes their ideas or the way they talk about them, they change their tune.
+
 # Charity begins at home
-*  This idiom means that family members are more important than anyone else, and should be the focus of a person's
-*  efforts.
+*  This idiom means that family members are more important than anyone else, and should be the focus of a person's efforts.
+  
 # Chase rainbows
 *  If someone chases rainbows, they try to do something that they will never achieve.
+* example  I knew he was chasing rainbows when he told me that he was going to marry Heidi Klum.
+* example  I knew the gov't was chasing rainbows when it announced that it would repair all of the roads next year.
+
 # Cheap as chips
 *  (UK) If something is very inexpensive, it is as cheap as chips.
+
 # Cheap at half the price
 *  If something's cheap at half the price, it's very cheap indeed.
+
 # Cheap shot
 *  A cheap shot is an unprincipled criticism.
+
 # Cheat death
 *  If someone cheats death, they narrowly avoid a major problem or accident.
+
 # Cheek by jowl
 *  If things or people are cheek by jowl, they are very close together.
+
 # Cherry pick
 *  If people cherry pick, they choose things that support their position, while ignoring things that contradict it.
+
 # Chew on a bone.
 *  If someone is chewing on a bone, he or she is thinking about something intently.
+
 # Chew the cud
 *  If you chew the cud, you think carefully about something.
+
 # Chew the fat
 *  If you chew the fat with someone, you talk at leisure with them.
+
 # Chickenfeed
 *  If something is small or unimportant, especially money, it is chickenfeed.
+
 # Chinese walls
-*  Chinese walls are regulatory information barriers that aim to stop the flow of information that could be misused,
-*  especially in financial corporations.
+*  Chinese walls are regulatory information barriers that aim to stop the flow of information that could be misused, especially in financial corporations.
+
 # Chinese whispers
-*  (UK) When a story is told from person to person, especially if it is gossip or scandal, it inevitably gets distorted and
-*  exaggerated. This process is called Chinese whispers.
+*  (UK) When a story is told from person to person, especially if it is gossip or scandal, it inevitably gets distorted and exaggerated. This process is called Chinese whispers.
+
 # Chip off the old block
 *  If someone is a chip off the old block, they closely resemble one or both of the parents in character.
-# Chip on your shoulder
-*  If someone has a chip on their shoulder, they are resentful about something and feel that they have been treated
-*  badly.
-# Cigarette paper
-*  If you cannot get or put a cigarette paper between people, they are so closely bonded that nothing will separate them
-*  or their positions on issues.
 
+# Chip on your shoulder
+*  If someone has a chip on their shoulder, they are resentful about something and feel that they have been treated badly.
+
+# Cigarette paper
+*  If you cannot get or put a cigarette paper between people, they are so closely bonded that nothing will separate them or their positions on issues.
 
 
 
 # Circle the wagons
-* (USA) If you circle the wagons, you stop communicating with people who don't think the same way as you to avoid their
-* ideas.
+* (USA) If you circle the wagons, you stop communicating with people who don't think the same way as you to avoid their ideas.
+
 # Class act
 * Someone who's a class act is exceptional in what they do.
+
 # Clean as a whistle
-* If something is as clean as a whistle, it is extremely clean, spotless. It can also be used to mean 'completely', though this
-* meaning is less common nowadays.
+* If something is as clean as a whistle, it is extremely clean, spotless. It can also be used to mean 'completely', though this meaning is less common nowadays.
+
 # Clean bill of health
 * If something or someone has a clean bill of health, then there's nothing wrong; everything's fine.
+
 # Clean break
 * If you make a clean break, you break away completely from something.
+
 # Clean hands
 * Someone with clean hands, or who keeps their hands clean, is not involved in illegal or immoral activities.
+
 # Clean sheet
-* When someone has a clean sheet, they have got no criminal record or problems affecting their reputation. In football
-* and other sports, a goalkeeper has a clean sheet when let no goals in.
+* When someone has a clean sheet, they have got no criminal record or problems affecting their reputation. In football and other sports, a goalkeeper has a clean sheet when let no goals in.
+
 # Clean slate
 * If you start something with a clean slate, then nothing bad from your past is taken into account.
+
 # Clean sweep
 * If someone makes a clean sweep, they win absolutely everything in a competition or contest.
+
 # Clear as mud
 * If something is as clear as mud, then it is very confusing and unclear.
+
 # Cliffhanger
-* If something like a sports match or an election is a cliffhanger, then the result is so close that it cannot be predicted and
-* will only be known at the very end.
+* If something like a sports match or an election is a cliffhanger, then the result is so close that it cannot be predicted and will only be known at the very end.
+
 # Climb on the bandwagon
 * When people climb on the bandwagon they do something because it is popular and everyone else is doing it.
+
 # Close at hand
 * If something is close at hand, it is nearby or conveniently located.
+
 # Close but no cigar
 * (USA) If you are close but no cigar, you are close to success, but have not got there.
+
 # Close call
-* If the result of something is a close call, it is almost impossible to distinguish between the parties involved and to say
-* who has won or whatever.
+* If the result of something is a close call, it is almost impossible to distinguish between the parties involved and to say who has won or whatever.
+
 # Close shave
 * If you have a close shave, you very nearly have a serious accident or get into trouble.
+
 # Close the stable door after the horse has bolted
-* If people try to fix something after the problem has occurred, they are trying to close the stable door after the horse
-* has bolted. 'Close the barn door after the horse has bolted' is alternative, often used in American English.
+* If people try to fix something after the problem has occurred, they are trying to close the stable door after the horse has bolted. 'Close the barn door after the horse has bolted' is alternative, often used in American English.
+
 # Close to your heart
 * If something is close to your heart, you care a lot about it. ('Dear to your heart' is an alternative.)
+
 # Closed book to me
 * If a subject is a closed book to you, it is something that you don't understand or know anything about.
+
 # Cloud cuckoo land
 * If someone has ideas or plans that are completely unrealistic, they are living on cloud cuckoo land.
+
 # Cloud nine
 * If you are on cloud nine, you are extremely happy. ('cloud seven' is a less common alternative)
+
 # Cloud of suspicion
 * If a cloud of suspicion hangs over an individual, it means that they are not believed or are distrusted.
+
 # Cloud on the horizon
 * If you can see a problem ahead, you can call it a cloud on the horizon.
+
 # Clutch at straws
-* If someone is in serious trouble and tries anything to help them, even though their chances of success are probably nil,
-* they are clutching at straws.
+* If someone is in serious trouble and tries anything to help them, even though their chances of success are probably nil, they are clutching at straws.
+  
 # Coals to Newcastle
 * (UK) Taking, bringing, or carrying coals to Newcastle is doing something that is completely unnecessary.
+
 # Cock and bull story
 * A cock and bull story is a lie someone tells that is completely unbelievable.
 
 
 # Cold feet
 * If you get cold feet about something, you lose the courage to do it.
+
 # Cold fish
 * A cold fish is a person who doesn't show how they feel.
+
 # Cold light of day
 * If you see things in the cold light of day, you see them as they really are, not as you might want them to be.
+
 # Cold shoulder
 * If you give or show someone the cold shoulder, you are deliberately unfriendly and unco-operative towards them.
+
 # Cold sweat
 * If something brings you out in a cold sweat, it frightens you a lot.
+
 # Cold turkey
 * If someone suddenly stops taking drugs, instead of slowly cutting down, they do cold turkey.
 
 # Collateral damage
 *  Accidental or unintended damage or casualties are collateral damage.
+
 # Collect dust
 *  If something is collecting dust, it isn't being used any more.
+
 # Come a cropper
 *  (UK) Someone whose actions or lifestyle will inevitably result in trouble is going to come a cropper.
+
 # Come clean
 *  If someone comes clean about something, they admit to deceit or wrongdoing.
+
 # Come hell or high water
-*  If someone says they'll do something come hell or high water, they mean that nothing will stop them, no matter what
-*  happens.
+*  If someone says they'll do something come hell or high water, they mean that nothing will stop them, no matter what happens.
 
 # Come out in the wash
 * If something will come out in the wash, it won't have any permanent negative effect.
+
 # Come out of your shell
 * If someone comes out of their shell, they stop being shy and withdrawn and become more friendly and sociable.
+
 # Come rain or shine
-* If I say I'll be at a place COME RAIN OR SHINE, I mean that I can be relied on to turn up; nothing, not even the vagaries
-* of British weather, will deter me or stop me from being there.
+* If I say I'll be at a place COME RAIN OR SHINE, I mean that I can be relied on to turn up; nothing, not even the vagaries of British weather, will deter me or stop me from being there.
+* I will be at your party come rain or shine!
+* I will have my coffee in the morning come rain or shine!
+* I'm going to finish the regression testing by Friday, [come rain or shine,come what may]!
+
 # Come to grips
 * If you come to grips with a problem or issue, you face up to it and deal with it.
 
@@ -1533,8 +1598,17 @@ Bob: Great! Let's get down to brass tacks!
 *  This is used as a way of threatening someone: You'll be dead meat if you don't go along.
 # Dead men's shoes
 *  If promotion or success requires replacing somebody, then it can only be reached by dead men's shoes' by getting rid of  them.
+
 # Dead to the world
 *  If somebody's fast asleep and completely unaware of what if happening around them, he or she's dead to the world.
+
+# dead of winter
+* Coldest darkest time in winter
+* exmample: It was the dead of winter and I was very depressed.
+* It was the dead of winter but my wife and I would not be stopped come what may!
+* I feel sleepy in the dead of winter.
+
+
 # Dear John letter
 *  A letter written by a partner explaining why they are ending the relationship is a Dear John letter.
 
@@ -2530,28 +2604,38 @@ Bob: Great! Let's get down to brass tacks!
 
 # Head over heels in love
 * When someone falls passionately in love and is intoxicated by the feeling has fallen head over heels in love.
+
 # heads up!
 * Look up! There's something falling on you.
 
 
 # Heads will roll
 * If heads will roll, people will be punished or sacked for something that has gone wrong.
+
 # Headstrong
 * A headstrong person is obstinate and does not take other people's advice readily.
+
 # Healthy as a horse
 * If you're as healthy as a horse, you're very healthy.
+
 # Hear a pin drop
 * If there is complete silence in a room, you can hear a pin drop.
+
 # Hear on the grapevine
 * To receive information indirectly through a series of third parties, similar to a rumour.
+
 # Heart in the right place
 * If someone's heart is in the right place, they are good and kind, though they might not always appear to be so.
+
 # Heart in the right place
 * If someone's heart is in the right place, their intentions and feelings are good.
+
 # Heart in your boots
 * If you're heart is in your boots, you are very unhappy.
+
 # Heart in your mouth
 * If your heart is in your mouth, then you feel nervous or scared.
+
 # Heart isn't in it
 * If your heart is not in something, then you don't really believe in it or support it.
 # Heart misses a beat
@@ -2910,9 +2994,11 @@ Bob: Great! Let's get down to brass tacks!
 # It takes two to tango
 *  This idiom is used to suggest that when things go wrong, both sides are involved and neither side is completely
 *  innocent.
+
 # It's an ill wind that blows no good
 *  This is said when things have gone wrong; the idea being that when bad things happen, there can also be some positive
 *  results.
+
 # It's no use crying over spilt milk
 *  This idiom means that getting upset after something has gone wrong is pointless; it can't be changed so it should be
 *  accepted.
@@ -3049,6 +3135,7 @@ Bob: Great! Let's get down to brass tacks!
 
 # Keep your nose to the grindstone
 * If you keep your nose to the grindstone, you work hard and seriously.
+
 # Keep your options open
 * If someone's keeping their options open, they aren't going to restrict themselves or rule out any possible course of action.
 
@@ -3057,18 +3144,28 @@ Bob: Great! Let's get down to brass tacks!
 
 # Keep your powder dry
 * If you keep your powder dry, you act cautiously so as not to damage your chances.
+
 # Keep your shirt on!
 * This idiom is used to tell someone to calm down.
+
 # Keep your wig on!
 * (UK) This idiom is used to tell someone to calm down.
+
 # Kettle of fish
 * A pretty or fine kettle of fish is a difficult problem or situation.
+
+# Kick to the curb
+* Rid yourself of someone. Get rid of something.
+
 # Kick a habit
 * If you kick a habit, you stop doing it.
+
 # Kick away the ladder
 * If someone kicks away the ladder, they remove something that was supporting or helping someone.
+
 # Kick in the teeth
 * Bad news or a sudden disappointment are a kick in the teeth.
+
 # Kick something into the long grass
 * If an issue or problem is kicked into the long grass, it is pushed aside and hidden in the hope that it will be forgotten or ignored.
 
@@ -3080,14 +3177,19 @@ Bob: Great! Let's get down to brass tacks!
 
 # Kick up your heels
 * If you kick up your heels, you go to parties or celebrate something.
+
 # Kid gloves
 * If someone is handled with kid gloves, they are given special treatment and handled with great care.
+
 # Kill the goose that lays the golden egg
 * If you kill the goose that lays the golden egg, you ruin something that is very profitable.
+
 # Kill two birds with one stone
 * When you kill two birds with one stone, you resolve two difficulties or matters with a single action.
+  
 # Kindred spirit
 * A kindred spirit is someone who feels and thinks the way you do.
+
 # King of the castle
 * The king of the castle is the person who is in charge of something or in a very comfortable position compared to their companions.
 
@@ -4301,6 +4403,7 @@ Bob: Great! Let's get down to brass tacks!
 # Preaching to the choir
 * If someone preaches to the choir, they talking about a subject or issue with which their audience already agrees.
 * ('Preaching to the converted' is an alternative form.)
+
 # Presence of mind
 * If someone behaves calmly and rationally in difficult circumstances, they show presence of mind.
 # Press the flesh
@@ -4431,14 +4534,19 @@ Bob: Great! Let's get down to brass tacks!
 *  If someone is in a lot of trouble, especially financial, they are in Queer Street.
 # Queer your pitch
 *  If someone queers your pitch, they interfere in your affairs and spoil things.
+
 # Question of time
 *  If something's a question of time, it's certain to happen, though we don't know exactly when.
+
 # Queue jumping
 *  Someone who goes to the front of a queue instead of waiting is jumping the queue.
+
 # Quick as a flash
 *  If something happens quick as a flash, it happens very fast indeed.
+
 # Quick buck
 *  If you make some money easily, you make a quick buck.
+
 # Quick off the mark
 *  If someone is quick off the mark, they are very quick to use, start or do something new.
 
@@ -4457,8 +4565,12 @@ Bob: Great! Let's get down to brass tacks!
 
 # Rack and ruin
 *  If something or someone goes to rack and ruin, they are utterly destroyed or wrecked.
+  
 # Rack your brain
 *  If you rack your brain, you think very hard when trying to remember something. ('Rack your brains' is an alternative.)
+* I'm racking my brain trying to remember his name!
+
+
 # Ragged blue line
 *  (USA) This term was used to signify the Union forces (who wore blue uniforms) in the American Civil war .
 # Rags to riches
@@ -4727,8 +4839,10 @@ Bob: Great! Let's get down to brass tacks!
 * A searching question goes straight to the heart of the subject matter, possibly requiring an answer with a degree of honesty that the other person finds uncomfortable.
 # Second thoughts
 * If some has second thoughts, they start to think that an idea, etc, is not as good as it sounded at first and are starting to have doubts.
+
 # Second wind
 * If you overcome tiredness and find new energy and enthusiasm, you have second wind.
+
 # See eye to eye
 * If people see eye to eye, they agree about everything.
 # See red
@@ -5025,20 +5139,30 @@ Bob: Great! Let's get down to brass tacks!
 * If you spill the beans, you reveal a secret or confess to something.
 # Spinning a line
 * When someone spins you a line, they are trying to deceive you by lying.
+
 # Spinning a yarn
 * When someone spins you a yarn, they are trying to deceive you by lying.
+
 # Spirit is willing, but the flesh is weak
-* If the spirit is willing but the flesh is weak, someone lacks the willpower to change things they do because they derive
-* too much pleasure from them.
+* If the spirit is willing but the flesh is weak, someone lacks the willpower to change things they do because they derive too much pleasure from them.
+
 # Spirit of the law
 * The spirit of the law is the idea or ideas that the people who made the law wanted to have effect.
+
 # Spit blood
 * If someone is spitting blood, they are absolutely furious.
 
+# spit into the wind
+completely useless activity
+* Performing regression testing while the code is being refactored can be like spitting into the wind if you don't have good coverage.
+* Washing windows in a rain storm is spitting into the wind.
+
 # Spitting image
 * If a person is the spitting image of somebody, they look exactly alike.
+
 # Split hairs
 * If people split hairs, they concentrate on tiny and unimportant details to find fault with something.
+
 # Spoil the ship for a ha'pworth of tar
 * (UK) If someone spoils the ship for a ha'pworth (halfpenny's worth) of tar, they spoil something completely by trying to make a small economy.
 # Spot on
@@ -5270,15 +5394,19 @@ Bob: Great! Let's get down to brass tacks!
 * If something can be taken as read, it is so definite that it's not necessary to talk about it.
 # Talk a blue streak
 * (USA) If someone talks a blue streak, they speak quickly and at length. ('Talk up a blue streak' is also used.)
+
 # Talk nineteen to the dozen
 * If someone talks very quickly, they talk nineteen to the dozen.
+
 # Talk of the town
 * When everybody is talking about particular people and events, they are he talk of the town.
+
 # Talk out of the back of your head
 * If someone is talking out of the back of their head, they are talking rubbish.
+
 # Talk out of your hat
-* If someone is talking out of their hat, they're talking utter rubbish, especially if compounded with total ignorance of the
-* subject on which they are pontificating. ('Talk through your hat' is also used.)
+* If someone is talking out of their hat, they're talking utter rubbish, especially if compounded with total ignorance of the subject on which they are pontificating. ('Talk through your hat' is also used.)
+
 # Talk shop
 * If you talk shop, you talk about work matters, especially if you do this outside work.
 # Talk the hind legs off a donkey
@@ -5661,40 +5789,48 @@ Bob: Great! Let's get down to brass tacks!
 *  If a matter is up in the air, no decision has been made and there is uncertainty about it.
 # Up sticks
 *  (UK) If you up sticks, you leave somewhere, usually permanently and without warning- he upped sticks and went to  work abroad.
+
 # Up the ante
-*  If you up the ante, you increase the importance or value of something, especially where there's an element of risk as
-*  the term comes from gambling, where it means to increase the stake (the amount of money bet).
+*  If you up the ante, you increase the importance or value of something, especially where there's an element of risk as the term comes from gambling, where it means to increase the stake (the amount of money bet).
+
 # Up the creek
-*  If someone or something is up the creek, they are in real trouble. 'Up the creek without a paddle' is an alternative, and
-*  'up shit creek (without a paddle)' is a ruder form.
+*  If someone or something is up the creek, they are in real trouble. 'Up the creek without a paddle' is an alternative, and  'up shit creek (without a paddle)' is a ruder form.
+
 # Up the duff
 *  (UK) If a woman is up the duff, she's pregnant.
+
 # Up the spout
 *  (UK) If something has gone up the spout, it has gone wrong or been ruined.
+
 # Up the stick
 *  (UK) If a woman is up the stick, she's pregnant.
+
 # Up the wall
 *  If someone goes up the wall, they get very angry.
+
 # Up to scratch
 *  If something doesn't come up to scratch, it doesn't meet the standard required or expected.
+
 # Up to snuff
 *  If something isn't up to snuff, it doesn't meet the standard expected.
+
 # Up to speed
 *  If you bring someone up to speed, you update them on something.
 # Up to the eyes
-
-
-
-
 * You you are up to your eyes in something, you are deeply involved or to have too much of something like work. ('Up the neck', 'up to the eyeballs' and 'up to the ears' are also used.)
+
 # Up to the neck
 * If someone's in something up to the neck, they are very involved in it, especially when it's something wrong.
+
 # Up to your neck
 * If someone is very involved in something, they are up to their neck in it, especially if it is something bad or immoral.
+
 # Upper crust
 * The upper crust are the upper classes and the establishment.
+
 # Upper hand
 * If you have the upper hand, you have the advantage.
+
 # Upset the apple cart
 * If you upset the apple cart, you cause trouble and upset people.
 
@@ -5782,35 +5918,53 @@ Bob: Great! Let's get down to brass tacks!
 * If you weather a storm, you get through a crisis or hard times.
 # Weight off your shoulders
 * If something is a weight off your shoulders, you have relieved yourself of a burden, normally a something that has been troubling you or worrying you.
+
 # Wet behind the ears
 * Someone who is wet behind the ears is either very young or inexperienced.
+* Don't ask too much of the new guy, he's still wet behind the ears.
+
 # Wet blanket
 * A wet blanket is someone who tries to spoil other people's fun.
+
 # Wet your whistle
 * If you are thirsty and have an alcoholic drink, you wet your whistle. "Whet your whistle" is also used.
+
 # What can you expect from a hog but a grunt?
 * (USA) This means that you can't expect people to behave in a way that is not in their character- a 'hog' is a 'pig', so an unrefined person can't be expected to behave in a refined way.
 # What goes around comes around
 * This saying means that of people do bad things to other people, bad things will happen to them.
 # What will be will be
 * The expression what will be will be is used to describe the notion that fate will decide the outcome of a course of  events, even if action is taken to try to alter it.
+
 # What's good for the goose is good for the gander
 * This idiom means that the sexes should be treated the same way and not be subjected to different standards.
+
 # What's your take on that?
 * This idiom is way of asking someone for their opinion and ideas.
-# Whatever floats your boat
 
+# Whatever floats your boat
 *  When people say this, they mean that you should do whatever makes you happy.
+
 # Wheels fall off
 *  When the wheels fall off something, it goes wrong or fails. ('Wheels come off' is an alternative.)
+  
 # When hell freezes over
 *  An impossible or very unlikely situation or event
+* My son will do his homework without me telling me when hell freezes over.
+* Politicians will tell the truth when hell freezes over.
+
 # When in Rome, do as the Romans
 *  This idiom means that when you are visiting a different place or culture, you should try to follow their customs and  practices.
+
 # When it rains, it pours
 *  This idiom means that when things go wrong, a lot of things go wrong at the same time.
+* example: The server went down, the power went off, the fire alarm sounded! You know, when it rains, it pours!
+* My phone crashed, and my credit is empty so you know, when it rains it pours.
+* My son is sick, my husband is sick, I'm sick! When it rains, it pours.
+
 # Where the rubber meets the road
 *  (USA) Where the rubber meets the road is the most important point for something, the moment of truth. An athlete  can train all day, but the race is where the rubber meets the road and they'll know how good they really are.
+
 # Where there's a will, there's a way
 *  This idiom means that if people really want to do something, they will manage to find a way of doing it.
 # Whet your appetite

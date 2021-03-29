@@ -3777,6 +3777,8 @@ Bob: I will do my best.
 
 # phrases
 
+## I run every other day
+
 ## It's pretty much the same.
 
 ## We'll go over the material later!
@@ -5348,11 +5350,14 @@ Bob: I will have been living in my apartment for three years in January.
 
 # adverbs
 
+## barely
+* I can barely hear you! Please speak up!
+* I can barely find time for my hobbies much less time for boys!
+
 ## correctly
 * I am not thinking about this problem correctly.
 
 ## notoriously
-
 * The company is notoriously known for not paying it's suppliers.
 
 ## either
@@ -5362,7 +5367,7 @@ Bob: I will have been living in my apartment for three years in January.
 ## neither
 * Neither of us had seen it before.
 * Neither my wife nor I knew anything about China.
-* 
+ 
 
 ## off
 
@@ -5497,6 +5502,11 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 
 # adjectives
+
+## diffident
+* Always diffident and soft-spoken, Svetlana did not raise any objection when the cashier overcharged him for his purchase.
+* The manager likes her staff to be very diffident.
+
 
 ## superstitious
 * He is very superstitious. Don't talk to him about mirrors!
