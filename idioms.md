@@ -3662,6 +3662,7 @@ Bob: Great! Let's get down to brass tacks!
 
 # Midas touch
 *  If someone has the Midas touch, they make a lot of money out of any scheme they try.
+*  example: Some say that Elon Musk has the Midas touch.
 
 # Mighty oaks from little acorns grow
 *  Big or great things start very small.
@@ -3670,8 +3671,7 @@ Bob: Great! Let's get down to brass tacks!
 *  A millstone around your neck is a problem that prevents you from doing what you want to do.
 
 # Mind the gap
-*  Mind the gap is an instruction used on the Underground in the UK to warn passengers to be careful when leaving the
-*  tube or train as there is quite a distance between the train and the platform.
+*  (UK)Mind the gap is an instruction used on the Underground in the UK to warn passengers to be careful when leaving the  tube or train as there is quite a distance between the train and the platform.
 # Mind your own beeswax
 *  (USA) This idiom means that people should mind their own business and not interfere in other people's affairs.
 # Mind Your P's and Q's
@@ -4573,12 +4573,17 @@ Bob: Great! Let's get down to brass tacks!
 
 # Ragged blue line
 *  (USA) This term was used to signify the Union forces (who wore blue uniforms) in the American Civil war .
+
 # Rags to riches
 *  Someone who starts life very poor and becomes rich goes from rags to riches.
+example: Horatio Alger is a great rags to riches story.
+
 # Raining cats and dogs
 *  When it is raining cats and dogs, it is raining very heavily.
-# Rainy day
+
+# save it for a Rainy day
 *  If you save something, especially money, for a rainy day, you save it for some possible problem or trouble in the future.
+
 # Raise Cain
 *  (USA) If someone raises Cain, they make a big fuss publicly, causing a disturbance.
 # Raise eyebrows
@@ -4586,41 +4591,56 @@ Bob: Great! Let's get down to brass tacks!
 # Rake over old coals
 *  (UK) If you go back to old problems and try to bring them back, making trouble for someone, you are raking over old
 *  coals.
+
 # Rake someone over the coals
 *  (USA) If you rake someone over the coals, you criticize or scold them severely.
+
 # Rank and file
 *  The rank and file are the ordinary members of a company, organization, etc, excluding the managers and directors.
+
 # Rat race
 *  The rat race is the ruthless, competitive struggle for success in work, etc.
+
 # Rather you than me
-*  Rather you than me is an expression used when someone has something unpleasant or arduous to do. It is meant in a
-*  good natured way of expressing both sympathy and having a bit of a laugh at their expense.
+*  Rather you than me is an expression used when someone has something unpleasant or arduous to do. It is meant in a good natured way of expressing both sympathy and having a bit of a laugh at their expense.
+
 # Raw deal
 *  If you get a raw deal, you are treated unfairly.
+
 # Read from the same page
 *  When people are reading from the same page, they say the same things in public about an issue.
+
 # Read someone the riot act
-*  If you read someone the riot act, you give them a clear warning that if they don't stop doing something, they will be in
-*  serious trouble.
+*  If you read someone the riot act, you give them a clear warning that if they don't stop doing something, they will be in serious trouble.
+
 # Real deal
 *  If something is the real deal, it is genuine and good.
+
 # Real McCoy
 *  Something that's the real McCoy is the genuine article, not a fake.
+
 # Real trooper
 *  A real trooper is someone who will fight for what they believe in and doesn't give up easily.
+
 # Recipe for disaster
 *  A recipe for disaster is a mixture of people and events that could only possibly result in trouble.
+example: Putting a junior developer as a lead programmer on a major project is a recipe for disaster.
+
 # Red carpet
-*  If you give someone the red-carpet treatment, you give them a special welcome to show that you think they are
-*  important. You can roll out the red carpet, too.
+*  If you give someone the red-carpet treatment, you give them a special welcome to show that you think they are important. You can roll out the red carpet, too.
+
 # Red herring
 *  If something is a distraction from the real issues, it is a red herring.
+
 # Red letter day
 *  A red letter day is a one of good luck, when something special happens to you.
+
 # Red light district
 *  The red light district is the area of a town or city where there is prostitution, sex shops, etc.
+
 # Red mist
 *  If someone sees red or the red mist, they lose their temper and self-control completely.
+
 # Red rag to a bull
 *  If something is a red rag to a bull, it is something that will inevitably make somebody angry or cross.
 
@@ -4629,31 +4649,42 @@ Bob: Great! Let's get down to brass tacks!
 
 # Red tape
 * This is a negative term for the official paperwork and bureaucracy that we have to deal with.
+
 # Reinvent the wheel
-* If someone reinvents the wheel, they waste their time doing something that has already been done by other people,
-* when they could be doing something more worthwhile.
+* If someone reinvents the wheel, they waste their time doing something that has already been done by other people, when they could be doing something more worthwhile.
+
 # Renaissance man
-* A Renaissance man is a person who is talented in a number of different areas, especially when their talents include both
-* the sciences and the arts.
+* A Renaissance man is a person who is talented in a number of different areas, especially when their talents include both the sciences and the arts.
+* example: Benjamin Franklin was a true Renaissance man.
+
 # Rest is gravy
 * (USA) If the rest is gravy, it is easy and straightforward once you have reached that stage.
+
 # Rest on your laurels
 * If someone rests on their laurels, they rely on their past achievements, rather than trying to achieve things now.
+
 # Revenge is sweet
 * When you are happy to be proved right, then you know that revenge is sweet.
+* variaton: Revenge is dish best served cold.
+
 # Rewrite history
-* If you rewrite history, you change your version of past events so as to make yourself look better than you would if the
-* truth was told.
+* If you rewrite history, you change your version of past events so as to make yourself look better than you would if the truth was told.
+
 # Rhyme or reason
 * If something is without rhyme or reason, it is unreasonable. ('Beyond rhyme or reason' is an alternative.)
+
 # Rice missionary
 * A rice missionary gives food to hungry people as a way of converting them to Christianity.
+
 # Rich as Croesus
 * Someone who is as rich as Croesus is very wealthy indeed.
+
 # Ride roughshod
 * If someone rides roughshod over other people, they impose their will without caring at all for other people's feelings.
+
 # Right as rain
 * If things are right as rain, then everything is going well in your life.
+
 # Right royal
 * (UK) A right royal night out would be an extremely exciting, memorable and fun one.
 # Right up my alley
