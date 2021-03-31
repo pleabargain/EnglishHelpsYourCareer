@@ -3818,6 +3818,8 @@ Bob: I will do my best.
 
 # phrases
 
+## let's take it outside
+
 ## good [manners|etiqutte]
 
 ## typical [boy|girl|male|female]
@@ -6475,6 +6477,13 @@ What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
 
+# topic playing piano
+* How long have you been playing piano?
+* Did you study music?
+* Did you attend music school?
+* Are you self-taught?
+* Do you have a piano?
+
 # topic training a house cat
 
 # topic Queens' Gambit on Netflix https://en.wikipedia.org/wiki/Queen's_Gambit
@@ -8773,6 +8782,7 @@ Do you know many people in Spain ?
 
 
 # nouns
+
 
 ## fart
 * A fart is gas out of your ass.
