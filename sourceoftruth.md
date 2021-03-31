@@ -564,6 +564,10 @@ Bob: Yep! She's clearly into the music! (idiomatic phrase)
 * We often sit besides each other.
 
 
+## affect
+
+## effect
+
 
 ## excluding
 * All of my friends excluding me went skiing last week at Bad Gastein!
@@ -961,6 +965,7 @@ Bob: I was being examined by my doctor. (past-continuous)
 * I didn't know this existed.
 
 ## plan planned (d) (reg)
+* I'm planning to take a break.
 * We are planning to move to Bali.
 * I'm planning to see it sometime soon.
 * We had planned to meet here.
@@ -1089,6 +1094,7 @@ Bob: I was being examined by my doctor. (past-continuous)
 
 
 ## attend attended (id) (reg)
+* I attended a conference.
 * I attended an English speaking club.
 * I have attended parties where everyone was drunk!
 * She attended the funeral wearing a black dress.
@@ -1119,6 +1125,11 @@ Bob: I was being examined by my doctor. (past-continuous)
 
 ## copy copied (d)
 * I was copying photos from my vacation for an hour. (past continuous)interfere
+
+## dangle dangled (d)(reg) 
+* Where have you dangled recently?
+  * I dangled underneath the chin up bars at the park this morning.
+  * I haven't dangled anywhere recently.
 
 
 ## dance danced (t)(reg)
@@ -1217,6 +1228,10 @@ Bob: We must sign and send them as soon as possible.
 * I don't remember anything.
 
 
+## munch munched(t) (reg)
+* What have you been munching on?
+  * I have been munching on the tasty belgian waffles that you made for me, my dear!
+
 ## mitigate mitigated (id) (reg)
 * We have mitigated our risks by hiring a red-team to follow up on our implementation.
 
@@ -1247,6 +1262,7 @@ Bob: We must sign and send them as soon as possible.
 * We should have searched in the closet!
 
 ## speak spoke spoken (irr)
+* I have experience speaking with... 
 * What have you been doing since we last spoke?
 * I should have spoken a little bit slower.
 * You should speak slowly.
@@ -1564,8 +1580,12 @@ Ana: I said that I am in a Christmas mood.
 
 ---
 
+## misplace misplaced (t) (reg)
+
 ## lose lost lost (irr)
 * I have lost patience with her.
+* I regularly lose flash drives.
+* What was the last thing you lost?
 
 ## wrap wrapped (t) (reg)
 * He had wrapped the present in toilet paper.
@@ -1718,9 +1738,14 @@ Bob: Oh, just a sip please.
 * My uncle [was employed,worked] at MegaCorp for ten years. He was an employee. His employer, Megacorp, went bankrupt.
 * My uncle is not employed. He doesn't have a job. He's retired.
 
+## educate educated (id) (reg)
+* I was trying to educate my cat.
 
 ## erase erased (t) (reg)
 * My hard drive will be erased!
+
+## establish established (t) (reg)
+* I should have established a better connection.
 
 ## eat ate eaten (irr)
 * During the summer, we eat tomatoes every day.
@@ -1787,6 +1812,7 @@ Bob: You [needn't,mustn't,shouldn't] worry about me! I'm driving the new Tesla w
 
 ## adjust adjust (id)(reg)
 * How is she adjusting to the new situation?
+* They should have adjusted the wedding dress.
 
 ## apply applied (d) (reg)
 * I should have applied myself in school.
@@ -1967,6 +1993,7 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 
 ## advise advised (d) (reg)
 * We had advised her to stay away from that part of town.
+* My co-workers advised me to stay away from the broken bathroom.
 
 ## admit admitted  (id) (reg)
 * I admitted to my wife that I lost 100USD at the casino!
@@ -2007,6 +2034,9 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 
 ## convince convinced (t) (reg)
 * I'm convinced that this project is going to succeed!
+* She wasn't convinced.
+
+## convert converted (id) (reg)
 
 ## consent consented (id) (reg) 
 * He should have consented to her offer.
@@ -2032,6 +2062,10 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 * They should have communicated their progress to the PM.
 * We could have communicated our progress to the client more often.
 
+## commute commuted (id) (reg)
+* I used to commute to work every day by bus.
+* I just finished my commute from work. It took me two hours!
+* I have to commute to and from work on the bus.
 
 
 ## complete completed (id) (reg)
@@ -2199,6 +2233,8 @@ Ana: Are you sure? You look kind of spacey! You look like you have already check
 ## flee fled fled
 * The robber is fleeing the scene of the crime!
 
+## float floated (id) (reg) 
+* We should have floated the boat earlier. 
 
 ---
 Ana: Where did you go during the party?
@@ -2221,6 +2257,9 @@ Bob: I fled for an hour or so to the bar down the street to get away from that a
 
 ## follow followed (d)(reg)
 * I followed all of the steps but it still didn't work!
+
+## domesticate domesticated (id) (reg)
+* My cat is not domesticated.
 
 ## double-check double-checked (t) (reg)
 
@@ -2585,10 +2624,10 @@ Bob: I have spent several days resolving this issue.
 
 ## ping pinged (d) (reg)
 * He should have pinged me by now.
-
+* He might have pinged me earlier but I don't know.
 
 ## prepare prepared (d) (reg)
-
+* I should start preparing for the next certification exam.
 * I'm still preparing.
 * I spent the weekend preparing for my exam.
 * I wasn't prepared for the interview.
@@ -3775,7 +3814,29 @@ Bob: I will do my best.
 * suspicious
 
 
+
 # phrases
+
+## typical [boy|girl|male|female]
+
+## just signed up
+
+## go through with the deal
+
+## I feel meh.
+
+
+## [good |bad] mood
+* She's in a good mood.
+* He's in a bad mood.
+
+## I don't know how it's going to work out.
+
+## What's the plan, Stan?
+
+## from top to bottom
+* We need to re-evalute the situation from top to bottom.
+
 
 ## I run every other day
 
@@ -5503,6 +5564,20 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 # adjectives
 
+## dull dull·er, dull·est
+
+## rural
+* My grand mother lives outside of the city in a very rural area near the farms to the south.
+
+## shabby
+* The rooms on the upper floors of the mansion had a rather shabby appearance, as if they had not been much in use of late.
+
+## reluctant
+* I am reluctant to go into the lion's cage.
+* I am reluctant to pick up small rodents.
+* I am reluctant to take out the trash late at night that's why I ask my loving boyfriend to do it for me!
+* What are you reluctant to do?
+
 ## diffident
 * Always diffident and soft-spoken, Svetlana did not raise any objection when the cashier overcharged him for his purchase.
 * The manager likes her staff to be very diffident.
@@ -6397,6 +6472,18 @@ What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
 
+# topic training a house cat
+
+# topic Queens' Gambit on Netflix https://en.wikipedia.org/wiki/Queen's_Gambit
+* Was it entertaining?
+* What did you think about the main character's personality?
+* What did you think about the story line?
+
+# topic The Black List https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)
+* Was it entertaining?
+* What did you think about the main character's personality?
+* What did you think about the story line?
+
 
 # topic pair programming
 
@@ -6479,7 +6566,16 @@ How do you monitor how much time you spend solving problems?
 
 
 
-
+# topic COVID-19
+* Have you seen the statistics on the number of people who have died?
+  * Statistics are full of lies!
+* The pandemic is worldwide, not just here. The hospitals are full of sick people. I'm willing to stay at home to stay safe and healthy.
+  * You have just convinced me!
+* Haven't you heard that this Covid19 was created by Russia? 
+* None of friends have gotten sick, so what do you to that?
+* Did you go to the hospital and see people sick in the hospital?
+* I saw a lot of people [using oxygen masks,on respirators].
+* I saw it with my own eyes!
 
 # topic coffee
 
@@ -6812,7 +6908,12 @@ LIDAR
 * What do you mean by state machine?
 * What is an AWS Lambda Function?
 * Could you give me an example of a Lambda Function?
-* 
+* What was the most difficult part of the exam?
+  * The most difficult thing...
+* What advice would you give me to pass the exam?
+  * You should try to take and pass some practice exams from AWS.
+  * You might consider taking an online course.
+  * You have to take several photos of the room where you are taking the exam.
 
 
 ---
@@ -8443,6 +8544,7 @@ I don't normally throw in the towel at the first sign of trouble!
 # some grammar rules
 ## plurals 
 * Advice is always singular.
+* percent is always singular
 * Knowledge is always singular.
 * Data is always singular
 * two possible
@@ -8669,6 +8771,12 @@ Do you know many people in Spain ?
 
 # nouns
 
+## orphan
+* She's been an orphan since her parent's died.
+
+## alacrity
+* She approached the new job with alacrity!
+
 ## violation
 * It's in violation of government regulations! I would NOT advise you do this.
 
@@ -8811,14 +8919,31 @@ The boy ought to catch something later today.
 ---
 
 # opposites
+rural<>urban
+* She doesn't live an
 calm<>manic
+* He's not calm! He's manic.
+sharp knife<>dull knife
+* I bought a bought a sharp knife a while ago but not it's dull.
+sharp person<>stupid person
+
+entertaining<>dull
+* There are both entertaining and dull shows on Netflix.
+
 vertical<>horizontal
+
 waste of time <> more efficient
+
 happy<>sad
+
 major<>minor
+
 legal<>illegal
+
 drunk<>sober
+
 logical<>illogical
+
 odd <> even
 black <> white
 hungry <> full

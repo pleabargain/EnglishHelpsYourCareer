@@ -982,6 +982,7 @@ Bob: Great! Let's get down to brass tacks!
 
 # Bread and butter
 *  Bread and butter issues are ones that affect people directly and in a very important way.
+*  Company X is our bread and butter. Don't irritate them! We need their business.
 
 
 # Breadwinner
@@ -1025,6 +1026,7 @@ Bob: Great! Let's get down to brass tacks!
 
 # Bring home the bacon
 * A person who brings home the bacon earns the money that a family live on.
+* Who brings home the bacon in your house?
 
 # Bring someone to book
 * If somebody is brought to book, they are punished or made to account for something they have done wrong.
@@ -3576,6 +3578,9 @@ Bob: Great! Let's get down to brass tacks!
 # Make waves
 *  If someone makes waves, they cause a lot of trouble.
 
+# boil down
+To reduce something to it's smallest element or essence
+
 # Make your blood boil
 *  If something makes your blood boil, it makes you very angry.
 
@@ -5321,19 +5326,25 @@ completely useless activity
 
 # Strong as an ox
 *  Someone who's exceedingly strong physically is said to be as strong as an ox.
+
 # Stubborn as a mule
-*  Someone who will not listen to other people's advice and won't change their way of doing things is as stubborn as a
-*  mule.
+*  Someone who will not listen to other people's advice and won't change their way of doing things is as stubborn as a mule.
+
 # Stuffed to the gills
 *  If someone is stuffed to the gills, they have eaten a lot and are very full.
+
 # Sure as eggs is eggs
 *  These means absolutely certain, and we do say 'is' even though it is grammatically wrong.
+
 # Sure-fire
 *  If something is sure-fire, it is certain to succeed. ('Surefire' is also used.)
+
 # Swansong
 *  A person's swansong is their final achievement or public appearance.
+
 # Swear like a sailor
 *  Someone who is foul-mouthed and uses bad language all the time, swears like a sailor.
+  
 # Swear like a trooper
 *  Someone who is foul-mouthed and uses bad language all the time, swears like a trooper.
 # Sweat blood
