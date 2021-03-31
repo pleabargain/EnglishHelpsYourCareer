@@ -2307,11 +2307,12 @@ Bob: I fled for an hour or so to the bar down the street to get away from that a
 
 Ana: What did you decide to do?
 
-Bob:I made the decision to postpone my trip.
+Bob: I made the decision to postpone my trip.
 
 ---
 
 ## learn learned (d)(reg)
+* I haven't learned anything new.
 * I have learned a few new words.
 * Have you learned anything today?
 * What have you learned this week?
@@ -3816,6 +3817,8 @@ Bob: I will do my best.
 
 
 # phrases
+
+## good [manners|etiqutte]
 
 ## typical [boy|girl|male|female]
 
@@ -8770,6 +8773,10 @@ Do you know many people in Spain ?
 
 
 # nouns
+
+## fart
+* A fart is gas out of your ass.
+* He's an old unpleasant fart. (Old man)
 
 ## orphan
 * She's been an orphan since her parent's died.
