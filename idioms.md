@@ -1059,8 +1059,7 @@ Bob: Great! Let's get down to brass tacks!
 * Someone who is a bundle of nerves is very worried or nervous.
 
 # Burn the candle at both ends
-* Someone who burns the candle at both ends lives life at a hectic pace, doing things which are likely to affect their
-* health badly.
+* Someone who burns the candle at both ends lives life at a hectic pace, doing things which are likely to affect their health badly.
 # Burn the midnight oil
 * If you stay up very late working or studying, you burn the midnight oil.
 # Burn your bridges
@@ -1094,9 +1093,7 @@ Bob: Great! Let's get down to brass tacks!
 *  If you button your lip, you keep quiet and don't speak. It is also used as a way of telling someone to shut up.
 
 # By a hair's breadth
-*  If a person escapes from some danger by a hair's breadth, they only just managed to avoid it. The breadth is the
-  thickness of a hair, so they probably feel somewhat lucky because the margin between success and what could easily
-  have been failure was so close.
+*  If a person escapes from some danger by a hair's breadth, they only just managed to avoid it. The breadth is the thickness of a hair, so they probably feel somewhat lucky because the margin between success and what could easily have been failure was so close.
 
 # By a long chalk
 *  (UK) If you beat somebody by a long chalk, you win easily and comfortably.
@@ -1105,29 +1102,25 @@ Bob: Great! Let's get down to brass tacks!
 *  If you do something by a whisker, you only just manage to do it and come very near indeed to failing.
 
 # By dint of
-*  This means 'as a result of' or 'because of': It would be good to think he'd risen to position of Chief Executive by dint of
-  hard work.
+*  This means 'as a result of' or 'because of': It would be good to think he'd risen to position of Chief Executive by dint of hard work.
 
 # By heart
 *  If you learn something by heart, you learn it word for word.
 
 # By hook or by crook
-*  If you are prepared to do something by hook or by crook, you are willing to do anything, good or bad, to reach your
-  goal.
+*  If you are prepared to do something by hook or by crook, you are willing to do anything, good or bad, to reach your goal.
 
 # By leaps and bounds
 *  Something that happens by leaps and bounds happens very quickly in big steps.
 
 # By the back door
-*  If something is started or introduced by the back door, then it is not done openly or by following the proper
-  procedures.
+*  If something is started or introduced by the back door, then it is not done openly or by following the proper procedures.
 
 # By the book
 *  If you do something by the book, you do it exactly as you are supposed to.
 
 # By the same token
-*  If someone applies the same rule to different situations, they judge them by the same token: If things go well, he's full
-  of praise, but, by the same token, when things go wrong he gets furious.
+*  If someone applies the same rule to different situations, they judge them by the same token: If things go well, he's full of praise, but, by the same token, when things go wrong he gets furious.
 
 # By the seat of your pants
 *  If you do something by the seat of your pants, you do it without help from anyone.
@@ -1136,8 +1129,7 @@ Bob: Great! Let's get down to brass tacks!
 *  If you do something by the skin of your teeth, you only just manage to do it and come very near indeed to failing.
 
 # By word of mouth
-*  If something becomes known by word of mouth, it gets known by being talked about rather than through publicity or
-  advertising, etc.
+*  If something becomes known by word of mouth, it gets known by being talked about rather than through publicity or advertising, etc.
 
 
 ---
@@ -1540,27 +1532,33 @@ Bob: Great! Let's get down to brass tacks!
 
 # Cut off your nose to spite your face
 * If you cut off your nose to spite your face, you do something rash or silly that ends up making things worse for you, often because you are angry or upset.
+
 # Cut the Gordian knot
 * If someone cuts the Gordian knot, they solve a very complex problem in a simple way.
+
 # Cut the mustard
 * (UK) If somebody or something doesn't cut the mustard, they fail or it fails to reach the required standard.
 
 
 
-
-
 # Cut to the chase
 *  If you cut to the chase, you get to the point, or the most interesting or important part of something without delay.
+
 # Cut to the quick
 *  If someone's cut to the quick by something, they are very hurt and upset indeed.
+
 # Cut your coat according to your cloth
 *  If you cut your coat according to your cloth, you only buy things that you have sufficient money to pay for.
+
 # Cut your teeth on
 *  The place where you gain your early experience is where you cut your teeth.
+
 # Cute as a bug
 *  (USA) If something is as cute as a bug, it is sweet and endearing.
+
 # Cuts no ice
 *  If something cuts no ice, it doesn't have any effect or influence.
+
 # Cutting edge
 *  Something that is cutting edge is at the forefront of progress in its area.
 
@@ -1569,35 +1567,49 @@ Bob: Great! Let's get down to brass tacks!
 
 # Daft as a brush
 *  (UK) Someone who is daft as a brush is rather stupid.
+
 # Damp squib
 *  (UK) If something is expected to have a great effect or impact but doesn't, it is a damp squib.
+
 # Dark horse
 *  If someone is a dark horse, they are a bit of a mystery.
+
 # Day in the sun
 *  If you have your day in the sun, you get attention and are appreciated.
+
 # Daylight robbery
 *  If you are overcharged or underpaid, it is a daylight robbery; open, unfair and hard to prevent. Rip-off has a similar meaning.
+
 # Dead air
 *  When there is a period of total silence, there is dead air.
+
 # Dead and buried
 *  If something is dead and buried, it has all long been settled and is not going to be reconsidered.
+
 # Dead as a dodo
 *  If something's dead as a dodo, it is lifeless and dull. The dodo was a bird that lived the island of Mauritius. It couldn't fly and was hunted to extinction.
+
 # Dead as a doornail
 *  This is used to indicate that something is lifeless.
+
 # Dead duck
 *  If something is a dead duck, it is a failure.
+
 # Dead from the neck up
 *  Someone who's dead from the neck up is very stupid indeed.
+
 # Dead heat
 *  If a race ends in a dead heat, two or more finish with exactly the same result.
+
 # Dead in the water
 *  If something is dead in the water, it isn't going anywhere or making any progress.
+
 # Dead man walking
-*  A dead man walking is someone who is in great trouble and will certainly get punished, lose their job or position, etc,
-*  soon.
+*  A dead man walking is someone who is in great trouble and will certainly get punished, lose their job or position, etc, soon.
+
 # Dead meat
 *  This is used as a way of threatening someone: You'll be dead meat if you don't go along.
+
 # Dead men's shoes
 *  If promotion or success requires replacing somebody, then it can only be reached by dead men's shoes' by getting rid of  them.
 
@@ -1615,31 +1627,42 @@ Bob: Great! Let's get down to brass tacks!
 *  A letter written by a partner explaining why they are ending the relationship is a Dear John letter.
 
 
-
 # Death of a thousand cuts
 * If something is suffering the death of a thousand cuts, or death by a thousand cuts, lots of small bad things are happening, none of which are fatal in themselves, but which add up to a slow and painful demise.
+
 # Death warmed up
 * (UK) If someone looks like death warmed up, they look very ill indeed. ('death warmed over' is the American form)
+
 # Demon weed
 * Tobacco is the demon weed.
+
 # Derring-do
 * If a person shows derring-do, they show great courage.
+
 # Devil finds work for idle hands
 * When people say that the devil finds work for idle hands, they mean that if people don't have anything to do with their  time, they are more likely to get involved in trouble and criminality.
+
 # Devil is in the detail
 * When people say that the devil in the detail, they mean that small things in plans and schemes that are often overlooked can cause serious problems later on.
+  
 # Devil may care
 * If you live a devil-may-care life it means you are willing to take more risks than most people.
+
 # Devil's advocate
 * If someone plays Devil's advocate in an argument, they adopt a position they don't believe in just for the sake of the argument
+
 # Diamond in the rough
 * A diamond in the rough is someone or something that has great potential, but isn't not refined and polished.
+
 # Die is cast
 * If the die is cast, a decision has been made that cannot be altered and fate will decide the consequences.
+
 # Different kettle of fish
 * If something is a different kettle of fish, it is very different from the other things referenced.
+
 # Different ropes for different folks
 * (USA) This idiom means that different people do things in different ways that suit them.
+
 # Different strokes for different folks
 * (USA) This idiom means that different people do things in different ways that suit them.
   
@@ -1649,71 +1672,89 @@ Bob: Great! Let's get down to brass tacks!
 
 # Dime a dozen
 * (USA) If something is a dime a dozen, it is extremely common, possibly too common.
+
 # Dip your toes in the water
 * If you dip your toes in the water, you try something tentatively because you are not sure whether it will work or not.
+
 # Dirty dog
 * A dirty dog is an untrustworthy person.
+
 # Discerning eye
 * If a person has a discerning eye, they are particularly good at judging the quality of something.
+
 # Discretion is the better part of valour
 * This idiom means that it is often better to think carefully and not act than to do something that may cause problems.
+
 # Dish the dirt
 * If you dish the dirt on something or someone, you make unpleasant or shocking information public.
+
 # Do a Devon Loch
 * (UK) If someone does a Devon Loch, they fail when they were very close to winning. Devon Loch was a horse that collapsed just short of the winning line of the Grand National race.
+
 # Do a runner
 * (UK) If people leave a restaurant without paying, they do a runner.
+
 # Do the running
 * (UK) The person who has to do the running has to make sure that things get done. ('Make the running' is also used.)
+
 # Do their dirty work
 * Someone who does someone's dirty work, carries out the unpleasant jobs that the first person doesn't want to do.
 * Someone who seems to enjoy doing this is sometimes known as a 'henchman'.
+
 # Do's and don't's
 * The do's and don't's are what is acceptable or allowed or not within an area or issue, etc.
+
 # Dog and pony show
 * (USA) A dog and pony show is a presentation or some marketing that has lots of style, but no real content.
+
 # Dog days
 * Dog days are very hot summer days.
 
 
 
-
 # Dog eat dog
 * In a dog eat dog world, there is intense competition and rivalry, where everybody thinks only of himself or herself.
+
 # Dog in the manger
-* (UK) If someone acts like a dog in the manger, they don't want other people to have or enjoy things that are useless to
-* them.
+* (UK) If someone acts like a dog in the manger, they don't want other people to have or enjoy things that are useless to them.
+
 # Dog tired
 * If you are dog tired, you are exhausted.
+
 # Dog's dinner
 * Something that is a dog's dinner is a real mess.
+
 # Dog's life
 * If some has a dog's life, they have a very unfortunate and wretched life.
 
 # Dog-eared
 * If a book is dog-eared, it is in bad condition, with torn pages, etc.
+
 # Doggy bag
 * If you ask for a doggy bag in a restaurant, they will pack the food you haven't eaten for you to take home.
 
 
 # Doldrums
-*  If a person is in the doldrums, they are depressed. If a project or something similar is in the doldrums, it isn't making
-*  any progress.
+*  If a person is in the doldrums, they are depressed. If a project or something similar is in the doldrums, it isn't making any progress.
+
 # Dollars for doughnuts
 *  (USA) If something is dollars for doughnuts, it is a sure bet or certainty.
+
 # Don't catch your chickens before they're hatched
-*  This means that you should wait until you know whether something has produced the results you desire, rather than
-*  acting beforehand. ('Don't count your chickens until they've hatched' is an alternative.)
+*  This means that you should wait until you know whether something has produced the results you desire, rather than acting beforehand. ('Don't count your chickens until they've hatched' is an alternative.)
+  
 # Don't give up the day job
 *  This idiom is used a way of telling something that they do something badly.
+
 # Don't hold your breath
 *  If you are told not to hold your breath, it means that you shouldn't have high expectations about something.
+
 # Don't judge a book by the cover
-*  This idiom means that you should not judge something or someone by appearances, but should look deeper at what is
-*  inside and more important.
+*  This idiom means that you should not judge something or someone by appearances, but should look deeper at what is inside and more important.
+
 # Don't look a gift horse in the mouth
-*  This means that if you are given something, a present or a chance, you should not waste it by being too critical or
-*  examining it too closely.
+*  This means that if you are given something, a present or a chance, you should not waste it by being too critical or examining it too closely.
+
 # Don't push my buttons!
 *  This can be said to someone who is starting to annoy you.
 
@@ -1724,14 +1765,14 @@ Bob: Great! Let's get down to brass tacks!
 *  (USA) This idiom is used to advise people not to be cheated or ripped off.
 
 # Don't upset the applecart
-*  If you are advised not to upset the applecart, you are being told not to disturb the way things are done because it might
-*  ruin things.
+*  If you are advised not to upset the applecart, you are being told not to disturb the way things are done because it might  ruin things.
+
 # Don't wash your dirty laundry in public
-*  (UK) People, especially couples, who argue in front of others or involve others in their personal problems and crises, are
-*  said to be washing their dirty laundry in public; making public things that are best left private. (In American English,
-*  'don't air your dirty laundry in public' is used.)
+*  (UK) People, especially couples, who argue in front of others or involve others in their personal problems and crises, are said to be washing their dirty laundry in public; making public things that are best left private. (In American English,  'don't air your dirty laundry in public' is used.)
+
 # Done to death
 *  If a joke or story has been done to death, it has been told so often that it has stopped being funny.
+
 # Donkey's years
 *  This idiom means 'a very long time'.
 
@@ -1765,12 +1806,16 @@ Bob: Great! Let's get down to brass tacks!
 
 # Down in the doldrums
 * If somebody's down in the doldrums, they are depressed and lacking energy.
+
 # Down in the dumps
 * If someone's down in the dumps, they are depressed.
+
 # Down in the mouth
 * If someone is down in the mouth, they look unhappy or depressed.
+
 # Down the drain
 * If something goes down the drain, especially money or work, it is wasted or produces no results.
+
 # Down the pan
 * If something has gone down the pan, it has failed or been ruined.
 
@@ -1812,8 +1857,10 @@ Bob: Great! Let's get down to brass tacks!
 
 # Drink like a fish
 *  If someone drinks like a fish, they drink far too much alcohol.
+
 # Drive a wedge
 *  If you drive a wedge between people, you exploit an issue so that people start to disagree.
+
 # Drive someone up the wall
 *  If something or someone drives you up the wall, they do something that irritates you greatly.
 
@@ -1830,8 +1877,7 @@ Bob: Great! Let's get down to brass tacks!
 *  If you drop someone a line, you send a letter to them.
 
 # Drop the ball
-*  If someone drops the ball, they are not doing their job or taking their responsibilities seriously enough and let
-  something go wrong.
+*  If someone drops the ball, they are not doing their job or taking their responsibilities seriously enough and let something go wrong.
 
 # Drunk as a lord
 *  (UK) Someone who is very drunk is as drunk as a lord.
@@ -1852,20 +1898,19 @@ Bob: Great! Let's get down to brass tacks!
 *  (USA) If you have your ducks in a row, you are well-organized.
 
 # Dull as ditchwater
-*  (UK) If something is as dull as ditchwater, it is incredibly boring. A ditch is a long narrow hole or trench dug to contain
-  water, which is normally a dark, dirty colour and stagnant (when water turns a funny colour and starts to smell bad). (In  American English,'things are 'dull as dishwater'.)
+*  (UK) If something is as dull as ditchwater, it is incredibly boring. A ditch is a long narrow hole or trench dug to contain water, which is normally a dark, dirty colour and stagnant (when water turns a funny colour and starts to smell bad). (In  American English,'things are 'dull as dishwater'.)
 
 # Dunkirk spirit
 *  (UK) Dunkirk spirit is when people pull together to get through a very difficult time.
 
 # Dutch auction
-*  If something is sold by setting a price, then reducing it until someone buys it, it is sold in a Dutch auction. It can also
-  mean that something is changed until it is accepted by everyone.
+*  If something is sold by setting a price, then reducing it until someone buys it, it is sold in a Dutch auction. It can also  mean that something is changed until it is accepted by everyone.
 
 # Dutch courage
 *  Dutch courage is the reckless bravery caused by drinking too much.
 
 # Dutch treat
+*  To go Dutch
 *  If something like a meal is a Dutch treat, then each person pays their own share of the bill.
 
 # Dutch uncle
@@ -1908,53 +1953,69 @@ Bob: Great! Let's get down to brass tacks!
 
 
 # Fairweather friend
-* A fairweather friend is the type who is always there when times are good but forgets about you when things get
-* difficult or problems crop up.
+* A fairweather friend is the type who is always there when times are good but forgets about you when things get difficult or problems crop up.
+
 # Fall off the back of a lorry
 * (UK) If someone tries to sell you something that has fallen of the back of a lorry, they are trying to sell you stolen goods.
 
 
 # Fall off the turnip truck
-* (USA) If someone has just fallen off the turnip truck, they are uninformed, naive and gullible. (Often used in the
-* negative)
+* (USA) If someone has just fallen off the turnip truck, they are uninformed, naive and gullible. (Often used in the negative)
+
 # Fall on our feet
 * If you fall on your feet, you succeed in doing something where there was a risk of failure.
+
 # Fall on your sword
 * If someone falls on their sword, they resign or accept the consequences of some wrongdoing.
+
 # Familiarity breeds contempt
-* This means that the more you know something or someone, the more you start to find faults and dislike things about it
-* or them.
+* This means that the more you know something or someone, the more you start to find faults and dislike things about it or them.
+
 # Fast and furious
 * Things that happen fast and furious happen very quickly without stopping or pausing.
+
 # Fat cat
 * A fat cat is a person who makes a lot of money and enjoys a privileged position in society.
+
 # Fat chance!
 * This idiom is a way of telling someone they have no chance.
+
 # Fat head
 * A fat head is a dull, stupid person.
+
 # Fat hits the fire
 * When the fat hits the fire, trouble breaks out.
+
 # Fat of the land
 * Living off the fat of the land means having the best of everything in life.
+
 # Fate worse than death
 * Describing something as a fate worse than death is a fairly common way of implying that it is unpleasant.
+
 # Feather in your cap
 * A success or achievement that may help you in the future is a feather in your cap.
+
 # Feather your own nest
 * If someone feathers their own nest, they use their position or job for personal gain.
+
 # Feathers fly
 * When people are fighting or arguing angrily, we can say that feathers are flying.
+
 # Fed up to the back teeth
 * When you are extremely irritated and fed up with something or someone, you are fed up to the back teeth.
+
 # Feel at home
 * If you feel relaxed and comfortable somewhere or with someone, you feel at home.
+
 # Feel free
-* If you ask for permission to do something and are told to feel free, the other person means that there is absolutely no
-* problem
+* If you ask for permission to do something and are told to feel free, the other person means that there is absolutely no problem.
+
 # Feel the pinch
 * If someone is short of money or feeling restricted in some other way, they are feeling the pinch.
+
 # Feeling blue
 * If you feel blue, you are feeling unwell, mainly associated with depression or unhappiness.
+
 # Feet of clay
 * If someone has feet of clay, they have flaws that make them seem more human and like normal people.
 
@@ -1963,45 +2024,62 @@ Bob: Great! Let's get down to brass tacks!
 
 
 # Fiddle while Rome burns
-*  If people are fiddling while Rome burns, they are wasting their time on futile things while problems threaten to destroy
-  them.
+*  If people are fiddling while Rome burns, they are wasting their time on futile things while problems threaten to destroy them.
+
 # Fifth columnist
 *  (UK) A fifth columnist is a member of a subversive organization who tries to help an enemy invade.
+
 # Fifth wheel
 *  (USA) A fifth wheel is something unnecessary or useless.
+
 # Fight an uphill battle
 *  When you fight an uphill battle, you have to struggle against very unfavourable circumstances.
+
 # Fight tooth and nail
 *  If someone will fight tooth and nail for something, they will not stop at anything to get what they want. ('Fight tooth and claw' is an alternative.)
+
 # Fighting chance
 *  If you have a fighting chance, you have a reasonable possibility of success.
+
 # Find your feet
 *  When you are finding your feet, you are in the process of gaining confidence and experience in something.
+
 # Fine and dandy
 *  (UK) If thing's are fine and dandy, then everything is going well.
+
 # Fine tuning
 *  Small adjustments to improve something or to get it working are called fine tuning.
+
 # Fine words butter no parsnips
 *  This idiom means that it's easy to talk, but talk is not action.
+
 # Finger in the pie
 *  If you have a finger in the pie, you have an interest in something.
+
 # Fingers and thumbs
 *  If you are all fingers and thumbs, you are being clumsy and not very skilled with your hands.
+
 # Fire away
-*  If you want to ask someone a question and they tell you to fire away, they mean that you are free to ask what you
-*  want.
+*  If you want to ask someone a question and they tell you to fire away, they mean that you are free to ask what you want.
+
 # Fire on all cylinders
 *  If something is firing on all cylinders, it is going as well as it could.
+
 # First come, first served
 *  This means there will be no preferential treatment and a service will be provided to those that arrive first.
+
 # First out of the gate
 *  When someone is first out of the gate, they are the first to do something that others are trying to do.
+
 # First port of call
 *  The first place you stop to do something is your first port of call.
+
 # Fish or cut bait
 *  (USA) This idiom is used when you want to tell someone that it is time to take action.
+
 # Fish out of water
 *  If you are placed in a situation that is completely new to you and confuses you, you are like a fish out of water.
+
 # Fishy
 *  If there is something fishy about someone or something, there is something suspicious; a feeling that there is something wrong, though it isn't clear what it is.
 
