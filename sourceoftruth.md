@@ -3058,7 +3058,9 @@ Bob: No, I don't watch TV.
 
 
 ## run ran run (irr)
+
 ---
+
 Bob: What did you do today?
 
 Ana: I did a lot of things! Including, I ran today at four o'clock in the afternoon.
@@ -3091,6 +3093,8 @@ Ana: I walked after work.
 * I always wanted to learn how to play piano.
 * I had wanted this car for a long time before I bought it.
 * They might have wanted something different.
+
+## gather gathered (d) (reg) 
 
 ## give gave given (irr)
 * When I gave him a new tablet, he was very happy.
@@ -3668,6 +3672,24 @@ Ana: I need to write letters to my clients.
 * How does this [meet,conform to] our needs?
 * We should have conformed to the standard.
 
+## confuse confused (d) (reg)
+
+---
+Ana: “So what’s the problem with the server?” 
+
+Bob:” Ugh, I don’t have a clue, Ana. Do you know?”
+
+Ana: “It's the API endpoint. It's configured properly. Do you know how I got that answer?”
+
+Bob: “It’s a mystery to me. I don’t know, Ana. I just don’t get it. 
+
+Ana: “I don’t get how you can come to work without any sleep. That’s why you are having so much trouble!” 
+
+Bob: “You’re right!”
+
+---
+
+
 ## connect connected  (id) (reg)
 * I should be connected within the next five days.
 * It is often connected to UI elements.
@@ -3818,9 +3840,13 @@ Bob: I will do my best.
 
 # phrases
 
+## I was very popular...
+
+## so far so good
+
 ## let's take it outside
 
-## good [manners|etiqutte]
+## good [manners|etiquette]
 
 ## typical [boy|girl|male|female]
 
@@ -4584,6 +4610,7 @@ He'll apologize when pigs fly.
 * Not everything that is shiny is valuable.	origin: Shakespeare
 ## Don’t get your knickers in a twist
 * 	Calm down!
+  
 ## All for one, and one for all
 * Let's join together and fight the good fight!	origin: Shakespeare
 ## Kiss and make up
@@ -4679,6 +4706,7 @@ She's really boozey!
 ## to make fun of someone
 * You shouldn't make fun of the guy with bad hair!
 * You shouldn't make fun of people with ugly dogs!
+* def: to humiliate or embarrass someone
 
 
 
@@ -5569,7 +5597,12 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 # adjectives
 
-## dull dull·er, dull·est
+## feasible
+* Is the project feasible?
+
+## dull 
+comparitive: dull·er
+superlative: dull·est
 
 ## rural
 * My grand mother lives outside of the city in a very rural area near the farms to the south.
@@ -7847,6 +7880,13 @@ Bob: In my opinion, Bangkok has some of the best shopping in Asia.
 
 ---
 
+# topic shopping
+* When do you like to go shopping?
+* Who do you prefer to go shopping with?
+* How to not get bored waiting for someone else to finish their shopping?
+* What is your favorite [sporting goods,clothes,shoes,electronics,food] store?
+
+
 
 # topic: Grafana task completion
 
@@ -8783,6 +8823,9 @@ Do you know many people in Spain ?
 
 # nouns
 
+## bud
+* def: Slang/synonym for friend.
+* My wife and I are best buds!
 
 ## fart
 * A fart is gas out of your ass.
@@ -8936,6 +8979,9 @@ The boy ought to catch something later today.
 ---
 
 # opposites
+
+suitable<>unsuitable
+
 rural<>urban
 * She doesn't live an
 calm<>manic
