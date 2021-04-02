@@ -3840,6 +3840,21 @@ Bob: I will do my best.
 
 # phrases
 
+## bear with me
+* Please bear with me while I figure this problem out.
+
+## bear in mind
+* I want you to bear in mind that the woman is always right!
+
+## make up your mind
+* I couldn't make up my mind! Do I want a latte or a cappuccino!
+
+## scope creep
+* We are suffering from scope creep! The client keeps adding new features!
+
+## at face value
+* I accepted her offer at face value.
+
 ## I was very popular...
 
 ## so far so good
