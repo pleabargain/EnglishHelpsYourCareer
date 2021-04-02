@@ -336,10 +336,14 @@ Bob: We're all set!
 # Answers on a postcard
 *  This idiom can be used to suggest that the answer to something is very obvious or that the person would really like to
   hear what people think.
+
 # Ants in your pants
 *  If someone has ants in their pants, they are agitated or excited about something and can't keep still.
+
 # Any port in a storm
 *  This means that in an emergency any solution will do, even one that would normally be unacceptable.
+*  When the financial problems hit, I had to take the first I could get. You know what they say, any port in a storm.
+
 # Any Tom, Dick or Harry
 *  If something could be done by any Tom, Dick or Harry, it could be done by absolutely anyone.
 
@@ -793,6 +797,9 @@ Bob: We're all set!
 
 # Bird-brain
 * Someone who has a bird-brain, or is bird-brained, is stupid.
+* She's a bit of a bird-brain!
+* This is a bird-brained [idea,solution].
+
 
 # Birds and the bees
 * If a child is taught about the birds and the bees, they are taught about sex.
@@ -967,6 +974,8 @@ Bob: We're all set!
 
 # Brain surgery
 *  If something is not brain surgery, it isn't very complicated or difficult to understand or master.
+*  Making bread is not brain surgery.
+*  It's not brain surgery! I can do that!
 
 # Brass monkey
 *  If it's brass monkey weather, or cold enough to freeze the balls off a brass monkey, it is extremely cold.
@@ -1247,9 +1256,10 @@ Bob: Great! Let's get down to brass tacks!
 *  This idiom means that family members are more important than anyone else, and should be the focus of a person's efforts.
   
 # Chase rainbows
-*  If someone chases rainbows, they try to do something that they will never achieve.
-* example  I knew he was chasing rainbows when he told me that he was going to marry Heidi Klum.
-* example  I knew the gov't was chasing rainbows when it announced that it would repair all of the roads next year.
+*  If someone chases rainbows, they try to do something that they will never achieve. 
+*  example  I knew he was chasing rainbows when he told me that he was going to marry Heidi Klum.
+*  example  I knew the gov't was chasing rainbows when it announced that it would repair all of the roads next year.
+*  example You're chasing rainbows!
 
 # Cheap as chips
 *  (UK) If something is very inexpensive, it is as cheap as chips.
@@ -1417,10 +1427,12 @@ Bob: Great! Let's get down to brass tacks!
 * If someone comes out of their shell, they stop being shy and withdrawn and become more friendly and sociable.
 
 # Come rain or shine
-* If I say I'll be at a place COME RAIN OR SHINE, I mean that I can be relied on to turn up; nothing, not even the vagaries of British weather, will deter me or stop me from being there.
+* If I say I'll be at a place COME RAIN OR SHINE, I mean that I can be relied on to turn up; nothing, not even the vagaries of British weather, will deter me or stop me from being there. synonym=for sure! no matter what happens
 * I will be at your party come rain or shine!
-* I will have my coffee in the morning come rain or shine!
+* I will get my coffee in the morning come rain or shine!
 * I'm going to finish the regression testing by Friday, [come rain or shine,come what may]!
+* I will finish my tasks by Friday, come rain or shine.
+* We need to push out this release by the end of the week, come rain or shine.
 
 # Come to grips
 * If you come to grips with a problem or issue, you face up to it and deal with it.
@@ -1448,6 +1460,7 @@ Bob: Great! Let's get down to brass tacks!
 
 # Cook up a storm
 * If someone cooks up a storm, they cause a big fuss or generate a lot of talk about something.
+* My daughter cooked up a storm over her graduation plans.
 
 # Corner a market
 * If a business is dominant in an area and unlikely to be challenged by other companies, it has cornered the market.
@@ -2592,6 +2605,7 @@ Bob: Great! Let's get down to brass tacks!
 
 # Grey matter
 *  Grey/gray matter is the human brain.
+*  He doesn't have a lot of gray matter in his head. (He's not very smart!)
 
 # Grey pound
 *  (UK) In the UK, the grey pound is an idiom for the economic power of elderly people.
@@ -2769,34 +2783,43 @@ Bob: Great! Let's get down to brass tacks!
 
 # Heart isn't in it
 * If your heart is not in something, then you don't really believe in it or support it.
+
 # Heart misses a beat
 * If your heart misses a beat, you are suddenly shocked or surprised. ('Heart skips a beat' is an alternative)
+
 # Heart of gold
 * Someone with a heart of gold is a genuinely kind and caring person.
+
 # Heaven knows
 * If you ask someone a question and they say this, they have no idea.
+
 # Heavenly bodies
 * The heavenly bodies are the stars.
+
 # Heavy-handed
 * If someone is heavy-handed, they are insensitive and use excessive force or authority when dealing with a problem.
+
 # Hedge your bets
 * If you hedge your bets, you don't risk everything on one opportunity, but try more than one thing.
+
 # Hell for leather
 * If you do something hell for leather, especially running, you do it as fast as you can.
+
 # Hell in a handcart
 * If something is going to hell in a handcart, it is getting worse and worse, with no hope of stopping the decline.
+
 # Herding cats
-* If you have to try to co-ordinate a very difficult situation, where people want to do very different things, you are
-* herding cats.
+* If you have to try to co-ordinate a very difficult situation, where people want to do very different things, you are herding cats.
 
 # Here today, gone tomorrow
-*  Money, happiness and other desirable things are often here today, gone tomorrow, which means that they don't last
-*  for very long.
-# Hiding to nothing
+*  Money, happiness and other desirable things are often here today, gone tomorrow, which means that they don't last for very long.
 
+# Hiding to nothing
 * If people are on a hiding to nothing, their schemes and plans have no chance of succeeding. 'Hiding to nowhere' is an alternative.
+
 # High and dry
 * If you are left high and dry, you are left alone and given no help at all when you need it.
+
 # High and mighty
 * The high and mighty are the people with authority and power. If a person is high and mighty, they behave in a superior and condescending way.
 
@@ -4132,23 +4155,30 @@ To reduce something to it's smallest element or essence
 # Off your rocker
 * (UK) Someone who is off their rocker is crazy.
 # Off-hand
-* Off-hand means without preparation. People say that they don't know the answer off-hand, meaning that they don't
-* know it at that time.
+* Off-hand means without preparation. People say that they don't know the answer off-hand, meaning that they don't know it at that time.
+
 # Old chestnut
 * An old chestnut is something that has been repeated so many times that it has lost its impact.
+
 # Old friends and old wine are best
 * This idiom means that the things and people that we know well are better than the unfamiliar.
+
 # Old hat
 * If something's old hat, it seems rather old fashioned and dated.
+
 # Oldest trick in the book
 * The oldest trick in the book is a well-known way of deceiving someone, though still effective.
+
 # Olive branch
 * If you hold out or offer an olive branch, you make a gesture to indicate that you want peace.
+
 # On a fishing expedition
-* If someone is on a fishing expedition, they are trying to get information, often using incorrect or improper ways to find
-* things out.
+* If someone is on a fishing expedition, they are trying to get information, often using incorrect or improper ways to find things out.
+
 # On a roll
 * If you're on a roll, you're moving from success to success.
+* We're on a roll! We just got another client!
+
 # On a silver platter
 * If you hand or give something on a silver platter to someone, you let them have it too easily.
 # On Carey Street
@@ -4169,9 +4199,6 @@ To reduce something to it's smallest element or essence
 * (UK) Is a machine is on the blink, it isn't working properly or is out of order.
 # On the blower
 * (UK) If someone is on the blower, they are on the phone.
-
----* * * *     
-* * * * * * * * *      ---
 
 
 # On the case
@@ -4703,6 +4730,7 @@ To reduce something to it's smallest element or essence
 # Rack your brain
 *  If you rack your brain, you think very hard when trying to remember something. ('Rack your brains' is an alternative.)
 * I'm racking my brain trying to remember his name!
+* Give me a second, I'm racking my brain trying to figure this out.
 
 
 # Ragged blue line
@@ -4845,11 +4873,15 @@ example: Putting a junior developer as a lead programmer on a major project is a
 * planning.
 # Rock the boat
 * If you rock the boat, you destabilize a situation by making trouble. It is often used as advice; 'Don't rock the boat'.
+
 # Rocket science
-* If something is not rocket science, it is not very complicated or difficult to understand. This idiom is normally used in
-* the negative.
+* If something is not rocket science, it is not very complicated or difficult to understand. This idiom is normally used in the negative.
+*  This sounds like rocket science to me!
+*  It sounds like rocket science to me!
+
 # Roll out the red carpet
 * If you roll out the red carpet, you treat someone in a special way, especially when welcoming them.
+
 # Roll with the punches
 *  If you roll with the punches, you are flexible and able to adapt to difficult circumstances.
 
@@ -4860,18 +4892,21 @@ example: Putting a junior developer as a lead programmer on a major project is a
 *  This idiom means that many things cannot be done instantly, and require time and patience.
 
 # Rooted to the spot
-*  If someone is rooted to the spot, they canot move, either physically or they cannot think their way out of a problem.
+*  If someone is rooted to the spot, they cannot move, either physically or they cannot think their way out of a problem.
 
 # Rose-colored glasses
 *  If people see things through rose-colored (coloured) glasses, they see them in a more positive light than they really are.
 
 # Rose-tinted glasses
 *  If people see things through rose-tinted glasses, they see them in a more positive light than they really are.
+
 # Rough and ready
-*  If something is rough and ready, it has not been carefully prepared, but is fit for its purpose. If a person is rough and
-*  ready, they are not very refined or mannered.
+*  If something is rough and ready, it has not been carefully prepared, but is fit for its purpose. If a person is rough and ready, they are not very refined or mannered.
+
+
 # Rough around the edges
 *  If someone is rough around the edges, they haven't mastered something, though they show promise.
+
 # Rough diamond
 *  A rough diamond is a person who might be a bit rude but who is good underneath it all.
 # Rough edges
@@ -5420,6 +5455,7 @@ completely useless activity
 # Still waters run deep
 *  People use this idiom to imply that people who are quiet and don't try to attract attention are often more interesting
 *  than people who do try to get attention.
+
 # Stitch in time saves nine
 *  A stitch in time saves nine means that if a job needs doing it is better to do it now, because it will only get worse, like a
 *  hole in clothes that requires stitching.
@@ -5431,8 +5467,11 @@ completely useless activity
 
 # Stool pigeon
 * (USA) A stool pigeon is a police informer.
+
 # Storm in a teacup
 * If someone exaggerates a problem or makes a small problem seem far greater than it really is, then they are making a storm in a teacup.
+* My wife usually makes a storm in a teacup when her laptop doesn't work.
+
 # Straw man
 * A straw man is a weak argument that is easily defeated. It can also be a person who is used as to give an illegal or inappropriate activity an appearance of respectability.
 
@@ -6081,12 +6120,18 @@ completely useless activity
 * (UK) A watering hole is a pub.
 # Weak at the knees
 * If people go weak at the knees, they have a powerful emotional reaction to something and feel that they might fall over.
+
 # Wear sackcloth and ashes
 * If someone displays their grief or contrition publicly, they wear sackcloth and ashes.
+
 # Wear your heart on your sleeve
 * Someone who wears their heart on their sleeve shows their emotions and feelings publicly.
+  
 # Weather a storm
 * If you weather a storm, you get through a crisis or hard times.
+* We've have had some tough times, but we weathered the storms.
+* We weathered a financial storm in 2008.
+
 # Weight off your shoulders
 * If something is a weight off your shoulders, you have relieved yourself of a burden, normally a something that has been troubling you or worrying you.
 
@@ -6326,7 +6371,6 @@ completely useless activity
 
 # X-rated
 * If something is x-rated, it is not suitable for children.
-
 
 # Zero hour
 *  The time when something important is to begin is zero hour.

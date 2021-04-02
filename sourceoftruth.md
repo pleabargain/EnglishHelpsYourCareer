@@ -9,7 +9,8 @@
 * may (super polite, almost deprecated)
 * might
 * need
-  * It [[MODAL],will,can, could,must, should, would, may, might] be very [ADJECTIVE, simple, easy, hard, boring, difficult,annoying, frustrating, confusing].
+* It [[MODAL],will,can, could,must, should, would, may, might] be very [ADJECTIVE, simple, easy, hard, boring, difficult,annoying, frustrating, confusing].
+
 
 # conjunctions
 ## despite
@@ -33,7 +34,7 @@ They can stay provided they don't make any noise.
 </details>
 
 
-##  unless
+## unless
 *  Unless means except on the condition that
 <details><summary><b>examples</b></summary>
 <p>
@@ -46,7 +47,7 @@ Don't open that 5liter bottle of wine unless you are planning to have a party!
 
 
 
-##  since
+## since
 *  since is used to show result
 
 <details><summary><b>examples</b></summary>
@@ -1590,8 +1591,9 @@ Ana: I said that I am in a Christmas mood.
 ## wrap wrapped (t) (reg)
 * He had wrapped the present in toilet paper.
 
-## wear  wore worn (irr)
+## wear wore worn (irr)
 * You should have worn warmer clothes.
+* I haven't worn it yet.
 * He likes to wear fancy clothes.
 * I wore my warmest jacket today because it is really cold outside.
 
@@ -3840,6 +3842,20 @@ Bob: I will do my best.
 
 # phrases
 
+## bummer
+* That sucks! That's a bummer!
+
+---
+
+Ana: Someone stole my phone!
+
+Bob: Ah shit man! That's a bummer!
+
+---
+
+## movable feast
+* Easter is a movable feast, whereas Christmas is not.
+
 ## bear with me
 * Please bear with me while I figure this problem out.
 
@@ -4500,6 +4516,9 @@ I was a bit disappointed by the whole thing. Been there, done that.
 
 ## chip off the old block
 (A child who is a chip off the old block acts like their parent.)
+
+## cool down
+* Don't stress! Cool down!
 
 ## cool as a cucumber
 (calm)
@@ -5611,6 +5630,10 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 
 # adjectives
+
+## pleasant
+* You should be more pleasant and stop annoying your team mates.
+
 
 ## feasible
 * Is the project feasible?
