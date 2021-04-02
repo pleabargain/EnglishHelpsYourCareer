@@ -1040,7 +1040,7 @@ Bob: I was being examined by my doctor. (past-continuous)
 * I couldn't believe what I was seeing!
 
 
-## embarrass embarrassed (reg)
+## embarrass embarrassed (d) (reg)
 * I was very embarrassed!
 
 ## de 
