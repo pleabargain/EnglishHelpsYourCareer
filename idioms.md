@@ -2099,8 +2099,7 @@ Bob: Great! Let's get down to brass tacks!
 *  If someone is fit to be tied, they are extremely angry.
 
 # Flash in the pan
-*  If something is a flash in the pan, it is very noticeable but doesn't last long, like most singers, who are very successful for
-  a while, then forgotten.
+*  If something is a flash in the pan, it is very noticeable but doesn't last long, like most singers, who are very successful for a while, then forgotten.
 
 # Flat out
 *  If you work flat out, you work as hard and fast as you possibly can.
@@ -2118,52 +2117,64 @@ Bob: Great! Let's get down to brass tacks!
   
 # Flowery speech
 * Flowery speech is full of lovely words, but may well lack substance.
+
 # Fly by the seat of one's pants
-* If you fly by the seat of one's pants, you do something difficult even though you don't have the experience or training
-* required.
+* If you fly by the seat of one's pants, you do something difficult even though you don't have the experience or training required.
+
 # Fly in the ointment
 * A fly in the ointment is something that spoils or prevents complete enjoyment of something.
+
 # Fly off the handle
 * If someone flies off the handle, they get very angry.
+
 # Fly on the wall
 * If you are able to see and hear events as they happen, you are a fly on the wall.
+
 # Fly the coop
 * When children leave home to live away from their parents, they fly the coop.
+
 # Fly the flag
-* If someone flies the flag, they represent or support their country. ('Wave the flag' and 'show the flag' are alternative
-* forms of this idiom)
+* If someone flies the flag, they represent or support their country. ('Wave the flag' and 'show the flag' are alternative forms of this idiom)
+
 # Food for thought
 * If something is food for thought, it is worth thinking about or considering seriously.
+
 # Fool me once, shame on you; fool me twice, shame on me
 * This means that you should learn from your mistakes and not allow people to take advantage of you repeatedly.
+
 # Fools rush in where angels fear to tread
-* This idiom is used where people who are inexperienced or lack knowledge do something that more informed people
-* would avoid.
+* This idiom is used where people who are inexperienced or lack knowledge do something that more informed people would avoid.
+
 # Foot the bill
 * The person who foots the bill pays the bill for everybody.
+
 # Football's a game of two halves
-* (UK) If something's a game of two halves, it means that it's possible for someone's fortunes or luck to change and the
-* person who's winning could end up a loser.
+* (UK) If something's a game of two halves, it means that it's possible for someone's fortunes or luck to change and the person who's winning could end up a loser.
+
 # For a song
 * If you buy or sell something for a song, it is very cheap.
+
 # For donkey's years
-* (UK) If people have done something, usually without much if any change, for an awfully long time, they can be said to
-* have done it for donkey's years.
+* (UK) If people have done something, usually without much if any change, for an awfully long time, they can be said to have done it for donkey's years.
+
 # For England
 * (UK) A person who talks for England, talks a lot- if you do something for England, you do it a lot or to the limit.
+
 # For kicks
 * If you do something for kicks, or just for kicks, you do it purely for fun or thrills.
 
 # For my money
 *  This idiom means 'in my opinion'.
+
 # For the time being
-*  For the time being indicates that an action or state will continue into the future, but is temporary. I'm sharing an office
-*  for the time being.
+*  For the time being indicates that an action or state will continue into the future, but is temporary. I'm sharing an office for the time being.
+
 # Forbidden fruit
 *  Something enjoyable that is illegal or immoral is forbidden fruit.
+
 # Foregone conclusion
-*  If the result of, say, a football match is a foregone conclusion, then the result is obvious before the game has even
-*  begun.
+*  If the result of, say, a football match is a foregone conclusion, then the result is obvious before the game has even begun.
+
 # Forest for the trees
 *  (USA) If someone can't see the forest for the trees, they get so caught up in small details that they fail to understand the bigger picture.
 
@@ -2175,54 +2186,76 @@ Bob: Great! Let's get down to brass tacks!
 
 # Four-square behind
 * If someone stands four-square behind someone, they give that person their full support.
+
 # Fourth estate
 * This is an idiomatic way of describing the media, especially the newspapers.
+
 # Free rein
-* If someone has a free rein, they have the authority to make the decisions they want without any restrictions. ('Free
-* reign' is a common mistake.)
+* If someone has a free rein, they have the authority to make the decisions they want without any restrictions. ('Free reign' is a common mistake.)
+
 # Fresh from the oven
 * If something is fresh from the oven, it is very new.
+
 # Freudian Slip
-* If someone makes a Freudian slip, they accidentally use the wrong word, but in doing so reveal what they are really
-* thinking rather than what they think the other person wants to hear.
+* If someone makes a Freudian slip, they accidentally use the wrong word, but in doing so reveal what they are really thinking rather than what they think the other person wants to hear.
+
 # Friendly footing
 * When relationships are on a friendly footing, they are going well.
+
 # From a different angle
 * If you look at something from a different angle, you look at it from a different point of view.
+
 # From Missouri
 * (USA) If someone is from Missouri, then they require clear proof before they will believe something.
+
 # From pillar to post
 * If something is going from pillar to post, it is moving around in a meaningless way, from one disaster to another.
+
 # From rags to riches
 * Someone who starts life very poor and makes a fortune goes from rags to riches.
+
 # From scratch
 * This idiom means 'from the beginning'.
+
 # From soup to nuts
 * If you do something from soup to nuts, you do it from the beginning right to the very end.
+
 # From the bottom of your heart
 * If someone does something from the bottom of their heart, then they do it with genuine emotion and feeling.
+
 # From the get-go
 * (USA) If something happens from the get-go, it happens from the very beginning.
+
 # From the horse's mouth
 * If you hear something from the horse's mouth, you hear it directly from the person concerned or responsible.
+
 # From the sublime to the ridiculous
 * If something declines considerably in quality or importance, it is said to have gone from the sublime to the ridiculous.
+
 # From the word go
 * From the word go means from the very beginning of something.
+
 # Full circle
 * When something has come full circle, it has ended up where it started.
+
 # Full Monty
 * (UK) If something is the Full Monty, it is the real thing, not reduced in any way.
+
 # Full of beans
 * If someone's full of beans, they are very energetic.
+
 # Full of hot air
 * Someone who is full of hot air talks a lot of rubbish.
+
 # Full of piss and vinegar
 * Someone who's full of piss and vinegar is full of youthful energy.
+
 # Full of the joys of spring
 * If you are full of the joys of spring, you are very happy and full of energy.
+
 # Full swing
 * If a something is in full swing, it is going or doing well.
+
 # Fullness of time
 * If something happens in the fullness of time, it will happen when the time is right and appropriate.
 
@@ -2230,9 +2263,9 @@ Bob: Great! Let's get down to brass tacks!
 ---
 
 # Game plan
-       A game plane is a strategy.
-# Garbage in, garbage out
+*     A game plane is a strategy.
 
+# Garbage in, garbage out
 * If a computer system or database is built badly, then the results will be bad.
 
 # Gardening leave
@@ -2246,53 +2279,70 @@ Bob: Great! Let's get down to brass tacks!
 
 # Get your feathers in a bunch
 * If you get your feathers in a bunch, you get upset or angry about something.
+
 # Get along famously
 * If people get along famously, they have an exceedingly good relationship.
+
 # Get away scot-free
-* If someone gets away scot-free, they are not punished when they have done something wrong. ('Get off scot-free' is an
-* alternative.)
+* If someone gets away scot-free, they are not punished when they have done something wrong. ('Get off scot-free' is an alternative.)
+
 # Get in on the ground floor
-* If you get in on the ground floor, you enter a project or venture at the start before people know how successful it might
-* be.
+* If you get in on the ground floor, you enter a project or venture at the start before people know how successful it might be.
+
 # Get it in the neck
 * (UK) If you get it in the neck, you are punished or criticized for something.
+
 # Get my drift
 * If you get someone's drift, you understand what they are trying to say. ('Catch their drift' is an alternative form.)
+
 # Get on like a house on fire
 * If people get on like a house on fire, they have a very close and good relationship.
+
 # Get on your nerves
 * If something gets on your nerves, it annoys or irritates you.
+
 # Get on your soapbox
 * If someone on their soapbox, they hold forth (talk a lot) about a subject they feel strongly about.
+
 # Get out of bed on the wrong side
 * If you get out of bed on the wrong side, you wake up and start the day in a bad mood for no real reason.
+
 # Get the ball rolling
 * If you get the ball rolling, you start something so that it can start making progress.
+
 # Get the green light
 * If you get the green light to do something, you are given the necessary permission, authorisation.
+
 # Get the nod
 * (UK) If you get the nod to something, you get approval or permission to do it.
+
 # Get to grips
 * If you get to grips with something, you take control and do it properly.
+
 # Get up and go
 * If someone has lots of get up and go, they have lots of enthusiasm and energy.
+
 # Get your feet wet
 * If you get your feet wet, you gain your first experience of something.
+
 # Get your goat
 * If something gets your goat, it annoys you.
+
 # Get your hands dirty
-* If you get your hands dirty, you become involved in something where the realities might compromise your principles. It
-* can also mean that a person is not just stuck in an ivory tower dictating strategy, but is prepared to put in the effort and
-* hard work to make the details actually happen.
+* If you get your hands dirty, you become involved in something where the realities might compromise your principles. It can also mean that a person is not just stuck in an ivory tower dictating strategy, but is prepared to put in the effort and hard work to make the details actually happen.
+  
 # Get your head around something
 * If you get your head around something, you come to understand it even though it is difficult to comprehend.
+
 # Get your teeth into
-* If you get your teeth into something, you become involved in or do something that is intellectually challenging or
-* satisfying. ('Dig you teeth into' and 'sink your teeth into' are also used.) 
+* If you get your teeth into something, you become involved in or do something that is intellectually challenging or satisfying. ('Dig you teeth into' and 'sink your teeth into' are also used.) 
+
 # Ghost of a chance
 * If something or someone hasn't got a ghost of a chance, they have no hope whatsoever of succeeding.
+
 # Ghostly presence
 * You can feel or otherwise sense a ghostly presence, but you cannot do it clearly only vaguely.
+
 # Gift of the gab
 * If someone has the gift of the gab, they speak in a persuasive and interesting way.
 
@@ -2300,9 +2350,9 @@ Bob: Great! Let's get down to brass tacks!
 
 # Gild the lily
 * If you gild the lily, you decorate something that is already ornate.
+
 # Gilded cage
-* If someone is in a gilded cage, they are trapped and have restricted or no freedom, but have very comfortable
-* surroundings- many famous people live in luxury but cannot walk out of their house alone.
+* If someone is in a gilded cage, they are trapped and have restricted or no freedom, but have very comfortable surroundings- many famous people live in luxury but cannot walk out of their house alone.
 # Girl Friday
 * A girl Friday is a female employee who assists someone without any specific duties.
 # Give a dog a bad name
@@ -2415,6 +2465,9 @@ Bob: Great! Let's get down to brass tacks!
 # Go-to guy
 * A go-to guy is a person whose knowledge of something is considerable so everyone wants to go to him or her for
 * information or results.
+
+# golden handcuffs
+
 # Golden handshake
 * A golden handshake is a payment made to someone to get them to leave their job.
 
@@ -2567,8 +2620,7 @@ Bob: Great! Let's get down to brass tacks!
 ---
 
 # Hair of the dog
-*  If someone has a hair of the dog, they have an alcoholic drink as a way of getting rid of a hangover, the unpleasant
-  effects of having drunk too much alcohol the night before. It is commonly used as a way of excusing having a drink early on in the day.
+*  If someone has a hair of the dog, they have an alcoholic drink as a way of getting rid of a hangover, the unpleasant effects of having drunk too much alcohol the night before. It is commonly used as a way of excusing having a drink early on in the day.
 
 # Hairy at the heel
 *  (UK) Someone who is hairy at the heel is dangerous or untrustworthy.
@@ -2589,7 +2641,6 @@ Bob: Great! Let's get down to brass tacks!
 *  If people are hand in glove, they have an extremely close relationship.
 
 # Hand that rocks the cradle
-
 * Women have a great power and influence because they have the greatest influence over the development of children- the hand that rocks the cradle. ('The hand that rocks the cradle rules the world' is the full form.)
 
 # Hand to mouth
