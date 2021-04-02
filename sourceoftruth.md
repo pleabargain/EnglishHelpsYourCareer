@@ -1043,7 +1043,7 @@ Bob: I was being examined by my doctor. (past-continuous)
 ## embarrass embarrassed (d) (reg)
 * I was very embarrassed!
 
-## de 
+
 
 ## embrace embraced (t) (reg)
 * I will embrace your new idea. (simple future)
@@ -8736,7 +8736,6 @@ I don't normally throw in the towel at the first sign of trouble!
 * hated	(hate-id)
 * intended	(intend-id)
 * started	(start-id)
-* Rated
 * sedated
 * Baited
 * Inflated
@@ -8758,11 +8757,11 @@ I don't normally throw in the towel at the first sign of trouble!
 * 'ch'      watched
 * 'sh'      finished
 * 'k'	walked
-* Talked
+* talked
 * typed
-* Smoked
-* Spooked
-* Cracked
+* smoked
+* spooked
+* cracked
 * forced
 * Backed
 * Smacked
@@ -8803,7 +8802,6 @@ I don't normally throw in the towel at the first sign of trouble!
 * apologized
 
 ## silent b (don't pronounce the B!)
-
 * climb
 * comb
 * crumb
@@ -8824,6 +8822,13 @@ I don't normally throw in the towel at the first sign of trouble!
 ## silent h (don't pronounce the H!)
 * honest
 * whistle
+
+## silent k (don't pronounce the K!)
+* knee
+* knock
+* know
+* knife
+
 
 
 # determiners
