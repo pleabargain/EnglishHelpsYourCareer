@@ -1938,10 +1938,11 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 
 ## share shared (d) (reg)
 * He shared with me a list of questions from the exam.
-* He should have shared the information with you already
+* He should have shared the information with you already.
+* I shared it with my colleagues.
 
 ## shave shaved  (d) (reg)
-* When  I am working from home, I only shave once a week!
+* When I am working from home, I only shave once a week!
 
 ## decay decayed (d) (reg)
 * The bodies were rotted and decayed.
@@ -3698,6 +3699,7 @@ Bob: “You’re right!”
 
 ## contact contacted (id) (reg)
 * Are you in contact with the project owner?
+* They haven't contacted me yet.
 
 ## continue continued (d) (reg) 
 * I will continue working on this project for at least another month.
@@ -3842,7 +3844,16 @@ Bob: I will do my best.
 
 # phrases
 
+## don't fall off the radar
+
+## stay in touch
+* Let's stay in touch! (informal)
+
+## at any time
+* You can call me at any time.
+
 ## I'm in transition!
+
 
 
 ## I lost track of time!
