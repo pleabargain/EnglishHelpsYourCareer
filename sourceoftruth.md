@@ -3844,6 +3844,10 @@ Bob: I will do my best.
 
 # phrases
 
+## it forces me to think
+
+## to get back on track
+
 ## don't fall off the radar
 
 ## stay in touch
@@ -5250,6 +5254,8 @@ We are on the right track with this solution.
 * We should have skipped this meeting. It has nothing to do with us.
 * We had to skip his party.
 
+## identify 
+
 ## interview interviewed (d) (reg)
 * I should have interviewed her myself.   
 
@@ -6564,6 +6570,9 @@ Dad: Because it is a feature of water. When it is hot it becomes a gas and gas i
 What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
+
+# topic RACI matrix
+* How important is a RACI matrix in an agile environment?
 
 # topic local cuisine
 
@@ -8655,7 +8664,7 @@ I don't normally throw in the towel at the first sign of trouble!
 * Advice is always singular.
 * percent is always singular
 * Knowledge is always singular.
-* Data is always singular
+* Data is always singular.
 * two possible
   * solutions
   * answers
@@ -8665,16 +8674,21 @@ I don't normally throw in the towel at the first sign of trouble!
   * ways
   * children
   * dogs
+  * meetings
+  * rooms
 * one of my favorite
   * foods
   * books
   * interviews
+  * questions
 * a lot of +nouns+s
   * a lot of situations
   * a lot of tasks
   * a lot of stories
   * a lot of videos
 * many different situations
+* many +noun+s
+  * organizations
 * a few +nouns+s
   * for a few days
   * a few things
@@ -8687,7 +8701,7 @@ I don't normally throw in the towel at the first sign of trouble!
   * both sides
   * both ideas
   * both chairs
-* a couple of 
+* a couple of +nouns+s
   * interviews
   * drinks
   * days
