@@ -3842,6 +3842,12 @@ Bob: I will do my best.
 
 # phrases
 
+## I'm in transition!
+
+
+## I lost track of time!
+* I'm sorry. I lost track of time!
+
 ## bummer
 * That sucks! That's a bummer!
 
@@ -6547,6 +6553,8 @@ Dad: Because it is a feature of water. When it is hot it becomes a gas and gas i
 What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
+
+# topic local cuisine
 
 # topic playing piano
 * How long have you been playing piano?
