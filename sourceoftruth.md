@@ -2405,6 +2405,7 @@ I have gone to my mother's home to help her.
 * I grew up in a small town.
 * Elvis Presley grew up in Mississippi.  
 * We prefer home-grown food.
+* Our team was growing.
 
 
 ## guess guessed (t) (reg)
@@ -2460,6 +2461,8 @@ Bob: Igor should have provided the information to you already.
 * I had just pulled the door open when the dog ran in! (past perf simple)
 * I will have been pulling my code for an hour by the time the meeting starts!
 * I will have been pulling my code for a week since Monday because we are accessing the repo from our 1k baud from Guatemala!
+
+## investigate investigated  (id) (reg) 
 
 ## invigorate invigorated (id) (reg) 
 * It might be invigorating to swimming in the frozen lake!
@@ -2760,6 +2763,9 @@ Bob: No, we didn't have time to see it.
 * Maybe he'll be able to fix it.
 * I should have fixed this earlier. (present perfect)
 * We need to know what needs to be fixed.
+
+## baffle baffled  (d) (reg)
+* I was baffled by the bug.
 
 ## baptise baptised (d) (reg)
 * He was baptised in the school of life.
@@ -6652,6 +6658,11 @@ What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
 
+# topic solar energy
+* PhotoVoltaic (PV) panels
+* What is the return on investment(ROI)?
+
+
 # topic technical debt
 * How would you explain technical debt to a client?
 
@@ -7094,6 +7105,7 @@ LIDAR
 
 # topic AWS
 ## resource: https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf
+
 
 * What are step functions?
 * Can you explain to me what TCP/IP means?
