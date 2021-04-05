@@ -1390,6 +1390,9 @@ Bob: Not really!
 ## land landed (id) (reg)
 * The plane had landed at four o'clock in the morning.
 
+## layer layered 
+* The situation had many layers.
+
 
 ## launch launched  (t) (reg)
 * We launched the app yesterday.
@@ -1812,6 +1815,9 @@ Bob: You [needn't,mustn't,shouldn't] worry about me! I'm driving the new Tesla w
 * I wish you would help me with opening this jar.
 * I would like to wish all a healthy new year!
 
+## afford afforded (id)(reg)
+* I couldn't afford the payments and so I gave up my car.
+
 ## adjust adjust (id)(reg)
 * How is she adjusting to the new situation?
 * They should have adjusted the wedding dress.
@@ -2044,6 +2050,8 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 ## consent consented (id) (reg) 
 * He should have consented to her offer.
 * They should have received consent by now.
+* I consented to the examination.
+* * I consented to the terms and conditions of the agreement..
 
 ## consider considered (d) (reg)
 * You might consider moving the candles away from the Christmas tree!
@@ -2052,6 +2060,10 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 ## consist consisted (id) (Reg)
 * It consists of a lot of moving parts.
 * It consisted of a lot of components from China.
+
+## comply complied (d) (reg)
+* I should have complied to her request.
+* I was forced to [agree,comply].
 
 ## complement complemented (id) (reg)
 * I had complemented her many times for her tasteful meals. (past perfect simple)
@@ -2105,6 +2117,9 @@ Bob: Thank you for the reminder! I'll chew on that idea later!
 * We are poised to go!
 * They have poised themselves as the leaders of the industry.
 
+## police policed (t) (reg)
+* My manager likes to police the office during lunch time. 
+* We policed the area after the storm.
 
 ## polish polished (t) (reg)
 * I polished my car with my new buffing machine.
@@ -3162,6 +3177,12 @@ Bob: So, you must meet him today.
 ## hop hopped (t)(reg) ~ to jump
 * We will be hopping at the dance lesson tomorrow night!
 
+## disclose (d) (reg)
+
+* There was a lot of information disclosed in the meeting.
+* He refused to [disclose | tell] his sources.
+
+
 ## discover discovered  (d) (reg)
 * He has discovered a new restaurant that he would like to share with us.
 * I have discovered that the Google docs are very thorough.
@@ -3187,6 +3208,8 @@ Bob: I have never discovered anything!
 * You might find what you are looking for [over there,in that shop].
 * I have found this method quite useful.
 * I have found a bug crawling on the kitchen counter top!
+* Have you found out the reason why it failed?
+* Did you find out why she called?
 
 ---
 
@@ -3842,9 +3865,57 @@ Bob: I will do my best.
 
 
 
+
 # phrases
 
+## try to keep it simple
+* I will try to keep it simple for you; lotteries are for people who can't do math.
+
+## in the long term
+* You know in the long term, none of this matters.
+
+## plan B
+* What's your plan B?
+
+## in our modern world
+* There are some who say that in our modern world, everything is possible. I say to them, yes, and we should be afraid.
+
+## every choice has its [downfalls,drawback]
+* My grand mother told me over and over, every choice has its drawbacks.
+
+## Perfect is the enemy of good
+* Let's not forget that perfect is the enemy of good.
+
+## to hate on
+* Many people love to hate on the Chinese, but have never met a Chinese person.
+
+## to be called on
+They need your help over there. They called on you specifically.
+
+## to make the hard calls
+
+## trade off
+* After negotiating for awhile, we found a good trade off.
+
+## bad omens
+
+## at face value
+* I will take your offer at face value.
+
+## end up
+* We ended up doing nothing. The whole weekend we spent on the couch.
+
+## BS
+* Bullshit!
+
+## to grow tired of someone/something
+* I really don't want to hear anymore from you! I've grown tired of your BS!
+
+## to hang out with someone/somebody
+* I hung out with my school buddies at the cafe.
+
 ## it forces me to think
+
 
 ## to get back on track
 
@@ -4014,6 +4085,8 @@ Bob: Oh, you know. Same shit, different day.
 
 ## off the top of my head
 * I can't think of anything off the top of my head!
+* I can't think of stuff off the top of my head!
+
 
 
 ## as good as it gets
@@ -5068,6 +5141,7 @@ Bob: Gotcha!
 
 ## get along with
 * I get along with my manager.
+* I don't get along very well with my brother.
 
 ## It's plain as a day!
 * The TPS Report is missing the cover page! It's plain as day!
@@ -5078,7 +5152,7 @@ Bob: Gotcha!
 
 
 ## Try again
-* O, next time, when you are feeling nervous remember to loosen up and try again!
+* When you are feeling nervous remember to loosen up and try again!
 * Don't give up! Try again!
 
 
@@ -5089,8 +5163,7 @@ Bob: Gotcha!
 Ana: How was the movie?
 
 Bob: Damn good!
----
-## Damn good
+
 
 ---
 
@@ -5124,7 +5197,7 @@ Bob: Let' go ahead with that!
 * If you are feeling nervous, then you should calm down and breathe deeply.
 
 
-## Keep moving"
+## Keep moving
 * If your children are falling behind you, you can say, "Keep moving or I'll leave you here"!
 
 
@@ -5146,6 +5219,11 @@ Bob: Let' go ahead with that!
 
 ## I have a lot on my plate.
 * I have a lot to do. I have a lot on my plate.
+
+## sooner or later
+
+
+## under the hood
 
 ## so-far so-good
 ---
@@ -5653,6 +5731,9 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 
 # adjectives
+
+## wisdom
+* Would you consider yourself wise? My wisdom is limited.
 
 ## pleasant
 * You should be more pleasant and stop annoying your team mates.
@@ -6570,6 +6651,13 @@ Dad: Because it is a feature of water. When it is hot it becomes a gas and gas i
 What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
+
+# topic technical debt
+* How would you explain technical debt to a client?
+
+# topic GDPR
+* Why is GDPR important?
+* How would you explain GDPR to a client?
 
 # topic RACI matrix
 * How important is a RACI matrix in an agile environment?
@@ -8376,6 +8464,8 @@ Bob: Sounds good! I like hearing that I'm doing a good job and that I'm getting 
 * improvement
 * manager
 
+
+
 ## topic: career planning: adjectives
 * effective
 * productive
@@ -8442,14 +8532,14 @@ Bob: Sounds good! I like hearing that I'm doing a good job and that I'm getting 
 ## Keep Your Eyes Peeled(To be watchful; paying careful attention to something.)
 * Keep your eyes peeled for snipers on the roof!
 * Keep your eyes peeled for a guy wearing a  red cap! He's my contact!
-* Keep Your Eyes Peeled for security breaches
+* Keep your eyes peeled for security breaches.
 
 
 
 ## On the Same Page
 * Thinking alike or understanding something in a similar way with others.
 * I wanted to make sure we are on the same page!
-
+* We were on the same page.
 
 
 ## Cry Wolf
@@ -8467,10 +8557,10 @@ Bob: Sounds good! I like hearing that I'm doing a good job and that I'm getting 
 
 
 ## Tug of War
-It can refer to the popular rope pulling game or it can mean a struggle for authority.
+* It can refer to the popular rope pulling game or it can mean a struggle for authority.
 * I have encountered this phrase before.
 *  My wife and I are in a bit of a tug of war over the color of the couch. She wants green and I want yellow.
-UA and RU are in a violent tug of war over eastern Ukraine.
+* UA and RU are in a violent tug of war over eastern Ukraine.
 
 
 
@@ -8687,6 +8777,8 @@ I don't normally throw in the towel at the first sign of trouble!
   * a lot of stories
   * a lot of videos
 * many different situations
+* different +noun+s
+  * colors
 * many +noun+s
   * organizations
 * a few +nouns+s
@@ -9055,6 +9147,8 @@ The boy ought to catch something later today.
 ---
 
 # opposites
+
+get sick <>recover
 
 suitable<>unsuitable
 
