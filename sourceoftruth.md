@@ -1935,6 +1935,9 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 ## service serviced (t) (reg)
 * We are servicing the client at this time.
 
+## settle settled (d) (reg)
+* They settled the matter once and for all.
+
 ## set set set (irr)
 * We should have set this item as a [low,top] priority!
 * I finally set up my environment.
@@ -3654,6 +3657,9 @@ Ana: I need to write letters to my clients.
 
 ## disseminate disseminated
 
+## disappoint disappointed 
+* If you are disappointed with the results, then you should try harder next time.
+
 ## discuss discussed (t) (reg)
 * I discussed the issue with my manager.
 * There is only one thing left to discuss. (singular)
@@ -3873,6 +3879,48 @@ Bob: I will do my best.
 
 
 # phrases
+
+## down fall
+* She was the cause of his down fall.
+
+## due diligence
+* Make sure you do your homework. Due diligence makes all of the difference.
+
+## copy cat
+* You are a copy cat!
+
+## more important than ever
+* It's more important than ever to be empathetic.
+
+## the first thing that came to mind
+
+## just getting started
+
+## over the weekend
+
+## overtime
+* I like to work overtime because I get paid more!
+
+## we handle it on our own
+* We don't need your help, we can handle this on our own.
+
+## to run out
+* (figurative) Honey we have run out of milk. I'm going to the store to pick up some more.
+* (literal) I need to run out for a minute to collect a delivery.
+* We must stop buying useless things or we will run out of money!
+
+## use common sense
+* Common sense is not much more than understanding the rules of cause and effect.
+
+## make compromises
+
+##  to cut someone slack
+You should go easy on him. Cut him some slack because he's had a rough week.
+
+
+## to cool off
+* (literal) If you are overheating, you need to cool off or you might suffer a heat stroke.
+* (figurative) Hey, you are clearly upset. Your yelling woke up the children. You need to cool [off,down].
 
 ## try to keep it simple
 * I will try to keep it simple for you; lotteries are for people who can't do math.
@@ -5585,6 +5633,9 @@ Bob: I will have been living in my apartment for three years in January.
 
 # adverbs
 
+## thoroughly
+
+
 ## barely
 * I can barely hear you! Please speak up!
 * I can barely find time for my hobbies much less time for boys!
@@ -6657,6 +6708,9 @@ Dad: Because it is a feature of water. When it is hot it becomes a gas and gas i
 What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
+
+# topic digital marketing
+* What will be the impact of AI on digital marketing?
 
 # topic solar energy
 * PhotoVoltaic (PV) panels
@@ -8765,6 +8819,7 @@ I don't normally throw in the towel at the first sign of trouble!
 ## plurals 
 * Advice is always singular.
 * percent is always singular
+* feedback is always singular
 * Knowledge is always singular.
 * Data is always singular.
 * two possible
@@ -8966,6 +9021,9 @@ I don't normally throw in the towel at the first sign of trouble!
 * know
 * knife
 
+
+## silent w  (don't pronounce the W!)
+* answer
 
 
 # determiners
