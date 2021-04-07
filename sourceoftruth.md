@@ -3880,6 +3880,14 @@ Bob: I will do my best.
 
 # phrases
 
+##  get their hands
+##  Ready to use
+##  the big step.
+
+## quit for the day
+
+## it was a big surprise for everyone
+
 ## down fall
 * She was the cause of his down fall.
 
