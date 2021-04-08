@@ -1120,6 +1120,8 @@ Bob: I was being examined by my doctor. (past-continuous)
 ## count counted 
 * We counted it up and found that the bill was incorrect.
 
+## counsel counseled (d) (reg) 
+
 ## cough coughed (reg)
 * I coughed the whole time I was sick.
 * If you cough for more than two days you should visit a doctor.
@@ -1495,6 +1497,7 @@ Bob: She is working. (present continuous) She works everyday, like the rest of u
 ## scatter scattered (d) (reg)
 * She was quite scatter brained after her chemotherapy.
 * He is scattered like confetti!
+* My family scattered to the four winds after our reunion.
 
 ## save saved  (d) (reg)
 * The fireman, with the help of a rod, saved the deer from the fire!
@@ -2501,6 +2504,8 @@ Bob: Igor should have provided the information to you already.
 ## insist insisted (id)(reg)
 * She insisted that I stay but I was in a hurry and I left.
 * I insisted on visiting them in person.
+* Their insistence on playing loud music at night is very troubling.
+* insistence(noun)
 
 ## install installed (d) (reg)
 * I should have installed that app earlier.
@@ -2592,6 +2597,11 @@ Bob:I have known the best direction to your [home,place] for months. (present pe
 * We should have gotten a refund by now.
 
 ## refuse refused  (d) (reg) 
+
+## rob robbed (d) (reg)
+* She's robbing her future by smoking.
+* She's robbing her daughter of opportunities by insisting that she study ancient Greek.
+
 
 ## refresh refreshed (t) (reg)
 * I felt refreshed after my shower.
@@ -3254,6 +3264,10 @@ Bob: He's on my team but I don't work with him directly.
 
 ---
 
+## hold held held (irr)
+* We will hold a meeting much later.
+* We held a meeting yesterday at 1 o'clock.
+
 ## hope hoped (t) (reg)
 * We hoped to meet them at the park.
 
@@ -3330,6 +3344,15 @@ Bob: He's on my team but I don't work with him directly.
 * He's being treated for a rare tropical disease.
 * My wife just treated me to a hot cup of tea!
  
+
+## tweak tweaked (t) (reg)
+* I need to tweak my settings.
+* We tweaked the configuration so that it works better.
+* We optimized the application by tweaking the SQL queries.
+* I tweaked some settings in the admin panel.
+* I haven't tweaked anything!
+* I tweaked the A/V settings on my laptop.
+
 
 ## arrive arrived (d) (reg)
 * We arrived very late.
@@ -3701,6 +3724,9 @@ Ana: I need to write letters to my clients.
 * Do you feel a need to confession?
 * We got a confession out of him!
 
+## convey conveyed   (d) (reg)
+* I need to convey a message to you: My sister told me to tell you, that your dog has died.
+
 
 ## configure configured (d) (reg)
 * We should have configured it differently. 
@@ -3879,6 +3905,10 @@ Bob: I will do my best.
 
 
 # phrases
+
+## aches and pains
+* As you get older, you will experience more aches and pains!
+
 
 ##  get their hands
 ##  Ready to use
@@ -5796,6 +5826,9 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 
 # adjectives
+
+## gruesome
+* He suffered a gruesome injury in his car accident.
 
 ## wisdom
 * Would you consider yourself wise? My wisdom is limited.
@@ -9069,6 +9102,28 @@ Do you know many people in Spain ?
 
 # nouns
 
+## marriage
+* We have a happy marriage.
+
+## self-esteem
+* He has a very low self-esteem. He doesn't think he can do anything right!
+* She has a very high self-esteem. She thinks she is the center of the universe!
+
+## idol
+* My idol is Sheldon from the Big Bang Theory. He's my yardstick!
+
+## acronym
+* AWS (Amazon Web Services)
+* IBM (International Business Machine )
+* A/V (audio/video)
+
+## abbreviation
+etc. etcetera
+
+
+## revenue
+* Revenue is not profit, it is income.
+
 ## bud
 * def: Slang/synonym for friend.
 * My wife and I are best buds!
@@ -9189,6 +9244,9 @@ Bob: This morning the situation was very stressful and dreadful. I hope that the
 
 ## timetable
 * My daughter has her own timetable for the whole week.
+
+
+
 
 # Modals practice
 ---

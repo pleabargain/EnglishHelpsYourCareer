@@ -11,6 +11,14 @@ She bought a bit too much at the market.
 </p>
 </details>
 
+# the yardstick to measure your accomplishments
+* He uses a very strict yard stick to measure his accomplishments.
+* Igor is an X and I'm an X-Y.
+* 
+
+# the seven-year itch
+
+
 # A day late and a dollar short
 * (USA) If something is a day late and a dollar short, it is too little, too late.
 
