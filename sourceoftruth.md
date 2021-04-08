@@ -2897,6 +2897,7 @@ Bob: No, we didn't have time to see it.
 
 ## study studied (d) (Reg)
 * I must study for my AWS certification.
+* I'm studying another programming language.
 
 ## stress stressed (t) (reg)
 * I should have stressed the importance of this part of the project.
@@ -2983,6 +2984,7 @@ Bob: They had thought that the challenge was easy.
 
 ## annoy annoyed (d) (reg)
 * It's annoying.
+* I'm not unhappy just annoyed.
 * The phone noises annoyed me all night long! Please turn off your notifications!
 
 ## hear heard heard (irr)
@@ -3554,6 +3556,9 @@ Bob: Yes, Peter will bring Steve to the party.
 
 ## brush brushed (t) (reg)
 
+## budge budged (d) (reg)
+* He hasn't budged in 20 minutes. He's still in the same place!
+* They won't budge on the price! They are very stubborn!  
 
 
 ## burn burned (d) (reg)
@@ -3905,6 +3910,22 @@ Bob: I will do my best.
 
 
 # phrases
+
+## to do a favor
+
+## to tune it out
+
+## enough is enough
+
+## to vent to
+
+## to change the subject
+
+## a heck of a lot
+
+## working things out
+
+## it is none of their business
 
 ## aches and pains
 * As you get older, you will experience more aches and pains!
@@ -5826,6 +5847,10 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 
 # adjectives
+
+## envious
+* I'm envious of people that earn more than I do.
+* I'm envious of people that have their health.
 
 ## gruesome
 * He suffered a gruesome injury in his car accident.
@@ -9298,12 +9323,18 @@ The boy ought to catch something later today.
 
 # opposites
 
+rude<>polite
+
+desirable<>undesirable
+
+configured<>misconfigured
+
 get sick <>recover
 
 suitable<>unsuitable
 
 rural<>urban
-* She doesn't live an
+* She doesn't live in the city. She lives in a very rural community.
 calm<>manic
 * He's not calm! He's manic.
 sharp knife<>dull knife
@@ -9642,6 +9673,7 @@ Do you mind if I add...
 * https://calendly.com/englishhelpsyourcareer/english-with-a-californian-tech-guy
 
 # English resources
+* https://www.uexpress.com/dearabby
 * https://github.com/pleabargain/EnglishHelpsYourCareer
 * https://examples.yourdictionary.com/examples-of-cliches.html
 * https://learnhip.com/boardgames/present-simple.php
