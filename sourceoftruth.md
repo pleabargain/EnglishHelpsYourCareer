@@ -8863,13 +8863,21 @@ I don't normally throw in the towel at the first sign of trouble!
 * feedback is always singular
 * Knowledge is always singular.
 * Data is always singular.
+
 * two possible
   * solutions
   * answers
   * problems
 
+* some
+  * problems
+  * people
+  * things
+
 * one of the 
+  * benefits
   * ways
+  * possilbe problems
   * children
   * dogs
   * meetings
@@ -8887,8 +8895,10 @@ I don't normally throw in the towel at the first sign of trouble!
 * many different situations
 * different +noun+s
   * colors
+  * things
 * many +noun+s
   * organizations
+  * times I stared off into space
 * a few +nouns+s
   * for a few days
   * a few things
@@ -9102,6 +9112,10 @@ Do you know many people in Spain ?
 
 # nouns
 
+## overhead
+* How can we streamline this process? We have a lot of unnecessary overhead!
+
+
 ## marriage
 * We have a happy marriage.
 
@@ -9306,6 +9320,8 @@ waste of time <> more efficient
 happy<>sad
 
 major<>minor
+disciplined<>undisciplined
+
 
 legal<>illegal
 

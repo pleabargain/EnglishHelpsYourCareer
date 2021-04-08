@@ -272,6 +272,7 @@
 * Does Stress Affect Your Ability to Make Good Decisions?
 * How Do You Relieve Stress?
 * What stresses you out?
+* Who is the most disciplined person you know?
 * Would you say, "If I can't do anything about it, then why should I feel stressed?"
 * How Do You Find Peace in Your Life?
 * Does Your Life Leave You Enough Time to Relax?
@@ -279,7 +280,7 @@
 * Is 'Doing Nothing' a Good Use of Your Time?
 * What Did You Once Hate but Now Like?
 * What Kind of Feedback Helps You Improve?
-* Is Trying Too Hard to Be Happy Making You Sad?
+* Is trying too hard to be happy making you sad?
 * Do Adults Who Are 'Only Trying to Help' Sometimes Make Things Worse?
 * What Is Your Personal Credo?
 * What Motivates You?
