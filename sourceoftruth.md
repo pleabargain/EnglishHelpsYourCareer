@@ -1300,6 +1300,10 @@ Bob: Sure, I can talk to him about that.
 ## hint hinted (id) (reg) 
 * The computer hinted my password.
 
+## happen happened (d) (reg)
+* It shouldn't be happening!
+* It could have happened to anyone!
+
 ## have had had (irr)
 * Today has been full of meetings.
 * He had a large estate on the edge of the city.
@@ -2207,6 +2211,7 @@ Bob: In my opinion, you should read this book. (opinion)
 * I have been deceived again by her sweet sweet lies!
 
 ## decide decided (id)(reg)
+* She has decided to take driving lessons.
 * My wife and I decided to sell our camera.
 * We decided to buy a table for my mother-in-law.
 * They decided it is not necessary.
@@ -3170,6 +3175,7 @@ Bob: So, you must meet him today.
 
 
 ## use used (d) (reg)
+* I was using the mop when the door rang.
 * I used to be a web developer.
 * My dad used to serve in the army.
 * Which IDE are you using?
@@ -3182,7 +3188,7 @@ Bob: So, you must meet him today.
 * I am not sure which solution they are using.
 
 ## used to
-
+* I'm not used to so much attention.
 
 ## diagnose diagnosed (t) (reg)
 * I have been diagnosed with ADHD.
@@ -3236,7 +3242,7 @@ Bob: I have never discovered anything!
 
 Ana: Did you find the source of the problem?
 
-Bob: Yes. Do you want to hear what was the pr
+Bob: Yes. Do you want to hear what was the problem?
 
 ---
 
@@ -3249,6 +3255,7 @@ Bob: Yes. Do you want to hear what was the pr
 * He worded the contract in a very specific way to make sure that he was protected.
 
 ## work worked (t) (reg)
+* I'm working hard! (present continuous)
 * Many of them will start working next year.
 * That's how it works here.
 * As a rule, I work at my desk for eight hours a day.
@@ -3293,6 +3300,10 @@ Bob: He's on my team but I don't work with him directly.
 ## fall fell fell (irr)
 * I see snow flakes falling. 
 * My phone could have fallen out of my pocket.
+
+## familiarize familiarized (d) (reg) 
+* I got familiarized with the material yesterday.(I learned about the material yesterday.)
+
 
 ## feed fed fed (irr)
 * Please feed me!
@@ -3463,6 +3474,7 @@ Bob: I took [the,this] situation too seriously!
 
 
 ## leave left, left (irr)
+* They are trying to leave the city.
 * I left my home town a long time ago so I don't feel homesick at all!
 * You didn't leave anything out.
 * Did you  leave anything out?
@@ -3555,6 +3567,8 @@ Ana: Is Peter bringing Steve to my party?
 Bob: Yes, Peter will bring Steve to the party.
 
 ## brush brushed (t) (reg)
+* I 
+
 
 ## budge budged (d) (reg)
 * He hasn't budged in 20 minutes. He's still in the same place!
@@ -3583,6 +3597,7 @@ Bob: Yes, Peter will bring Steve to the party.
 * She wowed us with her singing!
 
 ## write wrote written (irr) 
+* It's a poorly written book.
 * We have written a lot of functions in Golang.
 * The devs have finished writing the code.
 * I wrote some notes down.
@@ -3895,7 +3910,7 @@ Bob: I will do my best.
 * hysterical
 * jealous
 * lonely
-* lovestruck
+* love-struck
 * mischievous
 * miserable
 * overwhelmed
@@ -3907,9 +3922,60 @@ Bob: I will do my best.
 * suspicious
 
 
-
+# greetings
+* How are you?
+* How are you doing?
+* How have you been?
+* What’s up? 
+* What’s new?
+* Pleased to meet you. 
+* What’s going on?
+* Good to see you. 
+* Nice to meet you.
+* How’s your day?
+* How’s everything? 
+* How are things?
+* How’s life?
+* How’s your day going?
+* Nice to see you.
+* Long time no see! 
+* It’s been a while!
+* How do you do?
+* Yo! (informal)
+* What's shaking man? (informal)
+* Are you OK? (informal)
+* You alright? (informal)
+* Alright mate? (informal)
+* Howdy! (informal)
+* Whazzup? (informal)
+* Sup? (informal)
+* Hiya! (informal)
+* Yo!  (informal)
 
 # phrases
+
+## fall into depression
+* I could have fallen into depression but I decided to move on.
+
+##  keep your [eyes,ears] open for something
+
+## found no [trace,sign] of something
+
+
+## page turner
+
+## from time to time
+* I see her from time to time.
+
+## She's doing her own thing.
+
+## Are you into X?
+
+## pay my respects
+* I need to pay my respects to the family of the dead man.
+
+## in a hurry
+* I can't talk right now, I'm in a hurry.
 
 ## to do a favor
 
@@ -4102,7 +4168,7 @@ Bob: Ah shit man! That's a bummer!
 ## What's the plan, Stan?
 
 ## from top to bottom
-* We need to re-evalute the situation from top to bottom.
+* We need to re-evaluate the situation from top to bottom.
 
 
 ## I run every other day
@@ -4116,7 +4182,7 @@ Bob: Ah shit man! That's a bummer!
 ## lead by example
 
 ## from womb to tomb
-* The Chinese communist gov't promised it's citizens that the the government would take care of them from womb to tomb.
+* The Chinese communist government promised it's citizens that the the government would take care of them from womb to tomb.
 
 ## my mouth was working faster than my brain
 
@@ -5253,8 +5319,9 @@ Bob: Gotcha!
   
 
 ## get along with
-* I get along with my manager.
+* I get along with my manager. We work well together.
 * I don't get along very well with my brother.
+* Do you get along with your sister?
 
 ## It's plain as a day!
 * The TPS Report is missing the cover page! It's plain as day!
@@ -6775,6 +6842,11 @@ What do you think about ...?
 How much time do you spend trying to answer a question before you ask for help?
 How do you monitor how much time you spend solving problems?
 
+# topic Mars landing Perserverance
+
+# topic learning to drive
+* How long have you been driving?
+
 # topic digital marketing
 * What will be the impact of AI on digital marketing?
 
@@ -8047,6 +8119,9 @@ Ana: Thank you for talking to me. We'll continue this conversation later.
 
 # topic: QC interview
 * What exactly was the issue?
+* What is your opinion of fuzz testing?
+* What's your background with X(fuzzy testing?)?
+* What is your opinion of automated testing?
 * Why did it happen?
 * Could you clarify what is positive and negative testing?
 * How are SOLID principles useful for testing?
@@ -8060,7 +8135,6 @@ Ana: Thank you for talking to me. We'll continue this conversation later.
 * How would you describe regression testing to your grand mother?
 * What is your on testing check list?
 * What is the value of a QC engineer on a small project?
-* What's your background with X(fuzzy testing?)?
 * What's your background in Quality Control?
 * What does a QC engineer do?
 * What are some other things that QC engineers do?
@@ -8469,6 +8543,7 @@ Ana: Ira! It's late it's time to go! We need to get an Uber!
 ## topic weekend plans questions
 * What are you planning to do next weekend?
 * Do you have any plans for the weekend?
+* Will you head out of town?
 * What are you going to do this weekend?
 * Got anything good going on this weekend? (idiomatic)
 
@@ -8887,7 +8962,7 @@ I don't normally throw in the towel at the first sign of trouble!
 * percent is always singular
 * feedback is always singular
 * Knowledge is always singular.
-* Data is always singular.
+* Data is always singular. (pick your pronunciation)
 
 * two possible
   * solutions
@@ -8902,7 +8977,7 @@ I don't normally throw in the towel at the first sign of trouble!
 * one of the 
   * benefits
   * ways
-  * possilbe problems
+  * possible problems
   * children
   * dogs
   * meetings
@@ -9285,43 +9360,16 @@ Bob: This morning the situation was very stressful and dreadful. I hope that the
 * My daughter has her own timetable for the whole week.
 
 
-
-
-# Modals practice
 ---
-Ana: Can the **boy** catch something later today?
 
-Bob: Yes, the boy can catch something.
-
-Ana: Must the boy catch something? 
-
-Bob: Yes, the boy must catch something.
-
-Ana: Should the boy catch something later today? 
-
-Bob: The boy should catch something soon. 
-
-Ana: Could the boy catch something today? 
-
-Bob: Yes, it is possible. The boy could catch something today.
-
-Ana: Is it possible that the boy might catch something tomorrow?
-
-Bob: Maybe. The boy might catch something tomorrow.
-
-Ana: Does the boy need to catch something later today? 
-
-Bob: Yes, the boy needs to catch something later today.
-
-Ana: Will the boy catch something later today? 
-
-Bob: The boy will catch something.
- 
-The boy ought to catch something later today. 
-
----
 
 # opposites
+
+inconsistent<>consistent
+
+inaccurate<>accurate
+
+impolite<>polite
 
 rude<>polite
 
@@ -9630,24 +9678,29 @@ Do you mind if I add...
 * You should learn one new English word everyday.
 * You should read a book in English:
     * Sherlock Holmes
+    * Siddhartha
     * Jack London - (Call of the Wild)
     * anything from Agatha Christie
 * Watch YT videos on subjects you like.
 * You should watch English TV shows .
-    * How I Met Your Mother
+    
     * https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g
-    * Friends (sitcom)
-    * Silicon Valley (sitcom)
     * Shameless (https://www.sho.com/shameless)
-    * The Office (https://en.wikipedia.org/wiki/The_Office_(American_TV_series))
     * Mr. Robot
     * West World
+    * Comedy
+      * How I Met Your Mother
+      * Friends (sitcom)
+      * Silicon Valley (sitcom)
+      * Young Sheldon https://g.co/kgs/KejRvY
+      * The Office (https://en.wikipedia.org/wiki/The_Office_(American_TV_series))
+      * The Big Bang Theory https://g.co/kgs/qwKYLi
     * Animated
+      * The Fixies (children) https://www.youtube.com/channel/UCnRuuiSVqDF2EmoYS7yE6ZA
       * Rick and Morty  (very adult) 
       * Bo Jack Horseman (very adult)
         * https://en.wikipedia.org/wiki/BoJack_Horseman 
         * https://transcripts.fandom.com/wiki/BoJack_Horseman:_The_BoJack_Horseman_Story,_Chapter_One
-      * The Fixies (children) https://www.youtube.com/channel/UCnRuuiSVqDF2EmoYS7yE6ZA
 * You should watch English movies.
     * The Princess Bride (romcom)
     * The Great Gatsby
@@ -9673,7 +9726,9 @@ Do you mind if I add...
 * https://calendly.com/englishhelpsyourcareer/english-with-a-californian-tech-guy
 
 # English resources
-* https://www.uexpress.com/dearabby
+* https://www.askamanager.org/topics # this is great for manager types
+* https://app.inferkit.com/demo   GPT-3
+* https://www.uexpress.com/dearabby # this is great for soft skills
 * https://github.com/pleabargain/EnglishHelpsYourCareer
 * https://examples.yourdictionary.com/examples-of-cliches.html
 * https://learnhip.com/boardgames/present-simple.php
