@@ -2512,6 +2512,8 @@ Bob: Igor should have provided the information to you already.
 ## insist insisted (id)(reg)
 * She insisted that I stay but I was in a hurry and I left.
 * I insisted on visiting them in person.
+* She insisted we meet.
+* Despite their insistence, we prevented them from seeing the code.
 * Their insistence on playing loud music at night is very troubling.
 * insistence(noun)
 
@@ -3957,6 +3959,9 @@ Bob: I will do my best.
 * Yo!  (informal)
 
 # phrases
+
+## bone to pick
+
 
 ## here on Earth
 
@@ -5924,28 +5929,39 @@ Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 ## zero conditional
 if + present simple, present simple
 * If you heat water to 100C it boils.
+* If your battery is dead, you won't be able to use your phone.
+* 
 
 ## first conditional
 if + past simple, simple future
 * If it's sunny, we'll go to the beach.
+* If it's cold, you should wear a coat.
+* If you invest a little bit every day, you will probably get rich.
 
 
 ## second conditional 
 if + past simple, present conditional
 * If I  won a million dollars, I would buy a big house.
-
+* If I found her contact details, I'd send her an invitation.
+* If it was lucrative, I would invest more.
+* If I had money, I would travel around the world.
 
 ## third conditional
 if + past perfect, perfect conditional 
 *  If the weather had been good, we would have gone water-skiing.
+*  If I had got a promotion, I would have thrown a party.
+*  If I had studied harder, I would have passed the test.
 
 ## mixed 1
 if + past perfect, present conditional
 * If I had listened to your advice, I wouldn't be in this mess.
+* If he had checked the map, he wouldn't have gotten lost.
+* If I had gone to the hospital earlier, I would have seen my friend one last time before she died.
 
 ## mixed 2
 if + past simple, perfect conditional
 * If I were a good cook, I would have invited them to dinner.
+* If I were the king of the world, I would have made you my queen!
 
 # adjectives
 
@@ -9768,6 +9784,7 @@ Do you mind if I add...
 * https://calendly.com/englishhelpsyourcareer/english-with-a-californian-tech-guy
 
 # English resources
+* https://books.google.com/ngrams
 * https://www.askamanager.org/topics # this is great for manager types
 * https://app.inferkit.com/demo   GPT-3
 * https://www.uexpress.com/dearabby # this is great for soft skills
