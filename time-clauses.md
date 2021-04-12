@@ -145,7 +145,6 @@ swim
 
 
 
-
 (be)
 As soon as I ___ in Moscow, I'll let you know.
 
@@ -177,7 +176,7 @@ sits
 
 
 
-Soon after we  there, we  a message.
+Soon after we ___ there, we will send you a message.
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -189,11 +188,7 @@ get
 ---
 
 
-
-
-
-
-I'd like to finish it ____ it  dark.
+I'd like to finish it ____ it  gets dark.
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -204,7 +199,7 @@ before
 
 ---
 
-We are going to have a rest ____ we are on vacation.
+We are going to have a rest ____ we wait.
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -216,7 +211,7 @@ while
 ---
 
 
-He will not regret it until she  ___ him.
+He will not regret his actions until she  ___ him.
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -228,10 +223,7 @@ leaves
 ---
 
 
-
-
-
-Can you water the flowers while we ___ vacation?
+Can you water the flowers while we ___ on vacation?
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -255,8 +247,6 @@ whenever
 </details>
 
 ---
-
-
 
 
 I ____ find the opener and open the bottle.
