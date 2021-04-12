@@ -265,8 +265,9 @@ will
 We will ____ the dog when we go to the shop.
 <details><summary><b>Answer</b></summary>
 <p>
+<p>leash</p>
+<p>walk</p>
 
-walk
 
 </p>
 </details>

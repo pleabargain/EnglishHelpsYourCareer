@@ -2006,6 +2006,7 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 
 ## activate activated (id) (reg)
 * We should have activated our subscription earlier.
+* We should activate the new feature in our next release.
 
 ##  advertise advertised (d)
  * They had advertised an open position at the company on LinkedIn. (present perfect simple)
@@ -3801,7 +3802,7 @@ Bob: “You’re right!”
 ## turn turned (d)(reg) 
 * It turned out that after the meeting was done, the only thing left to do was go back to work.
 
-## amuse amused
+## amuse amused (d)(reg) 
 * I was very amused by his jokes.
 * The [movie,book,party] was amusing.
 * I was not amused by his antics.
@@ -3822,7 +3823,7 @@ Bob: “You’re right!”
 ## return returned (d) (reg)
 * She has returned to what she was doing before.
 
-## rally rally (d) reg
+## rally rallied (d) reg
 * The general rallied his troops around him.
 * Ok, everybody! Rally around me! I've got some news to share!
 * There was a big political rally at the town square today.
@@ -3856,7 +3857,7 @@ Bob: I will do my best.
 ---
 
 ## resign resigned (d) (reg) 
-* I should have resigned from this job a long time ago.
+* I should have [resigned,quit] from this job a long time ago.
 
 ## resist resisted (id) (reg)
 * They have resisted change.
@@ -3867,6 +3868,7 @@ Bob: I will do my best.
 
 ## rig rigged (d) (reg)
 * The runner claimed that the contest was rigged.
+* Rig rhymes with big!
 
 ## bite bit bitten (irr)
 * The neighbor's dog bit her.
@@ -3955,6 +3957,10 @@ Bob: I will do my best.
 * Yo!  (informal)
 
 # phrases
+
+## here on Earth
+
+## close the [sale,deal]
 
 ## fall into depression
 * I could have fallen into depression but I decided to move on.
@@ -5914,6 +5920,32 @@ Y	Yankee	▬ ▬ ● ●	YANG KEY
 Z	Zulu	▬ ▬ ▬ ▬ ▬	ZOO LOO
 
 
+# conditionals
+## zero conditional
+if + present simple, present simple
+* If you heat water to 100C it boils.
+
+## first conditional
+if + past simple, simple future
+* If it's sunny, we'll go to the beach.
+
+
+## second conditional 
+if + past simple, present conditional
+* If I  won a million dollars, I would buy a big house.
+
+
+## third conditional
+if + past perfect, perfect conditional 
+*  If the weather had been good, we would have gone water-skiing.
+
+## mixed 1
+if + past perfect, present conditional
+* If I had listened to your advice, I wouldn't be in this mess.
+
+## mixed 2
+if + past simple, perfect conditional
+* If I were a good cook, I would have invited them to dinner.
 
 # adjectives
 
@@ -8418,7 +8450,7 @@ show
 * collar
 * shed
 
-## topic  pets nouns
+## topic pets nouns
 * paws
 * fur
 * tail
@@ -8441,18 +8473,20 @@ show
 ##  topic Winter nouns
 * ice
 * snow
-* Holidays
+* holidays
 * presents
+* gifts
+* winter boots
 
 ##  topic Winter adjectives
 * snowy
 * icy
 * uncomfortable
 * chilly
-* Windy
-* Wet
-* White
-* Dreary
+* windy
+* wet
+* white
+* dreary
 * cloudy
 
 
@@ -8553,7 +8587,6 @@ Ana: Ira! It's late it's time to go! We need to get an Uber!
 * plan
 * be
 * visit
-* destroy
 * roll
 * know
 * tell
@@ -9366,6 +9399,13 @@ Bob: This morning the situation was very stressful and dreadful. I hope that the
 
 
 # opposites
+
+deep<>shallow
+
+unleash <> leash
+
+innner <> outer
+* We were under the hood looking for the inner workings.
 
 inconsistent<>consistent
 
