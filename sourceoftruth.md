@@ -1006,7 +1006,9 @@ Bob: I was being examined by my doctor. (past-continuous)
 ## question questioned (d) (reg)
 * I have been questioning the wisdom of my decision ever since.
 * I have a question for you.
-* 
+  
+## quit quit
+* I should have quit earlier.  
 
 
 
