@@ -3960,6 +3960,13 @@ Bob: I will do my best.
 
 # phrases
 
+## over the rainbow
+* I'm over the rainbow with happiness!
+
+## a little bird told me
+
+## to find common ground
+
 ## bone to pick
 
 
