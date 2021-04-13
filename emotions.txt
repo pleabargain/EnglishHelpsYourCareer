@@ -1,4 +1,3 @@
-# emotions
 angry
 anxious
 ashamed
