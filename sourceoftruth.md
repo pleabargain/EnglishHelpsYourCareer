@@ -3900,7 +3900,6 @@ Bob: I will do my best.
 * confident
 * confused
 * depressed
-* depressed
 * disgusted
 * distraught
 * ecstatic
