@@ -1240,6 +1240,11 @@ Bob: We must sign and send them as soon as possible.
 ## mitigate mitigated (id) (reg)
 * We have mitigated our risks by hiring a red-team to follow up on our implementation.
 
+## dunk dunked
+* I got dunked in the water!
+* I like to dunk my donuts in my coffee.
+* The Brits like to dunk their biscuits into their tea.
+
 ## examine examined (d) (reg)
 * We should have [examined,investigated,reviewed] the logs more closely.
 * 
@@ -1509,6 +1514,8 @@ Bob: She is working. (present continuous) She works everyday, like the rest of u
 * The fireman, with the help of a rod, saved the deer from the fire!
 * I saved money for a long time to buy a camera.
 
+## savor savored  (d) (reg)
+* I savored every moment of our time at the oyster restaurant.
 
 ## say something said, said  (irr)
 
@@ -3959,6 +3966,12 @@ Bob: I will do my best.
 
 # phrases
 
+## mouth watering
+* It makes my mouth water.
+* It's making my mouth water.
+* The idea is mouth watering!
+* She is mouth watering! (informal)
+
 ## over the rainbow
 * I'm over the rainbow with happiness!
 
@@ -5970,6 +5983,9 @@ if + past simple, perfect conditional
 * If I were the king of the world, I would have made you my queen!
 
 # adjectives
+
+## edible
+* It's edible but not necessarily delicious.
 
 ## envious
 * I'm envious of people that earn more than I do.
@@ -9421,6 +9437,8 @@ Bob: This morning the situation was very stressful and dreadful. I hope that the
 
 
 # opposites
+
+inedible<>edible
 
 deep<>shallow
 
