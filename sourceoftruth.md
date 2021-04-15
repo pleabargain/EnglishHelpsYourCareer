@@ -2027,6 +2027,12 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 ## admit admitted  (id) (reg)
 * I admitted to my wife that I lost 100USD at the casino!
 
+## admire admired (d) (reg)
+* I admired her expert control of her children!
+* I admire your courage!
+* I admire and respect you.
+* We were just admiring your garden.
+
 ## add added (id) (reg)
 * I could have added more salt to the bread but I didn't.
 * My manager must have added this task today because I did not see it before.
@@ -3965,6 +3971,41 @@ Bob: I will do my best.
 * Yo!  (informal)
 
 # phrases
+
+## seventh heaven
+
+## cloud nine
+
+## over the moon with happiness
+
+## hit the books
+* I need to [hit the books,study] before my exam!
+
+## red tape
+* I hate [red tape,bureaucracy].
+* Red tape interferes with everyone's business!
+  
+
+## out of the blue
+* My uncle called me out of the blue!
+* My colleague got fired out of the blue! He didn't see it coming!
+* The client asked for new functionality out of the blue!
+
+## to get rid of
+* What do you need to get rid of?
+* I need to get rid of toxic relationships in my life.
+* I need to get rid of some old clothes.
+* I need to get rid of unhealthy habits.
+
+## to get out of something
+* I need to get out of this place!
+* I need to get out of this mood!
+* I need to get out of this relationship!
+* I need to get out of this {noun}!
+
+## white elephant
+Our monolithic code has become a white elephant so we've decided to move into microservices.
+
 
 ## mouth watering
 * It makes my mouth water.
@@ -5962,14 +6003,22 @@ if + past simple, simple future
 if + past simple, present conditional
 * If I  won a million dollars, I would buy a big house.
 * If I found her contact details, I'd send her an invitation.
-* If it was lucrative, I would invest more.
+* If it was [lucrative,profitable], I would invest more.
 * If I had money, I would travel around the world.
+* If the weather was good, I would make a BBQ.
+* If there wasn't a quarantine, I would visit my relatives.
 
 ## third conditional
 if + past perfect, perfect conditional 
+If + past perfect, would/wouldn’t have + past participle.
+(unrealized situation)
 *  If the weather had been good, we would have gone water-skiing.
 *  If I had got a promotion, I would have thrown a party.
 *  If I had studied harder, I would have passed the test.
+*  If you had told me about the meeting, I would have come.
+*  If you had told me about the meeting, I wouldn’t have missed it.
+*  If I had been you, I would have closed all of the browser tabs!
+*  
 
 ## mixed 1
 if + past perfect, present conditional
@@ -9437,6 +9486,8 @@ Bob: This morning the situation was very stressful and dreadful. I hope that the
 
 
 # opposites
+
+unhealthy<>healthy
 
 inedible<>edible
 
