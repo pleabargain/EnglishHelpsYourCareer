@@ -747,6 +747,16 @@ Bob: Yep! She's clearly into the music! (idiomatic phrase)
 
 # verbs (pronunciation) (regular or irregular)
 
+## switch over
+* "Please switch off your phones".
+* Switch off unit before destroying.
+* It's a nice switch-off.
+
+## to lose track
+* "Sometimes I just lose track".
+* She added, "I don't want to lose track of him".
+* How did I lose track of those pants?
+
 ## to be hungry
 ## to be amazed
 ## to be scared
@@ -1244,6 +1254,7 @@ Bob: We must sign and send them as soon as possible.
 * I got dunked in the water!
 * I like to dunk my donuts in my coffee.
 * The Brits like to dunk their biscuits into their tea.
+* Obviously tea isn't tea if you don't dunk a biscuit in it, and academics have even overthought this simple pleasure.
 
 ## examine examined (d) (reg)
 * We should have [examined,investigated,reviewed] the logs more closely.
@@ -1410,6 +1421,13 @@ Bob: Not really!
 ## launch launched  (t) (reg)
 * We launched the app yesterday.
 * We were launching a new product when the pandemic hit. (past continuous)
+* The official, who asked not to be identified because of the sensitivity of the issue, said photographs from North Korea showing a rocket launched from the sea appeared to be authentic.
+* He launched a crackdown and the movement was formally dissolved in 2005.
+* A police investigation was launched into the data issues.
+* We just launched a design your own boots service and I have designed a lovely pair for spring.
+* Satellite images show the city, a Unesco world heritage site, before and after missile strikes launched by government forces.
+
+
 
 ## perform performed (d) (reg)
 * This interview will be performed by my manager.  (passive voice)
@@ -1676,9 +1694,13 @@ Ana: We will talk in the park.
 
 ## teach taught (irr)
 * I was taught to say please and thank you by my grandfather.
+* What is the most important lesson life has taught you?
+* It's taught me that there is strength in vulnerability, that life is a journey.
+
+
 
 ## tell someone told, told (irr)
-* 
+  
 * The host told us that our reservation was cancelled.
 * I have a lot to tell you!
 * Let me tell you something about [my,her,his,our,their] [family,hobbies].
@@ -1823,7 +1845,6 @@ Ana: I will be worried about you if you are driving at night. (conditional)
 Bob: You [needn't,mustn't,shouldn't] worry about me! I'm driving the new Tesla with SkyNet installed!
 
 ---
-
 
 ## wish wished (t) (reg) 
 * She wished me a Happy New Years!
@@ -1975,6 +1996,9 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 
 ## declare declared (d) (reg)
 * They have declared war!
+* Kosovo declared independence from Serbia in 2008.
+* Gray was chased and subjected to an arrest declared unlawful by the city's top prosecutor.
+* The accountant's fees were fully declared for tax purposes and he paid tax on the benefit.
 
 ## decline declined (d) (reg)
 * I should have declined their invitation.
@@ -2090,6 +2114,11 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 ## comply complied (d) (reg)
 * I should have complied to her request.
 * I was forced to [agree,comply].
+
+## complicate complicated (id) (reg)
+* The reality is more complicated.
+* However, he added, the hunt had been complicated by the fact that in parts of Mali, a whole village shares the same Sim card.
+* Everybody says how complicated a book it is, but also it is very simple; a man tracking down one of four people.
 
 ## complement complemented (id) (reg)
 * I had complemented her many times for her tasteful meals. (past perfect simple)
@@ -2714,6 +2743,8 @@ Bob: I have spent several days resolving this issue.
 ## miss missed  (T) (reg)
 * I would have missed the turn if you hadn't told me about the tree.
 * Yeah. I've got the TPS report right here in front of me! And I see that it's missing the cover page!
+
+
 
 ## mix mixed (T) (reg)
 * You need to mix it all together.
@@ -3972,18 +4003,46 @@ Bob: I will do my best.
 
 # phrases
 
+## story of my life
+* "It's the story of my life".
+* She smiled and replied, "Story of my life".
+* That sounds like the story of my life.
+
+
+## on the road to health
+
+## Money laundering
+* There is no evidence of money laundering.
+* He was also held on suspicion of money laundering.
+* There are also acute concerns over money laundering.
+* In the end, the jury convicted them of money laundering.
+
 ## seventh heaven
+* Everybody thinks it is seventh heaven.
+* "We're in seventh heaven," she whispers.
+* "He was in seventh heaven with that thing".
 
 ## cloud nine
+* He's exhausted but on cloud nine.
+* I returned to work on cloud nine.
+* "Confidence-wise, I'm on cloud nine right now," Bickell said.
 
 ## over the moon with happiness
+* "When I found out I was pregnant, I was over the moon with happiness," she says.
+* I am over the moon with joy.
+* We brought him home, and the kids were over the moon with joy.
 
 ## hit the books
 * I need to [hit the books,study] before my exam!
+* College is not only where you hit the books.
+* Hit the books and "pay attention and get it right".
+
+
 
 ## red tape
 * I hate [red tape,bureaucracy].
 * Red tape interferes with everyone's business!
+* Private firms are strangled with red tape.
   
 
 ## out of the blue
@@ -3996,6 +4055,7 @@ Bob: I will do my best.
 * I need to get rid of toxic relationships in my life.
 * I need to get rid of some old clothes.
 * I need to get rid of unhealthy habits.
+* Let's get rid of those.
 
 ## to get out of something
 * I need to get out of this place!
@@ -4004,7 +4064,9 @@ Bob: I will do my best.
 * I need to get out of this {noun}!
 
 ## white elephant
-Our monolithic code has become a white elephant so we've decided to move into microservices.
+* Our monolithic code has become a white elephant so we've decided to move into microservices.
+* Is it another white elephant like the Concorde?
+* We wanted to ensure it didn't become a white elephant".
 
 
 ## mouth watering
@@ -4017,20 +4079,36 @@ Our monolithic code has become a white elephant so we've decided to move into mi
 * I'm over the rainbow with happiness!
 
 ## a little bird told me
+* Later he added, "A little bird told me that if I get off, I'll never know why".
+* So either a little bird told the company this was a possibility, or more likely it's just a smart option to include when your craft and apps are being put into national security and life-and-death type situations.
+* A little bird told us that you are trying to conceive, so let's cut to the chase now, shall we?
+
 
 ## to find common ground
+* Use your findings to find common ground and build rapport.
+* "We're trying to find common ground".
+* He advised both to find common ground.
 
 ## bone to pick
+"I have a bone to pick with you," Meryl Streep said to the Bagger.
 
 
 ## here on Earth
 
 ## close the [sale,deal]
+He couldn't quite close the sale.
+Clearly this was not enough to close the sale.
+
 
 ## fall into depression
 * I could have fallen into depression but I decided to move on.
+* The United States is not going to fall into depression.
+* It's very easy to fall into depression in this industry and it's important to have my family there to support me".
 
 ##  keep your [eyes,ears] open for something
+* "Keep your eyes open," she advised.
+* I always say you should trust everyone but also keep your eyes open".
+* Keep your eyes open for helpful material that you may not have been expressly looking for.
 
 ## found no [trace,sign] of something
 
@@ -6032,6 +6110,19 @@ if + past simple, perfect conditional
 * If I were the king of the world, I would have made you my queen!
 
 # adjectives
+
+## healthy
+* It's nearly impossible for consumers to evaluate how healthy a bank is.
+* Right now we just want to stay focused, keep the horse happy, healthy.
+* As far as I know he was healthy and not on any medication.
+* Its terrace also ensures it gets a healthy after-work crowd on sunny evenings.
+
+
+## mistaken
+* They are mistaken.
+* But the answer is a reform of retirement provision and long term care, not pandering to a minority who want to play with their pension pots, probably in the mistaken belief they know what they are doing.
+* But academics in the US who have been trying to solve the mystery believe these El Salvadorians to be mistaken.
+* That was the mistaken assumption made by the Today programme, which asked Linehan if he had "changed it much".
 
 ## edible
 * It's edible but not necessarily delicious.
@@ -9323,16 +9414,33 @@ There aren't many lemons.
 There are too many people.
 We don't see many flowers in winter.
 Are there many different insects species?
-Are there many houses painted in blue ?
+Are there many houses painted in blue?
 If you make too many  mistakes, you will not pass the test.
 There weren't many cars in the city yesterday.
 There aren't many shops.
-Do you know many people in Spain ?
+Do you know many people in Spain?
 	
 
 
 
 # nouns
+
+## to skip over
+Over time, we've become more sophisticated viewers, with our eyes trained to skip over ads without a second thought.
+Instead, they said, he seemed to skip over the facts.
+He likes to skip over communism's mistakes and dwell on Russia's tsarist grandeur.
+
+## trope
+Like vintage suitcases and handmade bunting, bicycles have become a hipster wedding trope.
+
+This social unease is just a trope of the rightwing press".
+
+If the trope turns into China bashing, and if it takes a turn toward actively trying to impede China's development instead of improving ours, then sure.
+
+## savor
+* "Anyone who is creating anything should read this book, slowly, and savor it" Feld says.
+* Its situation must always savor of weakness, sometimes border upon anarchy.
+* He seemed to want to savor the last steps of the climb, to prolong them as much as possible.
 
 ## overhead
 * How can we streamline this process? We have a lot of unnecessary overhead!
