@@ -1627,6 +1627,7 @@ Ana: I said that I am in a Christmas mood.
 
 ## wrap wrapped (t) (reg)
 * He had wrapped the present in toilet paper.
+* We need to wrap up this meeting! It's time for dinner!
 
 ## wear wore worn (irr)
 * You should have worn warmer clothes.
@@ -4003,6 +4004,9 @@ Bob: I will do my best.
 
 # phrases
 
+## ASAP
+I want it ASAP!
+
 ## story of my life
 * "It's the story of my life".
 * She smiled and replied, "Story of my life".
@@ -4218,11 +4222,20 @@ You should go easy on him. Cut him some slack because he's had a rough week.
 
 ## to hate on
 * Many people love to hate on the Chinese, but have never met a Chinese person.
+* Advertising is easy to hate on, but it's what lets companies like Facebook, Google, and Twitter offer their services for free to everyone.
+* It's hard to hate on bikes — they're one of the most efficient ways to travel.
+* She went on to state that "Blair is one character that is fun to hate on.
+* "A lot of people want to hate on me for doing what I did because they couldn't do it".
 
 ## to be called on
-They need your help over there. They called on you specifically.
+* They need your help over there. They called on you specifically.
+* In that case, voters would be called on again, for a special election.
+* In such a class, every student can expect to be called on to explain something.
 
-## to make the hard calls
+## to make the hard call
+* It's clear Kat and Co. are willing to make the hard call and cut off underperforming divisions.
+* Indeed, it could be argued to be necessary: NGOs play a vital oversight role, and governments make the hard calls.
+* Groupon "made the hard call to allow the team to focus on what really matters".
 
 ## trade off
 * After negotiating for awhile, we found a good trade off.
@@ -6110,6 +6123,10 @@ if + past simple, perfect conditional
 * If I were the king of the world, I would have made you my queen!
 
 # adjectives
+
+## concrete
+* Can somebody show me concrete numbers on that?
+* Moscow could grant Greece privileged import access, thereby generating revenue for struggling companies back home and allowing Tsipras to present a concrete result to his voters.
 
 ## healthy
 * It's nearly impossible for consumers to evaluate how healthy a bank is.
@@ -8667,6 +8684,34 @@ show
 * dreary
 * cloudy
 
+
+# topic finding a job
+* When was the last you went looking for [a job, new opportunities]?
+* What is your specialization?
+* I have been working with X for 3 years.
+* Can you you share your Telegram account details with me?
+* Can I reach you via [Telegram,Skype,Viber,Messenger]?
+* Have you updated your CV?
+  * If you haven't updated your CV you should and then share it with me. Then I can pass it over to someone at my office and find out if there's a position...
+* Where are you working now?
+* I don't care where the client is based.
+* I can ask our recruiter.
+* I want to work only regular day time hours.
+* You can expect meetings earlier/later in the day.
+* It might suit you better.
+* I'll send you my CV ASAP.
+* I can ask around for you.
+* I'll get back to you!
+* I really appreciate your help!
+
+
+# topic verb finding a job
+* to fill out a form 
+* sending in applications
+* submit your CV/resume
+# topic noun finding a job
+* temp / permanent
+* interviews
 
 
 # topic formula one
