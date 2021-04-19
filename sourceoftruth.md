@@ -1835,6 +1835,8 @@ Ana: Yes, well my brother was flying that plane, so there!
 
 ---
 
+* I get along well with my mother-in-law.
+
 ## to be worried (reg)
 
 * I am worried about her health.
@@ -9640,6 +9642,8 @@ Bob: This morning the situation was very stressful and dreadful. I hope that the
 
 
 # opposites
+
+sane<>insane
 
 unhealthy<>healthy
 
