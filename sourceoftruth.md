@@ -4054,12 +4054,12 @@ I want it ASAP!
 * My colleague got fired out of the blue! He didn't see it coming!
 * The client asked for new functionality out of the blue!
 
-## to get rid of
+## to get rid of syn~ to purge
 * What do you need to get rid of?
 * I need to get rid of toxic relationships in my life.
 * I need to get rid of some old clothes.
 * I need to get rid of unhealthy habits.
-* Let's get rid of those.
+* Let's get rid of those old boxes.
 
 ## to get out of something
 * I need to get out of this place!
@@ -9238,6 +9238,7 @@ I don't normally throw in the towel at the first sign of trouble!
   * possible problems
   * children
   * dogs
+  * clients
   * meetings
   * rooms
 * one of my favorite
