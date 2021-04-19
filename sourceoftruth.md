@@ -9643,6 +9643,8 @@ Bob: This morning the situation was very stressful and dreadful. I hope that the
 
 # opposites
 
+sincere<>insincere
+
 sane<>insane
 
 unhealthy<>healthy
