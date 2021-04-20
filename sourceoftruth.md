@@ -1143,8 +1143,13 @@ Bob: I was being examined by my doctor. (past-continuous)
 
 ## dangle dangled (d)(reg) 
 * Where have you dangled recently?
-  * I dangled underneath the chin up bars at the park this morning.
-  * I haven't dangled anywhere recently.
+* I dangled underneath the chin up bars at the park this morning.
+* I haven't dangled anywhere recently.
+
+
+## dare dared (d) (reg)
+* Have you ever played truth or dare?
+* He dared me to jump from the bridge into the river below.
 
 
 ## dance danced (t)(reg)
