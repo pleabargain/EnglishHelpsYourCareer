@@ -10032,6 +10032,7 @@ Do you mind if I add...
 * https://calendly.com/englishhelpsyourcareer/english-with-a-californian-tech-guy
 
 # English resources
+* https://sentence.yourdictionary.com/meaning
 * http://www.manythings.org/
 * https://books.google.com/ngrams
 * https://www.askamanager.org/topics # this is great for manager types
