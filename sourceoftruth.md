@@ -3876,6 +3876,7 @@ Bob: “You’re right!”
 * The general rallied his troops around him.
 * Ok, everybody! Rally around me! I've got some news to share!
 * There was a big political rally at the town square today.
+* My girl friend and I went on a road rally last weekend.
 
 ## raise raised (d) (reg)
 * We raised our daughter to the best of our ability.
@@ -4005,6 +4006,12 @@ Bob: I will do my best.
 * Yo!  (informal)
 
 # phrases
+
+## it begins to wear thin
+* After some time, even the best of things begins to wear thin.
+
+## one foot in the grave
+* He was clearly not doing well. He had one foot in the grave.
 
 ## ASAP
 I want it ASAP!
@@ -9422,6 +9429,7 @@ I don't normally throw in the towel at the first sign of trouble!
 * whistle
 * listen
 * hustle
+* fasten
 
 ## silent h (don't pronounce the H!)
 * honest
@@ -10019,6 +10027,7 @@ Do you mind if I add...
 * https://calendly.com/englishhelpsyourcareer/english-with-a-californian-tech-guy
 
 # English resources
+* http://www.manythings.org/
 * https://books.google.com/ngrams
 * https://www.askamanager.org/topics # this is great for manager types
 * https://app.inferkit.com/demo   GPT-3
