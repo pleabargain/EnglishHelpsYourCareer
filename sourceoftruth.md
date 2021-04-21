@@ -3945,39 +3945,8 @@ Bob: I will do my best.
 # suffixes
 
 # emotions
-* angry
-* anxious
-* ashamed
-* bored
-* cautious
-* confident
-* confused
-* depressed
-* disgusted
-* distraught
-* ecstatic
-* embarrassed
-* enraged
-* excited
-* frightened
-* frustrated
-* guilty
-* happy
-* hopeful
-* hopeless
-* hysterical
-* jealous
-* lonely
-* love-struck
-* mischievous
-* miserable
-* overwhelmed
-* sad
-* shocked
-* shy
-* smug
-* surprised
-* suspicious
+['accomplished', 'aggravated', 'alive', 'alone', 'amazed', 'amazing', 'amused', 'angry', 'annoyed', 'anxious', 'awesome', 'awful', 'bad', 'beautiful', 'better', 'blah', 'blessed', 'bored', 'broken', 'chill', 'cold', 'comfortable', 'confident', 'confused', 'content', 'cool', 'crappy', 'crazy', 'curious', 'depressed', 'determined', 'disappointed', 'down', 'drained', 'drunk', 'ecstatic', 'emotional', 'energized', 'excited', 'exhausted', 'fantastic', 'fat', 'free', 'fresh', 'frustrated', 'full', 'funny', 'good', 'grateful', 'great', 'guilty', 'happy', 'heartbroken', 'helpless', 'hopeful', 'hopeless', 'horrible', 'hot', 'hungry', 'hurt', 'impatient', 'in love', 'incomplete', 'inspired', 'irritated', 'lazy', 'lonely', 'lost', 'loved', 'lovely', 'lucky', 'mad', 'meh', 'miserable', 'motivated', 'nervous', 'nostalgic', 'OK', 'old', 'optimistic', 'overwhelmed', 'pained', 'pissed', 'pissed off', 'positive', 'pretty', 'proud', 'pumped', 'ready', 'refreshed', 'relaxed', 'relieved', 'rough', 'sad', 'safe', 'satisfied', 'scared', 'sexy', 'shocked', 'sick', 'silly', 'sleepy', 'sore', 'sorry', 'special', 'stressed', 'strong', 'stupid', 'super', 'surprised', 'terrible', 'thankful', 'tired', 'uncomfortable', 'upset', 'weak', 'weird', 'well', 'wonderful', 'worried']
+
 
 
 # greetings
@@ -4011,6 +3980,15 @@ Bob: I will do my best.
 * Yo!  (informal)
 
 # phrases
+
+## Bored to death
+Meaning/Usage: Very bored
+
+Explanation: Death is the worst thing, so using it to compare how you feel is telling someone that you are very bored.
+
+"I have nothing to do. I'm bored to death."
+"I hate it when I'm bored to death."
+"Would you rather be super busy or bored to death?"
 
 ## it begins to wear thin
 * After some time, even the best of things begins to wear thin.
@@ -10032,6 +10010,7 @@ Do you mind if I add...
 * https://calendly.com/englishhelpsyourcareer/english-with-a-californian-tech-guy
 
 # English resources
+* http://www.englishcollocation.com/how-to-use/happy
 * https://sentence.yourdictionary.com/meaning
 * http://www.manythings.org/
 * https://books.google.com/ngrams
