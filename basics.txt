@@ -10407,7 +10407,7 @@ www.gutenberg.org/license.
 Section 1. General Terms of Use and Redistributing Project
 Gutenberg-tm electronic works
 
-1.A. By reading or using any part of this Project Gutenberg-tm
+.A. By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
@@ -10417,9 +10417,9 @@ possession. If you paid a fee for obtaining a copy of or access to a
 Project Gutenberg-tm electronic work and you do not agree to be bound
 by the terms of this agreement, you may obtain a refund from the
 person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
+.E.8.
 
-1.B. "Project Gutenberg" is a registered trademark. It may only be
+.B. "Project Gutenberg" is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement. There are a few
 things that you can do with most Project Gutenberg-tm electronic works
@@ -10429,7 +10429,7 @@ Gutenberg-tm electronic works if you follow the terms of this
 agreement and help preserve free future access to Project Gutenberg-tm
 electronic works. See paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation ("the
+.C. The Project Gutenberg Literary Archive Foundation ("the
 Foundation" or PGLAF), owns a compilation copyright in the collection
 of Project Gutenberg-tm electronic works. Nearly all the individual
 works in the collection are in the public domain in the United
@@ -10446,7 +10446,7 @@ comply with the terms of this agreement by keeping this work in the
 same format with its attached full Project Gutenberg-tm License when
 you share it without charge with others.
 
-1.D. The copyright laws of the place where you are located also govern
+.D. The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are
 in a constant state of change. If you are outside the United States,
 check the laws of your country in addition to the terms of this
@@ -10456,9 +10456,9 @@ other Project Gutenberg-tm work. The Foundation makes no
 representations concerning the copyright status of any work in any
 country other than the United States.
 
-1.E. Unless you have removed all references to Project Gutenberg:
+.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1. The following sentence, with active links to, or other
+.E.1. The following sentence, with active links to, or other
 immediate access to, the full Project Gutenberg-tm License must appear
 prominently whenever any copy of a Project Gutenberg-tm work (any work
 on which the phrase "Project Gutenberg" appears, or with which the
@@ -10473,7 +10473,7 @@ performed, viewed, copied or distributed:
   United States, you will have to check the laws of the country where
   you are located before using this eBook.
 
-1.E.2. If an individual Project Gutenberg-tm electronic work is
+.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
 copyright holder), the work can be copied and distributed to anyone in
@@ -10484,7 +10484,7 @@ either with the requirements of paragraphs 1.E.1 through 1.E.7 or
 obtain permission for the use of the work and the Project Gutenberg-tm
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any
 additional terms imposed by the copyright holder. Additional terms
@@ -10492,17 +10492,17 @@ will be linked to the Project Gutenberg-tm License for all works
 posted with the permission of the copyright holder found at the
 beginning of this work.
 
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5. Do not copy, display, perform, distribute or redistribute this
+.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6. You may convert to and distribute this work in any binary,
+.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg-tm work in a format
@@ -10514,11 +10514,11 @@ of obtaining a copy upon request, of the work in its original "Plain
 Vanilla ASCII" or other form. Any alternate format must include the
 full Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7. Do not charge a fee for access to, viewing, displaying,
+.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8. You may charge a reasonable fee for copies of or providing
+.E.8. You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works
 provided that:
 
@@ -10551,16 +10551,16 @@ provided that:
 * You comply with all other terms of this agreement for free
   distribution of Project Gutenberg-tm works.
 
-1.E.9. If you wish to charge a fee or distribute a Project
+.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg-tm electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
 from the Project Gutenberg Literary Archive Foundation, the manager of
 the Project Gutenberg-tm trademark. Contact the Foundation as set
 forth in Section 3 below.
 
-1.F.
+.F.
 
-1.F.1. Project Gutenberg volunteers and employees expend considerable
+.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 works not protected by U.S. copyright law in creating the Project
 Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
@@ -10571,7 +10571,7 @@ intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
 cannot be read by your equipment.
 
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
@@ -10585,7 +10585,7 @@ LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from. If you
@@ -10598,12 +10598,12 @@ opportunity to receive the work electronically in lieu of a refund. If
 the second copy is also defective, you may demand a refund in writing
 without further opportunities to fix the problem.
 
-1.F.4. Except for the limited right of replacement or refund set forth
+.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
 OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5. Some states do not allow disclaimers of certain implied
+.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of
 damages. If any disclaimer or limitation set forth in this agreement
 violates the law of the state applicable to this agreement, the
@@ -10612,7 +10612,7 @@ limitation permitted by the applicable state law. The invalidity or
 unenforceability of any provision of this agreement shall not void the
 remaining provisions.
 
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in
 accordance with this agreement, and any volunteers associated with the
@@ -10647,7 +10647,7 @@ Section 3. Information about the Project Gutenberg Literary
 Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
+01(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
@@ -12558,7 +12558,7 @@ He drew out the four thick volumes of bound records, the square can
 containing the film-strips, the thin sheaf of checklists.
 
 And he opened the personal record titled _Senior Quadrate's Report. May
-1, 1957-May 7, 1957. Blair._
+957-May 7, 1957. Blair._
 
 And simply, directly, it began on the first page.
 
@@ -12745,7 +12745,7 @@ Their sheaf of notes had grown measurably in thickness since the first
 fact had been written on the first page the night before. The boy
 had written it slowly as he had begun mastery of the awkward writing
 machine--_1. Washington defeats Cornwallis at Yorktown, Oct. 19,
-1781_ ...
+781_ ...
 
 In the living-room, the woman was listening to her husband.
 
@@ -16550,7 +16550,7 @@ brought here--Yes, have you heard the latest, gentlemen? An amendment
 prohibiting the execution of a sentence on an official's wife, until
 that official is present as a legal witness? But no, I can see you
 haven't, and hope you get into all kinds of trouble! Chapter--Chapter
-580, gentlemen--Book 631, Section 451, Paragraph A, Sub-paragraph 34,
+80, gentlemen--Book 631, Section 451, Paragraph A, Sub-paragraph 34,
 Sentence."
 
 And abruptly she let the bitter spurt of words taper into silence, and
@@ -16839,7 +16839,7 @@ at his side. Even for the ones the boys carried.
        *       *       *       *       *
 
 The sign said City of Washington, District of Columbia, Population
-531,423. Speed Limit 55 MPH.
+31,423. Speed Limit 55 MPH.
 
 Doug raised his heel, the car slowed. He frowned. No road-blocks, no
 pursuit! There had been plently of time since the helicopters had
@@ -17438,7 +17438,7 @@ www.gutenberg.org/license.
 Section 1. General Terms of Use and Redistributing Project
 Gutenberg-tm electronic works
 
-1.A. By reading or using any part of this Project Gutenberg-tm
+.A. By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
@@ -17448,9 +17448,9 @@ possession. If you paid a fee for obtaining a copy of or access to a
 Project Gutenberg-tm electronic work and you do not agree to be bound
 by the terms of this agreement, you may obtain a refund from the
 person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
+.E.8.
 
-1.B. "Project Gutenberg" is a registered trademark. It may only be
+.B. "Project Gutenberg" is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement. There are a few
 things that you can do with most Project Gutenberg-tm electronic works
@@ -17460,7 +17460,7 @@ Gutenberg-tm electronic works if you follow the terms of this
 agreement and help preserve free future access to Project Gutenberg-tm
 electronic works. See paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation ("the
+.C. The Project Gutenberg Literary Archive Foundation ("the
 Foundation" or PGLAF), owns a compilation copyright in the collection
 of Project Gutenberg-tm electronic works. Nearly all the individual
 works in the collection are in the public domain in the United
@@ -17477,7 +17477,7 @@ comply with the terms of this agreement by keeping this work in the
 same format with its attached full Project Gutenberg-tm License when
 you share it without charge with others.
 
-1.D. The copyright laws of the place where you are located also govern
+.D. The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are
 in a constant state of change. If you are outside the United States,
 check the laws of your country in addition to the terms of this
@@ -17487,9 +17487,9 @@ other Project Gutenberg-tm work. The Foundation makes no
 representations concerning the copyright status of any work in any
 country other than the United States.
 
-1.E. Unless you have removed all references to Project Gutenberg:
+.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1. The following sentence, with active links to, or other
+.E.1. The following sentence, with active links to, or other
 immediate access to, the full Project Gutenberg-tm License must appear
 prominently whenever any copy of a Project Gutenberg-tm work (any work
 on which the phrase "Project Gutenberg" appears, or with which the
@@ -17504,7 +17504,7 @@ performed, viewed, copied or distributed:
   United States, you will have to check the laws of the country where
   you are located before using this eBook.
 
-1.E.2. If an individual Project Gutenberg-tm electronic work is
+.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
 copyright holder), the work can be copied and distributed to anyone in
@@ -17515,7 +17515,7 @@ either with the requirements of paragraphs 1.E.1 through 1.E.7 or
 obtain permission for the use of the work and the Project Gutenberg-tm
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any
 additional terms imposed by the copyright holder. Additional terms
@@ -17523,17 +17523,17 @@ will be linked to the Project Gutenberg-tm License for all works
 posted with the permission of the copyright holder found at the
 beginning of this work.
 
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5. Do not copy, display, perform, distribute or redistribute this
+.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6. You may convert to and distribute this work in any binary,
+.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg-tm work in a format
@@ -17545,11 +17545,11 @@ of obtaining a copy upon request, of the work in its original "Plain
 Vanilla ASCII" or other form. Any alternate format must include the
 full Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7. Do not charge a fee for access to, viewing, displaying,
+.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8. You may charge a reasonable fee for copies of or providing
+.E.8. You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works
 provided that:
 
@@ -17582,16 +17582,16 @@ provided that:
 * You comply with all other terms of this agreement for free
   distribution of Project Gutenberg-tm works.
 
-1.E.9. If you wish to charge a fee or distribute a Project
+.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg-tm electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
 from the Project Gutenberg Literary Archive Foundation, the manager of
 the Project Gutenberg-tm trademark. Contact the Foundation as set
 forth in Section 3 below.
 
-1.F.
+.F.
 
-1.F.1. Project Gutenberg volunteers and employees expend considerable
+.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 works not protected by U.S. copyright law in creating the Project
 Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
@@ -17602,7 +17602,7 @@ intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
 cannot be read by your equipment.
 
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
@@ -17616,7 +17616,7 @@ LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from. If you
@@ -17629,12 +17629,12 @@ opportunity to receive the work electronically in lieu of a refund. If
 the second copy is also defective, you may demand a refund in writing
 without further opportunities to fix the problem.
 
-1.F.4. Except for the limited right of replacement or refund set forth
+.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
 OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5. Some states do not allow disclaimers of certain implied
+.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of
 damages. If any disclaimer or limitation set forth in this agreement
 violates the law of the state applicable to this agreement, the
@@ -17643,7 +17643,7 @@ limitation permitted by the applicable state law. The invalidity or
 unenforceability of any provision of this agreement shall not void the
 remaining provisions.
 
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in
 accordance with this agreement, and any volunteers associated with the
@@ -17678,7 +17678,7 @@ Section 3. Information about the Project Gutenberg Literary
 Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
+01(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
@@ -21849,7 +21849,7 @@ www.gutenberg.org/license.
 Section 1. General Terms of Use and Redistributing Project
 Gutenberg-tm electronic works
 
-1.A. By reading or using any part of this Project Gutenberg-tm
+.A. By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
@@ -21859,9 +21859,9 @@ possession. If you paid a fee for obtaining a copy of or access to a
 Project Gutenberg-tm electronic work and you do not agree to be bound
 by the terms of this agreement, you may obtain a refund from the
 person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
+.E.8.
 
-1.B. "Project Gutenberg" is a registered trademark. It may only be
+.B. "Project Gutenberg" is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement. There are a few
 things that you can do with most Project Gutenberg-tm electronic works
@@ -21871,7 +21871,7 @@ Gutenberg-tm electronic works if you follow the terms of this
 agreement and help preserve free future access to Project Gutenberg-tm
 electronic works. See paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation ("the
+.C. The Project Gutenberg Literary Archive Foundation ("the
 Foundation" or PGLAF), owns a compilation copyright in the collection
 of Project Gutenberg-tm electronic works. Nearly all the individual
 works in the collection are in the public domain in the United
@@ -21888,7 +21888,7 @@ comply with the terms of this agreement by keeping this work in the
 same format with its attached full Project Gutenberg-tm License when
 you share it without charge with others.
 
-1.D. The copyright laws of the place where you are located also govern
+.D. The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are
 in a constant state of change. If you are outside the United States,
 check the laws of your country in addition to the terms of this
@@ -21898,9 +21898,9 @@ other Project Gutenberg-tm work. The Foundation makes no
 representations concerning the copyright status of any work in any
 country other than the United States.
 
-1.E. Unless you have removed all references to Project Gutenberg:
+.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1. The following sentence, with active links to, or other
+.E.1. The following sentence, with active links to, or other
 immediate access to, the full Project Gutenberg-tm License must appear
 prominently whenever any copy of a Project Gutenberg-tm work (any work
 on which the phrase "Project Gutenberg" appears, or with which the
@@ -21915,7 +21915,7 @@ performed, viewed, copied or distributed:
   United States, you will have to check the laws of the country where
   you are located before using this eBook.
 
-1.E.2. If an individual Project Gutenberg-tm electronic work is
+.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
 copyright holder), the work can be copied and distributed to anyone in
@@ -21926,7 +21926,7 @@ either with the requirements of paragraphs 1.E.1 through 1.E.7 or
 obtain permission for the use of the work and the Project Gutenberg-tm
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any
 additional terms imposed by the copyright holder. Additional terms
@@ -21934,17 +21934,17 @@ will be linked to the Project Gutenberg-tm License for all works
 posted with the permission of the copyright holder found at the
 beginning of this work.
 
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5. Do not copy, display, perform, distribute or redistribute this
+.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6. You may convert to and distribute this work in any binary,
+.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg-tm work in a format
@@ -21956,11 +21956,11 @@ of obtaining a copy upon request, of the work in its original "Plain
 Vanilla ASCII" or other form. Any alternate format must include the
 full Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7. Do not charge a fee for access to, viewing, displaying,
+.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8. You may charge a reasonable fee for copies of or providing
+.E.8. You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works
 provided that:
 
@@ -21993,16 +21993,16 @@ provided that:
 * You comply with all other terms of this agreement for free
   distribution of Project Gutenberg-tm works.
 
-1.E.9. If you wish to charge a fee or distribute a Project
+.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg-tm electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
 from the Project Gutenberg Literary Archive Foundation, the manager of
 the Project Gutenberg-tm trademark. Contact the Foundation as set
 forth in Section 3 below.
 
-1.F.
+.F.
 
-1.F.1. Project Gutenberg volunteers and employees expend considerable
+.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 works not protected by U.S. copyright law in creating the Project
 Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
@@ -22013,7 +22013,7 @@ intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
 cannot be read by your equipment.
 
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
@@ -22027,7 +22027,7 @@ LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from. If you
@@ -22040,12 +22040,12 @@ opportunity to receive the work electronically in lieu of a refund. If
 the second copy is also defective, you may demand a refund in writing
 without further opportunities to fix the problem.
 
-1.F.4. Except for the limited right of replacement or refund set forth
+.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
 OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5. Some states do not allow disclaimers of certain implied
+.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of
 damages. If any disclaimer or limitation set forth in this agreement
 violates the law of the state applicable to this agreement, the
@@ -22054,7 +22054,7 @@ limitation permitted by the applicable state law. The invalidity or
 unenforceability of any provision of this agreement shall not void the
 remaining provisions.
 
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in
 accordance with this agreement, and any volunteers associated with the
@@ -22089,7 +22089,7 @@ Section 3. Information about the Project Gutenberg Literary
 Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
+01(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
@@ -22224,7 +22224,7 @@ Distributed Proofreading Team at http://www.pgdp.net
 
 ALICE'S ADVENTURES IN WONDERLAND
 
-[Illustration]
+
 
 
 
@@ -22254,7 +22254,7 @@ out of it, and, burning with curiosity, she ran across the field after
 it and was just in time to see it pop down a large rabbit-hole, under
 the hedge. In another moment, down went Alice after it!
 
-[Illustration]
+
 
 The rabbit-hole went straight on like a tunnel for some way and then
 dipped suddenly down, so suddenly that Alice had not a moment to think
@@ -22302,7 +22302,7 @@ upon a low curtain she had not noticed before, and behind it was a
 little door about fifteen inches high. She tried the little golden key
 in the lock, and to her great delight, it fitted!
 
-[Illustration]
+
 
 Alice opened the door and found that it led into a small passage, not
 much larger than a rat-hole; she knelt down and looked along the passage
@@ -22363,7 +22363,7 @@ way?" holding her hand on the top of her head to feel which way she was
 growing; and she was quite surprised to find that she remained the same
 size. So she set to work and very soon finished off the cake.
 
-[Illustration]
+
 
 
 
@@ -22401,7 +22401,7 @@ you please, sir--" The Rabbit started violently, dropped the white
 kid-gloves and the fan and skurried away into the darkness as hard as he
 could go.
 
-[Illustration]
+
 
 Alice took up the fan and gloves and she kept fanning herself all the
 time she went on talking. "Dear, dear! How queer everything is to-day!
@@ -22431,7 +22431,7 @@ splash! she was up to her chin in salt-water. Her first idea was that
 she had somehow fallen into the sea. However, she soon made out that she
 was in the pool of tears which she had wept when she was nine feet high.
 
-[Illustration]
+
 
 Just then she heard something splashing about in the pool a little way
 off, and she swam nearer to see what it was: she soon made out that it
@@ -22488,7 +22488,7 @@ birds and animals that had fallen into it; there were a Duck and a Dodo,
 a Lory and an Eaglet, and several other curious creatures. Alice led the
 way and the whole party swam to the shore.
 
-[Illustration]
+
 
 
 
@@ -22500,7 +22500,7 @@ They were indeed a queer-looking party that assembled on the bank--the
 birds with draggled feathers, the animals with their fur clinging close
 to them, and all dripping wet, cross and uncomfortable.
 
-[Illustration]
+
 
 The first question, of course, was how to get dry again. They had a
 consultation about this and after a few minutes, it seemed quite natural
@@ -22553,7 +22553,7 @@ the best thing to get us dry would be a Caucus-race."
 
 "What _is_ a Caucus-race?" said Alice.
 
-[Illustration]
+
 
 "Why," said the Dodo, "the best way to explain it is to do it." First it
 marked out a race-course, in a sort of circle, and then all the party
@@ -22669,9 +22669,9 @@ again, for she felt very lonely and low-spirited. In a little while,
 however, she again heard a little pattering of footsteps in the distance
 and she looked up eagerly.
 
-[Illustration]
 
-[Illustration]
+
+
 
 
 
@@ -22721,7 +22721,7 @@ and, as a last resource, she put one arm out of the window and one foot
 up the chimney, and said to herself, "Now I can do no more, whatever
 happens. What _will_ become of me?"
 
-[Illustration]
+
 
 Luckily for Alice, the little magic bottle had now had its full effect
 and she grew no larger. After a few minutes she heard a voice outside
@@ -22818,7 +22818,7 @@ large blue caterpillar, that was sitting on the top, with its arms
 folded, quietly smoking a long hookah and taking not the smallest notice
 of her or of anything else.
 
-[Illustration]
+
 
 
 
@@ -22831,7 +22831,7 @@ Alice in a languid, sleepy voice.
 
 "Who are _you_?" said the Caterpillar.
 
-[Illustration]
+
 
 Alice replied, rather shyly, "I--I hardly know, sir, just at present--at
 least I know who I _was_ when I got up this morning, but I think I must
@@ -22914,7 +22914,7 @@ the leaves, when a sharp hiss made her draw back in a hurry--a large
 pigeon had flown into her face and was beating her violently with its
 wings.
 
-[Illustration]
+
 
 "Serpent!" cried the Pigeon.
 
@@ -22975,7 +22975,7 @@ only, she would have called him a fish)--and rapped loudly at the door
 with his knuckles. It was opened by another footman in livery, with a
 round face and large eyes like a frog.
 
-[Illustration]
+
 
 The Fish-Footman began by producing from under his arm a great letter,
 and this he handed over to the other, saying, in a solemn tone, "For the
@@ -23116,7 +23116,7 @@ little hot tea upon its nose. The Dormouse shook its head impatiently
 and said, without opening its eyes, "Of course, of course; just what I
 was going to remark myself."
 
-[Illustration]
+
 
 "Have you guessed the riddle yet?" the Hatter said, turning to Alice
 again.
@@ -23249,7 +23249,7 @@ oneself speak--and they don't seem to have any rules in particular."
 
 "Not at all," said Alice.
 
-[Illustration]
+
 
 Alice thought she might as well go back and see how the game was going
 on. So she went off in search of her hedgehog. The hedgehog was engaged
@@ -23282,32 +23282,19 @@ _that_ is--'Take care of the sense and the sounds will take care of
 themselves.'"
 
 To Alice's great surprise, the Duchess's arm that was linked into hers
-began to tremble. Alice looked up and there stood the Queen in front of
-them, with her arms folded, frowning like a thunderstorm!
+began to tremble. Alice looked up and there stood the Queen in front of them, with her arms folded, frowning like a thunderstorm!
 
-"Now, I give you fair warning," shouted the Queen, stamping on the
-ground as she spoke, "either you or your head must be off, and that in
-about half no time. Take your choice!" The Duchess took her choice, and
-was gone in a moment.
+"Now, I give you fair warning," shouted the Queen, stamping on the ground as she spoke, "either you or your head must be off, and that in about half no time. Take your choice!" The Duchess took her choice, and was gone in a moment.
 
-"Let's go on with the game," the Queen said to Alice; and Alice was too
-much frightened to say a word, but slowly followed her back to the
-croquet-ground.
+"Let's go on with the game," the Queen said to Alice; and Alice was too much frightened to say a word, but slowly followed her back to the croquet-ground.
 
-All the time they were playing, the Queen never left off quarreling with
-the other players and shouting, "Off with his head!" or "Off with her
-head!" By the end of half an hour or so, all the players, except the
-King, the Queen and Alice, were in custody of the soldiers and under
-sentence of execution.
+All the time they were playing, the Queen never left off quarreling with the other players and shouting, "Off with his head!" or "Off with her head!" By the end of half an hour or so, all the players, except the King, the Queen and Alice, were in custody of the soldiers and under sentence of execution.
 
-Then the Queen left off, quite out of breath, and walked away with
-Alice.
+Then the Queen left off, quite out of breath, and walked away with Alice.
 
-Alice heard the King say in a low voice to the company generally, "You
-are all pardoned."
+Alice heard the King say in a low voice to the company generally, "You are all pardoned."
 
-Suddenly the cry "The Trial's beginning!" was heard in the distance, and
-Alice ran along with the others.
+Suddenly the cry "The Trial's beginning!" was heard in the distance, and Alice ran along with the others.
 
 
 
@@ -23315,55 +23302,40 @@ Alice ran along with the others.
 IX--WHO STOLE THE TARTS?
 
 
-The King and Queen of Hearts were seated on their throne when they
-arrived, with a great crowd assembled about them--all sorts of little
-birds and beasts, as well as the whole pack of cards: the Knave was
-standing before them, in chains, with a soldier on each side to guard
-him; and near the King was the White Rabbit, with a trumpet in one hand
-and a scroll of parchment in the other. In the very middle of the court
-was a table, with a large dish of tarts upon it. "I wish they'd get the
-trial done," Alice thought, "and hand 'round the refreshments!"
+The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them--all sorts of little
+birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard
+him; and near the King was the White Rabbit, with a trumpet in one hand and a scroll of parchment in the other. In the very middle of the court
+was a table, with a large dish of tarts upon it. "I wish they'd get the trial done," Alice thought, "and hand 'round the refreshments!"
 
-The judge, by the way, was the King and he wore his crown over his great
-wig. "That's the jury-box," thought Alice; "and those twelve creatures
-(some were animals and some were birds) I suppose they are the jurors."
-
-Just then the White Rabbit cried out "Silence in the court!"
+The judge, by the way, was the King and he wore his crown over his great wig. "That's the jury-box," thought Alice; "and those twelve creatures
+(some were animals and some were birds) I suppose they are the jurors." Just then the White Rabbit cried out "Silence in the court!"
 
 "Herald, read the accusation!" said the King.
 
-[Illustration]
 
-On this, the White Rabbit blew three blasts on the trumpet, then
-unrolled the parchment-scroll and read as follows:
+
+On this, the White Rabbit blew three blasts on the trumpet, then unrolled the parchment-scroll and read as follows:
 
     "The Queen of Hearts, she made some tarts,
       All on a summer day;
     The Knave of Hearts, he stole those tarts
       And took them quite away!"
 
-"Call the first witness," said the King; and the White Rabbit blew three
-blasts on the trumpet and called out, "First witness!"
+"Call the first witness," said the King; and the White Rabbit blew three blasts on the trumpet and called out, "First witness!"
 
-The first witness was the Hatter. He came in with a teacup in one hand
-and a piece of bread and butter in the other.
+The first witness was the Hatter. He came in with a teacup in one hand and a piece of bread and butter in the other.
 
 "You ought to have finished," said the King. "When did you begin?"
 
-The Hatter looked at the March Hare, who had followed him into the
-court, arm in arm with the Dormouse. "Fourteenth of March, I _think_ it
+The Hatter looked at the March Hare, who had followed him into the court, arm in arm with the Dormouse. "Fourteenth of March, I _think_ it
 was," he said.
 
-"Give your evidence," said the King, "and don't be nervous, or I'll have
-you executed on the spot."
+"Give your evidence," said the King, "and don't be nervous, or I'll have you executed on the spot."
 
-This did not seem to encourage the witness at all; he kept shifting from
-one foot to the other, looking uneasily at the Queen, and, in his
-confusion, he bit a large piece out of his teacup instead of the bread
-and butter.
+This did not seem to encourage the witness at all; he kept shifting from one foot to the other, looking uneasily at the Queen, and, in his
+confusion, he bit a large piece out of his teacup instead of the bread and butter.
 
-Just at this moment Alice felt a very curious sensation--she was
-beginning to grow larger again.
+Just at this moment Alice felt a very curious sensation--she was beginning to grow larger again.
 
 The miserable Hatter dropped his teacup and bread and butter and went
 down on one knee. "I'm a poor man, Your Majesty," he began.
@@ -23424,7 +23396,7 @@ than a mile high to leave the court_."
 
 "Nearly two miles high," said the Queen.
 
-[Illustration]
+
 
 "Well, I sha'n't go, at any rate," said Alice.
 
@@ -23473,7 +23445,7 @@ moved.
 "Who cares for _you_?" said Alice (she had grown to her full size by
 this time). "You're nothing but a pack of cards!"
 
-[Illustration]
+
 
 At this, the whole pack rose up in the air and came flying down upon
 her; she gave a little scream, half of fright and half of anger, and
@@ -23490,7 +23462,7 @@ of hers that you have just been reading about. Alice got up and ran off,
 thinking while she ran, as well she might, what a wonderful dream it had
 been.
 
-[Illustration]
+
 
 
 
@@ -23546,7 +23518,7 @@ http://gutenberg.org/license).
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
+.A.  By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement.  If you do not agree to abide by all
@@ -23557,7 +23529,7 @@ Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+.B.  "Project Gutenberg" is a registered trademark.  It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement.  There are a few
 things that you can do with most Project Gutenberg-tm electronic works
@@ -23567,7 +23539,7 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 works.  See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
 Gutenberg-tm electronic works.  Nearly all the individual works in the
 collection are in the public domain in the United States.  If an
@@ -23583,7 +23555,7 @@ the work.  You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg-tm License when you share it without charge with others.
 
-1.D.  The copyright laws of the place where you are located also govern
+.D.  The copyright laws of the place where you are located also govern
 what you can do with this work.  Copyright laws in most countries are in
 a constant state of change.  If you are outside the United States, check
 the laws of your country in addition to the terms of this agreement
@@ -23593,9 +23565,9 @@ Gutenberg-tm work.  The Foundation makes no representations concerning
 the copyright status of any work in any country outside the United
 States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+.E.  Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
+.E.1.  The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
@@ -23607,7 +23579,7 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
@@ -23616,26 +23588,26 @@ with the phrase "Project Gutenberg" associated with or appearing on the
 work, you must comply either with the requirements of paragraphs 1.E.1
 through 1.E.7 or obtain permission for the use of the work and the
 Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
 terms imposed by the copyright holder.  Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
+.E.5.  Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+.E.6.  You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than
@@ -23647,11 +23619,11 @@ request, of the work in its original "Plain Vanilla ASCII" or other
 form.  Any alternate format must include the full Project Gutenberg-tm
 License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+.E.7.  Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
+.E.8.  You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works provided
 that
 
@@ -23684,16 +23656,16 @@ that
 - You comply with all other terms of this agreement for free
      distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
 forth in this agreement, you must obtain permission in writing from
 both the Project Gutenberg Literary Archive Foundation and Michael
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 Foundation as set forth in Section 3 below.
 
-1.F.
+.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+.F.1.  Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 public domain works in creating the Project Gutenberg-tm
 collection.  Despite these efforts, Project Gutenberg-tm electronic
@@ -23704,7 +23676,7 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
@@ -23718,7 +23690,7 @@ LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from.  If you
@@ -23731,12 +23703,12 @@ receive the work electronically in lieu of a refund.  If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+.F.4.  Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+.F.5.  Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
@@ -23744,7 +23716,7 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
@@ -23779,7 +23751,7 @@ Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
+01(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service.  The Foundation's EIN or federal tax identification
 number is 64-6221541.  Its 501(c)(3) letter is posted at
@@ -23790,7 +23762,7 @@ permitted by U.S. federal laws and your state's laws.
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
 throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
 business@pglaf.org.  Email contact links and up to date contact
 information can be found at the Foundation's web site and official
 page at http://pglaf.org
@@ -23860,6 +23832,188 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
 
+She was beginning to relax when he launched the question.
+
+Relax, I've got this.
+
+We've got it all under control, so just relax and get well.
+
+Her body began to relax as he held her tightly.
+
+Now you just sit down and relax while I finish supper.
 
 
 
+Dusty caught her arm as she launched forward.
+
+She leaned forward and launched into a new subject.
+
+
+Cade launched into an investigation of the old truck while Cynthia and Mary caught up on the latest gossip.
+
+Nature abhors a vacuum.
+Nature does not provide everything we want.
+He had an insight into human nature.
+Nature is most colorful in autumn.
+It seems to be human nature to worry.
+
+You're all a bunch of bums.
+They've been sitting on their bums all day, doing nothing.
+He is an actor who will put bums on seats .
+
+Let's take a break, shall we? --Yes, let's.
+You need to take a break.
+Let's take a break.
+'Why don't we take a break for coffee?' she suggested diplomatically.
+We'll take a break now and resume in half an hour.
+
+
+At the end of the first round,he was nineteenth.
+Make a knot at the end of the string.
+His voice dropped at the end of the sentence.
+He was drunk at the end of the party.
+It's at the end of this street.
+
+You look tired-you should take a vacation.
+We're hoping to take a vacation at the end of July.
+The family will take a vacation this summer in Australia.
+Like most people, I try to take a vacation every year.
+Don't you ever feel the need to take a vacation?
+
+The future belongs to those who prepare for it today.
+
+I think I have four vacation days left.
+The company allows us 14 vacation days a year.
+Another proposal aims to give Chinese workers at least five paid vacation days year.
+
+The selling rate is increasing year by year and the company is developing fast.
+There's no evidence to suggest that an unusual names increase the selling rate.
+In this Ebook I will explain how easy it is to earn money selling rate services.
+The plane got out of control and crashed.
+The lorry veered out of control, overturned and smashed into a wall.
+Her car went out of control and struck an oncoming vehicle.
+The car went out of control and veered across the road.
+He cried to his friend on the opposite side of the street.
+We live further down on the opposite side of the road.
+They live on the opposite side of the town.
+The library is on the opposite side of the road from the school.
+The store was on the opposite side of the street.
+
+To avoid problems for non-U.S. countries, remove the mapping from BILLINGSTATE to BILLING_STATE.
+You can avoid problems with misnamed variables by using explicit declaration.
+To avoid problems stemming from tackiness, use compounds tailored to provide good release.
+Keep one eye on them at all times to avoid problems.
+We watched the stars arriving for the awards ceremony dressed up in all their finery.
+The awards are made at the discretion of the committee.
+They will receive their awards at a ceremony in Stockholm.
+The numerous awards on the walls bear witness to his great success.
+Wicked men obey from fear, good man from love.
+As a citizen, you should obey these rules.
+You must obey her without question.
+We must obey the rules of the school.
+Kind words are worth much and cost little. 
+Wit once bought is worth twice taught. 
+A word in time is worth two afterwards. 
+Good words are worth much and cost little. 
+Money holds no significance for him.
+What is the significance of this speech?
+What is the significance of this symbol?
+The significance of their schema has been exaggerated.
+Accurate identification of these birds is difficult.
+Only one witness could make a positive identification.
+The identification of rabies virus has saved many lives.
+We should have identification card on the person when we go out.
+Early identification of a disease can prevent death and illness.
+
+All of us will participate in the profits.
+Did you participate in this discussion?
+They expected him to participate in the ceremony.
+I hope everyone will participate in this discussion.
+She's hoping to participate in the next Olympic Games.
+The answers we give will reflect our own psychology.
+Their success does not necessarily reflect a leftward shift in politics.
+Does television adequately reflect the ethnic and cultural diversity of the country?
+His dog is very obedient.
+He was very respectful at home and obedient to his parents.
+Students are expected to be quiet and obedient in the classroom.
+We're absolutely obedient to the superior.
+He was so smitten by her that he promised to move to Argentina to be near her.
+I met Janet yesterday, and I'm rather smitten with her.
+He seems really smitten with her.
+She was smitten with Steve - and showed it.
+There they learned that they had barely escaped certain death.
+My uncle Gabriel, the rabbi, just barely escaped being shot.
+William Morris barely escaped physical harm during his efforts on behalf on the workers in mass protests.
+
+Pulling out to overtake, the car collided head-on with a van.
+He tried to overtake on the inside.
+The car accelerated to overtake me.
+Always overtake on the outside.
+Tragedy was shortly to overtake him, however.
+What is the intent of that sentence?
+He's intent on going to Australia.
+They are clearly intent on maintaining standards.
+She behaved foolishly but with good intent.
+His eyes were suddenly intent.
+By the time he's twenty he'll know everyone worth knowing in Washington.
+Anything you could take to slow or halt the onset of Aids would be worth knowing about.
+Those aren't his exact words, but he said something along those lines.
+They're trying to organize a trip to the beach or something along those lines .
+In fact, I was thinking I might try and start something along those lines as soon as I can.
+It would be quite wrong to claim that it gave us orders along those lines.
+They're organizing a trip to the beach or something along those lines.
+
+She is in charge of the housework.
+The local council is/are in charge of repairing roads.
+Send it to whoever is in charge of sales.
+Mr.Smith is in charge of this class.
+I'm in charge of the west side.
+Mr. Lee is in charge of this.
+Convention now allows women to smoke in public.
+The new syllabus allows students greater freedom of choice.
+The regulation allows of no variation.
+The compact design of the machine allows it to be stored easily.
+A wide promenade allows many people to walk at the same time.
+The regulation allows of no variation.
+Currency exchange rates are always subject to variation.
+Prices have not shown much variation this year.
+The businesses showed a dramatic variation in how they treated their staff.
+The proposal is now under negotiation.
+Prolonged negotiation was not desirable.
+We should not exclude the possibility of negotiation.
+The problem should be resolved through negotiation.
+Negotiation of the sale took a long time.
+He gave an impressive speech to a receptive audience.
+You might find them in a more receptive mood tomorrow.
+The government is not receptive to the idea of a Freedom of Information Act.
+She'd had a really good, receptive, large audience.
+But many clients are not too receptive to that.
+Surplus resources alone do not guarantee growth.
+They were unwilling, or unable, to guarantee safe passage from the city to the aircraft.
+The symbol on the packet is a guarantee that the food has been produced organically.
+He will guarantee us possession of the house by May.
+The vigorous pursuit of policies is no guarantee of success.
+The airline hopes to break even next year and return to profit the following year.
+Orange is expected to break even in net income terms by 1998.
+Fujitsu says it expects to break even in 1993-94, with zero net profit.
+The company is aiming to break even at the pretax level in the year ending March 31.
+That could break even a high roller like Baltimore owner Peter Angelos.
+Therefore, if the firms involved are to break even, how should they do it?
+If we can break even - as I think we will - it will be a qualified success.
+Rubber bullets were used to break up the demonstration.
+Police had to break up the crowd.
+Since the break up, do not together.
+Break up these large lumps of dirt.
+Don't let a little dispute break up a great friendship.
+She does not enjoy the details of housekeeping.
+His sister quarterbacked the housekeeping last year.
+The company has made considerable savings through good housekeeping, such as avoiding wastage.
+Her husband spent the housekeeping money on gambling.
+You must be alert to the hidden danger.
+Suddenly he found himself awake and fully alert.
+All the Plymouth hospitals are on red alert.
+She is alert to every sound and movement.
+He wishes the govern-ment would be more attentive to detail in their response.
+At the mention of money, he became attentive.
+She was very attentive to her guests.
+Customers want companies that are attentive to their needs.
