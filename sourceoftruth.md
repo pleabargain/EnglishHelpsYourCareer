@@ -6116,6 +6116,9 @@ if + past simple, perfect conditional
 
 # adjectives
 
+## influential
+She was influential in her days.
+
 ## concrete
 * Can somebody show me concrete numbers on that?
 * Moscow could grant Greece privileged import access, thereby generating revenue for struggling companies back home and allowing Tsipras to present a concrete result to his voters.
