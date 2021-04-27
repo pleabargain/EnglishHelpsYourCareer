@@ -3981,6 +3981,23 @@ Bob: I will do my best.
 
 # phrases
 
+red herring
+
+grey area
+
+green light
+
+red light
+
+got the blues
+
+
+
+
+## goes without saying
+* It goes without saying that your well-being is more important than any contemporary issue.
+* In that case, what's being said without being said is that Emma is sleeping with Jerry.
+
 ## Bored to death
 Meaning/Usage: Very bored
 
@@ -5084,8 +5101,9 @@ He'll apologize when pigs fly.
 * The finale of countless movies and cartoons!	
 ## Cat got your tongue?
 * Can't talk anymore? 
-## Read between the lines
-* Try to understand the sub text.
+
+
+
 ## Someone woke up on the wrong side of the bed
 * That someone is in a bad mood!
 ## We're not laughing at you we’re laughing with you
@@ -5588,9 +5606,13 @@ Bob: So-far so good!
 
 ## I am an autodidact.
 * I am an autodidact. I can learn on my own!
-* 
+* A tireless researcher and autodidact, she delves into the annals of magical history and emerges with solutions to imminent supernatural disasters again and again.
+* Corbyn says he enjoys 'reading and writing', to my eyes, he doesn't have the eager aura of an autodidact," he writes.
+
 ## read between the lines
+* Try to understand the sub text.
 * You need to learn to read between the lines. The manager just told you that he's not happy with your work!
+
 
 ## Figure it out on your own!
 * My father used to tell me to figure it out on my own. Now I realize he didn't know the answers either!
