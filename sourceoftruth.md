@@ -4198,10 +4198,13 @@ I'm quitting for the day and going home.
 * It's more important than ever to be empathetic.
 
 ## the first thing that came to mind
+That was the first thing that came to mind!
 
 ## just getting started
-
+* Hold on. We're just getting started.
+* 
 ## over the weekend
+* We're planning on going to the mountains over the weekend.
 
 ## overtime
 * I like to work overtime because I get paid more!
@@ -4218,9 +4221,10 @@ I'm quitting for the day and going home.
 * Common sense is not much more than understanding the rules of cause and effect.
 
 ## make compromises
+* We don't like making compromises but we have to do it anyway.
 
 ##  to cut someone slack
-You should go easy on him. Cut him some slack because he's had a rough week.
+* You should go easy on him. Cut him some slack because he's had a rough week.
 
 
 ## to cool off
