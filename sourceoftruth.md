@@ -3981,16 +3981,24 @@ Bob: I will do my best.
 
 # phrases
 
-red herring
 
-grey area
+## pet peeve
+* My pet peeve is not having breakfast in the morning.
 
-green light
+## red herring
+* We all fell for the con man's red herring.
 
-red light
+## grey area
+* The new law does does nothing to reduce the grey area around who is responsible for cleaning up the streets.
 
-got the blues
+## green light
+* The construction project got the green light from the city.
 
+## red light
+* Amsterdam is famous for it's red light district. 
+
+## got the blues
+* He's got a bad case of the blues since his girl left him.
 
 
 
@@ -4003,9 +4011,9 @@ Meaning/Usage: Very bored
 
 Explanation: Death is the worst thing, so using it to compare how you feel is telling someone that you are very bored.
 
-"I have nothing to do. I'm bored to death."
-"I hate it when I'm bored to death."
-"Would you rather be super busy or bored to death?"
+* "I have nothing to do. I'm bored to death."
+* "I hate it when I'm bored to death."
+* "Would you rather be super busy or bored to death?"
 
 ## it begins to wear thin
 * After some time, even the best of things begins to wear thin.
@@ -4014,7 +4022,8 @@ Explanation: Death is the worst thing, so using it to compare how you feel is te
 * He was clearly not doing well. He had one foot in the grave.
 
 ## ASAP
-I want it ASAP!
+*  I want it ASAP!
+*  Our manager is not very patient. He wants everything ASAP.
 
 ## story of my life
 * "It's the story of my life".
@@ -4107,11 +4116,12 @@ I want it ASAP!
 
 
 ## here on Earth
+* Why are we traveling to the moon when we haven't explored our oceans here on Earth?
 
 ## close the [sale,deal]
-He couldn't quite close the sale.
-Clearly this was not enough to close the sale.
-
+* He couldn't quite close the sale.
+* Clearly this was not enough to close the sale.
+* We wanted to close the deal but the client had another question.
 
 ## fall into depression
 * I could have fallen into depression but I decided to move on.
@@ -4124,7 +4134,9 @@ Clearly this was not enough to close the sale.
 * Keep your eyes open for helpful material that you may not have been expressly looking for.
 
 ## found no [trace,sign] of something
-
+* The searchers found no trace of him.
+* They found no trace of her.
+* "The FBI has found no trace of forgery".
 
 ## page turner
 
@@ -4161,11 +4173,15 @@ Clearly this was not enough to close the sale.
 * As you get older, you will experience more aches and pains!
 
 
-##  get their hands
+##  get their hands dirty
+
 ##  Ready to use
-##  the big step.
+
+##  the big step
+It's a big step from thinking about a new business to creating a new business.
 
 ## quit for the day
+I'm quitting for the day and going home.
 
 ## it was a big surprise for everyone
 
