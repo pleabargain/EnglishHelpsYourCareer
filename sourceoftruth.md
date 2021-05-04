@@ -3984,27 +3984,41 @@ Bob: I will do my best.
 
 ## pet peeve
 * My pet peeve is not having breakfast in the morning.
+* His pet peeve is weak coffee at the office.
+* In general, sloppiness is my pet peeve.
+* Mandatory recycling is his pet peeve.
+* Wet towels on the bed are my pet peeve.
+* What is your biggest pet peeve about restaurants?
+* My neighbor's bouncing a ball early in the morning is my pet peeve.
 
 ## red herring
 * We all fell for the con man's red herring.
+* The politician dangled a red herring of cleaner streets to hide his call for higher taxes.
 
 ## grey area
 * The new law does does nothing to reduce the grey area around who is responsible for cleaning up the streets.
+* How gov'ts will tax crypto currency is a grey area.
 
 ## green light
 * The construction project got the green light from the city.
+* My wife gave me the green light to buy a new car.
 
 ## red light
 * Amsterdam is famous for it's red light district. 
+* We got the red light from the manager on the new feature.
 
 ## got the blues
 * He's got a bad case of the blues since his girl left him.
-
+* I'm beginning to get the blues.
+* As Johnny Cash sang, "Get rhythm when you get the blues".
+* I've got a case of the blues.
 
 
 ## goes without saying
 * It goes without saying that your well-being is more important than any contemporary issue.
 * In that case, what's being said without being said is that Emma is sleeping with Jerry.
+* It goes without saying that politicians are corrupt.
+* It goes without saying that Putin is a crook.
 
 ## Bored to death
 Meaning/Usage: Very bored
@@ -4112,7 +4126,7 @@ Explanation: Death is the worst thing, so using it to compare how you feel is te
 * He advised both to find common ground.
 
 ## bone to pick
-"I have a bone to pick with you," Meryl Streep said to the Bagger.
+* "I have a bone to pick with you," Meryl Streep said to the Bagger.
 
 
 ## here on Earth
@@ -4156,32 +4170,52 @@ Explanation: Death is the worst thing, so using it to compare how you feel is te
 ## to do a favor
 
 ## to tune it out
+* You have to learn to tune it out or it would drive you crazy.
+* "I had to learn to tune it out," she said.
+
 
 ## enough is enough
+* "Enough is enough already," he said.
 
 ## to vent to
+* I think it was a way for her to vent to other women.
 
 ## to change the subject
+* Not at all, I'll change the subject.
+* We're going to change the subject.
 
 ## a heck of a lot
+* That's a heck of a lot of first-class stamps!
+* It just looks a heck of a lot better.
+* The economy has gotten a heck of a lot worse.
 
 ## working things out
+* "The richer villagers have ways of working things out," he said.
+* He still prefers working things out with pencil and paper.
 
 ## it is none of their business
+* "It is none of their business," she says, with a wave of her hand.
+* Then again, it is none of their business, because they have little say over the sports-car maker's managers or strategy.
 
 ## aches and pains
 * As you get older, you will experience more aches and pains!
+* I've got aches and pains all over.
 
 
 ##  get their hands dirty
+* The more established agencies didn't want to get their hands dirty with derelict houses.
+* Money managers need to get their hands dirty and find out more about crops.
+* We never see them get their hands dirty, so to speak.
 
-##  Ready to use
+* ##  Ready to use
+* He must be ready to use force.
+* Refrigerate until ready to use.
 
 ##  the big step
-It's a big step from thinking about a new business to creating a new business.
+* It's a big step from thinking about a new business to creating a new business.
 
 ## quit for the day
-I'm quitting for the day and going home.
+* I'm quitting for the day and going home.
 
 ## it was a big surprise for everyone
 
@@ -4198,18 +4232,21 @@ I'm quitting for the day and going home.
 * It's more important than ever to be empathetic.
 
 ## the first thing that came to mind
-That was the first thing that came to mind!
+* That was the first thing that came to mind!
 
 ## just getting started
 * Hold on. We're just getting started.
-* 
+* The show's just getting started.
+
 ## over the weekend
 * We're planning on going to the mountains over the weekend.
+* I'd like to visit my parents over the weekend.
 
 ## overtime
 * I like to work overtime because I get paid more!
+* We don't get paid overtime, so I don't stay in the office longer than I have to.
 
-## we handle it on our own
+## we can handle it on our own
 * We don't need your help, we can handle this on our own.
 
 ## to run out
