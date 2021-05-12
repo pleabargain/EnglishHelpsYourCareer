@@ -236,6 +236,1332 @@ die/pass away
 
 # dialogs
 
+
+---
+
+Ana: Where are they?
+
+Bob: They are AT the supermarket.
+
+---
+
+Ana: Are they in trouble?
+
+Bob: They were at the scene of the crime but I don't know if they are in trouble.
+
+---
+
+Ana: Have you taken a look at the contract?
+
+Bob: No, but I need to look into it soon.
+
+---
+
+Ana: She's really enjoying herself!
+
+Bob: Yep! She's clearly into the music! (idiomatic phrase)
+
+
+---
+
+Ana: Everything ok?
+
+Bob: Yeah. We're good.
+
+---
+
+---
+
+Ana: What were you doing yesterday at lunch time? 
+
+Bob: I was being examined by my doctor. (past-continuous)
+
+---
+
+---
+
+Ana: Did you finish your work?
+
+Bob: Not really!
+
+---
+
+Bob: I don't want to go to the party! What will we do there?
+
+Ana: We can dance at the party!
+
+Bob: Of course, we can dance at the party my love. But, first I must drink!
+
+---
+
+---
+
+Bob: What did you do yesterday?
+
+Ana: I painted my apartment yesterday. (simple past tense)
+
+---
+
+---
+
+Ana: We have documents that need to be signed.
+
+Bob: We must sign and send them as soon as possible.
+
+---
+
+---
+
+Ana: Could you speak to William tomorrow?
+
+Bob: Sure. What do you want me to speak with him about?
+
+Ana: I would like you to talk to him about raising my salary.
+
+Bob: Sure, I can talk to him about that.
+
+---
+---
+
+Ana: How was your day?
+
+Bob: I had a [wonderful,awful] day
+
+---
+
+Ana: What did you do yesterday before school?
+
+Bob: I had finished my homework before leaving. (past perfect)
+
+---
+---
+
+Ana: I don't know what to do? What should I do?
+
+Bob: Don't worry, I will try to help you.
+
+
+---
+
+Ana: What did you do yesterday?
+
+Bob: I did my yoga exercises in the morning.
+
+---
+
+Ana: What did Yulia do yesterday?
+
+Bob: I don't know.
+
+---
+
+Ana: What does she do everyday? (present simple)
+
+Bob: She is working. (present continuous) She works everyday, like the rest of us!
+
+
+---
+Ana: What was your presentation about?
+
+Bob: In my presentation last week, I [talked about,showed] our approach to the solution.
+
+---
+
+---
+Ana: Should I say this to him?
+
+Bob: Yes, you must tell him the truth.
+
+
+---
+Ana: What did she say to you?
+
+Bob: She said that I should buy this shampoo.
+
+---
+Ana: What does the meter say?
+
+Bob: The meter says 1.0 degrees.
+
+---
+Ana: What does the thermometer say?
+
+Bob: The thermometer says 1.0 degrees.
+
+---
+
+
+Ana: What did you say?
+
+Bob: I said that I need to study for my exam.
+
+---
+Ana: What did you say to your manager?
+
+Bob: I told him that I want to take a day off next Monday. (reported speech)
+
+---
+Ana: What did you say to your manager?
+
+Bob: I said that I was tired.
+
+---
+Ana: What did you say? (past simple)
+
+Bob: I said that the weather will be better tomorrow. (reported speech)
+
+---
+Ana: What did she say to you?
+
+Bob: She said that I was a loser!
+
+---
+Bob: What kind of mood are you in?
+
+Ana: I said that I am in a Christmas mood.
+
+---
+---
+
+Bob: What were you talking to Oleg about?
+
+Ana: I talked to Oleg about his budget request.
+
+--- 
+
+Bob: Where can we talk?
+
+Ana: We will talk in the park.
+
+---
+
+
+
+---
+
+Ana: What did you tell her?
+
+Bob: I told her that we will leave at 6 p.m.
+
+---
+
+---
+
+Ana: Would you like to taste my new cocktail? 
+
+Bob: Oh, just a sip please.
+
+---
+
+
+
+---
+
+Bob: What must you do before we leave?
+
+Ana: I must eat my breakfast before we leave.
+
+---
+
+Bob: What did you do this morning?
+
+Ana: I ate breakfast this morning.
+
+---
+
+Bob: What did you eat for breakfast?
+
+Ana: I ate fried eggs and an apple.
+
+---
+
+---
+Ana: I don't really get along with my brother.
+
+Bob: You need to try to get along with your brother because he's your only family left after the tragic plane crash in Africa. 
+
+Ana: Yes, well my brother was flying that plane, so there!
+
+---
+
+--- 
+
+Ana: I will be worried about you if you are driving at night. (conditional)
+
+Bob: You [needn't,mustn't,shouldn't] worry about me! I'm driving the new Tesla with SkyNet installed!
+
+---
+
+---
+Ana: We may hire another engineer to help us on our project.
+
+Bob: That sounds good! We need the help!
+
+Ana: We can expect a new person as early as next [week,month,year].
+
+
+---
+
+
+---
+Ana: Did you get the documents?
+
+Bob: I got the documents before the project started.
+
+---
+Ana: When will you get home tonight?
+
+Bob:I will get home late tonight. I have a lot of work to do!
+
+---
+Ana: When did you get home?
+
+Bob:I got home at 6 a.m.
+
+---
+
+
+---
+
+Ana: I have [prepared,typed] some notes for today's meeting. (present perfect)
+
+Bob: Could you share with me your notes?
+
+Ana: Sure. Can you send me your email?
+
+Bob: I will send you my email [as soon as possible, ASAP, at my earliest convenience].
+
+---
+
+
+---
+
+Ana: Your mother told me to tell you that you need to chew your food better!
+
+Bob: Thank you for the reminder! I'll chew on that idea later!
+
+
+
+---
+
+Ana: You should read the documentation about the new API that we are using.
+
+Bob: I'll read it. Thanks for the recommendation. Do you have anything else for me?
+
+Ana: You should get in touch with the other devs and discuss the API with them.
+
+---
+
+---
+
+Ana: I have never read this book.
+
+Bob: I think you could find it on Google.
+
+Ana: I will look for it.
+
+Bob: In my opinion, you must read this book. (strong opinion)
+
+Bob: In my opinion, you should read this book. (opinion)
+
+---
+
+---
+
+Ana: I need to decide who will be assigned this task.
+
+Bob: Let's check who has availability.
+
+Ana: We should check the JIRA board.
+
+---
+
+Ana: What did you decide to do?
+
+Bob:I decided to postpone my trip.
+
+---
+
+---
+Ana: Did you rewind the string?
+
+Bob: Yes, I rewound the string yesterday.
+
+---
+
+---
+
+Ana: You can pay for that at the check out counter.
+
+Bob: I want to check out(to look at) some other things first.
+
+Ana: Are you sure? You look kind of spacey! You look like you have already checked out!
+
+
+---
+
+Ana: Where did you go during the party?
+
+Bob: I fled for an hour or so to the bar down the street to get away from that annoying guy from the accounting department!
+
+
+---
+
+Ana: What did you decide to do?
+
+Bob: I made the decision to postpone my trip.
+
+---
+
+---
+
+Ana: When did you go home?
+
+Bob:I went home at 5.
+
+---
+
+Ana: Where have you gone?
+
+Bob: I have gone to my mother's to help her.
+I have gone to my mother's home to help her.
+
+---
+
+---
+
+Ana: We don't have enough information.
+
+Bob: Additional information will be provided today.
+
+---
+
+Ana: We didn't get the information.
+
+Bob: Igor should have provided the information to you already.
+ 
+
+
+---
+
+Ana: What have you been doing the last couple of [hours,days,weeks,months,years]?
+
+Bob: I have spent several days resolving this issue.
+
+---
+---
+Ana: Did you know that you would win?
+
+Bob:I knew that I would win the scholarship. (past simple)
+
+---
+Ana: How long have you known how to get to my [home,place]?
+
+Bob:I have known the best direction to your [home,place] for months. (present perfect)
+
+---
+
+---
+
+Ana: Did you go see the big Christmas tree?
+
+Bob: No, we didn't have time to see it. 
+
+--- 
+
+
+---
+Ana: Do you watch TV?
+
+Bob: No, I don't watch TV.
+
+
+---
+---
+
+Ana: Why do you think the first option is not good enough?
+
+Bob: Because he doesn't have enough hands-on experience with X.
+
+Ana: Oh! I didn't know that. Maybe we might go with the second option.
+
+---
+
+---
+
+Bob: Have you thought about my budget request?
+
+Ana: I have thought about your budget request.
+
+---
+
+Bob: What did you think about it?
+
+Ana: I think there are problems in your request.
+
+---
+
+Bob: Will you travel this year?
+
+Ana: I can think about traveling after the quarantine lifts.
+
+
+---
+
+Ana: Why is it taking so long? What's the hold up?
+
+Bob: They had thought that the challenge was easy.
+
+---
+
+Bob: Have you been looking for a new apartment?
+
+Ana:We have looked at a lot of apartments.
+
+---
+
+
+Bob: What did you do today?
+
+Ana: I did a lot of things! Including, I ran today at four o'clock in the afternoon.
+
+---
+
+
+Ana: Doug has the new signed contract but he will be off tomorrow.
+
+Bob: So, you must meet him today.
+
+---
+
+Bob: What can we do after work?
+
+Ana: We can walk in the park after work.
+
+---
+
+Bob: What did you do after work?
+
+Ana: I walked after work.
+
+---
+
+Ana: What was the last thing that you discovered?
+
+Bob: I have never discovered anything!
+
+---
+
+---
+
+Ana: Did you find the source of the problem?
+
+Bob: Yes. Do you want to hear what was the problem?
+
+---
+
+--- 
+
+Ana:How long have you been working with him?
+
+Bob: He's on my team but I don't work with him directly.
+
+---
+---
+
+Ana:Can you swim?
+
+Bob: No, I can't swim.
+
+---
+---
+
+Ana: What are your feelings about the situation?
+
+Bob: I took [the,this] situation too seriously!
+
+---
+
+---
+
+Bob: What did you write?
+
+Ana: I wrote letters for work.
+
+---
+
+Ana: I wrote down some notes from our last meeting.
+
+Bob: What notes did you write down?
+
+---
+
+Bob: What do you need to do now?
+
+Ana: I need to write letters to my clients.
+
+---
+
+Ana: Is Peter bringing Steve to my party?
+
+Bob: Yes, Peter will bring Steve to the party. 
+
+---
+
+Ana: “So what’s the problem with the server?” 
+
+Bob:” Ugh, I don’t have a clue, Ana. Do you know?”
+
+Ana: “It's the API endpoint. It's configured properly. Do you know how I got that answer?”
+
+Bob: “It’s a mystery to me. I don’t know, Ana. I just don’t get it. 
+
+Ana: “I don’t get how you can come to work without any sleep. That’s why you are having so much trouble!” 
+
+Bob: “You’re right!”
+
+---
+
+
+
+---
+
+Ana: Can you research this product for me on the Internet?
+
+Bob: Sure I can. What is the budget?
+
+Ana: Money is not an issue but it must be high quality.
+
+Bob: Do you understand that this could be VERY expensive?
+
+Ana: What would you call very expensive?
+
+Bob: It might cost 500USD or higher!
+
+Ana: I agree with you, that is expensive. Maybe you can find something a little cheaper but with high quality.
+
+Bob: I will do my best.
+
+---
+
+---
+
+Ana: Someone stole my phone!
+
+Bob: Ah shit man! That's a bummer!
+
+---
+
+Ana: What do you want for dinner? 
+
+Bob: It's up to you.
+---
+
+Ana: How's your day?
+
+Bob: Oh, you know. Same shit, different day.
+
+---
+
+Ana: Where are you?!
+
+Bob: I'm on my way!
+
+---
+
+Ana: Are we still on for Monday?
+
+Bob: Yep. Nothing has changed on my side!
+
+---
+
+Ana: Would you like to share a taxi with me?
+
+Bob: Sure, can you drop me off at the train station?
+
+---
+
+---
+
+Ana: How are you?
+
+Bob: Everything's good! I've got it made in the shade!
+
+---
+Ana: What is the point of these lessons?
+
+Bob: The whole point of these lessons is to improve my English.
+
+---
+
+Ana: I couldn't help hearing what you said about the end of the world. Is that happening today?
+
+Bob: No. Come back later!
+
+---
+
+Ana: My niece is going to turn 1 year old! We should buy her a present?
+
+Bob: Why bother! She doesn't even recognize you!
+
+---
+Ana: Dinner was good wasn't it? How you feeling?
+
+Bob: Fat and happy!
+
+---
+
+Ana: Did you sleep well last night honey? 
+
+Bob: I slept like a baby!
+
+---
+
+Ana: How was the movie?
+
+Bob: Damn good!
+
+---
+
+Ana: How are you doing?
+
+Bob: Damn good!
+
+
+---
+
+Ana: O, should we start that new project?
+
+Bob: Game on!
+
+
+---
+
+Ana: What do you think about doing X?
+
+Bob: Let' go ahead with that!
+
+
+
+---
+
+Ana: How's it goin?
+
+Bob: So-far so good!
+
+
+
+---
+
+Ana: Why did you do it?!
+
+Bob: I did it intentionally! 
+
+
+
+---
+
+Ana: Does this look good on me?
+
+Bob: It's a good look for you.
+
+
+
+---
+
+Ana: Are you meeting anyone after work?
+
+Bob: I am meeting my girlfriend after work.
+
+---
+
+Ana: What are you doing right now?
+
+Bob: I am doing the dishes.
+
+---
+
+Ana: What are they doing right now?
+
+Bob: They are having an English lesson right now.
+
+
+---
+
+Ana: How much coffee have you had today?
+
+Bob:I have drunk two cups of coffee this morning.
+
+---
+
+Ana: What have you been doing all day?
+
+Bob: I have been reviewing his code all day.
+
+
+---
+
+Ana:What were you doing today?
+
+Bob: I was doing my [laundry,expenses, homework].
+
+---
+
+Ana:What were you doing today?
+
+Bob:I was walking with my dog.
+
+---
+
+Ana: What had you done earlier today?
+
+Bob: I had done the dishes.
+
+---
+
+Ana: Where had your dog gone?
+
+Bob: He(the dog) had gone to the park.
+
+
+---
+
+Ana: Where had you been when your mother called?
+
+Bob: I had been working in my office.
+
+--- 
+
+Ana:Where will you go tomorrow?
+
+Bob: I will go to the store and do some shopping.
+
+---
+
+Ana:What will you be doing for New Years?
+
+Bob: We will have a quiet evening at home.
+
+---
+
+Ana: What will you be doing tomorrow?
+
+Bob: I will be watching a movie with my family.
+
+---
+
+
+---
+
+Ana: How long will you have been living in your current apartment?
+
+Bob: I will have been living in my apartment for three years in January. 
+
+
+
+---
+
+Ana: His disability prevents him from driving!
+
+Bob: What is his disability?
+
+Ana: He's an idiot!
+
+
+---
+
+Ana: What do you think about their decision to cancel the contract?
+
+Bob: I think that was a wise decision.
+
+Ana: I think that time will tell. (idiomatic phrase)
+
+
+
+---
+
+Ana: What were the results of the implementation on the team?
+
+(Ana: What are the results of the PEEX evaluation on your team?)
+
+Bob: It has had a positive impact on our team.
+
+
+---
+
+Bob: How did you spend your weekend?
+
+Ana: We had a splendid weekend with the family.
+
+
+---
+
+Bob: How would you rate his knowledge of the project? Does he know the history of this project?
+
+Ana: He has a rudimentary knowledge of the history of our project.
+
+
+---
+
+Ana: There are so many problems on this project!
+
+Bob: Yes, there are but they are all manageable. We can manage them.
+
+
+---
+
+Ana: What is AWS?
+
+Bob: Amazon infrastructure in the cloud. You can run your virtual environments in AWS. This you don't need to use on premises resources. You can change the available resources very quickly. You can scale up and down as you [wish,want].
+
+Ana: What is AMI?
+
+Bob: Amazon Machine Image. It's a ready image for your preferred operating system. You can load your own image if you want.
+
+Ana: What is EBS?
+
+Bob: Elastic Block Storage. EBS is connected to ECS. EBS offers persistent storage after your EBS is blown away. EBS is good for up to 64TB.
+
+Ana: What is the largest storage instance you have ever worked with?
+
+Bob: 1 or 2TB on a local environment.
+
+Ana: What are the different types of instances on AWS?
+
+Bob: There are five types. General Purpose, computer optimized, memory optimized, storage optimized, accelerated computing (used for training ML models)
+
+Ana: What should you teach your mentee about AWS?
+
+Bob: We have a library of scripts for creating environments.
+
+Ana: Are the scripts documented?
+
+Ana: Does your mentee know that the scripts are in the repo?
+
+Ana: Is your mentee working on his AWS certificate.
+
+---
+
+
+
+--- 
+
+Ana: How much data do you think we need to get a working model?
+
+Bob: The golden rule is the more data we can use the better the model we can build. And, We have another golden rule: garbage in, garbage out. So, let's try with a small clean data set and begin building our model from there.
+
+Ana: Great! Thank you for your short and sweet answer! Let's get started!
+
+
+---
+
+Ana: What accuracy score did you get after you processed your model?
+
+Bob: We got a 91% accuracy on the model. This is a good result as the state of the art suggests a score of 95%. So, we're close!
+
+Ana: Bob, I'm a business analyst! Not a Kaggler! For me the most important thing is what value can we bring to our client not about how close we are to the state of the art!
+
+
+---
+
+
+---
+
+Bob:  How do I begin the onboarding process?
+
+Ana: The first thing to do is to look over the onboarding check list.
+
+Bob: And then what do I do?
+
+Ana: After you have completed the onboarding checklist,you will need to read the documentation about the team structure and project specifics.
+
+Bob: How long will it take to complete the checklist?
+
+Ana: You can expect to complete the checklist in a few weeks.
+
+Bob: What kind of documentation do you need from me?
+
+Ana: I don't need any documentation for now. As of now, we're good. After you complete the onboarding process you will be able to start working.
+
+Bob: Thank you Ana! Who should I contact if I have questions?
+
+Ana: You can ask me any questions. If I'm not available, you can ask Chris.
+
+
+---
+
+Ana: What seems to be the problem?
+
+Bob: My daughter is not feeling well. She has a temperature.
+
+Ana: Has she been eating?
+
+Bob: She's been less than usual.
+
+Ana: Have you given her anything to feel better? Any medicines?
+
+Bob: We gave her ibuprofen.
+
+Ana: Anything else?
+
+Bob: We gave her Paracetamol to treat her fever.
+
+Ana: How long has she been feeling unwell?
+
+Bob: For about two days... we came to you because she has a cough. I would like you to listen to her lungs.
+
+Ana: What is your daughter's name?
+
+Bob: Her name is Polina.
+
+Ana: OK... Polina, let's listen to you!
+
+
+---
+
+
+---
+
+Ana: Why is this issue important?
+
+Bob: This issue is important because the women that have been violated don't have help from the government nor access to the justice system.
+
+Ana: What help do these women need?
+
+Bob: These women need psychological and medical help.
+
+Ana: Is this all that they need?
+
+Bob: No, but this would begin to cover their basic needs.
+
+Ana: What else do they need?
+
+Bob: These women need legal help and they need support from the police in catching the perpetrators.
+
+Ana: And, why is this an issue now?
+
+Bob: The police don't want to work on old rape cases.
+
+Ana: Why don't the police want to work on old rape cases?
+
+Bob: Because it's a hard problem and they don't want to get involved.
+
+Ana: What then is the solution? What does your organization propose?
+
+Bob: The police don't want to work with old evidence. The crime happened a long time ago. We propose to simplify how the police work with evidence. 
+
+Ana: Specifically? Can you tell me more details?
+
+---
+
+
+--- 
+
+Ana: What is your message to the government?
+
+
+Bob: Women that have been violated should have the right to seek justice. Women that have been violated should have the right to seek reparation from the government.
+
+
+---
+
+Ana: Tell me all about your previous job responsibilities as a front end designer.
+
+Bob: At last my last job, I was doing basically the same thing I'm doing today.
+
+Ana: What exactly what were you doing before?
+
+Bob: I was creating user interfaces. I was designing the things that you see on the web when using your browser.
+
+Ana: What tools do you use in your design process?
+
+Bob: Front End devs use design patterns. They are like templates that help us speed up the process and to build cope using industry best practices.
+
+Ana: What are some best practices in Front End design? Which best practice do you subscribe to most?
+
+Bob: There are many of them.
+
+Ana: Which one do you use most?
+
+Bob: I like to use pre-processors for styles. It helps me to write cleaner and faster code!
+
+Ana: Thank you for talking to me. We'll continue this conversation later.
+
+---
+
+
+--- 
+
+Ana: What was the difference in performance?
+
+Bob: I didn't measure it exactly but it was obvious that it's not as good as before.
+
+---
+
+Ana: What was the cause of the issue??
+
+Bob: I'm not sure yet.
+
+---
+Ana: How did you learn about this issue? Did the client notify you?
+
+Bob: I was testing a feature and I noticed that the performance was not as good
+as before.
+
+---
+Ana: Are you going to investigate the root cause?
+
+Bob: I notified the developers of the issue.
+
+
+---
+
+Ana: Where are the most beautiful beaches in Thailand?
+
+Bob: The best beaches are on Ko Lanta Island.
+
+Ana: Where can I go surfing in Thailand?
+
+Bob: There are lots of places... I'll have to look it up for you.
+
+Ana: Where is the best shopping?
+
+Bob: In my opinion, Bangkok has some of the best shopping in Asia.
+
+---
+
+---
+
+Ana: What should I know about Grafana? What does it do?
+
+Bob: Allow me to explain. Grafana is necessary for visualizing certain metrics. 
+
+Ana: How do I go about planning an implementation of Grafana? How do I go about setting up Grafana?
+
+Bob: Read the set up documentation for Grafana. I would recommend you follow those steps for setting up Grafana.
+
+Ana: Could you send me the links to the documentation?
+
+Bob: Sure. I will send them to you as soon as I can.
+
+Ana: Thanks for your help! I'll wait for the links from you!
+
+---
+Ana: What do you need to do today?
+
+Bob: I need to finish a couple of my tasks.
+
+Ana: Is there anything preventing you from completing your tasks? 
+
+Bob: I am waiting for information from Ivan.
+
+Ana: Let me know if Ivan doesn't send you the information that you need. What else are you working on? What exactly are you working on?
+
+Bob :  Right now I'm working on Grafana dashboards based on user defined metrics.
+
+Ana: Cool. What have you learned about Grafana?
+
+Bob: I have learned a lot about Grafana variables and Grafana in general.
+
+Ana: What else are you learning these days?
+
+Bob: I'm preparing to take my Google certification exam.
+
+Ana: That's good to hear! GCP is important for our company.
+
+Bob: Yes, I know! I need to spend more time studying!
+
+
+---
+
+Ana: How would you go about selecting mentees in the future?
+
+Bob: I would choose people who want to learn.
+
+Ana: How do you identify people who want to learn?
+
+Bob: That's a good question!
+
+---
+
+Ana: What advice would you offer to another new mentor?
+
+Bob: It's not that hard to mentor a team. You should establish a single line of communication. You should identify a team lead and the team communicates via the team lead.
+
+---
+Ana: Would you consider being a mentor again?
+
+Bob: I would like to mentor a team again because I want to use what I learned from my previous mentoring experience.
+
+---
+
+---
+
+Ana: Hey Bob! What are you planning to do next weekend?
+
+Bob: Hey Ana! I'm planning to go to the movies this weekend. Would you like to join?
+
+Ana: Yah! Sure. What movie did you want to see?
+
+Bob: I want to see Titanic again!
+
+Ana: Oh, that's a great movie! Sure, I could see it again.
+
+Bob: Ok, we can meet Saturday night at 6 p.m. near the XYZ cinema.
+
+Ana: Ok, see you on Saturday.
+
+---
+
+
+
+Ana: Hey, Ira! What are you going to do this weekend?
+
+Ira: I'm planning to go to a party this weekend. Do you want to [roll with,come with] me?
+
+Ana: Of course! That's a great idea. Where's the party?
+
+Ira: The party is at some guy's villa near the center of town.
+
+Ana: We can meet before the party at our bar.
+
+Ira: Oh...cool! Let's do that!
+
+Ana: I will meet you at our bar at 8 p.m.
+
+Ira: Wait girl! I didn't tell you what day was the party!
+
+Ana: Oh, I already know about this party! I'm in the know! (idiomatic)
+
+---
+
+---
+
+Ira: Hey Ana, I'm coming over to your place before we go to the bar! Is that ok?
+
+Ana: Good idea! Come on over! When will you get here?
+
+Ira: I'm at your door now!
+
+Ana: Oh, shit let me hide my mess!
+
+Ira: Don't worry about it!
+
+(Ira enters Ana's home)
+Ana: Hello Ira! Sam says hello too! Come on in! Would you like something to drink? Tea? Coffee? Water? Something stronger?
+
+Ira: Yeh... I would like a glass of water with a shot of your best!
+
+Ana: OK! 
+(bring a glass of water with a shot of your best cognac)
+
+Ira: What should I wear tonight?!
+
+Ana: You should wear something cute and comfortable!
+
+Ira: But, I don't have anything that is cute and comfortable.
+
+Ana: You can check what I've got. Look in my wardrobe.
+
+Ira: You're the best! Thank you! Can I wear this!?
+
+Ana: Yes. Of course! As long as you don't destroy it!
+
+Ira: Of course I'll be careful with it!
+
+Ana: Ira! It's late it's time to go! We need to get an Uber!
+
+---
+
+
+---
+
+Bob: What kind of feedback have you received from your colleagues?
+
+Ana: I got excellent feedback from my colleagues and I hope to get the same from you!
+
+Bob: Can you be more specific about the nature of the feedback you received?
+
+Ana: My team lead said that I was productive and effective over the last three months. And the customer mentioned that the client is happy working with me.
+
+Bob: What courses are you taking now?
+
+Ana: I've been participating in English courses and I am going to  start an SQL professional course.
+
+Bob: Are you getting enough [feedback,support] from the career development?
+
+Ana: Yes, I'm happy with the support I've been getting.
+
+---
+
+Ana: Good morning! Have you had issues while working with your teams?
+
+Bob: Good morning! There are a lot of talented people on my team. I'm happy to be working with them.
+
+Ana: What kind of feedback have you received from your colleagues? By the way, I wrote some feedback for you. Have you read it?
+
+Bob: I got good feedback from my team mates. I got constructive feedback on what I can improve. And, of course, I read your feedback.
+
+Ana: I saw the feed back from your team and I think you should get a raise. I would like to suggest that we create a career plan for you now!
+
+Bob: Sounds good! I like hearing that I'm doing a good job and that I'm getting recognized.
+
+---
+
+---
+Ana: I've got a great new design ready to go!
+
+Bob: Great! Looks good! That should knock 'em dead!
+
+
+---
+
+Ana: Hi Bob! Thanks for inviting me over!
+
+Bob: Come on in! Make yourself at home.
+
+Ana: Hey, is that a bottle of red wine?
+
+Bob: Sure, help yourself!
+
+
+---
+
+Ana: Good luck at your performance tonight!
+
+Bob: Ana! It's bad luck to wish an actor good luck before a show!
+
+Ana: Oh right! Break a leg!
+
+---
+
+---
+Ana: What is your analysis of the situation?
+
+Bob: Which situation are you [talking about,referring to]?
+
+Ana: I'm referring to the situation of the roads in downtown...
+
+Bob: This morning the situation was very stressful and dreadful. I hope that the situation will be better when I leave work tonight.
+
+---
+
+
+
+---
+
+Ana: I'm going to the store! 
+
+Bob: Gotcha!
+
+---
+
+Ana: The party starts in two hours. Please finish sweeping the floor.
+
+Bob: Gotcha!
+
+---
+
 Ana: What was he planning to do? 
 Bob: He planned to stay here for two weeks but they need him back at work immediately. 
 
@@ -515,29 +1841,6 @@ Honey, can you make lunch for me?
 * I was amazed at her brilliant performance.
 * In most countries, children start primary school at the age of six.
 * Although he studied hard, he couldn't succeed [in,at] getting a high score on the exam.
----
-
-Ana: Where are they?
-
-Bob: They are AT the supermarket.
-
----
-
-Ana: Are they in trouble?
-
-Bob: They were at the scene of the crime but I don't know if they are in trouble.
-
----
-
-Ana: Have you taken a look at the contract?
-
-Bob: No, but I need to look into it soon.
-
----
-
-Ana: She's really enjoying herself!
-
-Bob: Yep! She's clearly into the music! (idiomatic phrase)
 
 
 ## into
@@ -791,13 +2094,6 @@ My daughter is very opinionated.
 * I went to the gym.
 
 
----
-
-Ana: Everything ok?
-
-Bob: Yeah. We're good.
-
----
 
 * There was enormous destruction after the earthquake.
 * There is a frog on the table!
@@ -853,13 +2149,7 @@ Bob: Yeah. We're good.
 * I was tired after yesterday's party.
 * I was being interviewed y-day for a new job. (past cont)
 * I was preparing for my speech.(past cont)
----
 
-Ana: What were you doing yesterday at lunch time? 
-
-Bob: I was being examined by my doctor. (past-continuous)
-
----
 
 ## bow bowed  (d) (reg)
 * We bowed deeply before the King of Siam!
@@ -1154,15 +2444,7 @@ Bob: I was being examined by my doctor. (past-continuous)
 
 ## dance danced (t)(reg)
 
----
 
-Bob: I don't want to go to the party! What will we do there?
-
-Ana: We can dance at the party!
-
-Bob: Of course, we can dance at the party my love. But, first I must drink!
-
----
 
 ## knit knitted (id) (reg)
 * I knit socks. (present tense)
@@ -1176,13 +2458,7 @@ Bob: Of course, we can dance at the party my love. But, first I must drink!
 * We should have posted the job earning earlier.
 
 ## paint painted (id) (reg)
----
 
-Bob: What did you do yesterday?
-
-Ana: I painted my apartment yesterday. (simple past tense)
-
----
 * I can paint a portrait of my mother.
 * I could paint a portrait of my mother when I was younger.
 * When I was in school, I would paint my friends' portraits.
@@ -1216,13 +2492,6 @@ Ana: I painted my apartment yesterday. (simple past tense)
 ## sign signed (d) (reg)
 * We should have signed the contract earlier.
 
----
-
-Ana: We have documents that need to be signed.
-
-Bob: We must sign and send them as soon as possible.
-
----
 
 ## signify signified (d) (reg)
 * I am not sure what this [signifies,means].
@@ -1296,17 +2565,7 @@ Bob: We must sign and send them as soon as possible.
 
 
 
----
 
-Ana: Could you speak to William tomorrow?
-
-Bob: Sure. What do you want me to speak with him about?
-
-Ana: I would like you to talk to him about raising my salary.
-
-Bob: Sure, I can talk to him about that.
-
----
 
 ## catch caught caught (irr)
 * I caught a cold.
@@ -1379,19 +2638,7 @@ Bob: Sure, I can talk to him about that.
 * Last year, I had the best [trip, vacation] of my life!
 * I was having lunch with my daughter. (past continuous)
 
----
 
-Ana: How was your day?
-
-Bob: I had a [wonderful,awful] day
-
----
-
-Ana: What did you do yesterday before school?
-
-Bob: I had finished my homework before leaving. (past perfect)
-
----
 ## fidget fidgeted (id) (reg)
 * My son was fidgeting with my phone and now it doesn't work!
 * She's always fidgeting with her hair!
@@ -1399,12 +2646,7 @@ Bob: I had finished my homework before leaving. (past perfect)
 
 ## finish finished (t) (reg)
 
----
-Ana: Did you finish your work?
 
-Bob: Not really!
-
----
 * We have finished moving in!
 
 * We have finished our code review. (present perfect simple)
@@ -1459,13 +2701,7 @@ Bob: Not really!
 * I don't know half of those words.
 * I didn't know who to ask!
 
----
 
-Ana: I don't know what to do? What should I do?
-
-Bob: Don't worry, I will try to help you.
-
----
 
 * I don't want to do anything!
 * I don't have any questions either.
@@ -1490,23 +2726,6 @@ Bob: Don't worry, I will try to help you.
 * I did my homework.
 * We did the laundry.
 
----
-
-Ana:What did you do yesterday?
-
-Bob:I did my yoga exercises in the morning.
-
----
-
-Ana: What did Yulia do yesterday?
-
-Bob: I don't know.
-
----
-
-Ana: What does she do everyday? (present simple)
-
-Bob: She is working. (present continuous) She works everyday, like the rest of us!
  
 ## occur occurred  (d) (reg)
 * This idea never occurred to me!
@@ -1568,60 +2787,6 @@ I shouldn't have said anything!
 * What should I have said to him? He was not listening to me.
 * I would like to say that I'm very happy to be here!
 
----
-Ana: Should I say this to him?
-
-Bob: Yes, you must tell him the truth.
-
-
----
-Ana: What did she say to you?
-
-Bob: She said that I should buy this shampoo.
-
----
-Ana: What does the meter say?
-
-Bob: The meter says 1.0 degrees.
-
----
-Ana: What does the thermometer say?
-
-Bob: The thermometer says 1.0 degrees.
-
----
-
-
-Ana: What did you say?
-
-Bob: I said that I need to study for my exam.
-
----
-Ana: What did you say to your manager?
-
-Bob: I told him that I want to take a day off next Monday. (reported speech)
-
----
-Ana: What did you say to your manager?
-
-Bob: I said that I was tired.
-
----
-Ana: What did you say? (past simple)
-
-Bob: I said that the weather will be better tomorrow. (reported speech)
-
----
-Ana: What did she say to you?
-
-Bob: She said that I was a loser!
-
----
-Bob: What kind of mood are you in?
-
-Ana: I said that I am in a Christmas mood.
-
----
 
 ## misplace misplaced (t) (reg)
 
@@ -1664,12 +2829,7 @@ Ana: I said that I am in a Christmas mood.
 * They will show up in two hours.
 
 
----
-Ana: What was your presentation about?
 
-Bob: In my presentation last week, I [talked about,showed] our approach to the solution.
-
----
 
 ## shut shut (irr)
 * We had to shut the server down.
@@ -1683,19 +2843,6 @@ Bob: In my presentation last week, I [talked about,showed] our approach to the s
 * I like talking with them because I never know where the conversation will go!
 * I don't want to talk about work!
 
----
-
-Bob: What were you talking to Oleg about?
-
-Ana: I talked to Oleg about his budget request.
-
---- 
-
-Bob: Where can we talk?
-
-Ana: We will talk in the park.
-
----
 
 
 ## teach taught (irr)
@@ -1732,13 +2879,7 @@ Ana: We will talk in the park.
 * My friend told me about his party. (simple past)
 * I will be at the meeting, so I can tell the manager that you might be late.
 
----
 
-Ana: What did you tell her?
-
-Bob: I told her that we will leave at 6 p.m.
-
----
 
 * She told me that we can meet her anytime on Sunday.
 
@@ -1747,13 +2888,6 @@ Bob: I told her that we will leave at 6 p.m.
 
 
 ## sip sipped (t) (reg)
----
-
-Ana: Would you like to taste my new cocktail? 
-
-Bob: Oh, just a sip please.
-
----
 
 ## to pick up
 * I need to pick up my g/f from work.
@@ -1802,25 +2936,7 @@ Bob: Oh, just a sip please.
 * I ate a lot of food!
 * I like to eat snails with mint sauce.
 
----
 
-Bob: What must you do before we leave?
-
-Ana: I must eat my breakfast before we leave.
-
----
-
-Bob: What did you do this morning?
-
-Ana: I ate breakfast this morning.
-
----
-
-Bob: What did you eat for breakfast?
-
-Ana: I ate fried eggs and an apple.
-
----
 
 ## drink drank drunk (irr) 
 * You [should,must,can] drink more! (at a raucous party!)
@@ -1831,14 +2947,7 @@ Ana: I ate fried eggs and an apple.
 * 
 
 ## to get along (irr)
----
-Ana: I don't really get along with my brother.
 
-Bob: You need to try to get along with your brother because he's your only family left after the tragic plane crash in Africa. 
-
-Ana: Yes, well my brother was flying that plane, so there!
-
----
 
 * I get along well with my mother-in-law.
 
@@ -1846,13 +2955,7 @@ Ana: Yes, well my brother was flying that plane, so there!
 
 * I am worried about her health.
 
---- 
 
-Ana: I will be worried about you if you are driving at night. (conditional)
-
-Bob: You [needn't,mustn't,shouldn't] worry about me! I'm driving the new Tesla with SkyNet installed!
-
----
 
 ## wish wished (t) (reg) 
 * She wished me a Happy New Years!
@@ -1897,15 +3000,7 @@ Bob: You [needn't,mustn't,shouldn't] worry about me! I'm driving the new Tesla w
 * I want to hire people who want to learn.
 * Those people are not good hiring choices.
 
----
-Ana: We may hire another engineer to help us on our project.
 
-Bob: That sounds good! We need the help!
-
-Ana: We can expect a new person as early as next [week,month,year].
-
-
----
 * We might need to cut off hiring new staff for the next two months.
 * We might need to cut off the meeting early.
 
@@ -1942,36 +3037,11 @@ Ana: We can expect a new person as early as next [week,month,year].
 * He doesn't need to get up early in the morning!
 * Can I get you a [coffee,beer,a chair,drink, something to eat]?
 
----
-Ana: Did you get the documents?
 
-Bob: I got the documents before the project started.
-
----
-Ana: When will you get home tonight?
-
-Bob:I will get home late tonight. I have a lot of work to do!
-
----
-Ana: When did you get home?
-
-Bob:I got home at 6 a.m.
-
----
 
 ## type typed (t)(reg)
 * They should have typed up the report sooner.
----
 
-Ana: I have [prepared,typed] some notes for today's meeting. (present perfect)
-
-Bob: Could you share with me your notes?
-
-Ana: Sure. Can you send me your email?
-
-Bob: I will send you my email [as soon as possible, ASAP, at my earliest convenience].
-
----
 ## sell sold sold (irr)
 * I should have sold my shares of X earlier!
 * Our company should have sold laptops earlier.
@@ -2165,13 +3235,7 @@ Bob: I will send you my email [as soon as possible, ASAP, at my earliest conveni
 
 ## chew chewed (d) (reg)
 * I should have chewed my food better!
----
 
-Ana: Your mother told me to tell you that you need to chew your food better!
-
-Bob: Thank you for the reminder! I'll chew on that idea later!
-
----
 ## point pointed (id) (reg)
 * My mother pointed out that I have a dirty collar. 
 
@@ -2235,29 +3299,6 @@ Bob: Thank you for the reminder! I'll chew on that idea later!
 * I should have read more about storage services.
 * I highly recommend that you read the book Preparing for the GCP exam and take the tests at the end of each chapter.
 
----
-
-Ana: You should read the documentation about the new API that we are using.
-
-Bob: I'll read it. Thanks for the recommendation. Do you have anything else for me?
-
-Ana: You should get in touch with the other devs and discuss the API with them.
-
----
-
----
-
-Ana: I have never read this book.
-
-Bob: I think you could find it on Google.
-
-Ana: I will look for it.
-
-Bob: In my opinion, you must read this book. (strong opinion)
-
-Bob: In my opinion, you should read this book. (opinion)
-
----
 
 ## deceive deceived (d) (reg)
 * She deceived me again! I'm such a fool!
@@ -2274,41 +3315,16 @@ Bob: In my opinion, you should read this book. (opinion)
 * I decided to shave my beard!
 * They made a very poor decision.
 
----
 
-Ana: I need to decide who will be assigned this task.
-
-Bob: Let's check who has availability.
-
-Ana: We should check the JIRA board.
-
----
-Ana: What did you decide to do?
-
-Bob:I decided to postpone my trip.
-
----
 ## rewind rewound (irr)
----
-Ana: Did you rewind the string?
 
-Bob: Yes, I rewound the string yesterday.
-
----
 
 ## check checked 
 * Let me check my memory. 
 
 
 ## check out / checked out (irr)
----
-Ana: You can pay for that at the check out counter.
 
-Bob: I want to check out(to look at) some other things first.
-
-Ana: Are you sure? You look kind of spacey! You look like you have already checked out!
-
----
 ## flaw flawed (d) (reg)
 * The project is deeply flawed.
 
@@ -2318,12 +3334,7 @@ Ana: Are you sure? You look kind of spacey! You look like you have already check
 ## float floated (id) (reg) 
 * We should have floated the boat earlier. 
 
----
-Ana: Where did you go during the party?
 
-Bob: I fled for an hour or so to the bar down the street to get away from that annoying guy from the accounting department!
-
----
 
 ## fly flew flown (irr)
 * You can fly to Italy from the regional airport.
@@ -2385,13 +3396,6 @@ Bob: I fled for an hour or so to the bar down the street to get away from that a
 * I made progress in learning the Stoic's philosophy. (Stoicism)
 * I made progress in learning Stoicism.
 
----
-
-Ana: What did you decide to do?
-
-Bob: I made the decision to postpone my trip.
-
----
 
 ## learn learned (d)(reg)
 * I haven't learned anything new.
@@ -2444,20 +3448,7 @@ Bob: I made the decision to postpone my trip.
 * I might go to the gym everyday next week.  (possibility)
 * I must go to the gym because it's good for my health.(possibility)
 
----
 
-Ana: When did you go home?
-
-Bob:I went home at 5.
-
----
-
-Ana: Where have you gone?
-
-Bob: I have gone to my mother's to help her.
-I have gone to my mother's home to help her.
-
----
 ## grab grabbed (reg)~to hold
 * When I saw the money flying out of the ATM, I grabbed as much as I could and ran!
 
@@ -2507,19 +3498,7 @@ I have gone to my mother's home to help her.
 * They should have provided us with more details.
 * We can't provide the level of service we want to.
 
----
 
-Ana: We don't have enough information.
-
-Bob: Additional information will be provided today.
-
----
-
-Ana: We didn't get the information.
-
-Bob: Igor should have provided the information to you already.
- 
---- 
 
 ## pull pulled (d) (reg)
 * I had just pulled the door open when the dog ran in! (past perf simple)
@@ -2619,17 +3598,7 @@ Bob: Igor should have provided the information to you already.
 * I should have known that the trash was full.
 * I should have known that the meeting was cancelled.
 
----
-Ana: Did you know that you would win?
 
-Bob:I knew that I would win the scholarship. (past simple)
-
----
-Ana: How long have you known how to get to my [home,place]?
-
-Bob:I have known the best direction to your [home,place] for months. (present perfect)
-
----
 
 ## play played (d) (reg)
 * My wife played an important role in this decision!
@@ -2695,13 +3664,7 @@ https://i.imgur.com/D6KFFLx.png
 * I must have spent one week preparing for the exam.
 * I must spend more time studying for the exam.
 
----
 
-Ana: What have you been doing the last couple of [hours,days,weeks,months,years]?
-
-Bob: I have spent several days resolving this issue.
-
----
 ## resolve resolved (d) (reg)
 * I haven't been able to resolve the [problem,issue] yet.
 * 
@@ -2789,13 +3752,7 @@ Bob: I have spent several days resolving this issue.
 * We should have seen the manager by now, she's late.
 * You need to have seen the news to know what is going on.
 
----
 
-Ana: Did you go see the big Christmas tree?
-
-Bob: No, we didn't have time to see it. 
-
---- 
 
 ## seek seek sought (irr)
 * I have sought my keys for the last two hours.
@@ -2994,42 +3951,7 @@ Bob: No, we didn't have time to see it.
 * I started thinking about how to remove duplicates.
 * I thought that this would be easier.
 * I had thought that she would like this scarf.
----
 
-Ana: Why do you think the first option is not good enough?
-
-Bob: Because he doesn't have enough hands-on experience with X.
-
-Ana: Oh! I didn't know that. Maybe we might go with the second option.
-
----
-
----
-
-Bob: Have you thought about my budget request?
-
-Ana: I have thought about your budget request.
-
----
-
-Bob: What did you think about it?
-
-Ana: I think there are problems in your request.
-
----
-
-Bob: Will you travel this year?
-
-Ana: I can think about traveling after the quarantine lifts.
-
-
----
-
-Ana: Why is it taking so long? What's the hold up?
-
-Bob: They had thought that the challenge was easy.
-
----
 
 
 ## ticket ticketed (id) (reg)
@@ -3072,13 +3994,7 @@ Bob: They had thought that the challenge was easy.
 * I looked into her eyes and I saw heaven. (simple past)
 * I have been looking for my keys for the last two hours!
 
----
 
-Bob: Have you been looking for a new apartment?
-
-Ana:We have looked at a lot of apartments.
-
----
 ## prefer preferred (d) (reg)
 * My father prefers weak coffee.
 * I would have preferred white wine but all they had was red.
@@ -3133,13 +4049,7 @@ Ana:We have looked at a lot of apartments.
 * We have been watching the TV show, Friends.
 * I have been watching videos in English.
 * I will watch some videos about GCP security before I take the exam.
----
-Ana: Do you watch TV?
 
-Bob: No, I don't watch TV.
-
-
----
 ## wake up/ woken up/ woken
 * The neighbors woke me up.
 * I should have woken up earlier but I didn't.
@@ -3160,13 +4070,7 @@ Bob: No, I don't watch TV.
 
 ## run ran run (irr)
 
----
 
-Bob: What did you do today?
-
-Ana: I did a lot of things! Including, I ran today at four o'clock in the afternoon.
-
----
 
 
 ## walk walked (t) (reg)
@@ -3175,18 +4079,7 @@ Ana: I did a lot of things! Including, I ran today at four o'clock in the aftern
 * I could have gone for a walk with my daughter but I didn't because it was cold! 
 * I walked around a park for a little to get some fresh air.
 * We were walking around last night.
----
 
-Bob: What can we do after work?
-
-Ana: We can walk in the park after work.
-
----
-Bob: What did you do after work?
-
-Ana: I walked after work.
-
----
 
 
 ## want wanted (id) (reg) syn: wish, desire, need
@@ -3222,13 +4115,7 @@ Ana: I walked after work.
 * Let's meet up later! (prepositional phrase)
 * Let's meet later! 
 
----
 
-Ana: Doug has the new signed contract but he will be off tomorrow.
-
-Bob: So, you must meet him today.
-
----
 
 
 ## use used (d) (reg)
@@ -3271,13 +4158,7 @@ Bob: So, you must meet him today.
 * He has discovered a new restaurant that he would like to share with us.
 * I have discovered that the Google docs are very thorough.
 * We discovered the car had been vandalized.
----
 
-Ana: What was the last thing that you discovered?
-
-Bob: I have never discovered anything!
-
----
 
 
 ## fill filled (d) (reg)
@@ -3295,13 +4176,7 @@ Bob: I have never discovered anything!
 * Have you found out the reason why it failed?
 * Did you find out why she called?
 
----
 
-Ana: Did you find the source of the problem?
-
-Bob: Yes. Do you want to hear what was the problem?
-
----
 
 
 ## ask asked (t) (reg)
@@ -3322,13 +4197,7 @@ Bob: Yes. Do you want to hear what was the problem?
 * I am working on it now.
 * My colleague works all the time!
 
---- 
 
-Ana:How long have you been working with him?
-
-Bob: He's on my team but I don't work with him directly.
-
----
 
 ## hold held held (irr)
 * We will hold a meeting much later.
@@ -3476,13 +4345,7 @@ Bob: He's on my team but I don't work with him directly.
 * My wife has taken the children to the park.
 * My mentees have taken a long time to get started on their project.
   
----
 
-Ana: What are your feelings about the situation?
-
-Bob: I took [the,this] situation too seriously!
-
----
 
 ## deploy deployed (d) (reg)
 * They should have deployed the application already.
@@ -3576,13 +4439,6 @@ Bob: I took [the,this] situation too seriously!
 ## can
 * He can't do it.
 
----
-
-Ana:Can you swim?
-
-Bob: No, I can't swim.
-
----
 
 
 ## tease teased (d) (reg)
@@ -3620,8 +4476,6 @@ Bob: No, I can't swim.
 
 
 
-Ana: Is Peter bringing Steve to my party?
-Bob: Yes, Peter will bring Steve to the party.
 
 ## brush brushed (t) (reg)
 * I 
@@ -3664,25 +4518,6 @@ Bob: Yes, Peter will bring Steve to the party.
 * Everyone on the team needs to be able to write in Golang.
 * I didn't write any notes down.
 
----
-
-Bob: What did you write?
-
-Ana: I wrote letters for work.
-
----
-
-Ana: I wrote down some notes from our last meeting.
-
-Bob: What notes did you write down?
-
----
-
-Bob: What do you need to do now?
-
-Ana: I need to write letters to my clients.
-
---- 
 
 
 ## yearn yearned (d) (reg)
@@ -3815,20 +4650,6 @@ Ana: I need to write letters to my clients.
 
 ## confuse confused (d) (reg)
 
----
-Ana: “So what’s the problem with the server?” 
-
-Bob:” Ugh, I don’t have a clue, Ana. Do you know?”
-
-Ana: “It's the API endpoint. It's configured properly. Do you know how I got that answer?”
-
-Bob: “It’s a mystery to me. I don’t know, Ana. I just don’t get it. 
-
-Ana: “I don’t get how you can come to work without any sleep. That’s why you are having so much trouble!” 
-
-Bob: “You’re right!”
-
----
 
 
 ## connect connected  (id) (reg)
@@ -3890,27 +4711,6 @@ Bob: “You’re right!”
 * I was researching a new algorithm when my manager called me. (past continuous)
 
 
----
-
-Ana: Can you research this product for me on the Internet?
-
-Bob: Sure I can. What is the budget?
-
-Ana: Money is not an issue but it must be high quality.
-
-Bob: Do you understand that this could be VERY expensive?
-
-Ana: What would you call very expensive?
-
-Bob: It might cost 500USD or higher!
-
-Ana: I agree with you, that is expensive. Maybe you can find something a little cheaper but with high quality.
-
-
-Bob: I will do my best.
-
----
-
 ## resign resigned (d) (reg) 
 * I should have [resigned,quit] from this job a long time ago.
 
@@ -3947,7 +4747,8 @@ Bob: I will do my best.
 # emotions
 ['accomplished', 'aggravated', 'alive', 'alone', 'amazed', 'amazing', 'amused', 'angry', 'annoyed', 'anxious', 'awesome', 'awful', 'bad', 'beautiful', 'better', 'blah', 'blessed', 'bored', 'broken', 'chill', 'cold', 'comfortable', 'confident', 'confused', 'content', 'cool', 'crappy', 'crazy', 'curious', 'depressed', 'determined', 'disappointed', 'down', 'drained', 'drunk', 'ecstatic', 'emotional', 'energized', 'excited', 'exhausted', 'fantastic', 'fat', 'free', 'fresh', 'frustrated', 'full', 'funny', 'good', 'grateful', 'great', 'guilty', 'happy', 'heartbroken', 'helpless', 'hopeful', 'hopeless', 'horrible', 'hot', 'hungry', 'hurt', 'impatient', 'in love', 'incomplete', 'inspired', 'irritated', 'lazy', 'lonely', 'lost', 'loved', 'lovely', 'lucky', 'mad', 'meh', 'miserable', 'motivated', 'nervous', 'nostalgic', 'OK', 'old', 'optimistic', 'overwhelmed', 'pained', 'pissed', 'pissed off', 'positive', 'pretty', 'proud', 'pumped', 'ready', 'refreshed', 'relaxed', 'relieved', 'rough', 'sad', 'safe', 'satisfied', 'scared', 'sexy', 'shocked', 'sick', 'silly', 'sleepy', 'sore', 'sorry', 'special', 'stressed', 'strong', 'stupid', 'super', 'surprised', 'terrible', 'thankful', 'tired', 'uncomfortable', 'upset', 'weak', 'weird', 'well', 'wonderful', 'worried']
 
-
+# asking for time
+* Give me a second.
 
 # greetings
 * How are you?
@@ -3981,6 +4782,33 @@ Bob: I will do my best.
 
 # phrases
 
+## constantly on alert for something
+* I'm constantly on alert for fire!
+
+## no/don't rush
+* Don't rush!
+* Please get me that file but there's no rush.
+
+## don't rush anything
+* My grandmother used to say that's it's best not to rush anything.
+
+## look forward to
+* I look forward to seeing you this weekend.
+
+
+
+## it's up to you
+* You can have whichever one you want. It's up to you.
+* It's up to you to decide.
+
+
+## it's not up to you
+* This decision is not up to you to decide.
+
+## keep out of it
+* I don't want you to get involved. So please just keep out of it.
+
+
 
 ## pet peeve
 * My pet peeve is not having breakfast in the morning.
@@ -3997,7 +4825,7 @@ Bob: I will do my best.
 
 ## grey area
 * The new law does does nothing to reduce the grey area around who is responsible for cleaning up the streets.
-* How gov'ts will tax crypto currency is a grey area.
+* How governments will tax crypto currency is a grey area.
 
 ## green light
 * The construction project got the green light from the city.
@@ -4021,13 +4849,9 @@ Bob: I will do my best.
 * It goes without saying that Putin is a crook.
 
 ## Bored to death
-Meaning/Usage: Very bored
-
-Explanation: Death is the worst thing, so using it to compare how you feel is telling someone that you are very bored.
-
-* "I have nothing to do. I'm bored to death."
-* "I hate it when I'm bored to death."
-* "Would you rather be super busy or bored to death?"
+* I have nothing to do. I'm bored to death.
+* I hate it when I'm bored to death.
+* Would you rather be super busy or bored to death?
 
 ## it begins to wear thin
 * After some time, even the best of things begins to wear thin.
@@ -4046,10 +4870,16 @@ Explanation: Death is the worst thing, so using it to compare how you feel is te
 
 
 ## on the road to health
+* He's been sick for awhile but now he's on the road to health.
+
+
+# enjoy the simple life
+ * You've enjoyed the simple life, doing your own thing and not worrying about anyone.
 
 ## Money laundering
 * There is no evidence of money laundering.
 * He was also held on suspicion of money laundering.
+* He is a moneylender and has been caught stealing from his victims.
 * There are also acute concerns over money laundering.
 * In the end, the jury convicted them of money laundering.
 
@@ -4085,6 +4915,7 @@ Explanation: Death is the worst thing, so using it to compare how you feel is te
 * My uncle called me out of the blue!
 * My colleague got fired out of the blue! He didn't see it coming!
 * The client asked for new functionality out of the blue!
+* A knock on the door out of the blue interrupts your reading and you walk downstairs to open it.
 
 ## to get rid of syn~ to purge
 * What do you need to get rid of?
@@ -4346,13 +5177,7 @@ Explanation: Death is the worst thing, so using it to compare how you feel is te
 ## bummer
 * That sucks! That's a bummer!
 
----
 
-Ana: Someone stole my phone!
-
-Bob: Ah shit man! That's a bummer!
-
----
 
 ## movable feast
 * Easter is a movable feast, whereas Christmas is not.
@@ -4418,9 +5243,7 @@ Bob: Ah shit man! That's a bummer!
 
 
 ## same shit, different day
-Ana: How's your day?
 
-Bob: Oh, you know. Same shit, different day.
 
 ## to free up your mind
 * I need to disconnect for a bit and free up my mind.
@@ -4508,9 +5331,7 @@ Bob: Oh, you know. Same shit, different day.
 
 ## Are we still on for Monday?
 
-Ana: Are we still on for Monday?
 
-Bob: Yep. Nothing has changed on my side!
 
 ## held up
 * I got held up in traffic!
@@ -4576,13 +5397,7 @@ Bob: Yep. Nothing has changed on my side!
 * I dropped my son off near his school.
 * Could you please drop me off near the shop?
   
----
 
-Ana: Would you like to share a taxi with me?
-
-Bob: Sure, can you drop me off at the train station?
-
----
 
 ## the day after tomorrow
 * I will have English classes the day after tomorrow!
@@ -4620,11 +5435,7 @@ Bob: Sure, can you drop me off at the train station?
 
 
 ## on my way
-Ana: Where are you?!
 
-Bob: I'm on my way!
-
----
 * I should have bought food on my way home but I forgot and now I'm eating ramen!
 
 
@@ -4749,9 +5560,7 @@ Bob: I'm on my way!
 
 ## made in the shade
 
-Ana: How are you?
 
-Bob: Everything's good! I've got it made in the shade!
 
 
 ## in a better light
@@ -4759,6 +5568,8 @@ Bob: Everything's good! I've got it made in the shade!
 
 ## We had a falling out
 * We had a falling out,  we are no longer friends.
+
+
 
 ## I just met him. He's not my friend, he's just an acquaintance.
 
@@ -4825,15 +5636,11 @@ We came up with a work around on the fly. In real time...during execution... it 
 * I thought I knew what was doing, but I got ahead of myself.
 
 ## the whole point of this is...
-Ana: What is the point of these lessons?
 
-Bob: The whole point of these lessons is to improve my English.
 
 ## I couldn't help hearing what you said...
 
-Ana: I couldn't help hearing what you said about the end of the world. Is that happening today?
 
-Bob: No. Come back later!
 
 ## to wander off
 * I let my dog wander off and now I can't find it!
@@ -4860,21 +5667,13 @@ Bob: No. Come back later!
 * We could use a robot for this task but on the other hand a human might be better.
 
 ## fat and happy
-Ana: Dinner was good wasn't it? How you feeling?
 
-Bob: Fat and happy!
 
 
 ## Why bother?
 * The world is going to end! Why should we bother to save the whales?
 * The snow keeps falling, why bother sweeping the sidewalk?
----
 
-Ana: My niece is going to turn 1 year old! We should buy her a present?
-
-Bob: Why bother! She doesn't even recognize you!
-
----
 
 ## bump it up
 * We might need to bump this issue up to the developers.
@@ -4911,9 +5710,6 @@ Bob: Why bother! She doesn't even recognize you!
 
 ## I slept like a baby
 * I slept very well!
-  
-Ana: Did you sleep well last night honey? 
-Bob: I slept like a baby!
 
 ## trade-offs
 * We should make an exchange! I'm willing to trade-off my Saturday mornings if you are willing to give me your Tuesday night!
@@ -5495,19 +6291,7 @@ We shouldn't do harm to other people.
 * I have never bought into the idea that AGILE is the best way to manage an engineering project.
 
 ## Gotcha!
----
 
-Ana: I'm going to the store! 
-
-Bob: Gotcha!
-
----
-
-Ana: The party starts in two hours. Please finish sweeping the floor.
-
-Bob: Gotcha!
-
----
 
 ## hide and seek (game)
 * We've been playing hide and seek all day long! I didn't realize this conference was so big!
@@ -5569,39 +6353,14 @@ Bob: Gotcha!
 
 ## Damn good
 
----
 
-Ana: How was the movie?
-
-Bob: Damn good!
-
-
----
-
-Ana: How are you doing?
-
-Bob: Damn good!
-
----
 
 
 ## Game on
----
 
-Ana: O, should we start that new project?
-
-Bob: Game on!
-
----
 
 ## Let' go ahead!
----
 
-Ana: What do you think about doing X?
-
-Bob: Let' go ahead with that!
-
----
 
 ## "Breathe deeply"
 * You need to calm down and breathe deeply.
@@ -5637,13 +6396,7 @@ Bob: Let' go ahead with that!
 ## under the hood
 
 ## so-far so-good
----
 
-Ana: How's it goin?
-
-Bob: So-far so good!
-
----
 ## wishy-washy
 * His answer was wishy-washy! It wasn't a yes, and it wasn't a no! He didn't really answer the question.
 
@@ -5670,8 +6423,13 @@ Bob: So-far so good!
 * Try to understand the sub text.
 * You need to learn to read between the lines. The manager just told you that he's not happy with your work!
 
+## not my place
+* It's not my place to take care of such things. 
+* It's not my place to say.
+* 
 
 ## Figure it out on your own!
+* I spent the day trying to figure out how to get rid of the smell of fried onions.
 * My father used to tell me to figure it out on my own. Now I realize he didn't know the answers either!
 * I don't know but I will figure it out!
 
@@ -5755,13 +6513,6 @@ We are on the right track with this solution.
 ## intend intended (id)(reg)
 * I intended to meet my colleagues after work. We want to meet at a nearby cafe.
 
----
-
-Ana: Why did you do it?!
-
-Bob: I did it intentionally! 
-
----
 
 ## unintended (id) (always in the past tense)
 * It was an unfortunate and unintended mistake, on my part, when I forgot my mother-in-law's name.
@@ -5774,13 +6525,7 @@ I do, I do do
 * I study programming everyday so that I continue to grow as a professional.
 * We have a house in the country.
 
----
 
-Ana: Does this look good on me?
-
-Bob: It's a good look for you.
-
----
 
 
 ## Present Continuous
@@ -5790,23 +6535,7 @@ Bob: It's a good look for you.
 * I am drinking hot tea.
 * I am in a meeting until 6 o'clock. (gerund)
 
----
 
-Ana: Are you meeting anyone after work?
-
-Bob: I am meeting my girlfriend after work.
-
----
-
-Ana: What are you doing right now?
-
-Bob: I am doing the dishes.
-
----
-
-Ana: What are they doing right now?
-
-Bob: They are having an English lesson right now.
 
 ## Present Perfect
 
@@ -5818,13 +6547,7 @@ I have done
 
 * I have been promoted! (passive)
 
----
 
-Ana: How much coffee have you had today?
-
-Bob:I have drunk two cups of coffee this morning.
-
----
 
 * I have [finished, completed,done] this task.
 * I have spread myself too thin! (idiomatic) I am trying to  do everything at the same time.
@@ -5839,17 +6562,10 @@ Bob:I have drunk two cups of coffee this morning.
 * I have spent four hours completing this task.
 
 ## Present Perfect Continuous
----
 
-Ana: What have you been doing all day?
+* I have been doing my [laundry,expenses, homework].
 
-Bob: I have been reviewing his code all day.
-
----
-
-I have been doing my [laundry,expenses, homework].
-
-We have been cleaning the house today.
+* We have been cleaning the house today.
 
 
 
@@ -5883,19 +6599,7 @@ I did, I did do
 * I was talking to my mother when my son entered the kitchen.
 * When I was studying, I spent my summer holidays with my grandmother.
 
----
 
-Ana:What were you doing today?
-
-Bob: I was doing my [laundry,expenses, homework].
-
----
-
-Ana:What were you doing today?
-
-Bob:I was walking with my dog.
-
----
 
 
 ## Past Perfect
@@ -5905,33 +6609,12 @@ Bob:I was walking with my dog.
 * I had worked at X for three years before I changed my job.(Past Perfect)
 
 
----
-
-Ana: What had you done earlier today?
-
-Bob: I had done the dishes.
-
----
-
-Ana: Where had your dog gone?
-
-Bob: He(the dog) had gone to the park.
-
-
----
-
 ## Past Perfect Continuous (rarely used)
 
 * I had been driving for hours when I got a flat tire.
 * I had been hoping for a promotion when I learned that my manager had been fired.
 
----
 
-Ana: Where had you been when your mother called?
-
-Bob: I had been working in my office.
-
----
 
 
 ## Future Simple
@@ -5940,32 +6623,13 @@ Bob: I had been working in my office.
 * I will be in the office tomorrow. (Future Simple)
 * He will come back in a few minutes. (Future Simple)
 
---- 
-
-Ana:Where will you go tomorrow?
-
-Bob: I will go to the store and do some shopping.
-
----
 
 ## Future Continuous
 
 * I will be vacationing when they start the new project. (Future Continuous)
 * I am going to join a yoga course for three months. (Future Continuous)
 * We will be traveling to Egypt after the New Year. (Future Continuous)
----
 
-Ana:What will you be doing for New Years?
-
-Bob: We will have a quiet evening at home.
-
----
-
-Ana: What will you be doing tomorrow?
-
-Bob: I will be watching a movie with my family.
-
----
 
 
 ## Future Perfect (rarely used)
@@ -5982,14 +6646,6 @@ Bob: I will be watching a movie with my family.
 ## Future Perfect Continuous (rarely used)
 * I will have been playing football for three years this January.
 
-
----
-
-Ana: How long will you have been living in your current apartment?
-
-Bob: I will have been living in my apartment for three years in January. 
-
----
 
 
 # adverbs
@@ -6301,9 +6957,6 @@ She was very eager to go home.
 * The road is brand new! There are no pot holes!
 
 ## disability
-Ana: His disability prevents him from driving!
-Bob: What is his disability?
-Ana: He's an idiot!
 
 
 ## negotiable
@@ -6681,16 +7334,7 @@ It's quite a steamy movie.
 ## wise
 
 
----
 
-Ana: What do you think about their decision to cancel the contract?
-
-Bob: I think that was a wise decision.
-
-Ana: I think that time will tell. (idiomatic phrase)
-
-
----
 
 ## narrative
 * This show has a great narrative.
@@ -6718,16 +7362,6 @@ Ana: I think that time will tell. (idiomatic phrase)
 ## positive
 
 
----
-
-Ana: What were the results of the implementation on the team?
-
-(Ana: What are the results of the PEEX evaluation on your team?)
-
-Bob: It has had a positive impact on our team.
-
-
----
 
 
 ## short
@@ -6815,25 +7449,11 @@ bennies (slang for benefits)
 
 ## splendid
 
----
-
-Bob: How did you spend your weekend?
-
-Ana: We had a splendid weekend with the family.
-
----
 
 
 ## rudimentary
 
----
 
-Bob: How would you rate his knowledge of the project? Does he know the history of this project?
-
-Ana: He has a rudimentary knowledge of the history of our project.
-
-
----
 
 ## abundant
 * We have [a lot,an abundant amount] of love for each other.
@@ -6841,14 +7461,7 @@ Ana: He has a rudimentary knowledge of the history of our project.
 
 ## manageable
 
----
 
-Ana: There are so many problems on this project!
-
-Bob: Yes, there are but they are all manageable. We can manage them.
-
-
----
 
 
 
@@ -7622,40 +8235,7 @@ LIDAR
   * You have to take several photos of the room where you are taking the exam.
 
 
----
 
-Ana: What is AWS?
-
-Bob: Amazon infrastructure in the cloud. You can run your virtual environments in AWS. This you don't need to use on premises resources. You can change the available resources very quickly. You can scale up and down as you [wish,want].
-
-Ana: What is AMI?
-
-Bob: Amazon Machine Image. It's a ready image for your preferred operating system. You can load your own image if you want.
-
-Ana: What is EBS?
-
-Bob: Elastic Block Storage. EBS is connected to ECS. EBS offers persistent storage after your EBS is blown away. EBS is good for up to 64TB.
-
-Ana: What is the largest storage instance you have ever worked with?
-
-Bob: 1 or 2TB on a local environment.
-
-Ana: What are the different types of instances on AWS?
-
-Bob: There are five types. General Purpose, computer optimized, memory optimized, storage optimized, accelerated computing (used for training ML models)
-
-
-Ana: What should you teach your mentee about AWS?
-
-Bob: We have a library of scripts for creating environments.
-
-Ana: Are the scripts documented?
-
-Ana: Does your mentee know that the scripts are in the repo?
-
-Ana: Is your mentee working on his AWS certificate.
-
----
 
 ## topic AWS nouns
 * YAML
@@ -7793,23 +8373,6 @@ Ana: Is your mentee working on his AWS certificate.
 
 # topic machine learning
 
---- 
-Ana: How much data do you think we need to get a working model?
-
-Bob: The golden rule is the more data we can use the better the model we can build. And, We have another golden rule: garbage in, garbage out. So, let's try with a small clean data set and begin building our model from there.
-
-Ana: Great! Thank you for your short and sweet answer! Let's get started!
-
-
----
-Ana: What accuracy score did you get after you processed your model?
-
-Bob: We got a 91% accuracy on the model. This is a good result as the state of the art suggests a score of 95%. So, we're close!
-
-Ana: Bob, I'm a business analyst! Not a Kaggler! For me the most important thing is what value can we bring to our client not about how close we are to the state of the art!
-
-
----
 
 
 * How long did your model train?
@@ -7875,32 +8438,6 @@ Ana: Bob, I'm a business analyst! Not a Kaggler! For me the most important thing
 
 
 # topic: onboarding
-
-
----
-
-Bob:  How do I begin the onboarding process?
-
-Ana: The first thing to do is to look over the onboarding check list.
-
-Bob: And then what do I do?
-
-Ana: After you have completed the onboarding checklist,you will need to read the documentation about the team structure and project specifics.
-
-Bob: How long will it take to complete the checklist?
-
-Ana: You can expect to complete the checklist in a few weeks.
-
-Bob: What kind of documentation do you need from me?
-
-Ana: I don't need any documentation for now. As of now, we're good. After you complete the onboarding process you will be able to start working.
-
-Bob: Thank you Ana! Who should I contact if I have questions?
-
-Ana: You can ask me any questions. If I'm not available, you can ask Chris.
-
-
----
 
 * The process can take a couple of weeks.
 * Because the company is so complex, there are multiple layers of security.
@@ -8055,36 +8592,7 @@ Ana: You can ask me any questions. If I'm not available, you can ask Chris.
 * I've not been feeling well.
 * I wasn't able to do anything! 
 
----
 
-Ana: What seems to be the problem?
-
-Bob: My daughter is not feeling well. She has a temperature.
-
-Ana: Has she been eating?
-
-Bob: She's been less than usual.
-
-Ana: Have you given her anything to feel better? Any medicines?
-
-Bob: We gave her ibuprofen.
-
-Ana: Anything else?
-
-Bob: We gave her Paracetamol to treat her fever.
-
-Ana: How long has she been feeling unwell?
-
-Bob: For about two days... we came to you because she has a cough. I would like you to listen to her lungs.
-
-Ana: What is your daughter's name?
-
-Bob: Her name is Polina.
-
-Ana: OK... Polina, let's listen to you!
-
-
----
 
 ## topic: sick verbs
 * to be sick
@@ -8125,50 +8633,10 @@ Ana: OK... Polina, let's listen to you!
 # topic: female rights advocacy
 
 
----
-
-Ana: Why is this issue important?
-
-Bob: This issue is important because the women that have been violated don't have help from the government nor access to the justice system.
-
-Ana: What help do these women need?
-
-Bob: These women need psychological and medical help.
-
-Ana: Is this all that they need?
-
-Bob: No, but this would begin to cover their basic needs.
-
-Ana: What else do they need?
-
-Bob: These women need legal help and they need support from the police in catching the perpetrators.
-
-Ana: And, why is this an issue now?
-
-Bob: The police don't want to work on old rape cases.
-
-Ana: Why don't the police want to work on old rape cases?
-
-Bob: Because it's a hard problem and they don't want to get involved.
-
-Ana: What then is the solution? What does your organization propose?
-
-Bob: The police don't want to work with old evidence. The crime happened a long time ago. We propose to simplify how the police work with evidence. 
-
-Ana: Specifically? Can you tell me more details?
-
----
 
 * What is your message?
 
---- 
 
-Ana: What is your message to the government?
-
-
-Bob: Women that have been violated should have the right to seek justice. Women that have been violated should have the right to seek reparation from the government.
-
----
 
 ## topic:  female rights advocacy nouns
 * message
@@ -8369,34 +8837,6 @@ Bob: Women that have been violated should have the right to seek justice. Women 
 * Describe your most challenging design solution.
 
 
----
-
-Ana: Tell me all about your previous job responsibilities as a front end designer.
-
-Bob: At last my last job, I was doing basically the same thing I'm doing today.
-
-Ana: What exactly what were you doing before?
-
-Bob: I was creating user interfaces. I was designing the things that you see on the web when using your browser.
-
-Ana: What tools do you use in your design process?
-
-Bob: Front End devs use design patterns. They are like templates that help us speed up the process and to build cope using industry best practices.
-
-Ana: What are some best practices in Front End design? Which best practice do you subscribe to most?
-
-Bob: There are many of them.
-
-Ana: Which one do you use most?
-
-Bob: I like to use pre-processors for styles. It helps me to write cleaner and faster code!
-
-Ana: Thank you for talking to me. We'll continue this conversation later.
-
-
-
----
-
 
 ## topic:Front End design solutions verbs 
 * investigate
@@ -8459,31 +8899,6 @@ Ana: Thank you for talking to me. We'll continue this conversation later.
 * How do you approach problem solving?
 * What are your strengths and weaknesses?
 
---- 
-
-Ana: What was the difference in performance?
-
-Bob: I didn't measure it exactly but it was obvious that it's not as good as before.
-
----
-
-Ana: What was the cause of the issue??
-
-Bob: I'm not sure yet.
-
----
-Ana: How did you learn about this issue? Did the client notify you?
-
-Bob: I was testing a feature and I noticed that the performance was not as good
-as before.
-
----
-Ana: Are you going to investigate the root cause?
-
-Bob: I notified the developers of the issue.
-
----
-
 
 
 
@@ -8527,21 +8942,7 @@ airport
 * What exactly would you like to do?
 * What should we avoid doing?
 * Where are the best clubs for partying?
----
 
-Ana: Where are the most beautiful beaches in Thailand?
-
-Bob: The best beaches are on Ko Lanta Island.
-
-Ana: Where can I go surfing in Thailand?
-
-Bob: There are lots of places... I'll have to look it up for you.
-
-Ana: Where is the best shopping?
-
-Bob: In my opinion, Bangkok has some of the best shopping in Asia.
-
----
 
 # topic shopping
 * When do you like to go shopping?
@@ -8553,46 +8954,7 @@ Bob: In my opinion, Bangkok has some of the best shopping in Asia.
 
 # topic: Grafana task completion
 
----
 
-Ana: What should I know about Grafana? What does it do?
-
-Bob: Allow me to explain. Grafana is necessary for visualizing certain metrics. 
-
-Ana: How do I go about planning an implementation of Grafana? How do I go about setting up Grafana?
-
-Bob: Read the set up documentation for Grafana. I would recommend you follow those steps for setting up Grafana.
-
-Ana: Could you send me the links to the documentation?
-
-Bob: Sure. I will send them to you as soon as I can.
-
-Ana: Thanks for your help! I'll wait for the links from you!
-
----
-Ana: What do you need to do today?
-
-Bob: I need to finish a couple of my tasks.
-
-Ana: Is there anything preventing you from completing your tasks? 
-
-Bob: I am waiting for information from Ivan.
-
-Ana: Let me know if Ivan doesn't send you the information that you need. What else are you working on? What exactly are you working on?
-
-Bob :  Right now I'm working on Grafana dashboards based on user defined metrics.
-
-Ana: Cool. What have you learned about Grafana?
-
-Bob: I have learned a lot about Grafana variables and Grafana in general.
-
-Ana: What else are you learning these days?
-
-Bob: I'm preparing to take my Google certification exam.
-
-Ana: That's good to hear! GCP is important for our company.
-
-Bob: Yes, I know! I need to spend more time studying!
 
 ## topic: Grafana task completion noun 
 * information
@@ -8632,31 +8994,10 @@ Bob: Yes, I know! I need to spend more time studying!
 * How has mentoring changed your perspective on how to hire for your team?
 * I can say that I would recommend hiring three of my mentees.
 
----
 
-Ana: How would you go about selecting mentees in the future?
-
-Bob: I would choose people who want to learn.
-
-Ana: How do you identify people who want to learn?
-
-Bob: That's a good question!
-
----
 * How has being a mentor made you a better [manager,person]?
   * I faced several problems in the beginning. I had to improve my communication skills. It was my first time as a mentor... I learned how to work the mentees. I learned how to manage a small inexperienced team.
----
 
-Ana: What advice would you offer to another new mentor?
-
-Bob: It's not that hard to mentor a team. You should establish a single line of communication. You should identify a team lead and the team communicates via the team lead.
-
----
-Ana: Would you consider being a mentor again?
-
-Bob: I would like to mentor a team again because I want to use what I learned from my previous mentoring experience.
-
----
 * I learned how to work with mentees.
   * If they don't want to work then we can we remove them from the team. 
 * When does the mentoring program end?
@@ -8797,79 +9138,6 @@ show
 * What do you think we should do over the weekend?
 * 
 
----
-
-Ana: Hey Bob! What are you planning to do next weekend?
-
-Bob: Hey Ana! I'm planning to go to the movies this weekend. Would you like to join?
-
-Ana: Yah! Sure. What movie did you want to see?
-
-Bob: I want to see Titanic again!
-
-Ana: Oh, that's a great movie! Sure, I could see it again.
-
-Bob: Ok, we can meet Saturday night at 6 p.m. near the XYZ cinema.
-
-Ana: Ok, see you on Saturday.
-
----
-
-
-
-Ana: Hey, Ira! What are you going to do this weekend?
-
-Ira: I'm planning to go to a party this weekend. Do you want to [roll with,come with] me?
-
-Ana: Of course! That's a great idea. Where's the party?
-
-Ira: The party is at some guy's villa near the center of town.
-
-Ana: We can meet before the party at our bar.
-
-Ira: Oh...cool! Let's do that!
-
-Ana: I will meet you at our bar at 8 p.m.
-
-Ira: Wait girl! I didn't tell you what day was the party!
-
-Ana: Oh, I already know about this party! I'm in the know! (idiomatic)
-
-
----
-Ira: Hey Ana, I'm coming over to your place before we go to the bar! Is that ok?
-
-Ana: Good idea! Come on over! When will you get here?
-
-Ira: I'm at your door now!
-
-Ana: Oh, shit let me hide my mess!
-
-Ira: Don't worry about it!
-
-(Ira enters Ana's home)
-Ana: Hello Ira! Sam says hello too! Come on in! Would you like something to drink? Tea? Coffee? Water? Something stronger?
-
-Ira: Yeh... I would like a glass of water with a shot of your best!
-
-Ana: OK! 
-(bring a glass of water with a shot of your best cognac)
-
-Ira: What should I wear tonight?!
-
-Ana: You should wear something cute and comfortable!
-
-Ira: But, I don't have anything that is cute and comfortable.
-
-Ana: You can check what I've got. Look in my wardrobe.
-
-Ira: You're the best! Thank you! Can I wear this!?
-
-Ana: Yes. Of course! As long as you don't destroy it!
-
-Ira: Of course I'll be careful with it!
-
-Ana: Ira! It's late it's time to go! We need to get an Uber!
 
 
 
@@ -8944,39 +9212,7 @@ Ana: Ira! It's late it's time to go! We need to get an Uber!
 * Have you written your career plan?
 
 * What kind of professional courses would you like to take?
----
 
-Bob: What kind of feedback have you received from your colleagues?
-
-Ana: I got excellent feedback from my colleagues and I hope to get the same from you!
-
-Bob: Can you be more specific about the nature of the feedback you received?
-
-Ana: My team lead said that I was productive and effective over the last three months. And the customer mentioned that the client is happy working with me.
-
-Bob: What courses are you taking now?
-
-Ana: I've been participating in English courses and I am going to  start an SQL professional course.
-
-Bob: Are you getting enough [feedback,support] from the career development?
-
-Ana: Yes, I'm happy with the support I've been getting.
-
----
-
-Ana: Good morning! Have you had issues while working with your teams?
-
-Bob: Good morning! There are a lot of talented people on my team. I'm happy to be working with them.
-
-Ana: What kind of feedback have you received from your colleagues? By the way, I wrote some feedback for you. Have you read it?
-
-Bob: I got good feedback from my team mates. I got constructive feedback on what I can improve. And, of course, I read your feedback.
-
-Ana: I saw the feed back from your team and I think you should get a raise. I would like to suggest that we create a career plan for you now!
-
-Bob: Sounds good! I like hearing that I'm doing a good job and that I'm getting recognized.
-
----
 
 ## topic: career planning: verbs 
 * anticipate
@@ -9236,30 +9472,10 @@ I don't remember precisely when but it was sometime in the last two weeks. I'm t
 * I  had a busy couple of weeks! I had a lot of things going on at work and school!
 
 ## Knock them dead!
----
-Ana: I've got a great new design ready to go!
 
-Bob: Great! Looks good! That should knock 'em dead!
-
----
 ## Make yourself at home
----
 
-Ana: Hi Bob! Thanks for inviting me over!
-
-Bob: Come on in! Make yourself at home.
-
-Ana: Hey, is that a bottle of red wine?
-
-Bob: Sure, help yourself!
-
----
 ## Break a leg!
-Ana: Good luck at your performance tonight!
-
-Bob: Ana! It's bad luck to wish an actor good luck before a show!
-
-Ana: Oh right! Break a leg!
 
 ## Cut The Mustard
 Meaning: To cut the mustard is to meet a required standard, or to meet expectations.
@@ -9689,16 +9905,7 @@ exit date
   
 
 ## analysis
----
-Ana: What is your analysis of the situation?
 
-Bob: Which situation are you [talking about,referring to]?
-
-Ana: I'm referring to the situation of the roads in downtown...
-
-Bob: This morning the situation was very stressful and dreadful. I hope that the situation will be better when I leave work tonight.
-
----
 ## episode
 * I remember an episode in my life when I fell out of a tree.
   
