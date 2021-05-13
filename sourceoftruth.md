@@ -59,7 +59,7 @@ Since you are here, I will show you.
 
 
 ##  so
-*  So is used to show result
+* So is used to show result
 
 <details><summary><b>examples</b></summary>
 <p>
@@ -4781,6 +4781,15 @@ https://i.imgur.com/D6KFFLx.png
 * Yo!  (informal)
 
 # phrases
+
+## dancing on the edge of a knife
+* He's dancing on the edge of a knife.
+
+## on thin ice
+* You better be careful! You are on thin ice.
+
+## you are on the razor's edge
+* You are on the razor's edge!
 
 ## constantly on alert for something
 * I'm constantly on alert for fire!
