@@ -236,6 +236,11 @@ die/pass away
 
 # dialogs
 
+---
+
+Ana:   What is your opinion of the current weather?
+
+Bob:   I like this weather! The snow is beautiful!  I went by foot to the park and it was magnificent!
 
 ---
 
@@ -1614,9 +1619,7 @@ Bob:  I like to drink herbal tea or water!
 
 ## dialog: opinion
 
-Ana:   What is your opinion of the current weather?
 
-Bob:   I like this weather! The snow is beautiful!  I went by foot to the park and it was magnificent!
 
 
 
@@ -4781,6 +4784,15 @@ https://i.imgur.com/D6KFFLx.png
 * Yo!  (informal)
 
 # phrases
+
+## no holds barred
+The fight was really bad! It was no holds barred.
+
+## hit below the belt
+
+
+## cook up a storm
+* She cooks up a storm when her friends come over.
 
 ## dancing on the edge of a knife
 * He's dancing on the edge of a knife.
