@@ -4783,7 +4783,19 @@ https://i.imgur.com/D6KFFLx.png
 * Hiya! (informal)
 * Yo!  (informal)
 
+
+
 # phrases
+
+
+# to touch base
+
+
+## There's more than one way to skin a cat.
+We can do it any way you like! There's more than one way to skin a cat.
+
+## italian strike
+Do the job but do the job poorly, that's an Italian strike.
 
 ## no holds barred
 The fight was really bad! It was no holds barred.
