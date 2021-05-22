@@ -2161,7 +2161,7 @@ My daughter is very opinionated.
 * May I borrow your laptop today?
 * She borrowed her friend's phone to make a call to the police.
 
-## qualify qualified 
+## qualify qualified  (d) (reg)
 
 ## block blocked (t) (reg)
 * We are blocked, we can't continue.
@@ -2180,7 +2180,7 @@ My daughter is very opinionated.
 ## yawn yawned (d) (reg)
 * I will be yawning all day long if I don't get a nap right now!
 
-## tour toured (reg)  
+## tour toured (d) (reg)  
 * When we tour a new country we always [hire a guide, buy a guide book].
 
 
@@ -4787,18 +4787,25 @@ https://i.imgur.com/D6KFFLx.png
 
 # phrases
 
+# don't sweat the small stuff
+* My grandmother told me not to sweat the small stuff.
 
-# to touch base
+
+## we were at a total standstill
+* After the server went down, we were at a total standstill!
+
+
+## to touch base
 
 
 ## There's more than one way to skin a cat.
-We can do it any way you like! There's more than one way to skin a cat.
+* We can do it any way you like! There's more than one way to skin a cat.
 
 ## italian strike
-Do the job but do the job poorly, that's an Italian strike.
+* Do the job but do the job poorly, that's an Italian strike.
 
 ## no holds barred
-The fight was really bad! It was no holds barred.
+* The fight was really bad! It was no holds barred.
 
 ## hit below the belt
 
@@ -9957,6 +9964,8 @@ exit date
 # opposites
 
 sincere<>insincere
+
+innocent<>guilty
 
 sane<>insane
 
