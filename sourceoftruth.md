@@ -4787,6 +4787,8 @@ https://i.imgur.com/D6KFFLx.png
 
 # phrases
 
+# put in my two senses
+
 # don't sweat the small stuff
 * My grandmother told me not to sweat the small stuff.
 
