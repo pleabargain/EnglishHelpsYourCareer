@@ -3610,6 +3610,7 @@ I shouldn't have said anything!
 
 ## update updated (id) (reg)
 * We couldn't update the system.
+* They had updated the service earlier.
 
 
 ## understand understood understood (irr)
