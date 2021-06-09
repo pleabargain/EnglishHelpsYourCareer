@@ -2253,6 +2253,9 @@ My daughter is very opinionated.
 ## experience experienced (t) (reg)
 
 
+## elaborate elaborated (id)  (reg)
+
+
 
 ## expect expected (id) (reg)
 * I didn't expect to hear back from her.
@@ -4677,7 +4680,6 @@ https://i.imgur.com/D6KFFLx.png
 * Healthcare has cost  ten percent more this year.
 
 
-
 ## turn turned (d)(reg) 
 * It turned out that after the meeting was done, the only thing left to do was go back to work.
 
@@ -4742,55 +4744,58 @@ https://i.imgur.com/D6KFFLx.png
 * I got bored after awhile.
 * I was bored out of my mind.
 
-# prefixes
-
-# roots
-
-# suffixes
-
-# emotions
-['accomplished', 'aggravated', 'alive', 'alone', 'amazed', 'amazing', 'amused', 'angry', 'annoyed', 'anxious', 'awesome', 'awful', 'bad', 'beautiful', 'better', 'blah', 'blessed', 'bored', 'broken', 'chill', 'cold', 'comfortable', 'confident', 'confused', 'content', 'cool', 'crappy', 'crazy', 'curious', 'depressed', 'determined', 'disappointed', 'down', 'drained', 'drunk', 'ecstatic', 'emotional', 'energized', 'excited', 'exhausted', 'fantastic', 'fat', 'free', 'fresh', 'frustrated', 'full', 'funny', 'good', 'grateful', 'great', 'guilty', 'happy', 'heartbroken', 'helpless', 'hopeful', 'hopeless', 'horrible', 'hot', 'hungry', 'hurt', 'impatient', 'in love', 'incomplete', 'inspired', 'irritated', 'lazy', 'lonely', 'lost', 'loved', 'lovely', 'lucky', 'mad', 'meh', 'miserable', 'motivated', 'nervous', 'nostalgic', 'OK', 'old', 'optimistic', 'overwhelmed', 'pained', 'pissed', 'pissed off', 'positive', 'pretty', 'proud', 'pumped', 'ready', 'refreshed', 'relaxed', 'relieved', 'rough', 'sad', 'safe', 'satisfied', 'scared', 'sexy', 'shocked', 'sick', 'silly', 'sleepy', 'sore', 'sorry', 'special', 'stressed', 'strong', 'stupid', 'super', 'surprised', 'terrible', 'thankful', 'tired', 'uncomfortable', 'upset', 'weak', 'weird', 'well', 'wonderful', 'worried']
-
-# asking for time
-* Give me a second.
-
-# greetings
-* How are you?
-* How are you doing?
-* How have you been?
-* What’s up? 
-* What’s new?
-* Pleased to meet you. 
-* What’s going on?
-* Good to see you. 
-* Nice to meet you.
-* How’s your day?
-* How’s everything? 
-* How are things?
-* How’s life?
-* How’s your day going?
-* Nice to see you.
-* Long time no see! 
-* It’s been a while!
-* How do you do?
-* Yo! (informal)
-* What's shaking man? (informal)
-* Are you OK? (informal)
-* You alright? (informal)
-* Alright mate? (informal)
-* Howdy! (informal)
-* Whazzup? (informal)
-* Sup? (informal)
-* Hiya! (informal)
-* Yo!  (informal)
-
-
 
 # phrases
 
-# put in my two senses
+## go through the motions
+* I just went through the motions!
+* 
 
-# don't sweat the small stuff
+## an eye opener
+
+## start from scratch
+
+
+## make from scratch
+
+## don't sweat the small stuff
+* My grandmother told me not to sweat the small stuff.
+
+## don't overthink it
+
+
+
+## it's foolhardy
+* It's foolhardy to think that human behavior will change any time soon.
+* It's foolhardy to think that everyone will agree with you!
+
+
+## in my humble opinion (IMHO)
+* In my humble opinion, you are wrong.
+
+## no strings attached
+* You promised me that there were no strings attached but now you are asking for more from me!
+
+## to nail it
+* You nailed it! You got it right!
+
+## I'm looking forward to seeing...
+* I'm looking forward to seeing to how they do it.
+* I'm looking forward to seeing you next week.
+  
+## asking for time
+* Give me a second.
+
+
+## planned obsolescence
+* There is evidence that planned obsolescence is systematic.
+
+## eye opening experience
+* My first colonoscopy was an eye opening experience!
+
+## put in my two senses
+
+## don't sweat the small stuff
 * My grandmother told me not to sweat the small stuff.
 
 
@@ -5198,9 +5203,21 @@ https://i.imgur.com/D6KFFLx.png
 * I hung out with my school buddies at the cafe.
 
 ## it forces me to think
+* This will force me to rethink the situation.
 
+##  take on a situation
+* My take on the situation is X.
+
+## might give it some thought
+* I might give it some thought.
+
+
+
+## pain in the ass
+* This is a real pain in the ass!
 
 ## to get back on track
+* We need to get back on track.
 
 ## don't fall off the radar
 
