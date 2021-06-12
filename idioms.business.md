@@ -2,7 +2,6 @@
 
 When something unfortunate happens, it can be called a "tough break."
 
-
 <details><summary><b>Examples</b></summary>
 <p>
 It was a tough break for us when Dennis quit. He was one of our top performers.
@@ -13,10 +12,8 @@ It was a tough break for us when Dennis quit. He was one of our top performers.
 
 To be "ahead of the curve" means to be more advanced than the competition.
 
-
 <details><summary><b>Examples</b></summary>
 <p>
-
 We're investing a lot of money in research and development so we can stay ahead of the curve.
 </p>
 </details>
@@ -26,15 +23,11 @@ We're investing a lot of money in research and development so we can stay ahead 
 
 To be "ahead of the pack" means to be better or more successful than the competition.
 
-
 <details><summary><b>Examples</b></summary>
 <p>
 If we want to stay ahead of the pack, we're going to have to work hard and continue to innovate.
-
 </p>
 </details>
-
-
 
 
 ## at stake
@@ -66,7 +59,6 @@ something different. We're back to square one, unfortunately.
 </details>
 
 
-
 ## back to the drawing board
 
 To go "back to the drawing board" means to start something over and go back to the planning stage.
@@ -82,7 +74,6 @@ The prototype wasn't successful. We have to go back to the drawing board.
 A "backroom deal" is an agreement or decision that is made without the public knowing about it.
 <details><summary><b>Examples</b></summary>
 <p>
-
 I think they got the government contract because of a backroom deal.
 
 A backroom deal is another way of saying corrupt practices.
@@ -94,7 +85,6 @@ A backroom deal is another way of saying corrupt practices.
 A "ballpark number" is a very inexact estimate.
 <details><summary><b>Examples</b></summary>
 <p>
-
 I'm not sure what a Super Bowl commercial costs, but to give you a ballpark figure I'd say about three million dollars.
 </p>
 </details>
@@ -104,7 +94,6 @@ I'm not sure what a Super Bowl commercial costs, but to give you a ballpark figu
 What happens in secret or not in front of the general public is said to happen "behind the scenes."
 <details><summary><b>Examples</b></summary>
 <p>
-
 They make it look so effortless, but they do a lot of hard work and planning behind the scenes.
 </p>
 </details>
@@ -115,21 +104,19 @@ Everything that is involved with a particular
 situation is called "the big picture."
 <details><summary><b>Examples</b></summary>
 <p>
-
 Even though we all have very specific tasks to do, our manager makes sure we don't lose sight of the big picture.
 </p>
 </details>
 
 ## blue collar
 
-A "blue collar worker" is someone who works with his hands (manufacturing, construction,
-maintenance, etc.).
+A "blue collar worker" is someone who works with his hands (manufacturing, construction, maintenance, etc.).
 
-The opposite is a "white collar worker." A white collar worker is someone who works in an office (customer service, management, sales, etc.). "Blue collar" (and "white collar") can also be used to describe a job, position, or a place. It's a blue collar town with a lot of farmers and factory workers.
+The opposite is a "white collar worker." A white collar worker is someone who works in an office (customer service, management, sales, etc.). "Blue collar" (and "white collar") can also be used to describe a job, position, or a place. 
 
 <details><summary><b>Examples</b></summary>
 <p>
-We are regularly audited by several regulatory agencies. It's important that we do everything by the book.
+It's a blue collar town with a lot of farmers and factory workers.
 </p>
 </details>
 
@@ -149,7 +136,6 @@ We are regularly audited by several regulatory agencies. It's important that we 
 To "call it a day" means to decide to stop working for the day.
 <details><summary><b>Examples</b></summary>
 <p>
-
 Well, John, it's 7:00 and I'm getting hungry. How about we call it a day?
 </p>
 </details>
@@ -159,8 +145,8 @@ Well, John, it's 7:00 and I'm getting hungry. How about we call it a day?
 To "catch someone off guard" means to surprise someone by doing something that he or she was not expecting.
 <details><summary><b>Examples</b></summary>
 <p>
-
 Mike was caught off guard when they asked him to direct the meeting.
+She was caught off guard by his question.
 </p>
 </details>
 
@@ -168,14 +154,19 @@ Mike was caught off guard when they asked him to direct the meeting.
 
 To "cave" or "cave in" means to give in or agree to something that someone previously did not want to accept.
 
+<details><summary><b>Examples</b></summary>
+<p>
 The employees complained about the change in policy, but the supervisor refused to cave in.
+</p>
+</details>
+
+
 ## change of pace
 
 "A change of pace" is something different from a normal routine or schedule.
 
 <details><summary><b>Examples</b></summary>
 <p>
-
 It's nice to go on business trips because it's a change of pace.
 </p>
 </details>
@@ -186,7 +177,7 @@ To "come up short" means to try to achieve something but fail. We often say that
 
 <details><summary><b>Examples</b></summary>
 <p>
-The charity fund raiser was supposed to raise three million dollars, but we came up short.
+The charity fund raiser was supposed to raise three million dollars, but it came up short.
 </p>
 </details>
 
@@ -206,7 +197,6 @@ Apple has tried to corner the market on smart phones. They have a large percenta
 To "cut corners" means to take shortcuts and find an easier or cheaper way to do something.
 <details><summary><b>Examples</b></summary>
 <p>
-
 We don't cut corners on our luxury products.
 </p>
 </details>
@@ -216,7 +206,6 @@ We don't cut corners on our luxury products.
 To "cut one's losses" means to stop doing something that is unproductive and won't ever generate results.
 <details><summary><b>Examples</b></summary>
 <p>
-
 Our advertising campaign was expensive and not showing any positive results, so we cut our losses.
 </p>
 </details>
@@ -226,9 +215,8 @@ Our advertising campaign was expensive and not showing any positive results, so 
 "Cut-throat" is used to describe something that is very intense, aggressive, and merciless.
 <details><summary><b>Examples</b></summary>
 <p>
-
 In business school, the competition was cut-throat.
-
+As in life, in business: everything is cut-throat.
 </p>
 </details>
 
@@ -237,7 +225,6 @@ In business school, the competition was cut-throat.
 A "diamond in the rough" is something or someone that has a lot of potential but first requires a lot of work.
 <details><summary><b>Examples</b></summary>
 <p>
-
 He was a diamond in the rough. He was intelligent and had great ideas, but his management and English skills weren't very good.
 </p>
 </details>
@@ -247,9 +234,7 @@ He was a diamond in the rough. He was intelligent and had great ideas, but his m
 "Easy come, easy go," is an expression used to communicate that something gained easily is also lost easily. We often use this expression after something has been lost.
 <details><summary><b>Examples</b></summary>
 <p>
-
 A lot of people who inherit money waste it on stupid things. I guess it's easy come, easy go.
-
 </p>
 </details>
 
@@ -258,9 +243,8 @@ A lot of people who inherit money waste it on stupid things. I guess it's easy c
 If you start a business, project, or  something else from zero, you start it "from the ground up."
 <details><summary><b>Examples</b></summary>
 <p>
-
 Bill Gates built Microsoft from the ground up.
-
+Entrepreneurs often have to start from the ground up.
 </p>
 </details>
 
@@ -279,7 +263,6 @@ They're not sure what their game plan is for the upcoming election.
 To "get back in/into the swing of things" means to get used to doing something again after having a break from that activity.
 <details><summary><b>Examples</b></summary>
 <p>
-
 Our company shuts down operations for three weeks during the holiday season. When I go back to work in January, it's difficult to get back in the swing of things.
 </p>
 </details>
@@ -289,7 +272,6 @@ Our company shuts down operations for three weeks during the holiday season. Whe
 To "get down to business" means to stop making small talk and start talking about serious topics related to business.
 <details><summary><b>Examples</b></summary>
 <p>
-
 Now that everyone's here, let's get down to business and talk about the proposal.
 </p>
 </details>
@@ -299,9 +281,6 @@ Now that everyone's here, let's get down to business and talk about the proposal
 To "get something off the ground" means to start a project or business.
 <details><summary><b>Examples</b></summary>
 <p>
-
-
-
 We're glad the planning process is over. We're looking forward to getting the project off the ground.
 </p>
 </details>
@@ -311,11 +290,7 @@ We're glad the planning process is over. We're looking forward to getting the pr
 To "get the ball rolling" means to start something (a project, for example).
 <details><summary><b>Examples</b></summary>
 <p>
-
 We need to get the ball rolling on this project. The deadline is in June, and it's already April.
-
-
-
 </p>
 </details>
 
@@ -324,7 +299,6 @@ We need to get the ball rolling on this project. The deadline is in June, and it
 If someone likes you, you are "on the good side" of that person.
 <details><summary><b>Examples</b></summary>
 <p>
-
 I always remember my coworkers' birthdays and get them a card or small gift. I like to get on people's good side.
 
 I've been trying to get on the good side of my mother-in-law.
@@ -367,7 +341,6 @@ I can't believe she gave us the thumbs down. I thought it was a great idea.
 To "give something or someone the thumbs up" means to give approval.
 <details><summary><b>Examples</b></summary>
 <p>
-
 They gave our new proposal the thumbs up. We're going out to celebrate tonight.
 </p>
 </details>
@@ -389,9 +362,9 @@ The restaurant went broke during the pandemic.
 When someone wastes or loses something, it is said to "go down the drain."
 <details><summary><b>Examples</b></summary>
 <p>
-
 He dropped out of college in his third year and never continued his studies. All of his hard work and money went down the drain.
 
+We watched all of our efforts go down the drain as the river carried away our farm.
 
 </p>
 </details>
@@ -426,7 +399,6 @@ If something is in a "gray area,” it means that it is something undefined and 
 <details><summary><b>Examples</b></summary>
 <p>
 I asked our lawyers if it was legal, and they said it wasn't clear. It's a gray area.
-
 
 </p>
 </details>
@@ -470,7 +442,6 @@ She has to sell $35,000 worth of products by the end of the month. She has her w
 To "hit the nail on the head" means to do or say something 100% correctly.
 <details><summary><b>Examples</b></summary>
 <p>
-
 I agree with John 100%. I think he really hit the nail on the head.
 
 </p>
@@ -511,7 +482,7 @@ We're not having a great year, but at least we're in the black.
 To be "in the driver's seat" means to be in control.
 <details><summary><b>Examples</b></summary>
 <p>
-I'm not used to being in the driver's seat. I should probably buy some management books.
+I'm not used to being in the driver's seat. I should probably read some management books.
 </p>
 </details>
 
@@ -533,7 +504,7 @@ To "keep one's eye on the ball" means to give something one's full attention and
 <details><summary><b>Examples</b></summary>
 <p>
 
-I know we can do it. We just need to keep our eyes on the ball and not lose focus.
+I know we can do it. We just need to keep our eye on the ball and not lose focus.
 </p>
 </details>
 
@@ -570,14 +541,11 @@ Winning the lottery is a long shot, but millions of people still buy lottery tic
 
 ## loophole
 
-A legal "loophole" occurs if a law is unclear or omits
-information.
+A legal "loophole" occurs if a law is unclear or omits information.
 <details><summary><b>Examples</b></summary>
 <p>
 
-This lack of legal clarity allows people or corporations to pay less in taxes or gain some
-other advantage. Some people complain that millionaires avoid paying taxes by finding loopholes
-in tax laws.
+This lack of legal clarity allows people or corporations to pay less in taxes or gain some other advantage. Some people complain that millionaires avoid paying taxes by finding loopholes in tax laws.
 </p>
 </details>
 
@@ -605,8 +573,7 @@ It's a lose-lose situation. If they lay off more workers, they'll get bad press.
 
 ## no brainer
 
-If a decision is really obvious or really easy to
-make, the decision is a "no brainer."
+If a decision is really obvious or really easy to make, the decision is a "no brainer."
 <details><summary><b>Examples</b></summary>
 <p>
 
@@ -621,7 +588,7 @@ If a solution isn't effective, we can say that it "isn't going to fly."
 <details><summary><b>Examples</b></summary>
 <p>
 
-I don't think that's going to fly. Let's keep generating ideas.
+I don't think that idea is going to fly. We need something better.
 
 </p>
 </details>
@@ -634,6 +601,8 @@ thinking about it much or doing any research on the subject.
 <p>
 
 I have no idea how many branches they have. Off the top of my head, I'd say about 20.
+
+Off the top of my head, I'd say that it'll cost about 50USD.
 </p>
 </details>
 
@@ -642,10 +611,8 @@ I have no idea how many branches they have. Off the top of my head, I'd say abou
 If someone is "on a roll," it means that he or she has had several successes in a row.
 <details><summary><b>Examples</b></summary>
 <p>
-
 Our profits have been above our projected numbers for five months in a row. We're really on a
 roll.
-
 </p>
 </details>
 
@@ -677,6 +644,8 @@ To be "on top of something" means to be in control of a situation and aware of c
 <details><summary><b>Examples</b></summary>
 <p>
 I read a lot to stay on top of the latest changes in my industry.
+
+We're not on top of this situation. It keeps getting worse!
 </p>
 </details>
 
@@ -699,6 +668,8 @@ If something is "out in the open," it is public knowledge and not hidden from pe
 
 I think it's good to do things out in the open because people get suspicious if you do things in
 secret.
+
+Well, now that the bad news is out in the open, can we talk about it?
 </p>
 </details>
 
@@ -726,8 +697,7 @@ They gave him the pink slip. He wasn't performing very well.
 
 ## play hardball
 
-To "play hardball" means to be competitive in a cruel and merciless way. Playing hardball means
-doing anything possible to win.
+To "play hardball" means to be competitive in a cruel and merciless way. Playing hardball means doing anything possible to win.
 <details><summary><b>Examples</b></summary>
 <p>
 He played hardball to get where he is, so I would be careful what you say and do around him.
