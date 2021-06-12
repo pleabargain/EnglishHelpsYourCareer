@@ -1088,7 +1088,7 @@ There are mostly manufacturing positions outside of the city. There aren't many 
 The "writing on the wall" refers to the evidence and clues that something (usually negative) is going to happen.
 <details><summary><b>Examples</b></summary>
 <p>
-I'm going to get my resume ready. I can see the writing on the wall.
+I'm going to update my resume. I can see the writing on the wall.
 
 This project is doomed. The writing is on the wall.
 </p>
