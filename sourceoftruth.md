@@ -1,236 +1,3 @@
-# modals
-* can
-* could
-* will
-* would
-* shall (super polite, almost deprecated)
-* should
-* must
-* may (super polite, almost deprecated)
-* might
-* need
-* It [[MODAL],will,can, could,must, should, would, may, might] be very [ADJECTIVE, simple, easy, hard, boring, difficult,annoying, frustrating, confusing].
-
-
-# conjunctions
-## despite
-*  despite is used to introduce a fact that is in sharp contrast with another fact.
-
-<details><summary><b>examples</b></summary>
-<p>
-Despite all her faults, everybody like her.
-
-</p>
-</details>
-
-
-## provided
-*  provided means if or only if
-<details><summary><b>examples</b></summary>
-<p>
-They can stay provided they don't make any noise.
-
-</p>
-</details>
-
-
-## unless
-*  Unless means except on the condition that
-<details><summary><b>examples</b></summary>
-<p>
-You don't need to go unless you want to.
-
-Don't open that 5liter bottle of wine unless you are planning to have a party!
-</p>
-</details>
-   
-
-
-
-## since
-*  since is used to show result
-
-<details><summary><b>examples</b></summary>
-<p>
-Since you are here, I will show you.
-</p>
-</details>
-   
-
-
-##  so
-* So is used to show result
-
-<details><summary><b>examples</b></summary>
-<p>
-We won the lottery so we bought a new house.
-</p>
-</details>
-
-##  if
-*  show conditions
-
-<details><summary><b>examples</b></summary>
-<p>
-Let me know if you are going to the store.
-</p>
-</details>
-
-##  yet
-*  shows contrast or joins opposites
-
-<details><summary><b>examples</b></summary>
-<p>
-We haven't finished the task yet.
-</p>
-</details>
-
-
-
-##  after
-*  order, sequence
-<details><summary><b>examples</b></summary>
-<p>
-We can leave after they bring out the cake.
-
-</p>
-</details>
-
-
-
-##  because
-* because is used to show reason
-<details><summary><b>examples</b></summary>
-<p>
-We have to leave early because there is a storm blowing in.
-
-</p>
-</details>
-
-
-
-##  although
-* show two opposite statements
-<details><summary><b>examples</b></summary>
-<p>
-Although he sings rarely, he's quite good at Karaoke.
-</p>
-</details>
-
-
-
-##  whereas
- * show contrast
-<details><summary><b>examples</b></summary>
-<p>
-She is quite tall whereas her husband is very short.
-</p>
-</details>
-
-
-
-##  but
-* used to join two ideas that are opposites
-<details><summary><b>examples</b></summary>
-<p>
-I am very hungry but the fridge is empty.
-</p>
-</details>
-
-
-
-##  besides
-* in addition to, also. It is a preposition.
-<details><summary><b>examples</b></summary>
-<p>
-She has a night job besides her day job.
-</p>
-</details>
-
-
-
-##  unlike
-*  different from, not similar to
-<details><summary><b>examples</b></summary>
-<p>
-She is completely unlike her husband.
-</p>
-</details>
-
-
-
-
-##  therefore
-* show result/effect of an action
-<details><summary><b>examples</b></summary>
-<p>
-She came first. Therefore she got a good seat.
-</p>
-</details>
-
-
-
-
-
-* For
-* And
-* Nor
-* But
-* Or
-* Yet
-* So
-* Nevertheless
-* Moreover
-
-# life
-be born
-learn to cry
-learned how to be held
-learn to hold head up
-learn to turn over
-learn to sit alone
-learn to hold the bottle
-learn to crawl
-learn to escape from the bed
-learn to stand
-get the first tooth
-learn to speak first words
-learn to walk
-learn to read
-learn to count
-learn how to ride a bike
-start school
-made friends
-lose the first tooth
-graduate from high school
-go to a technical college
-attended a technical college
-learn how to drive a car
-go to college
-learn how to program
-go to university
-rent an apartment
-get a job
-commute to work
-buy a car
-date
-fall in love
-get engaged
-get married
-buy a house/an apartment
-be pregnant
-have a baby
-raise a family
-move
-get sick
-take a vacation
-celebrate a birthday
-celebrate an anniversary
-celebrate a wedding
-become a grandparent
-retire
-travel
-die/pass away
 
 
 
@@ -273,7 +40,6 @@ Ana: Everything ok?
 
 Bob: Yeah. We're good.
 
----
 
 ---
 
@@ -281,7 +47,7 @@ Ana: What were you doing yesterday at lunch time?
 
 Bob: I was being examined by my doctor. (past-continuous)
 
----
+
 
 ---
 
@@ -1607,14 +1373,7 @@ I hope he hasn't had an accident. He said he would be here
 
 
 
-## dialog: coffee
-Ana: What kind of coffee do you prefer?
 
-Bob: I prefer to not drink coffee at all!
-
-Ana:  What do you like to drink?
-
-Bob:  I like to drink herbal tea or water!
 
 
 ## dialog: opinion
@@ -4746,6 +4505,8 @@ https://i.imgur.com/D6KFFLx.png
 
 
 # phrases
+
+## atone for sins
 
 ## go through the motions
 * I just went through the motions!
