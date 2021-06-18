@@ -5,6 +5,8 @@ When something unfortunate happens, it can be called a "tough break."
 <details><summary><b>Examples</b></summary>
 <p>
 It was a tough break for us when Dennis quit. He was one of our top performers.
+
+We all agreed it was a tough break when our customer decided not to continue the contract.
 </p>
 </details>
 
@@ -15,6 +17,11 @@ To be "ahead of the curve" means to be more advanced than the competition.
 <details><summary><b>Examples</b></summary>
 <p>
 We're investing a lot of money in research and development so we can stay ahead of the curve.
+
+Our company is ahead of the technology curve.
+
+Magento is ahead of the curve when compared to other e-commerce platforms.
+
 </p>
 </details>
 
@@ -26,6 +33,9 @@ To be "ahead of the pack" means to be better or more successful than the competi
 <details><summary><b>Examples</b></summary>
 <p>
 If we want to stay ahead of the pack, we're going to have to work hard and continue to innovate.
+
+Developers need to stay on the cutting edge of the  technology curve to stay ahead of the pack.
+
 </p>
 </details>
 
@@ -53,8 +63,13 @@ To go "back to square one" means to start something over again.
 <details><summary><b>Examples</b></summary>
 <p>
 
-Our programmers identified what they thought the problem was with the software. After working for several hours, it turns out that the problem is
-something different. We're back to square one, unfortunately.
+Our programmers identified what they thought the problem was with the software. After working for several hours, it turns out that the problem is something different. We're back to square one, unfortunately.
+
+My friend moved to Kyiv to open his own business but he failed and returned home to square one.
+
+My friend moved to Kyiv to open his own business but he failed and returned to his village and back to square one.
+
+
 </p>
 </details>
 
@@ -105,6 +120,14 @@ situation is called "the big picture."
 <details><summary><b>Examples</b></summary>
 <p>
 Even though we all have very specific tasks to do, our manager makes sure we don't lose sight of the big picture.
+
+We lost track of the big picture and the client wasn't happy.
+
+I don't see the big picture here.Why are we doing this?
+
+We can create this feature for you but we need the big picture to know if this is the right solution.
+
+
 </p>
 </details>
 
@@ -240,11 +263,16 @@ A lot of people who inherit money waste it on stupid things. I guess it's easy c
 
 ## from the ground up
 
-If you start a business, project, or  something else from zero, you start it "from the ground up."
+If you start a business, project, or  something else from zero, you start it "from the ground up." synonym : from scratch
 <details><summary><b>Examples</b></summary>
 <p>
 Bill Gates built Microsoft from the ground up.
+
 Entrepreneurs often have to start from the ground up.
+
+We can't use the previous code. We must build this [module,service,API, function, script] from the ground up.
+
+
 </p>
 </details>
 
@@ -399,6 +427,9 @@ If something is in a "gray area,” it means that it is something undefined and 
 <details><summary><b>Examples</b></summary>
 <p>
 I asked our lawyers if it was legal, and they said it wasn't clear. It's a gray area.
+
+The client isn't clear on their requirements which puts the whole project into a gray area.
+
 
 </p>
 </details>
@@ -911,11 +942,28 @@ If you want to fill out form 41-a and send it to the government, you have to do 
 </p>
 </details>
 
+## on track
+To be on track means on schedule.
+<details><summary><b>Examples</b></summary>
+<p>
+We are on track to complete on time.
+</p>
+</details>
+
+
+
+
 ## stand one's ground
 
 To "stand one's ground" means to not change one's opinion or position.
 <details><summary><b>Examples</b></summary>
 <p>
+
+Management stood its ground in the face of repeated attacks from the unions.
+
+
+Clare stood her ground in the meeting and refused to be intimidated even when Michael got angry.
+
 
 We tried to change the dress code, but Human Resources stood their ground.
 </p>
@@ -927,6 +975,10 @@ We tried to change the dress code, but Human Resources stood their ground.
 To "take the bull by the horns" means to directly confront a difficult situation.
 <details><summary><b>Examples</b></summary>
 <p>
+Why don't you take the bull by the horns and tell him to leave?
+
+
+
 One of our mid-level managers wasn't very popular and was causing some problems, so we took the bull by the horns and replaced him with somebody else.
 
 </p>
@@ -940,6 +992,8 @@ To "start off on the right foot" means to start something in a positive way.
 <details><summary><b>Examples</b></summary>
 <p>
 
+He really got off on the right foot with my mother.
+
 We offered them a very generous price on their first order and everything shipped on time. We really started off on the right foot.
 </p>
 </details>
@@ -950,6 +1004,8 @@ To "take something lying down" means to accept something unpleasant without figh
 <details><summary><b>Examples</b></summary>
 <p>
 The proposed law would kill our industry, but we're not going to take it lying down. We're going to fight back and make sure the law isn't passed.
+
+I can’t take that criticism lying down.
 </p>
 </details>
 
@@ -960,6 +1016,8 @@ To "talk someone out of something" means to convince someone not to do something
 <details><summary><b>Examples</b></summary>
 <p>
 I wanted to make a real estate investment, but my financial adviser talked me out of it.
+
+I talked him out of running on his sore ankle.
 
 My daughter wants to become a mercenary and fight in Syria. We are trying to talk her out of it.
 
@@ -972,6 +1030,8 @@ My daughter wants to become a mercenary and fight in Syria. We are trying to tal
 "The elephant in the room" refers to an obvious problem or controversial issue that no one wants to talk about.
 <details><summary><b>Examples</b></summary>
 <p>
+
+I don't want to ask the question, but it is the big elephant in the room.
 
 We should have been talking about our huge debt, but no one wanted to talk about the elephant in the room.
 
@@ -998,6 +1058,8 @@ To "throw in the towel" means to quit.
 <details><summary><b>Examples</b></summary>
 <p>
 
+Three of the original five candidates for the presidential nomination have now thrown in the towel.
+
 I was trying to learn Russian, but I got frustrated and threw in the towel.
 </p>
 </details>
@@ -1008,7 +1070,13 @@ To "touch base" means to make contact with someone.
 <details><summary><b>Examples</b></summary>
 <p>
 
+I just wanted to quickly touch base with you: did you get an email from my secretary about the meeting?
+
 Let me make a few phone calls to try to get an answer to your question. I'll touch base with you later today.
+
+Can we chat later, I need to touch base with you on a couple of things.
+
+I don't know if I can join you for beers tonight! I need to touch base with my wife first.
 
 
 </p>
@@ -1020,6 +1088,8 @@ To "twist someone's arm" means to persuade or convince someone to do something t
 <details><summary><b>Examples</b></summary>
 <p>
 The owner thought the budget was a little high. We had to twist his arm to get him to agree to it.
+
+I didn’t want to go to the exhibition, but Linda twisted my arm.
 
 I hate to twist your arm on this but remember that your employee evaluation is coming up. You will complete this task before tomorrow.
 </p>
@@ -1034,6 +1104,9 @@ If something is undecided, it is "up in the air."
 We're looking for a test market right now, but nothing has been decided yet. Everything's still up in the air.
 
 We're still up in the air on which platform we should use.
+
+The whole future of the project is still up in the air.
+
 
 
 </p>
@@ -1051,6 +1124,8 @@ He doesn't have much support at the moment.
 
 The soldiers were climbing the hill and fighting the enemy on the hill top. It was an uphill battle.
 
+It'll be an uphill battle to get the new proposals accepted.
+
 
 </p>
 </details>
@@ -1062,6 +1137,8 @@ If someone has an advantage over someone else,
 he or she has the "upper hand."
 <details><summary><b>Examples</b></summary>
 <p>
+
+After hours of fierce negotiations, the president got the upper hand.
 
 John is more experienced and well respected, so
 he had the upper hand in the argument.
@@ -1078,9 +1155,12 @@ A "white collar worker" is someone who works in an office (customer service, man
 <p>
 There are mostly manufacturing positions outside of the city. There aren't many white-collar jobs.
 
+These days, few white-collar workers actually wear white shirts.
+
+The company plans to cut 1,450 white-collar jobs as part of a restructuring.
+
 </p>
 </details>
-
 
 
 ## writing on the wall
@@ -1089,6 +1169,12 @@ The "writing on the wall" refers to the evidence and clues that something (usual
 <details><summary><b>Examples</b></summary>
 <p>
 I'm going to update my resume. I can see the writing on the wall.
+
+The signal has been given and the writing is on the wall for those who want to read it.
+
+It will not disappear suddenly, but the writing is on the wall.
+
+The writing is on the wall and, as we know, some people are more equal than others when it comes to human rights.
 
 This project is doomed. The writing is on the wall.
 </p>
