@@ -1074,9 +1074,9 @@ I just wanted to quickly touch base with you: did you get an email from my secre
 
 Let me make a few phone calls to try to get an answer to your question. I'll touch base with you later today.
 
-Can we chat later, I need to touch base with you on a couple of things.
+Can we chat later? I need to touch base with you on a couple of things.
 
-I don't know if I can join you for beers tonight! I need to touch base with my wife first.
+I don't know if I will be able join you for beers tonight! I need to touch base with my wife first.
 
 
 </p>

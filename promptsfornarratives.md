@@ -542,7 +542,7 @@
 * If you and your spouse have disagreements about child rearing, what methods do you use?
 * Do you believe children should be seen and not heard? Why or why not?
 * If the doctors detected that your unborn child had a severe birth defect and they could easily abort it, would you still have the baby?
-* Do you think parents should provide cars for their teenagers if they are financial y able? Would you al ow your teenager to buy his or her own car if he or she had the funds?
+* Do you think parents should provide cars for their teenagers if they are financially able? Would you allow your teenager to buy his or her own car if he or she had the funds?
 
 
 # Childhood Memories
@@ -1295,25 +1295,7 @@ better: What languages were commonly used on your last project?
 * Do you save up for a vacation or do you put it all on credit and pay it off as you can?
 * How many weeks each year can you take off from work?
 
-# Travel
-* What sort of vacations do you like to take?
-* What do you think is the most beautiful place in the world you have seen?
-* What makes a good traveling companion?
-* Where in the World Would You Most Like to Travel?
-* What Is Your Fantasy Vacation?
-* What Would Your Fantasy Road Trip Be Like?
-* What Crazy Adventure Would You Want to Take?
-* What Local 'Microadventures' Would You Like to Go On?
-* What's Your Perfect Family Vacation?
-* How Has Travel Affected You?
-* What Kind of Tourist Are You?
-* What Are the Best Souvenirs You've Ever Collected While Traveling?
-* What Famous Landmarks Have You Visited?
-* What's the Coolest Thing You've Ever Seen in Nature?
-* How Much Do You Know About the Rest of the World?
-* Would You Like to Live in Another Country?
-* Would You Want to Be a Space Tourist?
-* If You Could Time-Travel, Where Would You Go?
+
 
 # Love, Romance & Date Nights
 * What crazy thing have you done in the name of "love"?
@@ -1432,35 +1414,7 @@ better: What languages were commonly used on your last project?
 * Do You Get Enough Sleep?
 
 
-# Meals & Food
-* Who do you think should be responsible for grocery shopping and cooking in a marriage? When you are married how many times a week do you think you would eat out?
-* What foods do you real y dislike? Are there any foods you don't eat for health or other reasons?
-* Do You Pay Attention to Calorie Counts for Food?
-* Do You Pay Attention to Nutrition Labels on Food?
-* How Concerned Are You About Where Your Food Comes From?
-* Do you live to eat or eat to live?
-* What Are Your 'Food Rules'?
-* What is your favorite cheese?
-* Are you a gourmet - enjoying trying al sorts of international cuisine or do you prefer to eat the same basic food al the time?
-* Is there anything you don't eat?
-* Have you been to any good restaurants recently?
-* What Are the Most Memorable Meals You've Ever Had?
-* What's Your Favorite Holiday Food Memory?
-* What's Your Comfort Food?
-* What Are Your Favorite Junk Foods?
-* What's Your Favorite Candy?
-* What's Your Favorite Sandwich?
-* Do You Prefer Your Tacos 'Authentic' or 'Appropriated'?
-* What Food Would You Like to Judge in a Taste-Off?
-* Do You Cook?
-* What Would You Most Like to Learn to Cook or Bake?
-* What Messages About Food and Eating Have You Learned From Your Family?
-* How Often Does Your Family Eat Together?
-* What Are Your Favorite Restaurants?
-* What Restaurant Would You Most Like to Review?
-* What Do You Eat During the School Day?
-* Do You Eat Cafeteria Food?
-* Is School Lunch Really All That Bad?
+
 
 
 # Home
