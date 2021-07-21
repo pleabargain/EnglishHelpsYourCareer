@@ -10,11 +10,13 @@
 * Watch YouTube channels in English:
   * field days (Australia)
 * Move to an English speaking country.
+* Interview at other companies.
 * You need to study an English dictionary every day!
 * You should listen to interviews in English of your favorite actor.
 * Don't be nervous when you are speaking!
 * Use flashcards to learn new words.
 * Don't be afraid to make mistakes.
+* Consume English media.
 * You should sing out loud in English.
 * Keep an English journal.
 * You should know and understand your weaknesses.

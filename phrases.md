@@ -6,7 +6,10 @@ She will do whatever you ask. She's such a pushover.
 
 # push back
 
+# your days are numbered
+I have to tell you that your days are numbered here. You will get fired on Friday!
 
+# moral obligation
 
 
 # I'm interested in how it turns out. 

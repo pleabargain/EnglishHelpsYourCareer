@@ -8,6 +8,7 @@
 * yesterday night (better = last night)
 * the Kyiv
 * should to know
+* recent time  better : recently
 * Do I need to answer to the question!
 * much more better
 * much more higher

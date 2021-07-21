@@ -1,4 +1,4 @@
-What new words have you learned since we last spoke?
+What new words in English have you learned since we last spoke?
 
 Is there something that you would like to talk about?
 
@@ -13,6 +13,8 @@ What [[topic books|books]] can you recommend?
 What [[topic movies|movies]] can you recommend?
 
 What have you done for fun recently?
+
+What will you be doing to improve your English in the future?
 
 
 

@@ -27,3 +27,27 @@
 * What Do You Eat During the School Day?
 * Do You Eat Cafeteria Food?
 * Is School Lunch Really All That Bad?
+
+# nouns
+lamb chops
+pork ribs
+beef ribs
+vegetables
+fish
+salad
+oven
+ribs
+salt 
+mutton
+
+
+
+# phrases
+culinary experience
+
+# adjectives
+tender <>tough
+
+# verb
+roast
+fry

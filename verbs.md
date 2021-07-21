@@ -10,6 +10,8 @@ verbs (pronunciation) (regular or irregular)
 * She added, "I don't want to lose track of him".
 * How did I lose track of those pants?
 
+## suppress suppressed (t) (reg)
+
 ## to be hungry
 ## to be amazed
 ## to be scared
