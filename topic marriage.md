@@ -1,6 +1,7 @@
 # questions
 * If your family hated the person you were dating and voiced strong opinion against you marrying him or her, would you get married anyway?
 * When did you get married?
+* What games do you like to play with your spouse?
 * How would you describe your marriage?
 * What's the key to a happy marriage?
 * What advice did your family offer about marriage?

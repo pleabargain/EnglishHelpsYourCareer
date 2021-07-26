@@ -29,23 +29,25 @@
   * books
   * interviews
   * questions
-* a lot of +nouns+s
+* a lot of + nouns + s
   * a lot of situations
   * a lot of tasks
   * a lot of stories
   * a lot of videos
 * many different situations
-* different +noun+s
+* different + noun + s
   * colors
   * things
-* many +noun+s
+## many + noun + s
   * organizations
   * times I stared off into space
-* a few +nouns+s
+  * too many variables
+  * too many people
+* a few + nouns + s
   * for a few days
   * a few things
   * a few people
-* all +nouns+s
+* all + nouns + s
   * all boxes
   * all children
   * all teams
@@ -91,4 +93,8 @@
   * different tasks
   * different platforms
   * different projects
-****
+
+
+# always singular
+feedback
+advice

@@ -106,7 +106,7 @@
 * Men, what do you think is the best thing about being a guy? Women, what do you think is the best thing about being a female?
 * Do you think of yourself as mechanical y inclined?
 * If you were given the opportunity to successfully run for president, would you do so? When you won, what three things would you most like to improve in your country?
-* If someone gave you one mil ion dol ars that you were required to give to some person or organization, who would you give it to?
+* If someone gave you one mil ion dollars that you were required to give to some person or organization, who would you give it to?
 * Do you enjoy hugging people? Do you like receiving hugs?
 * What five things have you done in your life that you are most proud of?
 * Tell me about the most emotional cry that you can recall.
@@ -326,13 +326,7 @@
 * How Good Are You at Saying Goodbye?
 * What are you thankful for?
 
-# investing
-* What investment do you want to buy?
-* Is now a good time to buy it?
-* How much of it should you buy?
-* What do you do if an investment is a winner?
-* What do you do if an investment is a loser?
-* What do you do if an investment is simply a laggard?
+
 
 # Role Models
 * What's the best advice anyone ever gave you?
@@ -363,26 +357,7 @@
 * Is [fishing,walking,singing,playing guitars] one of your hobbies?
 
 
-# Family
-* Is your family important to you? Why?
-* Who do you resemble (look like) in your family?
-* Who do you take after(behavior) in your family?
-* How far does your family tree go back?
-* Who Is Your Family?
-* How Do You Define 'Family'?
-* What Have You and Your Family Accomplished Together?
-* What events have brought You Closer to Your Family?
-* What's Your Role in Your Family?
-* Have You Ever Changed a Family Member's Mind?
-* How Well Do You Get Along With Your Siblings?
-* What Are Your Family Stories of Sacrifice?
-* What Possessions Does Your Family Treasure?
-* What Hobbies Have Been Passed Down in Your Family?
-* What's the Story Behind Your Name?
-* What Are Your Favorite Names?
-* How Have You Paid Tribute to Loved Ones?
-* What Do You Know About Your Family's History?
-* What Family Traditions Do You Want to Carry On When You Get Older?
+
 
 # Parents & Parenting
 * Did Your Parents Have a Life Before They Had Kids?
@@ -648,15 +623,6 @@
 * Why is alcohol legal and not marijuana?
 
 
-# Religion & Spirituality
-* What Is the Role of Religion or Spirituality in Your Life?
-* How Important Is Your Spiritual Life?
-* Do You Believe That Everything Happens for a Reason?
-* How Much Control Do You Think You Have Over Your Fate?
-* Can You Be Good Without God?
-* Are You Less Religious Than Your Parents?
-* Can You Pass a Basic Religion Test?
-* What Can You Learn From Other Religions?
 
 
 
@@ -758,21 +724,7 @@
 * What Are the Best Things in Life and Are They Free?
 
 
-# Technology
 
-* Are You Distracted by Technology?
-* Are You Distracted by Your Phone?
-* Are You 'Addicted' to Texting?
-* Do You Always Have Your Phone or Tablet at Your Side?
-* Do Screens Get in the Way of the Rest of Your Life?
-* Do You Experience Fear of Missing Out (FOMO) When You Unplug?
-* Does Your Digital Life Have Side Effects?
-* Do You Spend Too Much Time on Smartphones Playing 'Stupid Games'?
-* Do Apps Help You or Just Waste Your Time?
-* What Tech Tools Play the Biggest Role in Your Life?
-* What New Technologies or Tech Toys Are You Most Excited About?
-* To What Piece of Technology Would You Write a 'Love Letter'?
-* How would you use a full AR head set?
 
 
 # The Internet
@@ -797,56 +749,8 @@
 * Have You Ever Been Scammed?
 * Whom Would You Share Your Passwords With?
 
-# Social Media
-* If you were to start a YouTube channel what would you post?
-* How do you use Facebook?
-* What is your Facebook persona?
-* How real are you on social media?
-* What Memorable Experiences Have You Had on Facebook?
-* Does Facebook Ever Make You Feel Bad?
-* Would You Consider Deleting Your Facebook Account?
-* Do You Have 'Instagram Envy'?
-* Do You Use Twitter?
-* Why Do You Share Photos?
-* How Do You Archive Your Life?
-* Have You Ever Posted, Emailed or Texted Something You Wish You Could Take Back?
-* Have You Ever Sent an Odd Message Because of Auto-Correct?
-* Would You Want Your Photo or Video to Go Viral?
-* Do You Worry Colleges or Employers Might Read Your Social Media Posts Someday?
-* What Advice Do You Have for Younger Kids About Navigating Social Media?
 
-# Music
-* What type of music are you into?
-* If you could join any past or current music group which would you want to join?
-* Have you ever played any musical instruments? Which ones? And do you still play them?
-* Do you want to try to learn piano again?
-* What sort of limitations do you think you would want to place on your children regarding, television, music, magazines, Internet, etc.?
-* Do you like fast tempo music?
-* Which genre of music do you prefer?
-* What is your favorite singer or group?
-* Can you recommend to me a couple of your favorite songs?
-* Tell me your five favorite songs.
-* What are you listening to these days?
-* What songs are on your favorite playlist?
-* What musicians or bands mean the most to You?
-* What music inspires you?
-* Do you usually listen to music around the house? What kind? How loud?
-* Who in Your Life Introduces You to New Music?
-* How Much Is Your Taste in Music Based on What Your Friends Like?
-* What Are Your Earliest Memories of Music?
-* What Role Does Hip-Hop Play in Your Life?
-* Which Pop Music Stars Fascinate You?
-* Who Is Your Favorite Pop Diva?
 
----
-
-Ana: What's your favorite karaoke song?
-
-Bob: I don't sing karaoke song very often, so I don't really have a favorite.
-
----
-* Which Artists Would You Like to See Team Up?
-* How Closely Do You Listen to Lyrics?
 
 # Television
 
@@ -912,19 +816,7 @@ Bob: I don't sing karaoke song very often, so I don't really have a favorite.
 * Would You Trade Your Paper Books for Digital Versions?
 * To What Writer Would You Award a Prize?
 
-# Writing
-* Do You Keep a Diary or Journal?
-* Why Do You Write?
-* Are You a Good Storyteller?
-* What's Your Favorite Joke?
-* Do You Have a Blog?
-* Do You Want to Write a Book?
-* When Do You Write by Hand?
-* Do You Write in Cursive?
-* Do You Write in Your Books?
-* What 'Mundane Moments' From Your Life Might Make Great Essay Material?
-* What Is Your Most Memorable Writing Assignment?
-* Do You Ever Write About Challenges You Face in Life?
+
 
 # The Arts
 * What's the Coolest Thing You've Ever Seen in a Museum?
@@ -1261,41 +1153,6 @@ better: What languages were commonly used on your last project?
 * What Are Your Favorite games?
 * What Game Would You Like to Redesign?
 
-# vacations
-* Do you enjoy experiencing different ways of life or do you usually find it frustrating that they don't do things as efficiently or like the way things are done back home?
-* Have you ever traveled out of the country? Do you have a passport?
-* When does your passport expire?
-* Do you usual y do some business while you are on vacation (answering email, checking voicemail, returning phone calls, etc.)?
-* How much time each day? Is that pretty much necessary?
-* Would you rather take a one-week $5000 vacation or would you rather go on three different one-week vacations that cost $1700 each?
-* What is the maximum length vacation you think you could take away from work without causing a problem? If you were retired or between jobs how long could you be away?
-* If you could plan any vacation for us, where would it be?
-* When you travel, what is your usual goal (relax, sight see, see friends/family, do culture things, eat at new restaurants, etc.)?
-* Do you go back to the same places again and again or do you desire to go to new places most of the time when you travel?
-* Do you like to travel on the spur of the moment (hey, let's drive to the mountains next weekend)?
-* How many times during the year do you travel? How many times for business and how many pleasure vacations?
-* How much does your typical one week vacation cost (not including air fare)? Do you think you take budget vacations, moderate or expensive trips?
-* Do you fly as cheaply as possible or do you splurge for business or first class when going on vacation?
-* Do you tend to get sea sick or motion sick? What cures have you tried?
-* What was the best vacation you've ever taken?
-* Have you ever been on a group tour? What do you think about them?
-* Do you like to take vacations that are activity oriented (cycling trips, skiing trips, scuba trips, etc.)?
-* Do you enjoy camping? What eating/sleeping arrangements are tolerable?
-* Who looks after your home when you are away on vacation?
-* How do you handle the language barrier when you travel to foreign countries? Are you willing to visit places where your language might not be spoken?
-* Do you think you would enjoy going on a vacation with your sweetheart's family? Would you detest it or do you not know them well enough to decide?
-* What are your thoughts on separate vacations? If we had limited income and different travel priorities, do you think we should take vacations without each other every once in a while?
-* When you go on a vacation with someone, do you like doing everything together, most things together or most things on your own and then getting back together for meals?
-* If you and your mate each have an income and maintain separate accounts, how do you split the costs of a vacation?
-* What sort of research, if any, do you do before you travel somewhere?
-* How do you feel about going on weekend getaways?
-* If you enjoy traveling, what places do you like to go to most often?
-* Are there any places you have no desire to go to?
-* Do you arrive at the airport ahead of time in case problems arise or do you try to get there at the last possible minute so you don’t have to wait?
-* Do you save up for a vacation or do you put it all on credit and pay it off as you can?
-* How many weeks each year can you take off from work?
-
-
 
 # Love, Romance & Date Nights
 * What crazy thing have you done in the name of "love"?
@@ -1517,67 +1374,6 @@ better: What languages were commonly used on your last project?
 * How many hours of TV do you watch in an average day? When do you turn the television on and when do you turn it off?
 * If someone wanted to give you a $50 gift certificate to use on yourself, which store/theatre/spa would you tel him or her you wanted.
 
-# Holidays & Seasons
-* What is your opinion of International Women's Day!
-* What Organizations Do You Think People Should Give to This Holiday Season?
-* What is your favorite holiday? Why is it so special to you?
-* Do you think we should spend certain holidays with certain families or would you like to spend holidays alone (and with any kids we might have) for a change?
-* If you have children from another relationship, how do you negotiate with whom they spend the holidays?
-* What are your thoughts about couples renewing their vows?
-* Has anyone ever thrown an extra special birthday party for you?
-* What made it so memorable?
-* How much do you feel we should spend on Christmas? Who should we buy gifts for: friends, al relatives, co-workers, mailman, etc? Or do we want to try to celebrate it spiritual y without al the commercialism? If so, how do we celebrate it?
-* Do your religious beliefs prohibit the celebration of certain holidays?
-* Who should be responsible for sending holiday cards and thank you notes from the family?
-* How do you think a married couple should celebrate their wedding anniversary? Does it always have to be the same way?
-* Who should plan wedding anniversaries? Would you like to rotate?
-* Should we have a yearly budget?
-* How do you manage your budget?
-* How are you planning for your retirement?
-* How important is it that you spend the holidays with your spouse and young children?
-* How much do you spend on wedding gifts? Birthday presents? Christmas gifts?
-* Do you think partners should spend the same amount on each other for Christmas? What amount? What if one partner earns far more than the other and you keep separate accounts?
-* Which family members should we buy birthday or special holidays gifts for (parents, siblings, aunts/uncles, grandparents, cousins, etc.)?
-* How do you usually spend the "big" holidays? Do you do so mainly out of tradition or because you real y enjoy celebrating it that way?
-* Do you decorate elaborately for holidays? Would you like to put up more decorations if you had the time/money?
-* Do you like to throw holiday parties or dinners? What do you usual y do?
-* If you didn't receive any gifts for Christmas (or the major holiday you celebrate) how would you feel?
-* Do you usually have to work on any of the major holidays?
-* How did you celebrate birthdays as a child? How do you like to celebrate yours now?
-* Do you get emotional (irritated, sad, joyous, etc.) before or after any holidays? Which ones and why?
-What holiday food do you like?
-Describe your ideal holiday.
-What is your favorite childhood holiday memory? 
-What do you know about foreign holidays? 
-What is your favorite holiday vacation destination? 
-What does the word holiday mean to you?
-If you wanted to ruin a holiday event, what specifically would you do?
-How are you planning to spend New Years?
-What holiday brings your family together?
-Are there holidays that you don't like?
-What is your favorite holiday?
-How do you decorate your home for the holidays?
-Describe your favorite holiday.
-
-
----
-
-Ana: How was your holiday?
-
-Bob: I had a quiet holiday with my family. 
-
----
-Ana: How were your holidays?
-
-Bill: I spent time with my girlfriend and some friends.
-
-
----
-* How did you celebrate X holiday?
-* How will you celebrate X holiday?
-* What Do You Look Forward to Most – and Least – During the Holiday Season?
-* What Are Your Tips for Enjoying the Holiday Season?
-* How Will You Spend the Holiday Break?
 
 # Birthday
 * How Do You Celebrate Your Birthday?

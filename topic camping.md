@@ -11,7 +11,7 @@ tent
 camp site
 camp ground
 camp fire
-mosquito repellant
+mosquito repellent
 flash light
 
 # vocabulary: verbs

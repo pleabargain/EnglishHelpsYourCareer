@@ -1,92 +1,89 @@
-# conjunctions
-
-## despite
+# despite
 
 -   despite is used to introduce a fact that is in sharp contrast with another fact.
 
 **examples**
 
-## provided
+# provided
 
 -   provided means if or only if**examples**
 
-## unless
+# unless
 
 -   Unless means except on the condition that**examples**
 
 Don't open that 5liter bottle of wine unless you are planning to have a party!
 
-## since
+# since
 
 -   since is used to show result
 
 **examples**
 
-## so
+# so
 
 -   So is used to show result
 
 **examples**
 
-## if
+# if
 
 -   show conditions
 
 **examples**
 
-## yet
+# yet
 
 -   shows contrast or joins opposites
 
 **examples**
 
-## after
-
+# after
 -   order, sequence**examples**
 
-## because
+# because
 
 -   because is used to show reason**examples**
 
-## although
+# although
 
 -   show two opposite statements**examples**
 
-## whereas
+# whereas
 
 -   show contrast**examples**
 
-## but
+# but
 
 -   used to join two ideas that are opposites**examples**
 
-## besides
+# besides
 
 -   in addition to, also. It is a preposition.**examples**
 
-## unlike
+# unlike
 
 -   different from, not similar to**examples**
 
-## therefore
+# therefore
 
 -   show result/effect of an action
     
-    **examples**
--   For
+
+#   For
     
--   And
+#   And
     
--   Nor
+#  Nor
     
--   But
+#  But
     
--   Or
+#  Or
     
--   Yet
+#   Yet
     
--   So
+#  So
     
--   Nevertheless
+#   Nevertheless
     
--   Moreover
+# Moreover

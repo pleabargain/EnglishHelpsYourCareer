@@ -1,37 +1,39 @@
 verbs (pronunciation) (regular or irregular)
 
-## switch over
+# switch over
 * "Please switch off your phones".
 * Switch off unit before destroying.
 * It's a nice switch-off.
 
-## to lose track
+
+
+# to lose track
 * "Sometimes I just lose track".
 * She added, "I don't want to lose track of him".
 * How did I lose track of those pants?
 
-## suppress suppressed (t) (reg)
+# suppress suppressed (t) (reg)
 
-## to be hungry
-## to be amazed
-## to be scared
-## to be terrified
-## to be afraid
-## to be worried
-## to be concerned
-## to be frightened
-## to be tired
-## to be angry
-## to be late
-## to be early
-## to be born
-## to be opinionated
+# to be hungry
+# to be amazed
+# to be scared
+# to be terrified
+# to be afraid
+# to be worried
+# to be concerned
+# to be frightened
+# to be tired
+# to be angry
+# to be late
+# to be early
+# to be born
+# to be opinionated
 My daughter is very opinionated.
 
-## to be dead
+# to be dead
 
 
-## be is was/were been (irr)
+# be is was/were been (irr)
 * There are not that many countries that are open at this time.
 * I'm sorry for being late.
 * The roads are awful.
@@ -103,22 +105,25 @@ My daughter is very opinionated.
 * I was preparing for my speech.(past cont)
 
 
-## bow bowed  (d) (reg)
+# conceive conceived (d) (reg)
+I conceived the idea while I was in the shower.
+
+# bow bowed  (d) (reg)
 * We bowed deeply before the King of Siam!
 
-## borrow borrowed (d) (reg)
+# borrow borrowed (d) (reg)
 * May I borrow your laptop today?
 * She borrowed her friend's phone to make a call to the police.
 
-## qualify qualified  (d) (reg)
+# qualify qualified  (d) (reg)
 
-## block blocked (t) (reg)
+# block blocked (t) (reg)
 * We are blocked, we can't continue.
 * He is interfering with our work. He has blocked us all out.
 
 
 
-## blow blew blown (irr)
+# blow blew blown (irr)
 * The wind blew the roof off!
 * The trees were blown down in the wind storm.
 * The father blew on his daughter's scraped knee to make her feel better.
@@ -126,26 +131,26 @@ My daughter is very opinionated.
 
 
 
-## yawn yawned (d) (reg)
+# yawn yawned (d) (reg)
 * I will be yawning all day long if I don't get a nap right now!
 
-## tour toured (d) (reg)  
+# tour toured (d) (reg)  
 * When we tour a new country we always [hire a guide, buy a guide book].
 
 
-## yell yelled (d) (reg) (n)
+# yell yelled (d) (reg) (n)
 * While the man was walking down the sidewalk, he was yelling into his phone.
 * The fans were [shouting,yelling,screaming] for the team at the ball game.
 
 
 
-## analyze analyzed (d) (reg)
+# analyze analyzed (d) (reg)
 * They have analyzed the situation and found it very risky.
 
-## will 
+# will 
 * They won't be able to push their code.
 
-## bargain bargained (d) (reg)
+# bargain bargained (d) (reg)
 * Do you bargain?
 * When was the last time you bargained?
 * I bargained him down to half of his original price!
@@ -153,7 +158,7 @@ My daughter is very opinionated.
 
 
 
-## become became became (irr)
+# become became became (irr)
 * I started to become boring for me.
 * My health has become worse since Monday.
 * I will help you to become more productive as a developer.
@@ -162,7 +167,7 @@ My daughter is very opinionated.
 * If you want to become successful, then should read books from your industry.
 
 
-## bet (irr)
+# bet (irr)
 * I bet 100 dollars on Atom, but he lost. 
 * Have you ever bet on horse races?
 * I have never bet on the races.
@@ -170,43 +175,45 @@ My daughter is very opinionated.
 * If I bet with you on the next game, you will lose.
 
 
+# exercise exercised (d) (reg)  
+I like to exercise in the morning.
 
-## release released
+# release released
 * We will have a release on Friday.
 
 
-## exclude excluded (id) (reg)
+# exclude excluded (id) (reg)
 * We chose to exclude this feature from this release.
 * I had excluded you from the last email because ease I didn't think it applied to you.  (past perfect simple)
 
-## expand expanded (id) (reg)
+# expand expanded (id) (reg)
 * We have expanded our operations.
 
-## automate automated (id) (reg)
+# automate automated (id) (reg)
 * When was  the last time you worked with an automated build system?
 
-## abuse abused  (d) (reg)
+# abuse abused  (d) (reg)
 * They have abused their privileges.
 
-## misuse misused (d) (reg)
+# misuse misused (d) (reg)
 
 
-## misuse misused (d) (reg)
+# misuse misused (d) (reg)
 * Do not misuse my time! Do not waste my time! Do not abuse my time!
 
-## enhance enhanced (t) (reg)
+# enhance enhanced (t) (reg)
 * Our team is trying to [improve,enhance] the performance of the network.
 * I will enhance the load time on the application.
 * We are trying to enhance the load time on the application.
 
-## experience experienced (t) (reg)
+# experience experienced (t) (reg)
 
 
-## elaborate elaborated (id)  (reg)
+# elaborate elaborated (id)  (reg)
 
 
 
-## expect expected (id) (reg)
+# expect expected (id) (reg)
 * I didn't expect to hear back from her.
 * We should have expected this to happen.
 * We are expecting good weather today.
@@ -214,13 +221,13 @@ My daughter is very opinionated.
 * I [will] expect to receive your email.
 * I expect freezing temperatures tomorrow.
 
-## extend extended (id) (reg)
+# extend extended (id) (reg)
 * That course really extended my knowledge.
 
-## exist existed (id) (reg)
+# exist existed (id) (reg)
 * I didn't know this existed.
 
-## plan planned (d) (reg)
+# plan planned (d) (reg)
 * I'm planning to take a break.
 * We are planning to move to Bali.
 * I'm planning to see it sometime soon.
@@ -228,183 +235,183 @@ My daughter is very opinionated.
 * Before we start the work, we should plan it.
 * I have been planning my vacation for the last two weeks.  (present perfect continuous)
   
-## plug plugged (d) (reg)
+# plug plugged (d) (reg)
 * She plugged in my phone!
 
-## unplug unplugged (d) (reg)
+# unplug unplugged (d) (reg)
 * She unplugged my phone!
 
-## create created (id) (reg)
+# create created (id) (reg)
 * I created a proof of concept.
 * I don't like to create documentation at all!
 * I should create an entire solution that will resolve an issue for a client.
 
-## deny denied (d)  (reg)
+# deny denied (d)  (reg)
 * We are in a state of denial.
 
-## deliver delivered (d) (reg)
+# deliver delivered (d) (reg)
 * We delivered a project to a client.
 
-## demand demanded (id) (reg)
+# demand demanded (id) (reg)
 * Oh, Dad! Don't be so demanding!
 * They have demanded a recount of the banner impressions.
 * My manager has demanded that I produce the TPS report!
 
-## detail detailed (d) (reg)
+# detail detailed (d) (reg)
 * We should have received a detailed report by now.
 
-## detect detected (id) (reg)
+# detect detected (id) (reg)
 * My code will detect the users' touch and or wave across the UI.
 
-## determine determined (d) (reg)
+# determine determined (d) (reg)
 * How was this [determined,established]?
 * He is filled with great determination to rule the planet!
 * She has the determination to become a great QC/QA specialist.
 
-## question questioned (d) (reg)
+# question questioned (d) (reg)
 * I have been questioning the wisdom of my decision ever since.
 * I have a question for you.
   
-## quit quit
+# quit quit
 * I should have quit earlier.  
 
 
 
-## describe described (d)(reg)
+# describe described (d)(reg)
 * It's hard to describe.
 * I don't know how to describe it.
 * You could have described the problem more clearly the first time.
 * I can't describe his character.
 * Would you please describe the sandbox method?
 
-## design designed (d) (reg)
+# design designed (d) (reg)
 * We should have designed a better UI.
 
-## destroy destroyed (d) (reg)
+# destroy destroyed (d) (reg)
 * I destroyed my dress at that punk show last night!
 
-## develop developed (t) (reg) 
+# develop developed (t) (reg) 
 * We don't have to build it from scratch.
 * We have developed a new application.
 * We should develop our soft skills.
 
-## drop dropped (t) (reg) 
+# drop dropped (t) (reg) 
 * She dropped out from the University.
 
-## dress dressed (t) (reg) 
+# dress dressed (t) (reg) 
 * When you are dressed for the weather, then it's not so bad.
 
 
-## believe believed (d) (reg)
+# believe believed (d) (reg)
 * I believe I take after my father.
 * I couldn't believe what I was seeing!
 
 
-## embarrass embarrassed (d) (reg)
+# embarrass embarrassed (d) (reg)
 * I was very embarrassed!
 
 
 
-## embrace embraced (t) (reg)
+# embrace embraced (t) (reg)
 * I will embrace your new idea. (simple future)
 * I like to embrace you.
 * I would like to embrace you right now, my darling!
 * You must embrace change!
 * You can embrace me anytime you like, baby!
 
-## emerge  emerged (d) (reg)
+# emerge  emerged (d) (reg)
 * They have emerged from the darkness.
 
-## endeavor endeavored
+# endeavor endeavored
 * I am endeavoring to enhance my interpersonal skills.
 
-## endure  endured (d)  
+# endure  endured (d)  
 * We had to endure the manager's boring speech!
 * We endured constant attacks from the mosquitoes.
 * We endured the blazing desert sun!
   
 
-## bare ~ to carry/ to handle/ to tolerate
+# bare ~ to carry/ to handle/ to tolerate
 * I can't bare this guy anymore! He's so boring!
 
 
-## focus focused
+# focus focused
 * She focused on soft skills.
 
-## arrange arranged (d) (reg)
+# arrange arranged (d) (reg)
 * I have arranged for you to be picked up by our driver.
 
-## assess assessed (reg)
+# assess assessed (reg)
 * I have assessed his abilities and found him to be not knowledgeable in X.
 
-## assign assigned (d) (reg)
+# assign assigned (d) (reg)
 * I have been assigned a new project.
 * I was assigned some tasks that must be completed by the end of the [day,week,month,year].
 
-## assemble assembled (d) (reg)
+# assemble assembled (d) (reg)
 * You need to assemble your code before publishing it.
 * You need to assemble the desk.
 * You should prepare a cup of coffee, assemble your thoughts,  and then divide your work into smaller parts. This is my advice [for,to] you!
 
-## assume assumed (d) (reg)
+# assume assumed (d) (reg)
 
-## attach attached (t) (reg)
+# attach attached (t) (reg)
 * I should have attached my sleeping bag to my backpack!
 
-## attract attracted (id) (reg)
+# attract attracted (id) (reg)
 
 
-## attend attended (id) (reg)
+# attend attended (id) (reg)
 * I attended a conference.
 * I attended an English speaking club.
 * I have attended parties where everyone was drunk!
 * She attended the funeral wearing a black dress.
 * It's free to attend.
 
-## attempt attempted (id) (reg)
+# attempt attempted (id) (reg)
 
-## tempt tempted (id) (reg)
+# tempt tempted (id) (reg)
 * I'm trying to diet, don't tempt me with cake!
 * Lead me not into temptation; I can find the way myself.
 
 
 
 
-## to be sick, sick (irr)
+# to be sick, sick (irr)
 * I was sick all weekend.
 * I hate to be sick.
 * Unfortunately, I was sick for the whole weekend.
 * I wasn't sick nor was I ill after swimming in the frozen river.
 * I was sick also but my illness was very brief.
 
-## count counted 
+# count counted 
 * We counted it up and found that the bill was incorrect.
 
-## counsel counseled (d) (reg) 
+# counsel counseled (d) (reg) 
 
-## cough coughed (reg)
+# cough coughed (reg)
 * I coughed the whole time I was sick.
 * If you cough for more than two days you should visit a doctor.
 
-## copy copied (d)
+# copy copied (d)
 * I was copying photos from my vacation for an hour. (past continuous)interfere
 
-## dangle dangled (d)(reg) 
+# dangle dangled (d)(reg) 
 * Where have you dangled recently?
 * I dangled underneath the chin up bars at the park this morning.
 * I haven't dangled anywhere recently.
 
 
-## dare dared (d) (reg)
+# dare dared (d) (reg)
 * Have you ever played truth or dare?
 * He dared me to jump from the bridge into the river below.
 
 
-## dance danced (t)(reg)
+# dance danced (t)(reg)
 
 
 
-## knit knitted (id) (reg)
+# knit knitted (id) (reg)
 * I knit socks. (present tense)
 * I knitted socks last week.
 * I can knit socks.
@@ -412,10 +419,10 @@ My daughter is very opinionated.
 * I will knit socks when I have free time.
 * When I was younger, I would knit socks for my brother.
 
-## post posted (id) (reg)
+# post posted (id) (reg)
 * We should have posted the job earning earlier.
 
-## paint painted (id) (reg)
+# paint painted (id) (reg)
 
 * I can paint a portrait of my mother.
 * I could paint a portrait of my mother when I was younger.
@@ -423,16 +430,16 @@ My daughter is very opinionated.
 * When I was in school, I would do painting exercises with my teacher.
 
 
-## panic panicked (t) (reg)
+# panic panicked (t) (reg)
 * She panicked when she saw the giant spider crawling on her leg!
 
-## overcome overcame overcame (irr)
+# overcome overcame overcame (irr)
 * We overcame the issue together.
 * Yesterday, I overcame some issues with Hadoop!
 * I have overcome the problems that I faced.
 * I have overcome COVID19.
 
-## overwhelm overwhelmed (d) (reg)
+# overwhelm overwhelmed (d) (reg)
 * I was overwhelmed with emotion by your emails supporting me! 
 * I am overwhelmed [with,by] work!
 * I am overwhelmed by her love!
@@ -441,24 +448,24 @@ My daughter is very opinionated.
 * The world has been overwhelmed by COVID19.
 * I was overwhelmed by the powerful waves at the beach!
 
-## relate related (id) (reg)
+# relate related (id) (reg)
 * I'm related to him. He's my brother.
 
-## relax relaxed (T) (reg)
+# relax relaxed (T) (reg)
 * We were relaxing by the pool when the comet flew over our heads.
 
-## sign signed (d) (reg)
+# sign signed (d) (reg)
 * We should have signed the contract earlier.
 
 
-## signify signified (d) (reg)
+# signify signified (d) (reg)
 * I am not sure what this [signifies,means].
 
-## remind reminded (id) (reg) 
+# remind reminded (id) (reg) 
 * I should have reminded you earlier.
 * It reminds me of home.
 
-## remember remembered (d) (reg)
+# remember remembered (d) (reg)
 * I can't remember the last time I was at work in the office!
 * I remember when I was in Spain... 
 * I don't remember any others.
@@ -475,38 +482,38 @@ My daughter is very opinionated.
 * I don't remember anything.
 
 
-## munch munched(t) (reg)
+# munch munched(t) (reg)
 * What have you been munching on?
   * I have been munching on the tasty belgian waffles that you made for me, my dear!
 
-## mitigate mitigated (id) (reg)
+# mitigate mitigated (id) (reg)
 * We have mitigated our risks by hiring a red-team to follow up on our implementation.
 
-## dunk dunked
+# dunk dunked
 * I got dunked in the water!
 * I like to dunk my donuts in my coffee.
 * The Brits like to dunk their biscuits into their tea.
 * Obviously tea isn't tea if you don't dunk a biscuit in it, and academics have even overthought this simple pleasure.
 
-## examine examined (d) (reg)
+# examine examined (d) (reg)
 * We should have [examined,investigated,reviewed] the logs more closely.
 * 
-## exhaust exhausted (id) (reg)
+# exhaust exhausted (id) (reg)
 * I'm exhausted after my long weekend.
 * They are probably exhausted by now.
 * I was feeling exhausted.
 
-## expose exposed (d) (reg)
+# expose exposed (d) (reg)
 * The journalist said, "I should have never exposed the source of my story."
 
-## explain explained (d) (reg)
+# explain explained (d) (reg)
 * It's hard for me to explain!
 * She explained to me why she was late.
 * Allow me to explain the situation to you.
 * Yesterday, I had to explain why I was late to my manager.
 * Yesterday, I had explained to my colleagues why this issue is important and today I hope to get clarification from my manager.
 
-## search searched (t) (reg)
+# search searched (t) (reg)
 * I have been searching for you for all of my life.
 * I should have searched my pockets more thoroughly.
 * When I was searching for a new car, I wasted a lot of time looking at dealership sites.
@@ -514,7 +521,7 @@ My daughter is very opinionated.
 * You can search for user experience stories on Medium and read them.
 * We should have searched in the closet!
 
-## speak spoke spoken (irr)
+# speak spoke spoken (irr)
 * I have experience speaking with... 
 * What have you been doing since we last spoke?
 * I should have spoken a little bit slower.
@@ -526,26 +533,27 @@ My daughter is very opinionated.
 
 
 
-## catch caught caught (irr)
+# catch caught caught (irr)
 * I caught a cold.
 * Mike caught a cold in the mountains. 
 * Look! The cat has caught a mouse.
 * I don't remember if I caught anything last time I went fishing.
+* I caught a fish!
 
 
 
-## destroy destroyed (d) (reg)
+# destroy destroyed (d) (reg)
 * Drinking alcohol destroys your buddy.
 
 
-## hint hinted (id) (reg) 
+# hint hinted (id) (reg) 
 * The computer hinted my password.
 
-## happen happened (d) (reg)
+# happen happened (d) (reg)
 * It shouldn't be happening!
 * It could have happened to anyone!
 
-## have had had (irr)
+# have had had (irr)
 * Today has been full of meetings.
 * He had a large estate on the edge of the city.
 * I have some experience with X.
@@ -598,12 +606,12 @@ My daughter is very opinionated.
 * I was having lunch with my daughter. (past continuous)
 
 
-## fidget fidgeted (id) (reg)
+# fidget fidgeted (id) (reg)
 * My son was fidgeting with my phone and now it doesn't work!
 * She's always fidgeting with her hair!
 
 
-## finish finished (t) (reg)
+# finish finished (t) (reg)
 
 
 * We have finished moving in!
@@ -614,17 +622,17 @@ My daughter is very opinionated.
 * If you finish your homework, I will give you a piece of chocolate. (conditional)
 * Would you be so kind as to finish this report by the end of the day?
 
-## listen listened (d) (reg)
+# listen listened (d) (reg)
 * I listened to about half of the podcast.
 
-## land landed (id) (reg)
+# land landed (id) (reg)
 * The plane had landed at four o'clock in the morning.
 
-## layer layered 
+# layer layered 
 * The situation had many layers.
 
 
-## launch launched  (t) (reg)
+# launch launched  (t) (reg)
 * We launched the app yesterday.
 * We were launching a new product when the pandemic hit. (past continuous)
 * The official, who asked not to be identified because of the sensitivity of the issue, said photographs from North Korea showing a rocket launched from the sea appeared to be authentic.
@@ -635,7 +643,7 @@ My daughter is very opinionated.
 
 
 
-## perform performed (d) (reg)
+# perform performed (d) (reg)
 * This interview will be performed by my manager.  (passive voice)
 * The doctor was performing surgery when the nurse passed out. (past continuous)
 * How do you know if your team is performing their best?
@@ -644,10 +652,10 @@ My daughter is very opinionated.
 * We might need to perform some more tests before we go to production.
 * We have to perform more tests.
 
-## punish punished (t) (reg)
+# punish punished (t) (reg)
 * Initiative is always punished.
 
-## do did done (irr)
+# do did done (irr)
 * We did some shopping before our vacation.
 * I don't understand how they work.
 * When I was a child, I didn't like painting.
@@ -686,39 +694,39 @@ My daughter is very opinionated.
 * We did the laundry.
 
  
-## occur occurred  (d) (reg)
+# occur occurred  (d) (reg)
 * This idea never occurred to me!
 * There are two situations where this can occur: when it is black and when it is white.
 * It could have occurred at any time last night.
   
-## document documented (id) (reg)
+# document documented (id) (reg)
 * You should continuously document your references accurately.
 * Did you document the process?
 
-## satisfy satisfied (d) (reg)
+# satisfy satisfied (d) (reg)
 * I have not satisfied all of the requirements so I won't be able to participate.
 * They are [happy,totally] satisfied with my performance.
 
-## scope scoped (t) (reg)
+# scope scoped (t) (reg)
 * The project wasn't scoped properly.
 
 
-## scroll scrolled (d) (reg)
+# scroll scrolled (d) (reg)
 * I was scrolling down the page when I saw your picture.
 
-## scatter scattered (d) (reg)
+# scatter scattered (d) (reg)
 * She was quite scatter brained after her chemotherapy.
 * He is scattered like confetti!
 * My family scattered to the four winds after our reunion.
 
-## save saved  (d) (reg)
+# save saved  (d) (reg)
 * The fireman, with the help of a rod, saved the deer from the fire!
 * I saved money for a long time to buy a camera.
 
-## savor savored  (d) (reg)
+# savor savored  (d) (reg)
 * I savored every moment of our time at the oyster restaurant.
 
-## say something said, said  (irr)
+# say something said, said  (irr)
 
 [You, He,She, I, We] didn't say a word.
 I shouldn't have said a word!
@@ -747,31 +755,31 @@ I shouldn't have said anything!
 * I would like to say that I'm very happy to be here!
 
 
-## misplace misplaced (t) (reg)
+# misplace misplaced (t) (reg)
 
-## lose lost lost (irr)
+# lose lost lost (irr)
 * I have lost patience with her.
 * I regularly lose flash drives.
 * What was the last thing you lost?
 
-## wrap wrapped (t) (reg)
+# wrap wrapped (t) (reg)
 * He had wrapped the present in toilet paper.
 * We need to wrap up this meeting! It's time for dinner!
 
-## wear wore worn (irr)
+# wear wore worn (irr)
 * You should have worn warmer clothes.
 * I haven't worn it yet.
 * He likes to wear fancy clothes.
 * I wore my warmest jacket today because it is really cold outside.
 
 
-## welcome welcomed (d) (reg)
+# welcome welcomed (d) (reg)
 * We welcomed our clients in the lobby.
 
-## negotiate negotiated (id) (reg)
+# negotiate negotiated (id) (reg)
 * What was the last thing you negotiated for?
 
-## need needed (id) (reg)
+# need needed (id) (reg)
 * We decided that we needed a new coffee machine.
 * You need to use a secure access point to access your data.
 * What do you mean? Why do I need to pay for X?!
@@ -779,10 +787,10 @@ I shouldn't have said anything!
 * Do you need a mentor?
 * I need to check how much I need to do.
 
-## nest nested (id) (reg)
+# nest nested (id) (reg)
 * The functions are nested in the for loop.
 
-## show showed shown (irr) 
+# show showed shown (irr) 
 * They showed me how it works. 
 * I can show them that I know what I'm doing.
 * They will show up in two hours.
@@ -790,13 +798,13 @@ I shouldn't have said anything!
 
 
 
-## shut shut (irr)
+# shut shut (irr)
 * We had to shut the server down.
 
-## taste tasted (id) (reg)
+# taste tasted (id) (reg)
 * He tasted peanut butter for the first time and he didn't like it.
 
-## talk talked (t) (reg)
+# talk talked (t) (reg)
 * I haven't talked to him in a year.
 * We were talking about economics and we came to the conclusion that ...
 * I like talking with them because I never know where the conversation will go!
@@ -804,14 +812,15 @@ I shouldn't have said anything!
 
 
 
-## teach taught (irr)
+# teach taught (irr)
 * I was taught to say please and thank you by my grandfather.
 * What is the most important lesson life has taught you?
 * It's taught me that there is strength in vulnerability, that life is a journey.
+* I was taught to [[phrases#to turn the other cheek|turn the other cheek.]]
 
 
 
-## tell someone told, told (irr)
+# tell someone told, told (irr)
   
 * The host told us that our reservation was cancelled.
 * I have a lot to tell you!
@@ -843,54 +852,55 @@ I shouldn't have said anything!
 
 * She told me that we can meet her anytime on Sunday.
 
-## tether tethered (d) (reg)
+# tether tethered (d) (reg)
 * I have tethered my cellphone to my laptop.
 
 
-## sip sipped (t) (reg)
+# sip sipped (t) (reg)
 
-## to pick up
+# to pick up
 * I need to pick up my g/f from work.
 
-## to spin up spun up
+# to spin up spun up
 * We spun up a new virtual server.
 
-## draw drew drawn
+# draw drew drawn
 * I have drawn up a new plan.
 
 
-## cherish cherished (t) (reg) 
+# cherish cherished (t) (reg) 
 * We cherished our time together.
 
-## drive drove driven (irr)
+# drive drove driven (irr)
 * If I was driving my own car on these roads I would be very unhappy.
 * We drove around the city.
 * The robot should drive in a straight line.
 * I have never driven as much before as now!
 
-## encourage encouraged (d) (reg)
+# encourage encouraged (d) (reg)
 * I was encouraged by you and your awesomeness! I'm going to fly to the moon!
 
-## enjoy enjoyed (d) (reg)
+# enjoy enjoyed (d) (reg)
 * I enjoyed the movie.
 
-## encounter encountered (d) (reg)
+# encounter encountered (d) (reg)
 * I haven't [encountered,seen] them yet.
+* I have never encountered this word before.
 
-## employ employed (d) (reg)
+# employ employed (d) (reg)
 * My uncle [was employed,worked] at MegaCorp for ten years. He was an employee. His employer, Megacorp, went bankrupt.
 * My uncle is not employed. He doesn't have a job. He's retired.
 
-## educate educated (id) (reg)
+# educate educated (id) (reg)
 * I was trying to educate my cat.
 
-## erase erased (t) (reg)
+# erase erased (t) (reg)
 * My hard drive will be erased!
 
-## establish established (t) (reg)
+# establish established (t) (reg)
 * I should have established a better connection.
 
-## eat ate eaten (irr)
+# eat ate eaten (irr)
 * During the summer, we eat tomatoes every day.
 * Yesterday, I ate lunch roasted chicken with mint sauce.
 * I ate a lot of food!
@@ -898,7 +908,7 @@ I shouldn't have said anything!
 
 
 
-## drink drank drunk (irr) 
+# drink drank drunk (irr) 
 * You [should,must,can] drink more! (at a raucous party!)
 * How long were you drinking your coffee? (past continuous)
 * You should drink more water.
@@ -906,47 +916,47 @@ I shouldn't have said anything!
 * You shouldn't drink too much at the party.
 * 
 
-## to get along (irr)
+# to get along (irr)
 
 
 * I get along well with my mother-in-law.
 
-## to be worried (reg)
+# to be worried (reg)
 
 * I am worried about her health.
 
 
 
-## wish wished (t) (reg) 
+# wish wished (t) (reg) 
 * She wished me a Happy New Years!
 * We should call your mother and wish her happy birthday.
 * I wish you would help me with opening this jar.
 * I would like to wish all a healthy new year!
 
-## afford afforded (id)(reg)
+# afford afforded (id)(reg)
 * I couldn't afford the payments and so I gave up my car.
 
-## adjust adjust (id)(reg)
+# adjust adjust (id)(reg)
 * How is she adjusting to the new situation?
 * They should have adjusted the wedding dress.
 
-## apply applied (d) (reg)
+# apply applied (d) (reg)
 * I should have applied myself in school.
 * They had applied for a grant.
 
-## approach approached (t) (reg) 
+# approach approached (t) (reg) 
 * Could you please change your approach.
 * We [should,could] have approached this solution differently.
 
-## churn churned (d)(reg)
+# churn churned (d)(reg)
 * Our telco has a lot of customer churn.
 * We are trying to reduce customer churn.
 
 
-## challenge challenged (d)(reg)
+# challenge challenged (d)(reg)
 * You should have challenged him to a duel instead of scurrying away like a whipped dog!
 
-## change changed (d)(reg)
+# change changed (d)(reg)
 * I changed my major.
 * My attitude has changed.
 * We should change our [approach,location,apartment].
@@ -954,7 +964,7 @@ I shouldn't have said anything!
 * I used to change my phone every three months.
 
 
-## hire hired (d)(reg)
+# hire hired (d)(reg)
 * I wouldn't hire myself on a Monday morning!
 * I don't want to hire someone who knows everything.
 * I want to hire people who want to learn.
@@ -964,23 +974,23 @@ I shouldn't have said anything!
 * We might need to cut off hiring new staff for the next two months.
 * We might need to cut off the meeting early.
 
-## hurt hurt (irr)
+# hurt hurt (irr)
 * I hurt myself when I slipped on the black ice.
 * She hurt herself while she was snow boarding.
 
 
 
-## cut cut cut (irr)
+# cut cut cut (irr)
 * I cut the grass in the morning. 
 * Who has cut down the tree?
 * We should cut off the dry bits off of the lettuce.
 * We should plant more trees than cut.
 
 
-## generate generated (id) (reg) 
+# generate generated (id) (reg) 
 * We could have generated more ideas if we had more time.
 
-## get  got got/gotten something/ someone\ (irr)
+# get  got got/gotten something/ someone\ (irr)
 * I got a bike for my birthday. 
 * He had gotten dressed before he came into the kitchen.
 * We are getting ready for the weekend!
@@ -999,255 +1009,259 @@ I shouldn't have said anything!
 
 
 
-## type typed (t)(reg)
+# type typed (t)(reg)
 * They should have typed up the report sooner.
 
-## sell sold sold (irr)
+# sell sold sold (irr)
 * I should have sold my shares of X earlier!
 * Our company should have sold laptops earlier.
 
 
-## service serviced (t) (reg)
+# service serviced (t) (reg)
 * We are servicing the client at this time.
 
-## settle settled (d) (reg)
+# settle settled (d) (reg)
 * They settled the matter once and for all.
 
-## set set set (irr)
+# set set set (irr)
 * We should have set this item as a [low,top] priority!
 * I finally set up my environment.
 
-## shelter sheltered  (d) (reg)
+# shelter sheltered  (d) (reg)
 * We could have sheltered under the bus stop roof.
 
-## share shared (d) (reg)
+# share shared (d) (reg)
 * He shared with me a list of questions from the exam.
 * He should have shared the information with you already.
 * I shared it with my colleagues.
 
-## shave shaved  (d) (reg)
+# shave shaved  (d) (reg)
 * When I am working from home, I only shave once a week!
 
-## decay decayed (d) (reg)
+# decay decayed (d) (reg)
 * The bodies were rotted and decayed.
 * The McDonald's french fries should have decayed by now!
 
-## declare declared (d) (reg)
+# declare declared (d) (reg)
 * They have declared war!
 * Kosovo declared independence from Serbia in 2008.
 * Gray was chased and subjected to an arrest declared unlawful by the city's top prosecutor.
 * The accountant's fees were fully declared for tax purposes and he paid tax on the benefit.
 
-## decline declined (d) (reg)
+# decline declined (d) (reg)
 * I should have declined their invitation.
 
-## defend defended (id) (reg)
+# defend defended (id) (reg)
 * He could have defended us!
 
-## defer deferred (d) (reg)
+# defer deferred (d) (reg)
 * Allow me to defer to my wife.
 
-## decorate decorated (id) (reg)
+# decorate decorated (id) (reg)
 * You might consider decorating your apartment for the season.
 
-## delegate delegated (id) (reg)
+# delegate delegated (id) (reg)
 * The managers should have delegated the tasks better.
 
 
-## aggravate aggravated (id) (reg)
+# aggravate aggravated (id) (reg)
 * The judge's decision aggravated the people so much that they went onto the street to protest.
 
 
-## agree agreed (d) (reg)
+# agree agreed (d) (reg)
 * I should have agreed earlier.
 * We agreed to disagree.
 * I agreed to work on the project last week.
 * I agreed to the schedule even though I knew it would be tough.
 
-## allocate allocated (id) (reg)
+# allocate allocated (id) (reg)
 * We had allocated two days to finish the task but it only took twenty minutes.
 
-## access accessed (d) (reg)
+# access accessed (d) (reg)
 * I didn't have access to the internet.
 * She should have accessed the files via the UI.
 * I don't have access to the router.
 * I wasn't able to access the resources.
 
-## activate activated (id) (reg)
+# activate activated (id) (reg)
 * We should have activated our subscription earlier.
 * We should activate the new feature in our next release.
 
-##  advertise advertised (d)
+#  advertise advertised (d)
  * They had advertised an open position at the company on LinkedIn. (present perfect simple)
  * We advertised aggressively on Facebook.
 
 
-## advise advised (d) (reg)
+# advise advised (d) (reg)
 * We had advised her to stay away from that part of town.
 * My co-workers advised me to stay away from the broken bathroom.
 
-## admit admitted  (id) (reg)
+# admit admitted  (id) (reg)
 * I admitted to my wife that I lost 100USD at the casino!
 
-## admire admired (d) (reg)
+# admire admired (d) (reg)
 * I admired her expert control of her children!
 * I admire your courage!
 * I admire and respect you.
 * We were just admiring your garden.
 
-## add added (id) (reg)
+# add added (id) (reg)
 * I could have added more salt to the bread but I didn't.
 * My manager must have added this task today because I did not see it before.
 
-## addict addicted (id) (reg)
+# addict addicted (id) (reg)
 
-## recover recovered (d) (reg)
+# recover recovered (d) (reg)
 * I should have recovered by now! I must be getting old.
 
-## recognize recognized (d) (reg)
+# recognize recognized (d) (reg)
 * I should have recognized the problem sooner.
 
-## reconsider reconsidered (d) (reg)
+# reconsider reconsidered (d) (reg)
 * You might reconsider your [ideas,plans].
 * You must reconsider your [ideas,plans].
 * You may reconsider your [ideas,plans].
 
-## certify certified (d) (reg)
+# certify certified (d) (reg)
 * Apple certified X password manager.
 * They should have been certified by Apple by now.
 * They should have received certification by now.
 
-## celebrate celebrated (id) (reg) 
+# celebrate celebrated (id) (reg) 
 * I don't usually celebrate my birthday.
 
-## concede conceded (id) (reg) 
+# concede conceded (id) (reg) 
 * Trump never conceded the election.
 
 
-## conduct conducted (id) (reg) 
+# conduct conducted (id) (reg) 
 * We must conduct a review of our procedures.
 * Water conducts electricity.
 * The interview was conducted in English.
 
-## convince convinced (t) (reg)
+# convince convinced (t) (reg)
 * I'm convinced that this project is going to succeed!
 * She wasn't convinced.
 
-## convert converted (id) (reg)
+# convert converted (id) (reg)
 * We need to convert this pdf into a word file.
 
-## consent consented (id) (reg) 
+# consent consented (id) (reg) 
 * He should have consented to her offer.
 * They should have received consent by now.
 * I consented to the examination.
 * I consented to the terms and conditions of the agreement..
 
-## consider considered (d) (reg)
+# consider considered (d) (reg)
 * You might consider moving the candles away from the Christmas tree!
 * We might need to consider a different supplier.
 
-## consist consisted (id) (Reg)
+# consist consisted (id) (Reg)
 * It consists of a lot of moving parts.
 * It consisted of a lot of components from China.
 
-## comply complied (d) (reg)
+# comply complied (d) (reg)
 * I should have complied to her request.
 * I was forced to [agree,comply].
 
-## complicate complicated (id) (reg)
+# complicate complicated (id) (reg)
 * The reality is more complicated.
 * However, he added, the hunt had been complicated by the fact that in parts of Mali, a whole village shares the same Sim card.
 * Everybody says how complicated a book it is, but also it is very simple; a man tracking down one of four people.
 
-## complement complemented (id) (reg)
+# complement complemented (id) (reg)
 * I had complemented her many times for her tasteful meals. (past perfect simple)
 * My mother was always complementing me on my hardwork at school.
 
-## commit committed (id) (reg)
+# commit committed (id) (reg)
 * Someone has just committed a crime! Call the police!
 * I will be committing my code tomorrow morning! (future continuous)
 
-## communicate communicated (id) (reg)
+# communicate communicated (id) (reg)
 * They should have communicated their progress to the PM.
 * We could have communicated our progress to the client more often.
 
-## commute commuted (id) (reg)
+# commute commuted (id) (reg)
 * I used to commute to work every day by bus.
 * I just finished my commute from work. It took me two hours!
 * I have to commute to and from work on the bus.
 
 
-## complete completed (id) (reg)
+# complete completed (id) (reg)
 * They should have completed their tasks by now.
 * I completed my day at midnight.
 * I have only completed one week of four.
 
 
-## recommend recommended (id) (reg)
+# recommend recommended (id) (reg)
 * I should have recommended the other candidate to you.
 * I would recommend you do something about the problem on the server.
 
 
-## regret regretted (id) (reg) 
+# regret regretted (id) (reg) 
 * I regret that I didn't continue my [violin,guitar,dance,piano] lessons.
 * I should have regretted their invitation.
 * I regret that I cannot join you at your party.
 * I regretted not being able to be with my mother at her birthday party. 
 
-## chew chewed (d) (reg)
+# chew chewed (d) (reg)
 * I should have chewed my food better!
 
-## point pointed (id) (reg)
+# point pointed (id) (reg)
 * My mother pointed out that I have a dirty collar. 
 
 
-## poise poised (d) (reg)
+# poise poised (d) (reg)
 * We are poised to go!
 * They have poised themselves as the leaders of the industry.
 
-## police policed (t) (reg)
+# police policed (t) (reg)
 * My manager likes to police the office during lunch time. 
 * We policed the area after the storm.
 
-## polish polished (t) (reg)
+# polish polished (t) (reg)
 * I polished my car with my new buffing machine.
 
-## pour poured (d) (reg)
+# pour poured (d) (reg)
 * It rained all day yesterday. It poured for hours and hours!
 * It's starting to pour!
 * It's starting to pour rain!
 * It's pouring down!
 
 
-## offer offered (d) (reg)
+# offer offered (d) (reg)
 * They are offering a certificate.
 * I would like to ask you for some advice.
 
-## offend offended (id) (reg)
+# offend offended (id) (reg)
 * She was offended by the smelly man on the bus.
 
-## order ordered (d) (reg)
+# order ordered (d) (reg)
 * Last week, I was famished and I went to my go-to restaurant and I ordered roast beef with a salad which consisted of pickled eggs.
 * I was ordering a cup of tea when I noticed my friend was sitting in the cafe.
 * I ordered a pizza from the restaurant.
 * My captain ordered me to mop the floor!
 
-## align aligned  (d) (reg)
+# align aligned  (d) (reg)
 * They have not aligned to the company goals yet.
 
 
-## realize realize (d) (reg)
+# realize realize (d) (reg)
 * When I was a child I realized that I didn't like snails at all because they are slimy.
 * She realized that her phone was missing.
 * After realizing that my phone was missing, I tried to call it.
 
 
-## surprise surprised (d) (reg)
+# surprise surprised (d) (reg)
 * It was surprising to me!
 * They should have been surprised by the pay raise but they weren't.
 * I shouldn't be surprised by his behavior.
 
-## read read read (irr)
+
+# replicate replicated (id) (reg)
+- I tried to replicate the recipe.
+
+# read read read (irr)
 * We read the kids a story from a book.
 * She wrote him a long letter, but he didn't read it.
 * Why didn't he read it? Because he doesn't like to read and he doesn't like her.
@@ -1261,11 +1275,11 @@ I shouldn't have said anything!
 * I highly recommend that you read the book Preparing for the GCP exam and take the tests at the end of each chapter.
 
 
-## deceive deceived (d) (reg)
+# deceive deceived (d) (reg)
 * She deceived me again! I'm such a fool!
 * I have been deceived again by her sweet sweet lies!
 
-## decide decided (id)(reg)
+# decide decided (id)(reg)
 * She has decided to take driving lessons.
 * My wife and I decided to sell our camera.
 * We decided to buy a table for my mother-in-law.
@@ -1277,74 +1291,74 @@ I shouldn't have said anything!
 * They made a very poor decision.
 
 
-## rewind rewound (irr)
+# rewind rewound (irr)
 
 
-## check checked 
+# check checked 
 * Let me check my memory. 
 
 
-## check out / checked out (irr)
+# check out / checked out (irr)
 
-## flaw flawed (d) (reg)
+# flaw flawed (d) (reg)
 * The project is deeply flawed.
 
-## flee fled fled
+# flee fled fled
 * The robber is fleeing the scene of the crime!
 
-## float floated (id) (reg) 
+# float floated (id) (reg) 
 * We should have floated the boat earlier. 
 
 
 
-## fly flew flown (irr)
+# fly flew flown (irr)
 * You can fly to Italy from the regional airport.
 * He flew to Italy last night.
 * We should have flown with EgyptAir.
 * We could have flown with EgyptAir or TunisAir but we chose Emirates Airlines.
 * We could have flown with X or Y but we chose Z Airlines.
 
-## fold folded (id)(reg)
+# fold folded (id)(reg)
 * I need to fold up the ironing board.
 * We had to fold up the desks after the conference to make room for the after party.
 * The boy folded up a piece of paper to make a paper plane.
 
-## follow followed (d)(reg)
+# follow followed (d)(reg)
 * I followed all of the steps but it still didn't work!
 
-## domesticate domesticated (id) (reg)
+# domesticate domesticated (id) (reg)
 * My cat is not domesticated.
 
-## double-check double-checked (t) (reg)
+# double-check double-checked (t) (reg)
 
-## verify verified (d) (reg)
+# verify verified (d) (reg)
 * We should have verified our code before pushing it to the repo.
 
-## visit visited (id) (reg)
+# visit visited (id) (reg)
 * We should have visited Vietnam when we were in Cambodia.
 * We visited an old estate while we were on vacation in Germany.
 * Did you visit you parents?
 * I will visit you later tonight between 7 and 9.
 
 
-## recruit recruited (id) (reg)
+# recruit recruited (id) (reg)
 * We should have recruited more people for this project.
 
-## validate validated (id) (reg)
+# validate validated (id) (reg)
 * We should have validated the results earlier.
 
-## vote voted (id) (reg)
+# vote voted (id) (reg)
 * How long did it take to vote?
 
-## volunteer volunteered (d)(reg)
+# volunteer volunteered (d)(reg)
 * I could have volunteered to help but I decided against it.
 
-## manage managed (d)(reg)
+# manage managed (d)(reg)
 * It takes a lot of time to manage volunteers.
 * They have managed to ruin everything.
 * I managed 3 different pots of borscht at the same time!
 * 
-## make made made  (irr)
+# make made made  (irr)
 * I haven't made any plans yet.
 * Don't use mother's vase to make a scarecrow!
 * My dad said that I made a great selection when I chose this dress.
@@ -1358,7 +1372,7 @@ I shouldn't have said anything!
 * I made progress in learning Stoicism.
 
 
-## learn learned (d)(reg)
+# learn learned (d)(reg)
 * I haven't learned anything new.
 * I have learned a few new words.
 * Have you learned anything today?
@@ -1374,11 +1388,11 @@ I shouldn't have said anything!
 * You should have learned about this before.
 * If it's hard, it [might,must] mean that I'm learning something.
 
-## handle handled (d)(reg)
+# handle handled (d)(reg)
 * I don't know how to handle this issue.
 * We could have handled the situation better.
 
-## help helped (t)(reg)
+# help helped (t)(reg)
 * They helped me to get ready with the presentation.
 * If I could have helped you, I would have but I didn't because I didn't know you needed my help.
 * I could have helped you but I didn't have time.
@@ -1386,7 +1400,7 @@ I shouldn't have said anything!
 * How can I help you?
 * Can you help me?
 
-## go went gone (irr)
+# go went gone (irr)
 * It's going really well.
 * She went on an adventure that spanned five continents.
 * We'll see how it goes.
@@ -1410,24 +1424,24 @@ I shouldn't have said anything!
 * I must go to the gym because it's good for my health.(possibility)
 
 
-## grab grabbed (reg)~to hold
+# grab grabbed (reg)~to hold
 * When I saw the money flying out of the ATM, I grabbed as much as I could and ran!
 
 
-## greet greeted (id) (reg)
+# greet greeted (id) (reg)
 * We were greeted by the manager.
 
-## grow grew grown (irr)
+# grow grew grown (irr)
 * I grew up in a small town.
 * Elvis Presley grew up in Mississippi.  
 * We prefer home-grown food.
 * Our team was growing.
 
 
-## guess guessed (t) (reg)
+# guess guessed (t) (reg)
 * I can guess where you have been.
 
-## require required (d)(reg)
+# require required (d)(reg)
 * I am required to pass an exam in order to get promoted.
 * My new job requires to be online ten hours a day.
 * We will require more information from the client.
@@ -1437,18 +1451,18 @@ I shouldn't have said anything!
 * I might require you to go out and buy coffee for me!
 
 
-## request requested (id) (reg)
+# request requested (id) (reg)
 * Your presence is requested in the meeting room.
 
-## print printed (id) (reg)
+# print printed (id) (reg)
 *  I have already printed the TPS report. (see https://g.co/kgs/UyJKbr)
 *  I should have printed the report earlier.
 
 
-## prohibit prohibited (id)(reg)
+# prohibit prohibited (id)(reg)
 * It's prohibited to import illegal drugs into Ukraine.
 
-## provide provided  (id)(reg)
+# provide provided  (id)(reg)
 * They didn't provide examples.
 * They should have provided examples.
 * It provided me with an opportunity to work with X.
@@ -1461,45 +1475,45 @@ I shouldn't have said anything!
 
 
 
-## pull pulled (d) (reg)
+# pull pulled (d) (reg)
 * I had just pulled the door open when the dog ran in! (past perf simple)
 * I will have been pulling my code for an hour by the time the meeting starts!
 * I will have been pulling my code for a week since Monday because we are accessing the repo from our 1k baud from Guatemala!
 
-## investigate investigated  (id) (reg) 
+# investigate investigated  (id) (reg) 
 
-## invigorate invigorated (id) (reg) 
+# invigorate invigorated (id) (reg) 
 * It might be invigorating to swimming in the frozen lake!
 * Running is one the things that invigorates me.
 * Organizing my shit invigorates my brain.
 
-## invest invested (id) (reg)
+# invest invested (id) (reg)
 * We should have invested in Tesla!
 
 
 
-## intimidate intimidated (id)(reg)
+# intimidate intimidated (id)(reg)
 * They were intimidated by the bear.
 
-## introduce introduced (t) (reg) 
+# introduce introduced (t) (reg) 
 * At our next meetings, a new team member might be introduced.
 
 
-## occupy occupied (d) (reg)
+# occupy occupied (d) (reg)
 * Work occupies all of my time.
 * Work will be occupying all of my time for the foreseeable future! (future continuous)
 
-## indebt indebted (reg)
+# indebt indebted (reg)
 * I am indebted to you! Thank you for your help!
 
-## induce induced (t) (reg)
+# induce induced (t) (reg)
 * The pregnancy was induced in the emergency room.
 * We were induced to stay later with the promise of free pizza for dinner.
 
 
-## initiate initiated (id)(reg)
+# initiate initiated (id)(reg)
 
-## insist insisted (id)(reg)
+# insist insisted (id)(reg)
 * She insisted that I stay but I was in a hurry and I left.
 * I insisted on visiting them in person.
 * She insisted we meet.
@@ -1507,36 +1521,37 @@ I shouldn't have said anything!
 * Their insistence on playing loud music at night is very troubling.
 * insistence(noun)
 
-## install installed (d) (reg)
+# install installed (d) (reg)
 * I should have installed that app earlier.
 
-## inspire inspired (d)(reg)
+# inspire inspired (d)(reg)
 * In my previous job, I inspired the other devs to work more efficiently.
 * They inspired me to change my ways.
 * I had inspired my mentees to continue to develop their software skills. (past perfect)
 * I was happy to learn that I had inspired someone with my presentation.(past perfect)
 
-## import imported (id) (reg)
+# import imported (id) (reg)
 * They imported a container of mangoes from Thailand.
 
-## impress impressed (T) (reg)
+# impress impressed (T) (reg)
 * Fewer things impress me as I get older.
 * That was the most impressive wedding I've ever been to!
 * I'm not impressed by these results.
 
-## improve improved (d)(reg)
+# improve improved (d)(reg)
 * They should have improved this by now.
 * I have improved the code. (present perfect)
 
-## keep kept kept (irr)
+# keep kept kept (irr)
 * It's hard to keep everyone's attention during an online meeting.
 
-## know knew known (irr)
+# know knew known (irr)
 * I know what I should expect pretty much everyday.
 * I didn't know it was possible.
 * As you may know, PHP consumes more resources than Go.
 * I know that one of my weaknesses is difficulty keeping up with the technology.
 * Everyone knows that it is expensive.
+* Nobody knows how to manage their money.
 * I don't know what it's called in English!
 * * I don't know the word in English!
 * I don't know what that word means!
@@ -1561,17 +1576,17 @@ I shouldn't have said anything!
 
 
 
-## play played (d) (reg)
+# play played (d) (reg)
 * My wife played an important role in this decision!
 * I could have played video games today, but I didn't. I played with my daughter!
 * I have played that game before!
 
-## update updated (id) (reg)
+# update updated (id) (reg)
 * We couldn't update the system.
 * They had updated the service earlier.
 
 
-## understand understood understood (irr)
+# understand understood understood (irr)
 * As I understand... 
 * It's hard to understand!
 * I'm really struggling to understand how this is going to work in the real life.
@@ -1579,37 +1594,37 @@ I shouldn't have said anything!
 * I'm sorry, I didn't understand what you said.
 * Sometimes, I don't fully understand why I do what I'm doing.
 
-## recall recalled (d) (reg) 
+# recall recalled (d) (reg) 
 * As I recall...
 * They recalled the car because of faulty brakes.
 
-## refund refunded (id) (reg)
+# refund refunded (id) (reg)
 * The hotel refunded our money.
 * We should have gotten a refund by now.
 
-## refuse refused  (d) (reg) 
+# refuse refused  (d) (reg) 
 
-## rob robbed (d) (reg)
+# rob robbed (d) (reg)
 * She's robbing her future by smoking.
 * She's robbing her daughter of opportunities by insisting that she study ancient Greek.
 
 
-## refresh refreshed (t) (reg)
+# refresh refreshed (t) (reg)
 * I felt refreshed after my shower.
 
-## sled sledded (id) (reg)
+# sled sledded (id) (reg)
 * 
 
-## sleep slept slept (irr)
+# sleep slept slept (irr)
 * I could have slept for a lot longer but the neighbors woke me up.
 * I slept in this morning until 10!
 
-## slice sliced (t) (reg)
+# slice sliced (t) (reg)
 https://i.imgur.com/D6KFFLx.png
 
 * My girlfriend sliced up a bunch of onions for our onion soup tonight.
 
-## spend spent spent  (irr)
+# spend spent spent  (irr)
 * We spent the whole day at home.
 * We decided to spend more and buy the new X.
 * I try to spend a couple of hours everyday learning English!
@@ -1627,26 +1642,26 @@ https://i.imgur.com/D6KFFLx.png
 * I must spend more time studying for the exam.
 
 
-## resolve resolved (d) (reg)
+# resolve resolved (d) (reg)
 * I haven't been able to resolve the [problem,issue] yet.
 * 
 
-## result resulted (id) reg
+# result resulted (id) reg
 * As a result of the investigation we have decided that the supplier is at fault.
 * I enjoy the results of the process of cooking!
 * We [decided to go with,resulted to] a different supplier for the rest of the project.
 
-## pretend pretended (id) (reg)
+# pretend pretended (id) (reg)
 * She pretended not to know what I was talking about.
 
-## pick picked (t) (reg)
+# pick picked (t) (reg)
 * I picked mushrooms in the forest.
 
-## ping pinged (d) (reg)
+# ping pinged (d) (reg)
 * He should have pinged me by now.
 * He might have pinged me earlier but I don't know.
 
-## prepare prepared (d) (reg)
+# prepare prepared (d) (reg)
 * I should start preparing for the next certification exam.
 * I'm still preparing.
 * I spent the weekend preparing for my exam.
@@ -1655,44 +1670,44 @@ https://i.imgur.com/D6KFFLx.png
 * I'm preparing for an example.
 * I have been preparing for the test for months.
 
-## prevent prevented (id) (reg)
+# prevent prevented (id) (reg)
 * We could have prevented this from happening.
 
-## reduce reduced (T) (reg)
+# reduce reduced (T) (reg)
 * You should have reduced the temperature.
 
-## fry fried (d) (reg)
+# fry fried (d) (reg)
 * How do you make fried potatoes?
 * What is your recipe for fried potatoes?
 * 
 
-## frustrate frustrated  (id) (reg)
+# frustrate frustrated  (id) (reg)
 * I was very frustrated by the delays.
 * They should be more patient but they are very frustrated by the delays.
 
-## migrate migrated (id) (reg)
+# migrate migrated (id) (reg)
 * We are in the process of migrating from one framework to another.
 
-## miss missed  (T) (reg)
+# miss missed  (T) (reg)
 * I would have missed the turn if you hadn't told me about the tree.
 * Yeah. I've got the TPS report right here in front of me! And I see that it's missing the cover page!
 
 
 
-## mix mixed (T) (reg)
+# mix mixed (T) (reg)
 * You need to mix it all together.
 
-## move moved (d) (reg)
+# move moved (d) (reg)
 * We have moved to a new place.
 * We can't move forward until we get confirmation from the client.
 
-## mock mocked (t) (reg)
+# mock mocked (t) (reg)
 * She mocked me for not knowing machine language.
 
-## mock up mocked up (t) (reg)
+# mock up mocked up (t) (reg)
 * We mocked up a prototype quickly.
 
-## motivate motivated (id) (reg)
+# motivate motivated (id) (reg)
 * How do you stay motivated?
 * To stay motivated, you need to find your passion!
 * He's motivating others to help out in the community.
@@ -1700,7 +1715,7 @@ https://i.imgur.com/D6KFFLx.png
 * He was motivating the other kids to learn how to swim while he stayed at his grandparent's house. (past continuous)
 
 
-## see saw seen (irr)
+# see saw seen (irr)
 * I see where I need to practice more.
 * I haven't seen him for awhile.
 * Is it possible to see it now?
@@ -1716,122 +1731,123 @@ https://i.imgur.com/D6KFFLx.png
 
 
 
-## seek seek sought (irr)
+# seek seek sought (irr)
 * I have sought my keys for the last two hours.
 
-## refactor refactored (d) (reg)
+# refactor refactored (d) (reg)
 * I haven't refactored any code since last year.
 
-## receive received (d) (reg)
+# receive received (d) (reg)
 * We recieved good medical service at that hospital.
 * We should have received the package by now.
 * We have not received the funds yet.
 * I haven't received your email.
 
-## pay paid paid (d) (irr)
+# pay paid paid (d) (irr)
 * This afternoon I paid my taxes for my business.
 
-## pass passed (t) (reg)
+# pass passed (t) (reg)
 * The most important step in passing an exam is preparation.
 * I hope I will pass the exam!
 * I passed the exam last week.
 * Four days passed before I got an answer.
 
-## forget forgot forgotten (irr)
+# forget forgot forgotten (irr)
 * We could have used this lantern but you forgot the gas!
 * I might have forgotten my mother's birthday!
 * I have forgotten so much already!
 * Jim didn't come. He forgot about the meeting. 
 * Have you forgotten the password?
+* I have forgotten everything!
 * If I don't do it now, I will forget!
 * I have forgotten so many English words!
 * I am always forgetting how to use this phrase.
 * I have forgotten my password!
 * I forgot what I wanted to say! Can you help me please? What was I saying before?
 
-## find found found (irr)
+# find found found (irr)
 * Apple was founded by the two Steves.
 * We found out later that his father had died of cancer.
 
 
-## fix fixed (T) (reg)
+# fix fixed (T) (reg)
 * Maybe he'll be able to fix it.
 * I should have fixed this earlier. (present perfect)
 * We need to know what needs to be fixed.
 
-## baffle baffled  (d) (reg)
+# baffle baffled  (d) (reg)
 * I was baffled by the bug.
 
-## baptise baptised (d) (reg)
+# baptise baptised (d) (reg)
 * He was baptised in the school of life.
 * The soldier was baptised in the Battle of Nurenburg.
 * She was baptised at church.
 
-## bake baked (T) (reg)
+# bake baked (T) (reg)
 * Bake it for thirty minutes at 180C.
 * I should have baked it for longer.
 
-## carry carried (d) (reg)
+# carry carried (d) (reg)
 * We should have carried more water.
 * They don't carry organic almond milk in this store.
 
-## clean cleaned (d) reg
+# clean cleaned (d) reg
 * We had cleaned the apartment before we left.
 * We had to clean the apartment before we left.
 
-## claim claimed (d) (reg)
+# claim claimed (d) (reg)
 * He [said,claimed] to have finished his work already!
 * I [got,claimed] my prize after the contest.
 
-## clash clashed (t) (reg)
+# clash clashed (t) (reg)
 * We clashed a lot during the game!
 * Politicians clashed over the wording of the new law.
 
-## climb climbed (d) (reg)
+# climb climbed (d) (reg)
 * You must have a strong will to climb to the top of that mountain.
 * We had climbed to the top of the mountain when it started to rain!
 
-## close closed  (d) (Reg)
+# close closed  (d) (Reg)
 * A lot of shops have been closed.
 
-## correct corrected (id) (reg)
+# correct corrected (id) (reg)
 * I should have corrected that error earlier.
 
-## combine combined (d) (Reg)
+# combine combined (d) (Reg)
 * I combined my love of fishing with my love of engineering.
 
-## compare compared (d) (Reg)
+# compare compared (d) (Reg)
 * I should have compared more products before I bought this one.
 * How does Golang compare to PHP?
 
 
-## grind ground (d) (irr)
+# grind ground (d) (irr)
 * I ground my coffee in  my new coffee grinder.
 * There is a setting on my coffee grinder that helps me determine how fine the coffee grinds are.
 
 
-## grin grinned (d) (reg)
+# grin grinned (d) (reg)
 * He will grin when he hears this joke.
 
-## carve carved (d) (reg) ~ to cut
+# carve carved (d) (reg) ~ to cut
 * I will carve the turkey.
 
-## sprout sprouted (id) reg ~ to grow
+# sprout sprouted (id) reg ~ to grow
 * Your daughter has grown so quickly! She has sprouted up so quickly!
 
-## spot spotted (id) reg
+# spot spotted (id) reg
 * I spotted her at the super market. 
 * I spotted an error in the report but I didn't tell anyone.
 
-## heap~ to pile something up
+# heap~ to pile something up
 * They are heaping praise on a pig!
 * My hamster is heaping up his bedding in the corner to make a new nest.
 
-## compete competed (id) (reg)
+# compete competed (id) (reg)
 * Our competitors have a different idea of what is fair competition.
 * We completed the migration to Kubernetes.
 
-## come came come (irr)
+# come came come (irr)
 * I came across a new word.
 * I will come to you later tonight. (informal to a lover)
 * This is the first time I have come across this! (It's the first time I've seen something.)
@@ -1842,68 +1858,68 @@ https://i.imgur.com/D6KFFLx.png
 * I should have come sooner.
 * You shouldn't come home too late because you have to [wake up early, go to work tomorrow].
 
-## summarize   summarized
+# summarize   summarized
 * To summarize, do this, then that and finally the other thing.
 
-## suspect suspected  (id) (reg)
+# suspect suspected  (id) (reg)
 * Her behavior was very suspicious.
 
 
-## suspend suspended (d) (id)
+# suspend suspended (d) (id)
 * Why was the project suspended? The project has been stopped because the client didn't pay.
 * The project has been suspended for some time.
 
-## suggest suggested (id) (reg)
+# suggest suggested (id) (reg)
 * I might have suggested the wrong solution.
 * Allow me to suggest this wine.
 * She suggested some ideas.
 
-## surround surrounded (d) (Reg)
+# surround surrounded (d) (Reg)
 * I have been surrounded by boxes for weeks now.
 
-## stare stared
+# stare stared
 * I could have stared at her all day long!
 
-## steal stole stolen
+# steal stole stolen
 * They could have stolen my phone while I was at the restaurant.
 * Who do you suspect stole your phone? 
 
 
 
-## step stepped (t) (reg)
+# step stepped (t) (reg)
 * Yesterday morning I stepped outside and found the streets covered in fog.
 
 
-## stuck stuck (irr)
+# stuck stuck (irr)
 * The melody got stuck in my head.
 
-## study studied (d) (Reg)
+# study studied (d) (Reg)
 * I must study for my AWS certification.
 * I'm studying another programming language.
 
-## stress stressed (t) (reg)
+# stress stressed (t) (reg)
 * I should have stressed the importance of this part of the project.
 
-## strives, striving, strove or striven (d) (irr) 
+# strives, striving, strove or striven (d) (irr) 
 * We [strive,aim] to deliver the highest quality products and services to our clients.
 
-## subscribe subscribed (d) (reg)
+# subscribe subscribed (d) (reg)
 * I subscribed to a new channel.
 
-## collaborate collaborated (id) (reg)
+# collaborate collaborated (id) (reg)
 * We collaborated on the last sales pitch.
 
-## submit submitted (id) (reg)
+# submit submitted (id) (reg)
 * She had submitted her resignation before the company collapsed. (present perfect simple)
 
-## stay stayed (d) (Reg)
+# stay stayed (d) (Reg)
 * We should have stayed at home!
 * My sister is staying home from school.
 * She had stayed from school because she was ill. (present perfect simple)
 
 
 
-## think thought thought (irr)
+# think thought thought (irr)
 * I will think about it...
 * I thought that it would be foggy this morning.
 * I don't think in English.
@@ -1917,24 +1933,24 @@ https://i.imgur.com/D6KFFLx.png
 
 
 
-## ticket ticketed (id) (reg)
+# ticket ticketed (id) (reg)
 * I got [fined,ticketed] by the [police,cops] for driving too fast!
 * We need to go to the ticketing office to get our refund for the cancelled flight.
   
-## tire tired (d) (reg)
+# tire tired (d) (reg)
 * I was so tired that I fell asleep on the bus.
 * She tires easily. 
 * We were tired after our walk. (passive voice)
 
-## litigate litigate (id) (reg)
+# litigate litigate (id) (reg)
 * We decided not to litigate against our neighbors.
 
-## annoy annoyed (d) (reg)
+# annoy annoyed (d) (reg)
 * It's annoying.
 * I'm not unhappy just annoyed.
 * The phone noises annoyed me all night long! Please turn off your notifications!
 
-## hear heard heard (irr)
+# hear heard heard (irr)
 * Haven't you heard? The world is ending!
 * I heard the news on the radio.
 * I need to write down the words that I hear.
@@ -1943,68 +1959,68 @@ https://i.imgur.com/D6KFFLx.png
 * You should have heard about this before.
 * That is the first time I have ever heard that!
 
-## hesitate hesitated (id) (reg)
+# hesitate hesitated (id) (reg)
 * We shouldn't have hesitated. Now we are stuck here.
 * If I get another chance to kill you, I will not hesitate!
 
-## locate located (id) (reg)
+# locate located (id) (reg)
 * Do you know where it is located?
 
-## lounge lounged (d) (reg)
+# lounge lounged (d) (reg)
 * We just lounged around.
 
-## look looked (t) (reg)
+# look looked (t) (reg)
 * I looked into her eyes and I saw heaven. (simple past)
 * I have been looking for my keys for the last two hours!
 
 
-## prefer preferred (d) (reg)
+# prefer preferred (d) (reg)
 * My father prefers weak coffee.
 * I would have preferred white wine but all they had was red.
 * We prefer to use X.
 
-## practice practiced (t) (reg)
+# practice practiced (t) (reg)
 * I practice my English on a regular basis.
 * He had practiced medicine illegally for years before getting caught by the [police,authorities].
 * I want more opportunities to practice what I have learned.
 
-## predefine predefined (d) (reg)
+# predefine predefined (d) (reg)
 * We should have predefined our requirements.
 
-## predict predicted (id) (reg)
+# predict predicted (id) (reg)
 * We should have predicted this!
 
-## incentivize incentivized (d) (reg)
+# incentivize incentivized (d) (reg)
 
-## inundate inundated (id) (reg)
+# inundate inundated (id) (reg)
 * We were [inundated,overwhelmed] with work!
 
 
-## increase increased (t) (reg)
+# increase increased (t) (reg)
 * My blood pressure has increased with the increase in temperature.
 * Can you increase the font size please?
 * I must increase my English level by June.
 * I would recommend you increase your knowledge in PHP.
 * They should have increased my salary by now. (present perfect)
 
-## inform informed (d) (reg)
+# inform informed (d) (reg)
 * We should have informed the client earlier.
 
 
-## influence influenced (t) (reg)
+# influence influenced (t) (reg)
 * She could have influenced the outcome but she chose not to.
 
-## inject injected (id) (reg)
+# inject injected (id) (reg)
 * The fuel was injected into the carburetor.
 
-## join joined
+# join joined
 * I could have joined you earlier, but I got held up.
 
-## wait waited (reg)(id)
+# wait waited (reg)(id)
 * I was waiting for snow the whole year!
 
 
-## watch watched (t) (reg)
+# watch watched (t) (reg)
 * This evening we are going to finish watching the last episode of X.
 * We didn't watch a lot of films.
 * We haven't watched a lot of films recently.
@@ -2013,30 +2029,30 @@ https://i.imgur.com/D6KFFLx.png
 * I have been watching videos in English.
 * I will watch some videos about GCP security before I take the exam.
 
-## wake up/ woken up/ woken
+# wake up/ woken up/ woken
 * The neighbors woke me up.
 * I should have woken up earlier but I didn't.
 * I have never woken up to comfort her.
 
 
-## suffer suffered
+# suffer suffered
 * We suffered a loss when our client canceled our contract.
 * We suffered a huge financial loss when the market crashed.
 
 
-## rush rushed (T) (reg)
+# rush rushed (T) (reg)
 * I didn't want to feel rushed.
 * I think that the Russian vaccine was rushed and did not get tested sufficiently.
 * They had rushed the product out the door and it showed.
 
 
 
-## run ran run (irr)
+# run ran run (irr)
 
 
 
 
-## walk walked (t) (reg)
+# walk walked (t) (reg)
 * I went for a walk in the park.
 * She is a walking Wikipedia.
 * I could have gone for a walk with my daughter but I didn't because it was cold! 
@@ -2045,15 +2061,15 @@ https://i.imgur.com/D6KFFLx.png
 
 
 
-## want wanted (id) (reg) syn: wish, desire, need
+# want wanted (id) (reg) syn: wish, desire, need
 * I don't want to talk about it!
 * I always wanted to learn how to play piano.
 * I had wanted this car for a long time before I bought it.
 * They might have wanted something different.
 
-## gather gathered (d) (reg) 
+# gather gathered (d) (reg) 
 
-## give gave given (irr)
+# give gave given (irr)
 * When I gave him a new tablet, he was very happy.
 * I gave a presentation about X.
 * Last year my parents gave me a nice suit that matches my favorite necklace.
@@ -2062,18 +2078,18 @@ https://i.imgur.com/D6KFFLx.png
 * Before I answer your question, let me ask you another question first.
 * I have given her a kiss and she gave me her love!
 
-## melt melted (id) (reg)
+# melt melted (id) (reg)
 * The snow is melting!
 * The ice should have melted by now.
 
-## mend mended (id) (reg)
+# mend mended (id) (reg)
 * I [mended,repaired] the hole in my sock.
 * We mended our relationship after our big fight. I confessed that I was an idiot, and she agreed.
 
-## merge merged (d) (reg)
+# merge merged (d) (reg)
 
 
-## meet met met (irr)
+# meet met met (irr)
 * I met with my friends.
 * Let's meet up later! (prepositional phrase)
 * Let's meet later! 
@@ -2081,7 +2097,7 @@ https://i.imgur.com/D6KFFLx.png
 
 
 
-## use used (d) (reg)
+# use used (d) (reg)
 * I was using the mop when the door rang.
 * I used to be a web developer.
 * My dad used to serve in the army.
@@ -2094,45 +2110,45 @@ https://i.imgur.com/D6KFFLx.png
 * We are using cutting edge technologies!
 * I am not sure which solution they are using.
 
-## used to
+# used to
 * I'm not used to so much attention.
 
-## diagnose diagnosed (t) (reg)
+# diagnose diagnosed (t) (reg)
 * I have been diagnosed with ADHD.
 
-## die died (d) (reg)
+# die died (d) (reg)
 * We don't know how it died, but it is definitely dead now.
 * He had died very young.
 
-## disagree disagreed (d) (reg)
+# disagree disagreed (d) (reg)
 * We disagreed on some things.
 * I have to disagree with you.
 
-## hop hopped (t)(reg) ~ to jump
+# hop hopped (t)(reg) ~ to jump
 * We will be hopping at the dance lesson tomorrow night!
 
-## disclose (d) (reg)
+# disclose (d) (reg)
 
 * There was a lot of information disclosed in the meeting.
 * He refused to [disclose | tell] his sources.
 
 
-## discover discovered  (d) (reg)
+# discover discovered  (d) (reg)
 * He has discovered a new restaurant that he would like to share with us.
 * I have discovered that the Google docs are very thorough.
 * We discovered the car had been vandalized.
 
 
 
-## fill filled (d) (reg)
+# fill filled (d) (reg)
 * I could have filled a book with everything I have forgotten.
 
-## filter filtered (d) (reg)
+# filter filtered (d) (reg)
 * We filtered the data based on your criteria.
 * We need to filter the array based on our test criteria.
 
 
-## find found found (irr)
+# find found found (irr)
 * You might find what you are looking for [over there,in that shop].
 * I have found this method quite useful.
 * I have found a bug crawling on the kitchen counter top!
@@ -2142,14 +2158,14 @@ https://i.imgur.com/D6KFFLx.png
 
 
 
-## ask asked (t) (reg)
+# ask asked (t) (reg)
 * I wanted to ask this question.
 * I had asked her earlier about her parents but she didn't want to share much.
 
-## word worded (id)
+# word worded (id)
 * He worded the contract in a very specific way to make sure that he was protected.
 
-## work worked (t) (reg)
+# work worked (t) (reg)
 * I'm working hard! (present continuous)
 * Many of them will start working next year.
 * That's how it works here.
@@ -2161,51 +2177,51 @@ https://i.imgur.com/D6KFFLx.png
 * My colleague works all the time!
 
 
-## hold held held (irr)
+# hold held held (irr)
 * We will hold a meeting much later.
 * We held a meeting yesterday at 1 o'clock.
 
-## hope hoped (t) (reg)
+# hope hoped (t) (reg)
 * We hoped to meet them at the park.
 
-## seem seemed (d) (reg)
+# seem seemed (d) (reg)
 * He seemed relieved to be going home early.
 
-## overwhelm overwhelmed (d) (reg)
+# overwhelm overwhelmed (d) (reg)
 * I was overwhelmed with emotion when I saw my dead dog in the road!
 
-## outlast outlasted  (id) (reg)
+# outlast outlasted  (id) (reg)
 * My old projector has outlasted my new projector!  
 
-## facilitate facilitated (id) (reg)
+# facilitate facilitated (id) (reg)
 * I facilitated the meeting!
 
-## face faced (t) (reg)
+# face faced (t) (reg)
 * We faced off on the corporate battlefield of contract negotiations. (poetry)
 * We have never faced this issue before.
 * You must face your enemies!
 
-## fall fell fell (irr)
+# fall fell fell (irr)
 * I see snow flakes falling. 
 * My phone could have fallen out of my pocket.
 
-## familiarize familiarized (d) (reg) 
+# familiarize familiarized (d) (reg) 
 * I got familiarized with the material yesterday.(I learned about the material yesterday.)
 
 
-## feed fed fed (irr)
+# feed fed fed (irr)
 * Please feed me!
 * I could have fed your cat for you!
 * YOu should feed me before you leave! Don't you love me anymore?!
 * My cat wants to be fed!
 
 
-## imagine imagined (d)(reg)
+# imagine imagined (d)(reg)
 * We never imagined this could happen.
 * I can't imagine how to test this!
 * I can't even imagine how to describe the problem!
 
-## feel felt felt (irr)
+# feel felt felt (irr)
 * We felt so relaxed at the spa. 
 * Have you ever felt like this?
 
@@ -2218,7 +2234,7 @@ https://i.imgur.com/D6KFFLx.png
 * I felt happy when she moved to Canada.
 * I have felt sadness before.
 
-## choose chose chosen (irr)
+# choose chose chosen (irr)
 * I made a good choice!
 * That's why I chose it! 
 * I should have chosen a better venue.
@@ -2228,25 +2244,25 @@ https://i.imgur.com/D6KFFLx.png
 * I chose this task. 
 
 
-## train trained (d) (reg)
+# train trained (d) (reg)
 * It takes a lot of time to train volunteers.
 
 
-## translate translated (id) (reg)
+# translate translated (id) (reg)
 * She should have translated the document already.
 * It's hard to translate the word.
 
-## transfer transferred (d) (reg)
+# transfer transferred (d) (reg)
 * We need to transfer to the connecting flight.
 * We had to transfer in Frankfurt.
 
-## treat treated (id) (reg)
+# treat treated (id) (reg)
 * We should have treated her nicer.
 * He's being treated for a rare tropical disease.
 * My wife just treated me to a hot cup of tea!
  
 
-## tweak tweaked (t) (reg)
+# tweak tweaked (t) (reg)
 * I need to tweak my settings.
 * We tweaked the configuration so that it works better.
 * We optimized the application by tweaking the SQL queries.
@@ -2255,29 +2271,30 @@ https://i.imgur.com/D6KFFLx.png
 * I tweaked the A/V settings on my laptop.
 
 
-## arrive arrived (d) (reg)
+# arrive arrived (d) (reg)
 * We arrived very late.
+* I just arrived!
 * When I arrived at the gym, the power was off!
 * I had arrived late.
 * The package arrived safely.
 
-## soar soared(d) (reg)
+# soar soared(d) (reg)
 * I could have soared for hours on the mountain winds.
 
 
-## solve solved (d) (reg)
+# solve solved (d) (reg)
 * They had solved the problem before we arrived.
 * It was strange that they couldn't solve it.
 
-## react reacted(id) reg
+# react reacted(id) reg
 * I think she reacted with constraint.
 
 
-## reach reached (t) (reg)
+# reach reached (t) (reg)
 * I have reached the end of the road.
 
 
-## try tried tried (irr)
+# try tried tried (irr)
 * Have you tried down hill skiing?
 * We are trying to find an answer.
 * I will try to explain what I'm talking about.
@@ -2290,7 +2307,7 @@ https://i.imgur.com/D6KFFLx.png
 * You might want to try to [reach,message,call] him at his office.
 * We might try to go to the movies tonight.
 
-## take took taken (irr)
+# take took taken (irr)
 * Because we take such a long nap, we go to bed very late.
 * I am currently taking courses.
 * I took a walk outside to get some fresh air.
@@ -2309,22 +2326,22 @@ https://i.imgur.com/D6KFFLx.png
   
 
 
-## deploy deployed (d) (reg)
+# deploy deployed (d) (reg)
 * They should have deployed the application already.
 * Our application needs to be deployed.
 * What is the final step in the deployment process?
 
-## imply implied (d) (reg)
+# imply implied (d) (reg)
 * My wife implied that I need to take out the trash but reminding me that the trash was still in the hallway. She didn't explicitly tell me to take out the trash.
 * My manager implied that I need to put the lid on the trash can. He just mentioned that the lid is on the floor and there are a lot of flies around.
 
 
 
-## implement implemented (id) (Reg)
+# implement implemented (id) (Reg)
 * We should have implemented this procedure earlier!
 * A lot of new features have been implemented.
 
-## repel repelled (d) (reg) 
+# repel repelled (d) (reg) 
 * The jacket repels water.
 * The jacket should repel water.
 * The jacket should have repelled the [rain,water].
@@ -2332,30 +2349,30 @@ https://i.imgur.com/D6KFFLx.png
 * His breath was repellant!
 * We will need lots of bug repellant when we enter the jungle!
 
-## rent rented (id) (reg)
+# rent rented (id) (reg)
 * We should have rented a bigger car.
 * We rented a place in the mountains.
 * We rented a place in the suburbs for the weekend.
 
-## repeat repeated (id) (reg)
+# repeat repeated (id) (reg)
 * I just repeat after them like a parrot.
 * We should repeat our party. We should do this again. 
 * Could you please repeat that?
 
-## repeal repealed (d) (reg)
+# repeal repealed (d) (reg)
 * The law was repealed last year.
 
-## appeal appealed  (d) (reg)
+# appeal appealed  (d) (reg)
 * The lawyer appealed the verdict.
 
 
-## rehearse rehearsed (t) (reg)
+# rehearse rehearsed (t) (reg)
 * I should have rehearsed more before the show.
 * I just finished my rehearsal (noun). I'm ready to go!
 
 
 
-## leave left, left (irr)
+# leave left, left (irr)
 * They are trying to leave the city.
 * I left my home town a long time ago so I don't feel homesick at all!
 * You didn't leave anything out.
@@ -2366,49 +2383,49 @@ https://i.imgur.com/D6KFFLx.png
 * He left before I could thank him.
 * You are not permitted to leave your laptop on the desk.
 
-## live lived (d) (reg)
+# live lived (d) (reg)
 * When I  lived with my parents
 * They have lived here for a long time.
 * I live near a church now.
 * I lived near a church when I was younger.
 
 
-## like liked (t) (irr)
+# like liked (t) (irr)
 * She liked the massage at the spa.
 * She liked the absence of work.
 
 
-## memorize memorized (d) (reg)
+# memorize memorized (d) (reg)
 * I should have memorized the security protocols with this service.
 * My grand mother's soup was quite memorable.
 
-## serve served (d) (reg)
+# serve served (d) (reg)
 * As a rule, you should have strong arms if you are going to serve in the army.
 
 
-## suppose supposed(d) (reg)
+# suppose supposed(d) (reg)
 * I suppose that celebrities are tired of waving at their fans all the time.
 
 
 
-## swim swam swum (irr)
+# swim swam swum (irr)
 * I swam 300 meters.
 * I wanted to go swimming this morning.
 
-## switch switched
+# switch switched
 * She switched personalities as fast as the wind blew.
 
-## can
+# can
 * He can't do it.
 
 
 
-## tease teased (d) (reg)
+# tease teased (d) (reg)
 
 
 
 
-## call called (d) (reg)
+# call called (d) (reg)
 * I think it's called X.
 * I don't remember what they called themselves...
 * It's called something else...
@@ -2420,13 +2437,13 @@ https://i.imgur.com/D6KFFLx.png
 * I will call my mother on her birthday.
 * I am not sure what it's called in English.
 
-## break broke broken
+# break broke broken
 * Someone broke into our house last night.  
 * I found out that the window was broken.
 
 
 
-## bring  brought, brought (irr)
+# bring  brought, brought (irr)
 * I have brought with me X.
 * I have brought with me a nice bottle of wine and a rib-eye steak.
 * * Could you bring  me some water, please?
@@ -2439,26 +2456,26 @@ https://i.imgur.com/D6KFFLx.png
 
 
 
-## brush brushed (t) (reg)
+# brush brushed (t) (reg)
 * I 
 
 
-## budge budged (d) (reg)
+# budge budged (d) (reg)
 * He hasn't budged in 20 minutes. He's still in the same place!
 * They won't budge on the price! They are very stubborn!  
 
 
-## burn burned (d) (reg)
+# burn burned (d) (reg)
 * We let a candle burn a hole in the table cloth.
 * Someone burned a hole in the table cloth! Mom is going to be pissed!
 * I felt like I was burning inside.
 
-## bury buried (d) (reg)
+# bury buried (d) (reg)
 * My late uncle was buried in the cemetery after the funeral.
 * The car was buried under snow!
   
 
-## buy bought bought (irr) 
+# buy bought bought (irr) 
 * What do you need to buy at the store?
 * We buy things from overseas sometimes.
 * Should I buy some beer for the party?
@@ -2466,10 +2483,10 @@ https://i.imgur.com/D6KFFLx.png
 * I should have bought a present but I didn't! (past perfect)
 * You should take care of yourself! I recommend you should buy X as soon as possible.
 
-## wow wowed (reg)
+# wow wowed (reg)
 * She wowed us with her singing!
 
-## write wrote written (irr) 
+# write wrote written (irr) 
 * It's a poorly written book.
 * We have written a lot of functions in Golang.
 * The devs have finished writing the code.
@@ -2482,48 +2499,48 @@ https://i.imgur.com/D6KFFLx.png
 
 
 
-## yearn yearned (d) (reg)
+# yearn yearned (d) (reg)
 * I yearned for her smiles.
 
-## major majored
+# major majored
 * I majored in Computer Science.
 
-## marry married (d) (reg)
+# marry married (d) (reg)
 * My friends just got married last weekend!
 
-## whip whipped (t) (reg)
+# whip whipped (t) (reg)
 * We need to whip the team into shape!
 
-## wipe wiped (t) (reg)
+# wipe wiped (t) (reg)
 * We should have wiped the mud off the car before we started driving.
 * 
 
 
-## note noted  (id) (reg)
+# note noted  (id) (reg)
 * I used to note down everything I heard during the lectures.
 
-## fix fixed (t) (reg)
+# fix fixed (t) (reg)
 * We need to fix the bugs.
 
-## chase chased  (t) (reg)
+# chase chased  (t) (reg)
 * He chased her for months before she agreed to go out with him.
 * The fox chased the rabbit in the field.
 
-## chat chatted (id)  (reg)
+# chat chatted (id)  (reg)
 * We could have chatted for hours, we were having such an interesting conversation.
 
-## measure measured (d) (reg)
+# measure measured (d) (reg)
 * I measured each detail before I started [cutting,sawing].
 
-## stimulate stimulated (d) (reg)
+# stimulate stimulated (d) (reg)
 
-## smash smashed (t) (reg) 
+# smash smashed (t) (reg) 
 * The tea cup smashed into a million tiny pieces!
 
-## smuggle smuggled (d) (reg)
+# smuggle smuggled (d) (reg)
 * We could have smuggled in a bottle of booze into Maldives.
 
-## start started (id) (reg)
+# start started (id) (reg)
 * I have started to speak more slowly.
 * He started yelling at her.
 * I started work late today.
@@ -2534,11 +2551,11 @@ https://i.imgur.com/D6KFFLx.png
 * I couldn't get my car started!
 * When I start painting I need to get into the mood and prepare all of the necessary things to paint.
 
-## stop stopped (t) (reg)
+# stop stopped (t) (reg)
 * I stopped using it.
 * I was stopped by the police on my way home for driving too slowly!
 
-## build built built (irr)
+# build built built (irr)
 * If the build is successful then the process ends.
 * My boy friend built a great box.
 * I have built a chatbot before.
@@ -2546,185 +2563,185 @@ https://i.imgur.com/D6KFFLx.png
 * We should build a new model.
 * We must build a new robot to show off our robotic skills.
 
-## dig dug (irr)
+# dig dug (irr)
 * Yesterday, I had to dig my car out of the snow.
 * They dug up this road a week ago. 
 * And before that they had dug up another road.
 
 
-## disseminate disseminated
+# disseminate disseminated
 
-## disappoint disappointed 
+# disappoint disappointed 
 * If you are disappointed with the results, then you should try harder next time.
 
-## discuss discussed (t) (reg)
+# discuss discussed (t) (reg)
 * I discussed the issue with my manager.
 * There is only one thing left to discuss. (singular)
 * There are only [a few,a couple of,two things] left to discuss. (plural)
 
-## distract distracted (id) (reg)
+# distract distracted (id) (reg)
 * He was distracting his team.
 
-## distance distanced (t) (reg)
+# distance distanced (t) (reg)
 * We have distanced ourselves from that supplier ever since they admitted to selling weapons to children.
 
 
-## proceed proceeded (id) (reg)
+# proceed proceeded (id) (reg)
 * We can [proceed,continue].
 
-## project projected  (id) (reg)
+# project projected  (id) (reg)
 * We projected a bigger turnout.
 
-## promote promoted (id) (reg)
+# promote promoted (id) (reg)
 * Have you been promoted, yet?
 * How can I get promoted?
 
-## pronounce pronounced (t) (reg)
+# pronounce pronounced (t) (reg)
 * I've been pronouncing it incorrectly all this time.
 * It's pronounced with a strong s at the end.
 * I could not pronounce the word.
 
-## code coded
+# code coded
 * We should have coded this feature earlier.
 
-## program programmed
+# program programmed
 * We should have programmed a stronger security system.
 
-## cope coped (t) (reg)
+# cope coped (t) (reg)
 * I'm not coping very well.
 * She hasn't been coping very well with the changes.
 
-## confess confessed (t) (reg)
+# confess confessed (t) (reg)
 * Do you feel a need to confession?
 * We got a confession out of him!
 
-## convey conveyed   (d) (reg)
+# convey conveyed   (d) (reg)
 * I need to convey a message to you: My sister told me to tell you, that your dog has died.
 
 
-## configure configured (d) (reg)
+# configure configured (d) (reg)
 * We should have configured it differently. 
 * I could have configured it faster if I knew what I was doing.
 
-## conform conformed (d) (reg)
+# conform conformed (d) (reg)
 * How does this [meet,conform to] our needs?
 * We should have conformed to the standard.
 
-## confuse confused (d) (reg)
+# confuse confused (d) (reg)
 
 
 
-## connect connected  (id) (reg)
+# connect connected  (id) (reg)
 * I should be connected within the next five days.
 * It is often connected to UI elements.
 
-## contact contacted (id) (reg)
+# contact contacted (id) (reg)
 * Are you in contact with the project owner?
 * They haven't contacted me yet.
 
-## continue continued (d) (reg) 
+# continue continued (d) (reg) 
 * I will continue working on this project for at least another month.
 * I will continue to work from home for the forseeable future.
 * I continued to study even after my friends left school.
 
-## coordinate coordinated (id) (reg)
+# coordinate coordinated (id) (reg)
 * We should have coordinated our efforts.
 
-## cost irr
+# cost irr
 * We bought a new house. It cost  a fortune. 
 * Healthcare has cost  ten percent more this year.
 
 
-## turn turned (d)(reg) 
+# turn turned (d)(reg) 
 * It turned out that after the meeting was done, the only thing left to do was go back to work.
 
-## amuse amused (d)(reg) 
+# amuse amused (d)(reg) 
 * I was very amused by his jokes.
 * The [movie,book,party] was amusing.
 * I was not amused by his antics.
   
 
-## answer answered(d) (reg) 
+# answer answered(d) (reg) 
 * Allow me to answer your question.
 * Do you have any more questions for me?
 
-## reveal revealed (d)(reg) 
+# reveal revealed (d)(reg) 
 * The company revealed it's latest product at the conference.
 * The car manufacturer revealed it's latest offering at the car show.
 * I should have revealed my secret identity to my wife long ago! 
 
-## review reviewed (d)(reg) 
+# review reviewed (d)(reg) 
 * We should have reviewed his CV before hiring him.
 
-## return returned (d) (reg)
+# return returned (d) (reg)
 * She has returned to what she was doing before.
 
-## rally rallied (d) reg
+# rally rallied (d) reg
 * The general rallied his troops around him.
 * Ok, everybody! Rally around me! I've got some news to share!
 * There was a big political rally at the town square today.
 * My girl friend and I went on a road rally last weekend.
 
-## raise raised (d) (reg)
+# raise raised (d) (reg)
 * We raised our daughter to the best of our ability.
 
-## research researched (t) (reg)
+# research researched (t) (reg)
 * I was researching a new algorithm when my manager called me. (past continuous)
 
 
-## resign resigned (d) (reg) 
+# resign resigned (d) (reg) 
 * I should have [resigned,quit] from this job a long time ago.
 
-## resist resisted (id) (reg)
+# resist resisted (id) (reg)
 * They have resisted change.
 * This jacket resists rain and wind. 
 
-## ride ridden (irr)
+# ride ridden (irr)
 * Have you ever ridden a [bicycle,horse,motorcycle,skateboard]?
 
-## rig rigged (d) (reg)
+# rig rigged (d) (reg)
 * The runner claimed that the contest was rigged.
 * Rig rhymes with big!
 
-## bite bit bitten (irr)
+# bite bit bitten (irr)
 * The neighbor's dog bit her.
 * She was bitten by the neighbor's dog.
 * I was bitten by a mosquito!
 
-## book booked (t) (reg)
+# book booked (t) (reg)
 * The restaurant is fully booked.
 
 
-## bore bored (d) (reg)
+# bore bored (d) (reg)
 * I got bored after awhile.
 * I was bored out of my mind.
 
 
 
-## change diapers (reg)(verb phrase)
+# change diapers (reg)(verb phrase)
 * I should change my daughter's diapers when she wakes up.
 
-## crawl crawled (d) (reg)
+# crawl crawled (d) (reg)
 * My daughter likes to crawl on the carpet.
 * My daughter would have crawled all the way to the bathroom if I hadn't picked her up.
 * 
 
 
-## skip skipped (T) (reg)
+# skip skipped (T) (reg)
 * My colleague might have skipped today's meeting for personal reasons.
 * We should have skipped this meeting. It has nothing to do with us.
 * We had to skip his party.
 
-## identify 
+# identify 
 
-## interview interviewed (d) (reg)
+# interview interviewed (d) (reg)
 * I should have interviewed her myself.   
 
-## intend intended (id)(reg)
+# intend intended (id)(reg)
 * I intended to meet my colleagues after work. We want to meet at a nearby cafe.
 
 
-## unintended (id) (always in the past tense)
+# unintended (id) (always in the past tense)
 * It was an unfortunate and unintended mistake, on my part, when I forgot my mother-in-law's name.
 
 

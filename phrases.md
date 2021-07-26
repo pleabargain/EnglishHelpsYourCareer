@@ -1,3 +1,37 @@
+# sooner or later
+It will happen sooner or later.
+
+# I can't explain it.
+
+# spur of the moment
+It was a spur of the moment idea.
+
+# control freak
+She is such a control freak! Everything has to be her way!
+
+# buyer's remorse
+He felt buyer's remorse after his new sport car.
+
+# too many chiefs not enough Indians
+This is a classic case of of too many chiefs not enough Indians.
+
+# to make cosmetic fixes
+
+# follow your logic
+I'm not sure I follow your logic.
+
+# to turn the other cheek
+We were taught to turn the other cheek.
+
+# sweeping statement
+To say that all Americans are X is a sweeping statement.
+
+# the benefit of the doubt
+We should give him the benefit of the doubt.
+
+# that's an understatement
+To say that she is difficult to work with is an understatement.
+
 # flaky
 Phoebe is very flaky.
 
@@ -5,12 +39,13 @@ Phoebe is very flaky.
 She will do whatever you ask. She's such a pushover.
 
 # push back
+We got a lot of push back 
 
 # your days are numbered
 I have to tell you that your days are numbered here. You will get fired on Friday!
 
 # moral obligation
-
+I feel no moral obligation to help the drunk passed out on the bus bench.
 
 # I'm interested in how it turns out. 
 
