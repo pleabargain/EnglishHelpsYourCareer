@@ -1,7 +1,34 @@
+# let me try to remember
+Give me a second. Let me try to remember the name of the company.
+
+# clerical error
+
+# it could have been much worse
+It was bad, but it could have been much worse.
+# the plan went pear shaped
+We had to admit that we had failed and our plans went pear shaped.
+
+# the plan fell apart
+Our plan fell apart in the face of COVID19.
+
+# adding an addition
+We are adding an additional bathroom to our home.
+
+# to pay our respects
+We paid our respects to his memory.
+
+# It's inspiring!
+The view from here is inspiring.
+
+# part of my routine is to...
+It's part of my routine to ride my bike to work on Thursday.
+
 # sooner or later
 It will happen sooner or later.
 
+
 # I can't explain it.
+I can't explain it very well but I think I love you.
 
 # spur of the moment
 It was a spur of the moment idea.
@@ -524,7 +551,7 @@ We agreed that the deal was fair enough.
 * In such a class, every student can expect to be called on to explain something.
 
 # to make the hard call
-* It's clear Kat and Co. are willing to make the hard call and cut off underperforming divisions.
+* It's clear Kat and Co. are willing to make the hard call and cut off under performing divisions.
 * Indeed, it could be argued to be necessary: NGOs play a vital oversight role, and governments make the hard calls.
 * Groupon "made the hard call to allow the team to focus on what really matters".
 
@@ -532,6 +559,7 @@ We agreed that the deal was fair enough.
 * After negotiating for awhile, we found a good trade off.
 
 # bad omens
+This project is plagued with bad omens.
 
 # at face value
 * I will take your offer at face value.
@@ -557,8 +585,6 @@ We agreed that the deal was fair enough.
 # might give it some thought
 * I might give it some thought.
 
-
-
 # pain in the ass
 * This is a real pain in the ass!
 
@@ -574,16 +600,13 @@ We agreed that the deal was fair enough.
 * You can call me at any time.
 
 # I'm in transition!
-
-
+I don't what to think about anything anymore. I'm in transition.
 
 # I lost track of time!
 * I'm sorry. I lost track of time!
 
 # bummer
 * That sucks! That's a bummer!
-
-
 
 # movable feast
 * Easter is a movable feast, whereas Christmas is not.
@@ -604,8 +627,10 @@ We agreed that the deal was fair enough.
 * I accepted her offer at face value.
 
 # I was very popular...
+I was very popular at the party because I brought some good wine.
 
 # so far so good
+He told me that it's so far so good.
 
 # let's take it outside
 
@@ -1395,16 +1420,26 @@ He'll apologize when pigs fly.
 * My wife wants me to cut ties with my beer drinking buddy!
 
 # put on the back-burner
+We need to put this project on the back-burner for awhile.
+
+# burned out
+I am feeling burned out at work.
+
+# I'm fed up.
+We are fed up with your bad attitude. You are fired.
 
 # this is a red flag for me
+This clause in the contract is a red flag for me.
 
 # to make up a story
+I can see you are trying to make up a story about why you are late. You are fired.
 
 
 # I will keep that in mind!
 
 
 # I'm a free spirit!
+You can't lock me in an office! I'm a free spirit.
 
 # we have to dig out our X from the snow
 * We had to dig our car out from the snow last week!

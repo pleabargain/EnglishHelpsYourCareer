@@ -5,3 +5,6 @@
 * What do you do if an investment is a winner?
 * What do you do if an investment is a loser?
 * What do you do if an investment is simply a laggard?
+* How much do you invest in yourself?
+
+# statements

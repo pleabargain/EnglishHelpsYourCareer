@@ -12,7 +12,7 @@
 * Have You Ever Changed a Family Member's Mind?
 * How Well Do You Get Along With Your Siblings?
 * What Are Your Family Stories of Sacrifice?
-* What Possessions Does Your Family Treasure?
+* What possessions does your family treasure?
 * What Hobbies Have Been Passed Down in Your Family?
 * What's the Story Behind Your Name?
 * What Are Your Favorite Names?
@@ -21,6 +21,8 @@
 * What Family Traditions Do You Want to Carry On When You Get Older?
 * How do you give advice to your parents?
 * Who has better taste in fashion in your family?
+* Are you a god parent?
+
 
 # statements
 

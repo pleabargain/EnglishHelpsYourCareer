@@ -1,4 +1,4 @@
-# Holidays & Seasons
+# Holidays 
 * What is your opinion of International Women's Day!
 * What Organizations Do You Think People Should Give to This Holiday Season?
 * What is your favorite holiday? Why is it so special to you?
@@ -7,7 +7,7 @@
 * What are your thoughts about couples renewing their vows?
 * Has anyone ever thrown an extra special birthday party for you?
 * What made it so memorable?
-* How much do you feel we should spend on Christmas? Who should we buy gifts for: friends, al relatives, co-workers, mailman, etc? Or do we want to try to celebrate it spiritual y without al the commercialism? If so, how do we celebrate it?
+* How much do you feel we should spend on Christmas? Who should we buy gifts for: friends,  relatives, co-workers, mailman, etc? Or do we want to try to celebrate it spiritually without all the commercialism? If so, how do we celebrate it?
 * Do your religious beliefs prohibit the celebration of certain holidays?
 * Who should be responsible for sending holiday cards and thank you notes from the family?
 * How do you think a married couple should celebrate their wedding anniversary? Does it always have to be the same way?
@@ -62,3 +62,14 @@ Ana: How were your holidays?
 Bill: I spent time with my girlfriend and some friends.
 
 ---
+
+
+# Seasons
+
+## summer
+
+## autumn
+
+## winter
+
+## spring

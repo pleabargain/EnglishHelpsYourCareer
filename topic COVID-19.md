@@ -15,6 +15,7 @@
 * I am fully vaccinated.
 * I saw a lot of people [using oxygen masks,on respirators].
 * I saw it with my own eyes!
+* The PCR test cost about 40USD.
 
 # nouns
 quarantines

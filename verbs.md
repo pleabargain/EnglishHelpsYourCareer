@@ -1,5 +1,9 @@
 verbs (pronunciation) (regular or irregular)
 
+# evolve evolved (d) (reg)
+They have evolved quite a bit over the last year.
+
+
 # switch over
 * "Please switch off your phones".
 * Switch off unit before destroying.
@@ -706,6 +710,9 @@ I like to exercise in the morning.
 # satisfy satisfied (d) (reg)
 * I have not satisfied all of the requirements so I won't be able to participate.
 * They are [happy,totally] satisfied with my performance.
+
+# participate participated (d) (reg)
+We participated at the company team building.
 
 # scope scoped (t) (reg)
 * The project wasn't scoped properly.
@@ -1738,7 +1745,7 @@ https://i.imgur.com/D6KFFLx.png
 * I haven't refactored any code since last year.
 
 # receive received (d) (reg)
-* We recieved good medical service at that hospital.
+* We received good medical service at that hospital.
 * We should have received the package by now.
 * We have not received the funds yet.
 * I haven't received your email.
@@ -2270,6 +2277,9 @@ https://i.imgur.com/D6KFFLx.png
 * I haven't tweaked anything!
 * I tweaked the A/V settings on my laptop.
 
+
+# kayak kayaked (t) (reg)
+We kayaked down the river.
 
 # arrive arrived (d) (reg)
 * We arrived very late.

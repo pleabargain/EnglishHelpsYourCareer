@@ -1,4 +1,4 @@
-
+[[topic travel]]
 # questions
 What part of Turkey have you visited?
 What do you like to do in Turkey?
@@ -10,3 +10,4 @@ I'm not going to bring my laptop.
 I took my laptop out twice.
 I never encountered a dress code in a resort in Turkey.
 The hotel is fully booked.
+

@@ -17,6 +17,8 @@ What's new with your [[topic family|family]]?
 
 What's new with your [[topic food|food]]?
 
+What did you do over the weekend?
+
 What [[topic books|books]] can you recommend?
 
 What [[topic movies|movies]] can you recommend?

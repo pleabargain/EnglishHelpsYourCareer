@@ -9,6 +9,8 @@
   * solutions
   * answers
   * problems
+  * variations
+  * combinations
 
 * some
   * problems

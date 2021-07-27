@@ -7,7 +7,7 @@
 * What makes a good traveling companion?
 * Where in the world would you most like to travel?
 * What is your fantasy vacation?
-* What Would Your Fantasy Road Trip Be Like?
+* What would your fantasy road trip be like?
 * What Crazy Adventure Would You Want to Take?
 * What Local 'Microadventures' Would You Like to Go On?
 * What's Your Perfect Family Vacation?
@@ -19,17 +19,19 @@
 * What Famous Landmarks Have You Visited?
 * What's the Coolest Thing You've Ever Seen in Nature?
 * How Much Do You Know About the Rest of the World?
-* Would You Like to Live in Another Country?
-* Would You Want to Be a Space Tourist?
-* If You Could Time-Travel, Where Would You Go?
+* Would you like to live in another country?
+* Would you want to be a space tourist?
+* If you could time-travel, where would you go?
 * Where will you go first after [[topic COVID-19| Covid 19]].
 * Have you ever rented a motor home?
 * What was the nationality mix at your hotel?
 
 # statements
 The rental car was the most expensive part of the trip.
-I never encountered a dress code in a resort in Turkey.
+I never encountered a dress code in a resort in [[topic Turkey|Turkey]].
 I would like to ask for a site inspection.
+It was the worst experience ever!
+I 
 
 
 
@@ -44,3 +46,4 @@ to buy a ticket for site seeing
 to go site seeing
 to see the sites
 to visit historical sites
+to check in luggage

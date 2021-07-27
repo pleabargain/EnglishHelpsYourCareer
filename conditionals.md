@@ -8,6 +8,7 @@ if + past simple, simple future
 * If it's sunny, we'll go to the beach.
 * If it's cold, you should wear a coat.
 * If you invest a little bit every day, you will probably get rich.
+* We could have explored more if we had a car.
 
 
 # second conditional 

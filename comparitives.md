@@ -29,6 +29,7 @@ When we want to **describe how something or someone changes** we can use two com
 *The party got **bigger and bigger**.
 
 * Everything is getting **more and more expensive**.
+* It was more expensive than I expected.
 
 * Grandmother is looking **older and older**._
 

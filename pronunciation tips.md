@@ -106,6 +106,9 @@
 * womb
 * tomb
 
+## silent c
+- yachts
+
 ## silent t (don't pronounce the T!)
 * bustle
 * castle
