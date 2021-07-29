@@ -30,5 +30,8 @@
 * Do you arrive at the airport ahead of time in case problems arise or do you try to get there at the last possible minute so you don’t have to wait?
 * Do you save up for a vacation or do you put it all on credit and pay it off as you can?
 * How many weeks each year can you take off from work?
+* What is your criteria for an ideal vacation?
 
+# statements
+We hope that there will be fewer people in the lower season.
 

@@ -1,5 +1,8 @@
 # questions
-
+- Have you ever been hang gliding?
+https://i.imgur.com/3UgqnZF.png
+- What is your preferred leisure activity?
+- Is it safe to do X?
 - When was the last time you renewed your passport?
 * Who chooses the destination for your vacations?
 * What sort of vacations do you like to take?
@@ -25,6 +28,7 @@
 * Where will you go first after [[topic COVID-19| Covid 19]].
 * Have you ever rented a motor home?
 * What was the nationality mix at your hotel?
+* How was the water near the resort?
 
 # statements
 The rental car was the most expensive part of the trip.
@@ -47,3 +51,64 @@ to go site seeing
 to see the sites
 to visit historical sites
 to check in luggage
+
+
+# topic: travel
+* What sort of vacations do you like to take?
+* Where did you want to go on vacation?
+* Are you still on vacation?
+* I want to go on vacation.
+* Do you enjoy staycations?
+
+* I have never participated in adventure travel.
+
+* adventure travel
+
+
+* I have booked a hotel.
+* I have packed my [stuff,bags,clothes,gear] for the trip.
+* We have arrived!
+* I have never been to X before.
+* I have never seen a ski lift up close.
+* I have never been to the top of THAT mountain.
+* I started snowing!
+* The snow has melted.
+* How deep was the snow base?
+
+
+
+## topic: travel verbs
+* ski
+* rent
+* prepare
+* buy
+* book
+* reserve
+* plan
+* pack
+* pay
+* fly
+* travel
+* negotiate
+* ask
+* demand
+* request
+
+
+
+## topic:  travel noun
+* prophylactic
+* safari
+* mountains
+* tickets
+* artificial snow
+* ski pass
+* ski slopes
+* ski lodges
+* ski lift 
+* top
+* gear
+
+## topic:  travel adjectives
+* susceptible
+* cold

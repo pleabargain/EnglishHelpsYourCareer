@@ -1,3 +1,13 @@
+# eye opening event
+
+# eye opener
+
+# criss cross
+She criss crossed  the country.
+
+# leaning towards
+I'm leaning towards this idea more than that idea.
+
 # let me try to remember
 Give me a second. Let me try to remember the name of the company.
 

@@ -26,6 +26,9 @@
   * clients
   * meetings
   * rooms
+* there were a few
+	* dogs
+	* cats
 * one of my favorite
   * foods
   * books

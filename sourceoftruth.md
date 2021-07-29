@@ -649,65 +649,6 @@ LIDAR
 
 
 
-# topic: travel
-* What sort of vacations do you like to take?
-* Where did you want to go on vacation?
-* Are you still on vacation?
-* I want to go on vacation.
-* Do you enjoy staycations?
-
-* I have never participated in adventure travel.
-
-* adventure travel
-
-
-* I have booked a hotel.
-* I have packed my [stuff,bags,clothes,gear] for the trip.
-* We have arrived!
-* I have never been to X before.
-* I have never seen a ski lift up close.
-* I have never been to the top of THAT mountain.
-* I started snowing!
-* The snow has melted.
-* How deep was the snow base?
-
-
-
-## topic: travel verbs
-* ski
-* rent
-* prepare
-* buy
-* book
-* reserve
-* plan
-* pack
-* pay
-* fly
-* travel
-* negotiate
-* ask
-* demand
-* request
-
-
-
-## topic:  travel noun
-* prophylactic
-* safari
-* mountains
-* tickets
-* artificial snow
-* ski pass
-* ski slopes
-* ski lodges
-* ski lift 
-* top
-* gear
-
-## topic:  travel adjectives
-* susceptible
-* cold
 
 
 # topic: travel Hurgada
@@ -724,35 +665,6 @@ LIDAR
 * I don't like renting helmets. You don't know who wore it before.
 
 
-
-# topic: software testing
-
-* None of my tests are passing.
-* At this point, we don't care if the tests pass or fail.
-* 
-
-## topic: software testing verbs
-* test
-* write
-* perform
-* analyze
-* fail
-* pass
-* set up
-* hung
-* stuck
-* log
-
-## topic: software testing nouns
-* results
-* performance
-* framework
-* error
-* logs
-
-## topic: software testing adjectives
-* smooth
-* efficient
 
 
 # topic: sickness

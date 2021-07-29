@@ -3,6 +3,8 @@
 What part of Turkey have you visited?
 What do you like to do in Turkey?
 
+
+
 # statements
 We haven't visited the hotel before but we know the region.
 The hotel isn't far from the airport.

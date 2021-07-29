@@ -1581,49 +1581,6 @@ better: What languages were commonly used on your last project?
 * What are the best things you've acquired secondhand?
 
 
-# career
-* What changes do you think I would need to make to better enjoy my career?
-* Do you think you could ever give up your current life and move half way around the world for someone you love or for a perfect job?
-* What are your career goals 1, 5 and 20 years from now?
-* On average, how many hours do you work in a given week?
-* If your employer saw everything you did at work, what grade would he or she give you? A B C D or F?
-* Overall , how satisfied are you with your boss? Do you always seem to have "bad" bosses?
-* Do you work better alone or with a team? Why?
-* At what age or what level of financial stability (loans paid off, x dollars in savings) would you like to retire? How do you think you would spend your retirement?
-* What decisions have you made regarding how you plan to balance work and play?
-* Do you think you are a harder worker than most people at your job?
-* Are you happy with doing an average job?
-* How often do you call in sick when you are not really ill?
-* Have you ever dated someone who worked in your company? Did the company have a policy against that?
-* Is your business/line of work seasonal? What do you do during the slow periods?
-
-* Do you "take your job home with you"?
-* Do you get a lot of satisfaction from your job - do you feel you are somehow making a difference?
-* Do you think you would ever have interest in running for a political office?
-* Would it be okay for your partner to call you at work? Visit you?
-* If you and your mate have significantly different levels of education, do you feel that it is hard to have a conversation on a level that is interesting and stimulating to you?
-* If someone wanted to finance the startup of your business with no strings attached, what business would you start?
-* If you would earn only 70% of your current wages, would you take a job that gave you 100% professional fulfillment?
-* Are you content with your current job? If not, why?
-* What was the best job you ever had? Why was it?
-* Would it ever be OK or desirable that you or your spouse didn't work?
-* If you could create the perfect job and get paid well for it, what would it be?
-* Have you ever gone to your boss and asked for a raise? Did you threaten to quit if you didn't get it? Did you get it?
-* How important is it to you that your mate is intelligent? More or less important than looks?
-* Have you ever felt that a promotion has been given to someone else when you were much more deserving? How did you handle it?
-* Do you have a role model in your profession? What about them do you admire?
-* What to date has been your greatest source of learning?
-* Do you have a real desire to (or feel that you really need to) get more education? What do you want to study? When do you want to start?
-* Did you go to col ege? Where? What degree(s) did you get, if any?
-* Do you think your education has paid off? How?
-* Is your current job position where you thought you'd be five years ago?
-* How much time do you currently spend working? What hours do you work? Wil that change when you are married and have a family to come home to?
-* Do you feel like most people respect your line of work? Do you think you get the respect you deserve?
-* How did you choose your major in college?
-* How important do you think college degrees are in getting a good job? Does the col ege experience help you to be a successful person in more ways than just the book knowledge?
-* When you were a child, what did you want to be when you grew up?
-* How do you feel about mixing business with family? Business with friends? Do you have any experiences with either scenario?
-
 
 # Cars & Driving
 * Do you prefer to be the passenger or the driver? Are you a back seat driver?
