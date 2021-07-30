@@ -42,24 +42,31 @@ https://en.wikipedia.org/wiki/Cyprus
 - How many hospitals are in Cyprus?
 - How many public parking spots are available in Cyprus?
 - How many universities are in Cyprus?
-- How many km of biking lanes are there in Cyprus?
+- How many km of [[topic biking]] lanes are there in Cyprus?
 - What is the average income of someone living in Cyprus?
 - Is [[topic rent control|rent control]] enforced in  Cyprus?
 - What is the ratio of police officers to the general population?
 - What annual events are held in Cyprus?
 - What are the plans for increasing public transportation?
+- What can you tell me about X?
 
 
-# Baths of Aphrodite
 
 # statements
 - We had issues with food delivery.
+- One important question... 
+- We need new talent from time to time. [[topic work]]
+- If you need to find IT specialists ... #conditional 
+- There is public transport in Cyprus.
+- It's better to rent a car. [[topic car]]
+- Traffic is really bad in [[topic Kyiv]].
 - That's the way it is. #phrase
 - I have some questions for you.
+- You answered all of my questions. Thank you!
 - We were surprised.
-- There are four air conditioning units.
+- There are four air conditioning units. [[topic work from home]]
 - It cost a lot more. [[topic money]]
-- I can try to answer your questions.
+- I will try to answer your questions.
 - We used [[topic AirBNB]] to book the villa.
 - We booked the villa with a bunch of friends.
 - We were happy to out of the sun.
@@ -81,3 +88,6 @@ https://en.wikipedia.org/wiki/Cyprus
 - We went on some memorable excursions.
 - There are some sunken ships near Cyprus.
 - We were in a family oriented area.
+
+# tourist
+## Baths of Aphrodite
