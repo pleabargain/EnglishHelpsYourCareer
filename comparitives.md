@@ -1,5 +1,4 @@
 We use **comparative [[adjectives]]** to show change or make comparisons:
-
   
 
 * This phone is certainly **better**, but it's much **more expensive**.
@@ -20,12 +19,11 @@ We use _than_ when we want to **compare one thing with another**:
 
 * France is a bigger country **than** Bhutan.
 
-  
+
 
 When we want to **describe how something or someone changes** we can use two comparatives with _and_:
 
-  
-
+ 
 *The party got **bigger and bigger**.
 
 * Everything is getting **more and more expensive**.
@@ -33,7 +31,6 @@ When we want to **describe how something or someone changes** we can use two com
 
 * Grandmother is looking **older and older**._
 
-  
 
 We often use _the_ with comparative adjectives to **show that one thing depends on another**:
 
@@ -51,3 +48,8 @@ We often use _the_ with comparative adjectives to **show that one thing depends 
 * He's smarter than he looks.
 * I need to work harder than I did before.
 * I need to [earn|make] more money than I make now.
+
+
+# as something as
+
+- You're not as good as X.

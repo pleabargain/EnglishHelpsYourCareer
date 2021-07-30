@@ -1,3 +1,31 @@
+# questions
+* Your work computer is being monitored. What will you change about what you do?
+* In your present career, how much do you think you wil be making in 5 years? 10 years?
+* * What Career or Technical Classes Did You Wish Your School Offered?
+* What does a typical day look like for you?
+* What Do You Want to Be When You Grow Up?
+* Do You Have a Life Calling?
+* What's Your dream Job?
+* What Are Your Longtime Interests or Passions?
+* Do You Think You Will Have a Career That You Love?
+* What Do You Want More From a Career: Happiness or Wealth?
+* What Investment Are You Willing to Make to Get Your dream Job?
+* Would You Consider a Nontraditional Occupation?
+* Would You Rather Work From Home or in an Office?
+* What Hidden Talents Might You Have?
+* What 'Back-to-the-Land' Skills Do You Have, or Wish You Had?
+* What Skill Could You Teach in Two Minutes?
+* What Have You Made Yourself?
+* Do You Have an Idea for a Business or App?
+* What Would You Create if You Had Funding?
+* How Did You Start Doing Something You Love?
+* Did You Ever Take a Break From Doing Something You Love?
+* What Have You Done to Earn Money?
+* Do You Have a Job?
+* Would You Quit if Your Values Did Not Match Your Employer's?
+* What Do You Hope to Be Doing the Year After You Graduate From College?
+* Where Do You See Yourself in 10 Years?
+
 
 # questions
 * What changes do you think I would need to make to better enjoy my career?
