@@ -60,6 +60,7 @@ https://en.wikipedia.org/wiki/Cyprus
 - There is public transport in Cyprus.
 - It's better to rent a car. [[topic car]]
 - Traffic is really bad in [[topic Kyiv]].
+- I didn't know that taxes in Cyprus were so low. [[topic taxes]]
 - That's the way it is. #phrase
 - I have some questions for you.
 - You answered all of my questions. Thank you!
