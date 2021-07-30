@@ -598,23 +598,6 @@
 * What sort of emotions (rage, anger, sorrow, etc.) do you think are inappropriate for people to express publicly?
 
 
-# Guns
-* What are your thoughts on handguns that serve no other real purpose than shooting people?
-* How do you feel about having guns in your home?
-* Have you ever shot a gun?
-* Have you ever stolen anything? Why? Were you caught?
-* What Ethical Dilemmas Have You Faced?
-* Have You Ever Had to Make a Sacrifice to Help Someone You Care About?
-* Have You Ever Donated Your Time, Talents, Possessions or Money to Support Anyone in Need?
-* When Is the Last Time You Did Something Nice for a Stranger?
-* Have You Ever 'Paid It Forward'?
-* How Trustworthy Are You?
-* How Comfortable Are You With Lying?
-* When Do You Lie?
-* Have You Ever Lied to Your Parents or Done Something Behind Their Backs?
-* Have You Ever Taken Something You Weren't Supposed To?
-* Do You Ever Eavesdrop?
-* How Much Do You Gossip?
 
 # Drugs
 * If You Drink or Use Drugs, Do Your Parents Know?
@@ -786,16 +769,6 @@
 * Have You Ever Stumbled Upon a Cool Public Performance?
 * 
 
-# Video Games
-
-* What are your favorite video games?
-* What Have You Learned Playing Video games?
-* Do You Play Violent Video games?
-* When Should You Feel Guilty for Killing Zombies?
-* Who Are Your Opponents in Online Gaming?
-* Do You Like Watching Other People Play Video games?
-* How Excited Are You About the Possibilities of Virtual Reality?
-
 
 # Books & Reading
 * Who do you ask for book recommendations?
@@ -830,25 +803,7 @@
 * What is the weather forecast for this weekend?
 * What are your plans for the weekend?
 
-# Language & Speech
-* What words do you hate?
-* What words or phrases do you think are overused?
-* How Much Slang Do You Use? What Are Your Favorite Words?
-* What Current Slang Words and Expressions Do You Think Will Endure?
-* Why Do So Many People Say 'Like' and 'Totally' All the Time?
-* Do You Say 'Kind of, Sort of' More Than You Realize?
-* How Much Do You Curse?
-* How Good Are You at Coming Up With Witty Comebacks?
-* When did you last have a great conversation?
-* How Often Do You Have 'Deep Discussions'?
-* Do You Wish Your Conversations Were Less Small Talk and More 'Big Talk'?
-* When Do You Choose Making a Phone Call Over Sending a Text?
-* How much information Is 'Too Much Information'?
-* Do You Sometimes 'Hide' Behind Irony?
-* How good is your grammar?
-* Do You Speak a Second, or Third, Language?
-* When Do You Remember Learning a New Word?
-* What Does Your Body Language Communicate?
+
 
 # Certifications
 * Why are technical certificates useful?
@@ -1211,12 +1166,12 @@ better: What languages were commonly used on your last project?
 * Do you get irritated when you have to wait in long lines? Will you wait 45 minutes to be seated in a restaurant?
 * Do you have any special dietary needs? How do you need me to support you with this need?
 * Do you consider yourself in shape?
-* What do you think are your optimum hours of sleep to be ful y energized?
+* What do you think are your optimum hours of sleep to be fully energized?
 * Do you ever diet? What sort of diets do you usually go on?
 * How often do you get sick? Is it a cold, flu or usually something else?
 * Are you a coupon collector? Do you sometimes get fanatical about saving money on groceries?
 * How many drinks does it take until you are definitely "feeling it." Do you cut yourself off after a certain number of drinks? Or when do you know you have had enough?
-* Have you ever had an emotional breakdown or been diagnosed with a mental il ness? How long did the recovery take?
+* Have you ever had an emotional breakdown or been diagnosed with a mental illness? How long did the recovery take?
 * What do you think about eating meals (with your family) in front of the television? Do you think family time and discussions around the dinner table are important?
 * Do you have any rooms that are off limits for bringing in food?
 * Do you find that you eat when you are bored, stressed, or worried?
@@ -1227,7 +1182,7 @@ better: What languages were commonly used on your last project?
 * Do you get a regular medical checkup? When was your last one?
 * Are you more likely to take over the counter medicines, prescription medicines, homeopathic medicines, natural remedies or nothing at all when you are sick?
 * Do you cook or do you only eat prepackaged food? How often do you go out to eat?
-* Will you eat everything on your plate no matter how much is there (assuming you like the food)? Or wil you quit when you feel ful enough? Do you need to feel "stuffed" to be satisfied?
+* Will you eat everything on your plate no matter how much is there (assuming you like the food)? Or will you quit when you feel full enough? Do you need to feel "stuffed" to be satisfied?
 * What form of exercise do you prefer?
 * Do you currently suffer from a sleeping disorder? Have you ever?
 * Do you enjoy eating leftovers? Do you refuse to eat leftovers?
@@ -1290,7 +1245,6 @@ better: What languages were commonly used on your last project?
 * Have you ever paid a finder's fee?
 * Have you ever hired a cleaning service? Do you think they are a waste of money or money well spent?
 * What do you envision our home (our realistic home - not our dream home) looking like? The architecture, the décor, the yard, etc?
-
 * Do you screen phone cal s before answering the phone? Can you let the phone ring during meals or when company is over or do you feel compelled to always answer it?
 * Do you have pests (mice, roaches, spiders, etc.) at your house?
 * Would you use an exterminator if your mate asked you to?
@@ -1336,43 +1290,6 @@ better: What languages were commonly used on your last project?
 * How important to you is a house that is clean and without clutter?
 * Would you be willing to clean the house to your liking if your spouse doesn't clean it to your satisfaction?
 * Do you feel that the pluses outweigh the minuses regarding having a television in the bedroom? What are the positives and negatives?
-
-# Hobbies
-* Do you think there are any books or movies I should read or see? Why these?
-* If you had to take a paid sabbatical and couldn't work for an entire year, what would you most like to do?
-* How often do you go clothes shopping?
-* 
-* Do you have problems letting someone else control the remote control? Are you a channel surfer?
-* What sort of parties do you enjoy going to? Do you like to go for a short while or stay until most people have gone?
-* Do you enjoy going to amusement parks? Do you like going on the thrill rides?
-* Do you regularly go to musicals, operas or plays? If not, why?
-* Do you prefer to spend most weekends lazing around the house, getting out of the house or being productive?
-* Do you think you read too much or too little?
-* Do you col ect anything? What and how long have you collected? To what lengths do you go to add to your collection? How much do you spend each year on your collections?
-* What is your favorite type of art? Do you feel you are artistic in any way?
-* How many books do you usual y read in a year? What type of books do you read?
-* Do you have a favorite bar or place of entertainment? How often do you go there?
-* Do you have a location in the movie theater where you prefer to sit?
-* Do you think your family should have a limit on the hours of television watched each day? Would you be willing to start this week?
-* What role does art play in your life?
-* What are your favorite hobbies? Would you like to spend more time on them?
-* What shows on television do you always watch?
-* How many movies do you usual y watch in a month?
-* How personally involved do you get with "your" team's performance? If they lose, does it make you angry or put you in a bad mood?
-* How many hours a day on average do you spend on the computer/Internet (not counting time spent for work)?
-* Do you col ect anything? How long have you been collecting? Why do you col ect?
-* Which newspapers/news magazines do your read? How often? How often do you watch the news?
-* Do you go into Internet chat rooms? Are they general chat rooms or devoted to a certain topic?
-* What sports do you watch on television? Col ege, Pro or both?
-* How often do you go to concerts? What kinds? Would you go more often if you had more time/money?
-* If you had a day to yourself with nothing that had to be done, how would you pamper yourself?
-* Do you enjoy shopping, don't care one way or the other, or detest shopping? Does it change whether it is for clothes, electronics or food?
-* If your mate had great interest in some sport or activity that you had absolutely no liking or interest in, would you try to like it or would you simply encourage him or her to do it without you? If your mate didn't like your hobby would you cut back significantly so you could enjoy more things together?
-* What are your three favorite board/card games?
-* On weekends how late do you like to stay out? On work nights?
-* Do you like any activities that are daring or risky?
-* How many hours of TV do you watch in an average day? When do you turn the television on and when do you turn it off?
-* If someone wanted to give you a $50 gift certificate to use on yourself, which store/theatre/spa would you tel him or her you wanted.
 
 
 # Birthday

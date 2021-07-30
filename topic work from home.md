@@ -5,3 +5,4 @@
 -   Is there anyone on the team who has been especially helpful in your WFH transition?
 -   Do you feel connected enough to your teammates? Why or why not?
 -   Do you feel you’ve been able to learn and grow in the last few months? If so, how? If not, why not?
+-   How has working from home changed the way you communicate with other people?

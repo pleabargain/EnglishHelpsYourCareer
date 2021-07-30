@@ -8,7 +8,9 @@ new [[adverbs]]
 
 new [[phrases]]
 
+new [[nouns]]
 
+new topics
 
 Is there something that you would like to talk about?
 
@@ -40,8 +42,7 @@ What will you be doing to improve your English in the future?
 
 # statements
 
-
-
+# next time
 
 
 

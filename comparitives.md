@@ -35,7 +35,7 @@ When we want to **describe how something or someone changes** we can use two com
 
   
 
-We often use [_the_](https://learnenglish.britishcouncil.org/english-grammar-reference/definite-article-the) with comparative adjectives to **show that one thing depends on another**:
+We often use _the_ with comparative adjectives to **show that one thing depends on another**:
 
   
 

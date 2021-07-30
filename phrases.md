@@ -1,9 +1,22 @@
+# put down
+I am going to put this down right here.
+# as far as I know
+As far as I know, she will be arriving tonight.
+# If you don't have anything nice to say then don't say anything at all.
+
+# this too shall pass
+Don't worry about the small things, this too shall pass.
+
+# to put out fires
+I feel like a fireman. All I did was put out fires.
+
 # eye opening event
 
 # eye opener
 
-# criss cross
-She criss crossed  the country.
+# criss-cross
+She criss-crossed  the country.
+
 
 # leaning towards
 I'm leaning towards this idea more than that idea.

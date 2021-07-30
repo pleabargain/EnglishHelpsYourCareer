@@ -9,6 +9,7 @@
 * You should watch educational videos in  English.
 * Watch YouTube channels in English:
   * field days (Australia)
+  * https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g
 * Move to an English speaking country.
 * Interview at other companies.
 * You need to study an English dictionary every day!

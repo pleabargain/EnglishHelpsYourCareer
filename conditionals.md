@@ -17,6 +17,7 @@ if + past simple, present conditional
 * If I found her contact details, I'd send her an invitation.
 * If it was [lucrative,profitable], I would invest more.
 * If I had money, I would travel around the world.
+* If we had prepared more then the transition would have been easier. #conditional
 * If the weather was good, I would make a BBQ.
 * If there wasn't a quarantine, I would visit my relatives.
 

@@ -1,5 +1,5 @@
 # questions
-* Haven't you heard that this Covid19 was created by Russia? 
+* Haven't you heard that this Covid19 was created by [[topic Russia]]? 
 * None of friends have gotten sick, so what do you to that?
 * Did you go to the hospital and see people sick in the hospital?
 * Have you seen the statistics on the number of people who have died?
@@ -23,6 +23,7 @@ vaccination
 pandemic
 anti-bodies
 registration
+injection
 
 # verbs
 to vaccinate

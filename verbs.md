@@ -3,6 +3,9 @@ verbs (pronunciation) (regular or irregular)
 # evolve evolved (d) (reg)
 They have evolved quite a bit over the last year.
 
+# emit emitted (id) (reg)
+He emitted a lot of conflicting signals
+
 
 # switch over
 * "Please switch off your phones".
@@ -1488,6 +1491,8 @@ I shouldn't have said anything!
 * I will have been pulling my code for a week since Monday because we are accessing the repo from our 1k baud from Guatemala!
 
 # investigate investigated  (id) (reg) 
+I like investigating technical issues.
+We have investigated the issue and found that its an user error.
 
 # invigorate invigorated (id) (reg) 
 * It might be invigorating to swimming in the frozen lake!
