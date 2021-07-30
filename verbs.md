@@ -1,10 +1,13 @@
 verbs (pronunciation) (regular or irregular)
 
+# to sentence someone
+He was sentenced to twenty years in prison. [[topic crime]]
+
 # evolve evolved (d) (reg)
 They have evolved quite a bit over the last year.
 
 # emit emitted (id) (reg)
-He emitted a lot of conflicting signals
+He emitted a lot of conflicting signals. [[topic communication]]
 
 
 # switch over
@@ -12,7 +15,8 @@ He emitted a lot of conflicting signals
 * Switch off unit before destroying.
 * It's a nice switch-off.
 
-
+# hide hidden (irr)
+The keys are hidden under the rock.
 
 # to lose track
 * "Sometimes I just lose track".

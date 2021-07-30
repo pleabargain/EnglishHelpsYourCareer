@@ -1,3 +1,46 @@
+# to zip up
+We need to zip up this project.
+Can you please zip me up? 
+
+# pay off
+Our bet paid off! [[simple past tense]]
+This will investment will never pay off. [[simple future tense]]
+
+# to sneak around
+The pentesters were sneaking around in the network.
+Why are you sneaking around behind my back?
+Why are you sneaking around in my desk?
+
+# to be screwed
+We are totally screwed! 
+
+# screwed up
+
+I screwed up the dates.
+I screwed up the production server.
+
+# I've got good intel on X.
+Where did you get this intel?
+
+# to crack a joke
+He likes to crack a joke.
+
+# slow your roll
+You need to calm down! You need to slow your roll!
+
+# bark up the wrong tree
+I think you are barking up the wrong tree.
+
+# fool around
+Don't fool around in a production environment.
+
+# to fool around with someone
+My wife and I were fooling around last night.
+
+
+# from the ground up
+We built this company from the ground up.
+
 # put down
 I am going to put this down right here.
 # as far as I know
@@ -260,6 +303,17 @@ We agreed that the deal was fair enough.
 * Wet towels on the bed are my pet peeve.
 * What is your biggest pet peeve about restaurants?
 * My neighbor's bouncing a ball early in the morning is my pet peeve.
+
+
+# ring a bell
+
+- Does any of this ring a bell?
+- Does it ring a bell?
+- Does that ring a bell?
+- Hey, that rings a bell! I just remembered what we were talking about.
+- I said, "Hello Eugene, does any of this ring a bell, Eugene?"  ## Hey Eugene
+
+[Pink Martini](https://www.google.com/search?sxsrf=ALeKk0299Mkdi1_AA6bueZ9CwGmXEEImFg:1627644128871&q=Pink+Martini&stick=H4sIAAAAAAAAAONgVuLUz9U3MM2tLMtdxMoTkJmXreCbWFSSmZcJAH00jO0cAAAA&sa=X&ved=2ahUKEwiIpfzw1oryAhWghf0HHeYpDKUQMTAAegQIBxAD)
 
 # red herring
 * We all fell for the con man's red herring.

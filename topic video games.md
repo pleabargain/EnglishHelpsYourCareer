@@ -1,4 +1,3 @@
-# questions
 
 * What are your favorite video games?
 * What Have You Learned Playing Video games?
@@ -8,3 +7,15 @@
 * Do You Like Watching Other People Play Video games?
 * How Excited Are You About the Possibilities of Virtual Reality?
 
+#  Cyberpunk 2077
+
+# DOTA
+
+# Counter Strike
+
+# World Of Warcraft
+
+# nouns
+- FPS first person shooter
+-  MMORPG massively multiplayer online role-playing game
+- MOBA multiplayer online battle arena
