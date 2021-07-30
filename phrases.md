@@ -1,3 +1,4 @@
+# It's a step in the right direction.
 # to zip up
 We need to zip up this project.
 Can you please zip me up? 
