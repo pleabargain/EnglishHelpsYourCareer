@@ -3,6 +3,7 @@
   * http://www.yougowords.com/3-letters
   * http://www.yougowords.com/4-letters
 * You should sing your favorite songs out loud in English.
+* Go to wikipedia 
 * You should study grammar.
 * You should try to think in English.
 * You should try to learn phrases in English.

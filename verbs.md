@@ -14,6 +14,7 @@ He emitted a lot of conflicting signals. [[topic communication]]
 * "Please switch off your phones".
 * Switch off unit before destroying.
 * It's a nice switch-off.
+* I switched over to a new provider.
 
 # hide hidden (irr)
 The keys are hidden under the rock.
@@ -30,6 +31,8 @@ The keys are hidden under the rock.
 # to be scared
 # to be terrified
 # to be afraid
+- We are not afraid of the police.
+
 # to be worried
 # to be concerned
 # to be frightened
@@ -913,6 +916,7 @@ I shouldn't have said anything!
 
 # establish established (t) (reg)
 * I should have established a better connection.
+* This town was established in 1874.
 
 # eat ate eaten (irr)
 * During the summer, we eat tomatoes every day.

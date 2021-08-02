@@ -17,12 +17,26 @@
 * Do You Prefer Your Children's Book Characters Obedient or Contrary?
 * Do You Read E-Books?
 * Would You Trade Your Paper Books for Digital Versions?
-* To What Writer Would You Award a Prize?
+* To what writer would you award a prize?
 
 # recommended books
+HH:mm
 - Good Omens
 - Dune
 - Siddhartha 
 - The Art of Thinking Clearly https://g.co/kgs/HsKM5T
 - Hitchhikers Guide to the Galaxy https://g.co/kgs/G7udR1
-- 
+- Confessions of a Public Speaker (https://g.co/kgs/4RmF1Z)
+- The 3-Minute Rule: Say Less to Get More from Any Pitch Or Presentation 
+
+[https://g.co/kgs/4RmF1Z](https://g.co/kgs/4RmF1Z)
+
+Confessions of a Public Speaker
+
+
+The 3-Minute Rule: Say Less to Get More from Any Pitch Or Presentation
+
+[https://g.co/kgs/HVaXsW](https://g.co/kgs/HVaXsW)
+
+O Henry
+https://short-edition.com/en/classic/author/o-henry

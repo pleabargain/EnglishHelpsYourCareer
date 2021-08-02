@@ -1,3 +1,10 @@
+# common sense
+Common sense is not common. [[topic common sense]]
+
+
+# Perfect enemy is good.
+
+
 # butcher's bill
 Our army paid a high butcher's bill after our last battle.
 # It's a step in the right direction.

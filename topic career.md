@@ -1,12 +1,12 @@
 # questions
 * Your work computer is being monitored. What will you change about what you do?
-* In your present career, how much do you think you wil be making in 5 years? 10 years?
+* In your present career, how much do you think you will be making in 5 years? 10 years?
 * * What Career or Technical Classes Did You Wish Your School Offered?
 * What does a typical day look like for you?
 * What Do You Want to Be When You Grow Up?
 * Do You Have a Life Calling?
-* What's Your dream Job?
-* What Are Your Longtime Interests or Passions?
+* What's your dream job?
+* What are your longtime interests or passions?
 * Do You Think You Will Have a Career That You Love?
 * What Do You Want More From a Career: Happiness or Wealth?
 * What Investment Are You Willing to Make to Get Your dream Job?
@@ -66,6 +66,11 @@
 * How much time do you currently spend working? What hours do you work? Will that change when you are married and have a family to come home to?
 * Do you feel like most people respect your line of work? Do you think you get the respect you deserve?
 * How did you choose your major in college?
-* How important do you think college degrees are in getting a good job? Does the col ege experience help you to be a successful person in more ways than just the book knowledge?
+* How important do you think college degrees are in getting a good job? Does the college experience help you to be a successful person in more ways than just the book knowledge?
 * When you were a child, what did you want to be when you grew up?
 * How do you feel about mixing business with family? Business with friends? Do you have any experiences with either scenario?
+
+
+# nouns
+Talent Success Lead
+Career Manager

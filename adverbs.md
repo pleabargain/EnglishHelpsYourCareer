@@ -3,10 +3,14 @@
 It's widely recognized as X.
 
 # thoroughly
+I thoroughly agree with you!
 
 # occasionally
 * We met up occasionally for a drink.
 
+
+# efficiently
+They efficiently installed the system.
 
 # barely
 * I can barely hear you! Please speak up!

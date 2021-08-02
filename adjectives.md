@@ -1,3 +1,6 @@
+# dandy
+The dandy wore a top hat and sported a cane.
+
 # professional
 He's very professional.
 
@@ -199,7 +202,8 @@ She was very eager to go home.
 
 # easier
 * Sometimes it's easier to outsource the whole thing.
-* 
+* It will be easier if we do it this way.
+
 # ill
 * I was feeling weak and ill last night.
 * If you are feeling ill, you must stay at home.

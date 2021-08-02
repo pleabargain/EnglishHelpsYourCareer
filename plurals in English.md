@@ -5,7 +5,7 @@
 * Knowledge is always singular.
 * Data is always singular. (pick your pronunciation)
 
-* two possible
+* There are two possible
   * solutions
   * answers
   * problems
@@ -29,10 +29,13 @@
 * there were a few
 	* dogs
 	* cats
+	* people at the restaurant
 * one of my favorite
   * foods
   * books
   * interviews
+  * places
+  * people
   * questions
 * a lot of + nouns + s
   * a lot of situations

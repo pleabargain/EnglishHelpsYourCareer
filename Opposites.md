@@ -5,6 +5,8 @@ innocent<>guilty
 
 sane<>insane
 
+yesterday<>tomorrow
+
 unhealthy<>healthy
 
 inedible<>edible
