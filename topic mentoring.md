@@ -1,6 +1,8 @@
 # questions
 * What makes a good mentor?
 * How did your network expand?
+* What makes a good mentee?
+* Have you thought about getting a mentor?
 * Has mentoring provided an opportunity to expand your professional network?
 * How has mentoring changed your perspective on how to hire for your team?
 * How has being a mentor made you a better [manager,person]?

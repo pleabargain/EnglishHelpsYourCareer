@@ -23,7 +23,7 @@
 * Do you collect anything? How long have you been collecting? Why do you collect?
 * Which newspapers/news magazines do your read? How often? How often do you watch the news?
 * Do you go into Internet chat rooms? Are they general chat rooms or devoted to a certain topic?
-* What sports do you watch on television? Col ege, Pro or both?
+* What sports do you watch on television? College, Pro or both?
 * How often do you go to concerts? What kinds? Would you go more often if you had more time/money?
 * If you had a day to yourself with nothing that had to be done, how would you pamper yourself?
 * Do you enjoy shopping, don't care one way or the other, or detest shopping? Does it change whether it is for clothes, electronics or [[topic food]]?

@@ -1,3 +1,13 @@
+# it's a piece of cake
+It's a piece of cake to fall off a bike.
+
+# awhile ago
+He met his father in the hospital awhile ago.
+
+# in my opinion
+- In my opinion, X is the most important idea.
+- In my opinion, we haven't budgeted enough time?
+
 # common sense
 Common sense is not common. [[topic common sense]]
 
@@ -122,6 +132,9 @@ This is a classic case of of too many chiefs not enough Indians.
 
 # follow your logic
 I'm not sure I follow your logic.
+
+# out-of-body-experience
+I had an out-of-body-experience while I was on the surgeon's table.
 
 # to turn the other cheek
 We were taught to turn the other cheek.

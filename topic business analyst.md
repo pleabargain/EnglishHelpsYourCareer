@@ -33,3 +33,6 @@
 # adjectives
 - crucial
 
+# resources
+EPAM - free 
+Nix - Kharkiv 

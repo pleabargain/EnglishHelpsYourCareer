@@ -23,12 +23,7 @@
 
 # topic local cuisine
 
-# topic playing piano
-* How long have you been playing piano?
-* Did you study music?
-* Did you attend music school?
-* Are you self-taught?
-* Do you have a piano?
+
 
 # topic training a house cat
 
@@ -60,11 +55,7 @@
 * How to scale your pipelines?f
 
 
-# topic difference between a middle and senior level developer
-* What should a senior developer know?
-* What should a middle developer know?
-* What skills does a senior developer have?
-* How important are soft skills for this position?
+
 
 
 # topic tableau
@@ -894,32 +885,7 @@ LIDAR
 * UI
 
 
-# topic: QC interview
-* What exactly was the issue?
-* What is your opinion of fuzz testing?
-* What's your background with X(fuzzy testing?)?
-* What is your opinion of automated testing?
-* Why did it happen?
-* Could you clarify what is positive and negative testing?
-* How are SOLID principles useful for testing?
-* How important is this issue for the users?
-* Are you responsible for resolving this issue?
-* What are some of the usual things you do as a QC engineer?
-* What are your skills around automated testing?
-* What tools do you use to manage your test cases?
-* Please tell me your career experience as a QC engineer.
-* How many projects have you been involved in as a QC engineer?
-* How would you describe regression testing to your grand mother?
-* What is your on testing check list?
-* What is the value of a QC engineer on a small project?
-* What's your background in Quality Control?
-* What does a QC engineer do?
-* What are some other things that QC engineers do?
-* Why did you choose QC engineer as a career?
-* How do QC engineers work with developers?
-* What are some challenges of being a QC engineer?
-* How do you approach problem solving?
-* What are your strengths and weaknesses?
+
 
 ## topic: back end developer interview
 * Why did you choose to become a back end developer as a career?
@@ -1013,43 +979,6 @@ airport
 
 
 
-# topic: pets
-* When are we planning to go for a walk?
-* I want to play with the ball.
-* I want to eat your breakfast!
-* I'm tired, I want to sleep next to you.
-* I want your attention!
-* I need to go outside now! I need to go pee! Badly!
-
-
-## topic  pets  verbs
-* play
-* pet
-* bark(dog)
-* meow(cat)
-* shit
-* piss
-* wag
-* walk
-* eat
-* run
-* leash
-* collar
-* shed
-
-## topic pets nouns
-* paws
-* fur
-* tail
-* collar
-* leash
-* dog run
-* dog park
-* mess
-* cat box
-* cat sand
-* cat shit
-* dog shit
 
 # topic Winter
 ##  topic Winter verbs: 

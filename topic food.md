@@ -10,6 +10,9 @@
 -What is your favorite cheese?
 -Are you a gourmet - enjoying trying all sorts of international cuisine or do you prefer to eat the same basic food all the time?
 -Is there anything you don't eat?
+- Do you cook or do you only eat prepackaged food? How often do you go out to eat?
+- Will you eat everything on your plate no matter how much is there (assuming you like the food)? Or will you quit when you feel full enough? Do you need to feel "stuffed" to be satisfied?
+
 -Have you been to any good restaurants recently?
 -What Are the Most Memorable Meals You've Ever Had?
 -What's Your Favorite Holiday Food Memory?

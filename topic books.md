@@ -20,23 +20,14 @@
 * To what writer would you award a prize?
 
 # recommended books
-HH:mm
-- Good Omens
-- Dune
-- Siddhartha 
+- Good Omens https://g.co/kgs/ke9mLY
+- Dune https://g.co/kgs/qP6hYQ
+- Siddhartha  https://g.co/kgs/QquWHN
 - The Art of Thinking Clearly https://g.co/kgs/HsKM5T
 - Hitchhikers Guide to the Galaxy https://g.co/kgs/G7udR1
 - Confessions of a Public Speaker (https://g.co/kgs/4RmF1Z)
-- The 3-Minute Rule: Say Less to Get More from Any Pitch Or Presentation 
-
-[https://g.co/kgs/4RmF1Z](https://g.co/kgs/4RmF1Z)
-
-Confessions of a Public Speaker
-
-
-The 3-Minute Rule: Say Less to Get More from Any Pitch Or Presentation
-
-[https://g.co/kgs/HVaXsW](https://g.co/kgs/HVaXsW)
-
-O Henry
-https://short-edition.com/en/classic/author/o-henry
+- The 3-Minute Rule: Say Less to Get More from Any Pitch Or Presentation   https://g.co/kgs/BW3BLg
+- Why We Sleep https://g.co/kgs/g82sbs
+- Confessions of a Public Speaker https://g.co/kgs/4RmF1Z
+- The 3-Minute Rule: Say Less to Get More from Any Pitch Or Presentation https://g.co/kgs/HVaXsW
+- O Henry https://short-edition.com/en/classic/author/o-henry

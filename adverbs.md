@@ -1,3 +1,6 @@
+# recently
+Recently I have been thinking about...
+
 
 # widely
 It's widely recognized as X.
@@ -32,7 +35,7 @@ They efficiently installed the system.
  
 
 # off
-
+We took off early.
 
 # freely
 * I want to be able more freely with my colleagues.

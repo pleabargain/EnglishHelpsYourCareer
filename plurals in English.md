@@ -15,6 +15,7 @@
 * some
   * problems
   * people
+  * departments
   * things
 
 * one of the 
@@ -42,7 +43,10 @@
   * a lot of tasks
   * a lot of stories
   * a lot of videos
-* many different situations
+* many different 
+	* situations
+	* types of X
+	* ideas about X
 * different + noun + s
   * colors
   * things

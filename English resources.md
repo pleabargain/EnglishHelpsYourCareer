@@ -1,9 +1,12 @@
 # advice for learning English
+* visit my github page! https://github.com/pleabargain/EnglishHelpsYourCareer
+* visit my web page: https://www.englishhelpsyourcareer.com/home
+* Short stories https://short-edition.com/en/
 * Learn all the single syllable words in English. 
   * http://www.yougowords.com/3-letters
   * http://www.yougowords.com/4-letters
 * You should sing your favorite songs out loud in English.
-* Go to wikipedia 
+* Go to Wikipedia in English and click on the random page and read it!
 * You should study grammar.
 * You should try to think in English.
 * You should try to learn phrases in English.

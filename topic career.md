@@ -3,9 +3,11 @@
 * In your present career, how much do you think you will be making in 5 years? 10 years?
 * * What Career or Technical Classes Did You Wish Your School Offered?
 * What does a typical day look like for you?
-* What Do You Want to Be When You Grow Up?
+* What do you want to be when you grow up?
 * Do You Have a Life Calling?
 * What's your dream job?
+* What skills do you want to develop?
+* What certificates do you want to earn?
 * What are your longtime interests or passions?
 * Do You Think You Will Have a Career That You Love?
 * What Do You Want More From a Career: Happiness or Wealth?

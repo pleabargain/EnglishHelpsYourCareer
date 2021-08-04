@@ -80,7 +80,7 @@
 * If you had to be a different nationality, what country would you like to have been born in? Why?
 * If you were given $50,000 to throw a party for all of your friends, what sort of party would you put together?
 * Are you a morning, a night person or somewhere in the middle?
-* Do you think you would prefer a calm, loving, consistent marriage or one that was full of excitement, wild times and rocky patches?
+
 * Do you think you are a fairly typical man/woman in the way you think, act and believe?
 * Are you one who adapts to change easily? Can you cite some examples?
 * Do you have a child's heart sometimes? What sort of “childish” things do you think about doing?
@@ -814,20 +814,7 @@
 * How Well Do You Think Standardized Tests Measure Your Abilities?
 
 
-# Teachers
-* Do Your Test Scores Reflect How Good Your Teachers Are?
-* Would You Want to Be a Teacher?
-* Who was your favorite teacher in school and why?
-* Who do you think should go to parent/teacher conferences?
-* What Do You Wish Your Teachers Knew About You?
-* What Do You Wish Your Teachers Knew About You?
-* When Has a Teacher Inspired You?
-* What teacher would you like to thank?
-* What makes a good teacher?
-* Have You Ever Been Humiliated by a Teacher? How Did it Affect You?
-* Have Your Teachers or Textbooks Ever Gotten It Wrong?
-* Do Your Teachers Use Technology Well?
-* Have you hired a tutor?
+
 
 
 
@@ -1029,17 +1016,7 @@ better: What languages were commonly used on your last project?
 
 
 
-# Dating
-* Do you have any pet peeves?
-* Have You Ever Been in Love?
-* What Are the Most Meaningful Relationships in Your Life?
-* What Advice Would You Give to Somebody Who Just Started Dating?
-* What age were You Allowed to Date?
-* Is Dating a Thing of the Past?
-* Is Hookup Culture Leaving Your Generation Unhappy and Unprepared for Love?
-* What Are the Basic 'Rules' for Handling Breakups?
-* What's the Best Way to Get Over a Breakup?
-* What Are Your Beliefs About Marriage?
+
 
 
 
@@ -1370,14 +1347,7 @@ better: What languages were commonly used on your last project?
 
 
 
-# Shopping
-* What's your favorite store?
-* To what company would you write a letter of complaint or admiration?
-* To what business would you like to give advice?
-* Do you ever hang out at the mall?
-* How would you make over your mall?
-* Do you shop at locally owned businesses?
-* What are the best things you've acquired secondhand?
+
 
 
 

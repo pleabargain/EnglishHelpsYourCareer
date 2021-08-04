@@ -27,6 +27,7 @@ https://en.wikipedia.org/wiki/Kharkiv
 - Is [[topic rent control|rent control]] enforced in  Kharkiv?
 - What is the ratio of police officers to the general population?
 - What annual events are held in Kharkiv?
+- What is your favorite restaurant in Kharkiv?
 - What are the plans for increasing public transportation?  [[topic public transportation]]
 # statements
 
@@ -44,3 +45,9 @@ https://en.wikipedia.org/wiki/Kharkiv
 - As you might know...
 - Our city is near a forest.
 - We want our citizens to feel safe.
+In my opinion, the best restaurant is ...
+
+# restaurants
+## Tetcher
+https://www.tripadvisor.com/Restaurant_Review-g295369-d7241584-Reviews-Tetcher_Gastropub-Kharkiv_Kharkiv_Oblast.html
+

@@ -23,7 +23,7 @@ if + past simple, present conditional
 
 # third conditional
 if + past perfect, perfect conditional 
-If + past perfect, would/wouldn’t have + past participle.
+If + past perfect, would/ wouldn’t have + past participle.
 (unrealized situation)
 *  If the weather had been good, we would have gone water-skiing.
 *  If I had got a promotion, I would have thrown a party.

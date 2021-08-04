@@ -1,0 +1,13 @@
+# Teachers
+- Do Your Test Scores Reflect How Good Your Teachers Are?
+- Would You Want to Be a Teacher?
+- Who was your favorite teacher in school and why?
+- Who do you think should go to parent/teacher conferences?
+- What Do You Wish Your Teachers Knew About You?
+- When Has a Teacher Inspired You?
+- What teacher would you like to thank?
+- What makes a good teacher?
+- Have You Ever Been Humiliated by a Teacher? How Did it Affect You?
+- Have Your Teachers or Textbooks Ever Gotten It Wrong?
+- Do Your Teachers Use Technology Well?
+- Have you hired a tutor?

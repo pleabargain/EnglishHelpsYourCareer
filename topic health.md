@@ -12,7 +12,6 @@
 * Do you get irritated when you have to wait in long lines? Will you wait 45 minutes to be seated in a restaurant?
 * Do you have any special dietary needs? How do you need me to support you with this need?
 * Do you consider yourself in shape?
-* What do you think are your optimum hours of sleep to be fully energized?
 * Do you ever diet? What sort of diets do you usually go on?
 * How often do you get sick? Is it a cold, flu or usually something else?
 * Are you a coupon collector? Do you sometimes get fanatical about saving money on groceries?
@@ -27,8 +26,6 @@
 * Do you have any particular health concerns (e.g. heart problems, high blood pressure, diabetes, asthma, etc.)?
 * Do you get a regular medical checkup? When was your last one?
 * Are you more likely to take over the counter medicines, prescription medicines, homeopathic medicines, natural remedies or nothing at all when you are sick?
-* Do you cook or do you only eat prepackaged food? How often do you go out to eat?
-* Will you eat everything on your plate no matter how much is there (assuming you like the food)? Or will you quit when you feel full enough? Do you need to feel "stuffed" to be satisfied?
 * What form of exercise do you prefer?
 * Do you currently suffer from a sleeping disorder? Have you ever?
 * Do you enjoy eating leftovers? Do you refuse to eat leftovers?
