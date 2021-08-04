@@ -14,11 +14,13 @@
 - Were there any COVID restrictions?
 - At the border, did they ask for PCR tests?
 - How much cash should I bring?
+- What's there to do in ...?
 
 
 # statements
 
 - We haven't visited the hotel before but we know the region.
+- If we want to save a bit of money on our vacation we might want to consider ...
 - I don't remember.
 - The price of clothes is lower in Ukraine.
 - I don't recall.
