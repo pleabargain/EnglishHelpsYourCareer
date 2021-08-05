@@ -97,3 +97,5 @@
 * You should watch films in English with sub titles.
 * You should practice English with your international colleagues.
 
+## listening
+https://www.youtube.com/channel/UCxw-YwaBR9lVa1fmreWy94g

@@ -1,3 +1,8 @@
+# to man up
+We need to man up and do this thing!
+# I need to switch gears.
+- Hold on a sec. I need to switch gears.
+
 # it's a piece of cake
 It's a piece of cake to fall off a bike.
 

@@ -1,3 +1,10 @@
+# questions
+- What are you good at?
+
+
+# statements
+- I'm good at designing reports.
+
 
 # delivery manager
 ## questions

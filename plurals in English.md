@@ -43,6 +43,8 @@
   * a lot of tasks
   * a lot of stories
   * a lot of videos
+
+* There are different kinds of ...
 * many different 
 	* situations
 	* types of X

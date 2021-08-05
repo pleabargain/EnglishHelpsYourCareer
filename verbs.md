@@ -1,9 +1,14 @@
 verbs (pronunciation) (regular or irregular)
 
+# to quote
+
+He quoted us $100USD. He said it would cost us 100USD.
+
 # seize seized (d) (reg)
 - He was seized by a heart attack.
 
 # to cramp up
+I cramped up while swimming.
 
 
 # to sentence someone
@@ -535,6 +540,7 @@ They specialized in catering and party management.
 
 # explain explained (d) (reg)
 - It's hard for me to explain!
+- Please allow me to explain...
 - She explained to me why she was late.
 - Allow me to explain the situation to you.
 - Yesterday, I had to explain why I was late to my manager.

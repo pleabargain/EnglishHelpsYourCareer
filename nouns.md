@@ -1,3 +1,6 @@
+# intuition
+I have a good feeling about this. My intuition says that this will work.
+
 # curtain
 - We pulled back the curtain to see the Wizard of Oz.
 

@@ -10,3 +10,4 @@
 - I need to have evidence of my activities.
 - I need to answer the question and show an example.
 - If I do this then it will mean that I have succeeded.
+- I have committed to three goals.
