@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Kharkiv
 - Why would IT guys like Kharkiv? What infrastructure is in place to make Kharkiv IT friendly?
 - What is the average income for people living in Kharkiv? [[topic money]]
 - How are parking fines enforced? [[topic parking]]
-- How many high end restaurants are there in Kharkiv? [[topic restaurant]]
+- How many high end restaurants are there in Kharkiv? [[topic restaurants]]
 - Names some services or activities that are suitable for an IT oriented crowd.
 - What can you tell us about the ecology of Kharkiv?
 - What are the benefits of moving to Kharkiv?

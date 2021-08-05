@@ -29,9 +29,7 @@
 
 # next time
 
-
 # homework
-
 
 
 # Resources and advice for learning English

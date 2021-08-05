@@ -11,8 +11,8 @@ The other kayakers paddled on to Kyiv.
 
 # water polo
 
-# SUP
-When was the last time you went paddle boarding?
+# Stand Up Paddle Board SUP
+- When was the last time you went paddle boarding?
 
 # rafting
 We went white water rafting.

@@ -4,6 +4,14 @@ What was the last time you watched a movie at home?
 - I go to the movies to eat popcorn.
 
 
+# genres
+## romantic comedy
+## drama
+## detective
+## documentary
+## historical
+
+
 # recommended
 ## Lawrence of Arabia
 ## The Matrix Trilogy
@@ -24,3 +32,8 @@ What was the last time you watched a movie at home?
 ## Tenet
 
 
+# adjectives
+
+
+# resources
+IMDB

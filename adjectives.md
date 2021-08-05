@@ -1,3 +1,8 @@
+# touristy
+- It's a touristy place.
+
+# cozy
+- This is a cozy little cafe.
 # tranquil
 - He was as tranquil as a Hindu cow.
 # convenient
