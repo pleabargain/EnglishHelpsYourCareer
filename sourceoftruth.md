@@ -596,7 +596,7 @@ LIDAR
 
 
 
-# topic: travel Hurgada
+# topic travel Hurgada
 * I would not recommend Hurgada… though I have seen much worse!
 * I have no clue as to why people would want to leave the hotel...Hurgada was awful.
 * The vendors were very annoying.
@@ -604,7 +604,7 @@ LIDAR
 
 
 
-# topic: snowboard
+# topic snowboard
 * I have started taking snowboarding lessons.
 * We went snowboarding when it was -15C.
 * I don't like renting helmets. You don't know who wore it before.
@@ -612,7 +612,7 @@ LIDAR
 
 
 
-# topic: sickness
+# topic sickness
 
 * My daughter has a high temperature.
 * She has stomach pain.
@@ -626,7 +626,7 @@ LIDAR
 
 
 
-## topic: sick verbs
+## topic sick verbs
 * to be sick
 * to be ill
 * to cough
@@ -646,8 +646,8 @@ LIDAR
 
 
 
-# topic: to make a box
-## topic: to make a box verbs
+# topic to make a box
+## topic to make a box verbs
 * to make a box
 * to build a box
 * to saw
@@ -655,14 +655,14 @@ LIDAR
 * to assemble
 * to measure
 * to hammer
-## topic: to make a box nouns
+## topic to make a box nouns
 * hammer
 * saw
 * glue
 * measuring tape
 * wood
 
-# topic: female rights advocacy
+# topic female rights advocacy
 
 
 
@@ -670,7 +670,7 @@ LIDAR
 
 
 
-## topic:  female rights advocacy nouns
+## topic  female rights advocacy nouns
 * message
 * government
 * reparation
@@ -678,7 +678,7 @@ LIDAR
 * global
 * victims
 
-## topic:  female rights advocacy verbs
+## topic  female rights advocacy verbs
 * seek
 * have
 * be
@@ -686,22 +686,22 @@ LIDAR
 
 
 
-# topic: graduation
-## topic: graduation verbs
+# topic graduation
+## topic graduation verbs
 * graduate
 * study
 * defend
 * submit
 
-## topic: graduation nouns
+## topic graduation nouns
 * diploma
 * thesis
 * PhD
 * opponents
 * evidence
 
-# topic: holidays
-## topic: holidays verbs
+# topic holidays
+## topic holidays verbs
 * celebrate
 * give
 * rest
@@ -712,25 +712,25 @@ LIDAR
 * drink
 * play board games
 
-## topic: holidays nouns
+## topic holidays nouns
 * present
 * gift
 
-## topic: holidays adjectives
+## topic holidays adjectives
 * fun
 * relaxing
 * homey
 
 
 
-# topic: to paint
+# topic to paint
 * to paint
 * buy paint
 * get in the right mood
 * find a painting lesson
 * to tape
 * to sketch
-## topic: to paint nouns
+## topic to paint nouns
 * paint
 * brushes
 * water
@@ -738,8 +738,8 @@ LIDAR
 * painter's tape
 * sketch
 
-# topic: kubernetes
-## topic: kubernetes: verbs
+# topic kubernetes
+## topic kubernetes: verbs
 * auto-scale
 * create
 * load balance
@@ -750,7 +750,7 @@ LIDAR
 * route
 * instantiate
 
-## topic: kubernetes: noun
+## topic kubernetes: noun
 * instance
 * service
 * public end point
@@ -774,11 +774,11 @@ LIDAR
 * healthy
 * powerful
 
-# topic: gifting ideas for a fisherman
+# topic gifting ideas for a fisherman
 * In my opinion, the best choice is to...
 * There is one disadvantage to this idea...
 
-## verbs topic: gifting ideas for a fisherman
+## verbs topic gifting ideas for a fisherman
 * give
 * research
 * discuss
@@ -786,7 +786,7 @@ LIDAR
 * choose
 * pressure
 
-## noun topic: gifting ideas for a fisherman
+## noun topic gifting ideas for a fisherman
 * gift certificate
 * choice
 * cash
@@ -796,7 +796,7 @@ LIDAR
 * expectations
 * solution
 
-## topic: gifting ideas for a fisherman adjective 
+## topic gifting ideas for a fisherman adjective 
 * critical
 * wide
 * comfortable
@@ -808,41 +808,8 @@ LIDAR
 
 
 
-# topic: I forgot my bitcoin wallet password!
-## topic: forgot my bitcoin wallet password verbs
-* forget
-* use
-* try
-* hack
-* attempt
-* wipe
-* erase 
-* hire
-* encrypt
-* decrypt
 
-## topic: forgot my bitcoin wallet password nouns
-* encryption
-* decryption
-* password
-* hard drive
-* value
-* idea
-* hacker
-* sandbox method
-* problem
-
-## topic: forgot my bitcoin wallet password adjectives
-* secure
-* bad
-* hard
-* difficult
-* strong
-* good
-* dangerous
-* unknown
-
-# topic: front end developer interview
+# topic front end developer interview
 * What does a front end developer do?
 * What are some other things that front end developers do?
 * Why did you choose to become a front end developer as a career?
@@ -854,7 +821,7 @@ LIDAR
 
 
 
-# topic: front end design solutions
+# topic front end design solutions
 * What is the nature of your design problem?
 * What is the most critical things for a front end designer to know?
 * How do you approach design solutions?
@@ -863,14 +830,14 @@ LIDAR
 
 
 
-## topic:Front End design solutions verbs 
+## topicFront End design solutions verbs 
 * investigate
 * develop
 * design
 * approach
 * challenge
 
-## topic: Front End design solutions adjectives
+## topic Front End design solutions adjectives
 * useful
 * elegant
 * natural
@@ -880,14 +847,14 @@ LIDAR
 * simple
 * challenging
 
-## topic:  Front End design solutions nouns
+## topic  Front End design solutions nouns
 * browser
 * UI
 
 
 
 
-## topic: back end developer interview
+## topic back end developer interview
 * Why did you choose to become a back end developer as a career?
 * What does a back end developer do?
 * How important are use cases for your job?
@@ -902,7 +869,7 @@ LIDAR
 
 
 
-## topic: QC verbs
+## topic QC verbs
 * test
 * notify
 * become
@@ -912,7 +879,7 @@ LIDAR
 * measure
 * perform
 
-## topic: QC nouns: 
+## topic QC nouns: 
 * issue
 * cause
 * users
@@ -921,7 +888,7 @@ LIDAR
 * measurement
 * notification
 
-## topic: QC adjectives
+## topic QC adjectives
 * slower
 
 
@@ -948,11 +915,11 @@ airport
 
 
 
-# topic: Grafana task completion
+# topic Grafana task completion
 
 
 
-## topic: Grafana task completion noun 
+## topic Grafana task completion noun 
 * information
 * deployment
 * exam
@@ -961,12 +928,12 @@ airport
 * Google
 * time
 
-## topic: Grafana task completion adjectives
+## topic Grafana task completion adjectives
 * difficult
 * easy
 * complicated
 
-## verb topic: Grafana task completion
+## verb topic Grafana task completion
 * need
 * visualize
 * learned
@@ -1038,7 +1005,7 @@ airport
 # topic formula one
 
 
-# topic: weekend plans
+# topic weekend plans
 * I'm planning to go to my mother's.
 * I'm going to my mother's place and meet a friend.
 * What do you think we should do over the weekend?
@@ -1110,7 +1077,7 @@ airport
 ## topic playing guitar verb 
 * strum
 
-# topic: career planning
+# topic career planning
 * What are some areas that you would like to improve?
 * What conferences do you want to attend?
 * How many people are you comfortable [coordinating, managing]?
@@ -1120,7 +1087,7 @@ airport
 * What kind of professional courses would you like to take?
 
 
-## topic: career planning: verbs 
+## topic career planning: verbs 
 * anticipate
 * attend
 * decide
@@ -1134,7 +1101,7 @@ airport
 * practice
 * manage
 
-## topic: career planning: nouns
+## topic career planning: nouns
 * conference
 * colleague
 * documentation
@@ -1147,7 +1114,7 @@ airport
 
 
 
-## topic: career planning: adjectives
+## topic career planning: adjectives
 * effective
 * productive
 * fruitful

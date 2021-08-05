@@ -1,4 +1,3 @@
-
 # questions 
 * Do you enjoy experiencing different ways of life or do you usually find it frustrating that they don't do things as efficiently or like the way things are done back home?
 * Have you ever traveled out of the country? Do you have a passport?
