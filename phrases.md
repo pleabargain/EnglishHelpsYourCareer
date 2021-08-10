@@ -1,6 +1,18 @@
+# off-the-cuff
+
+# over the moon
+
+I'm over the moon with joy that my wife left the hospital feeling better.
+
+# outlook on life
+How do you maintain your positive outlook on life?
+# deadly serious
+I'm deadly serious about this: don't mess up!
 # to man up
 We need to man up and do this thing!
 # I need to switch gears.
+
+
 - Hold on a sec. I need to switch gears.
 
 # it's a piece of cake

@@ -1,4 +1,4 @@
-[[topic car]]
+[[topic cars]]
 # questions
 Have you ever been in a car accident?
 

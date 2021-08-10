@@ -14,6 +14,7 @@
 
 * some
   * problems
+  * gloves
   * people
   * departments
   * things
@@ -24,11 +25,13 @@
   * possible problems
   * children
   * dogs
+  * children
   * clients
   * meetings
   * rooms
 * there were a few
 	* dogs
+	* 
 	* cats
 	* people at the restaurant
 * one of my favorite
@@ -71,6 +74,7 @@
   * both chairs
 * a couple of +nouns+s
   * interviews
+  * pants
   * drinks
   * days
   * times a [week,month,year]
@@ -108,7 +112,44 @@
   * different platforms
   * different projects
 
+Everyone 
+	- agrees
+	-needs somebody.
+Everybody 
+	- says.
 
 # always singular
-feedback
-advice
+- feedback
+- advice
+
+
+# dialog 1
+What's on your shopping list?
+
+4 tomatoes, some carrots, 2 kilos of potatoes, 6 oranges, some cherries, 2 bottles of grape juice, a box of strawberries, 6 bottles of water, and some chicken. What about you?
+
+Er, 5 pizzas and some soda.
+
+Let's go to the supermarket together. You will need some help!  
+
+
+# dialog 2
+I need some new clothes.
+
+Me too, I need a new pair of pants and a couple of shirts.
+
+I need shoes, a couple of scarves for winter, and two dresses.
+
+So let's go shopping this afternoon.
+
+Good idea!  
+
+
+# dialog 3
+What do we need for dinner tonight?
+
+We need onions, potatoes, and some eggs.
+
+How about some fruit and potato chips?
+
+OK, sounds great.

@@ -1,3 +1,6 @@
+# arsonist
+He's an arsonist.
+
 # intuition
 I have a good feeling about this. My intuition says that this will work.
 

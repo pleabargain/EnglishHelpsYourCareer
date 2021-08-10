@@ -1,5 +1,9 @@
 verbs (pronunciation) (regular or irregular)
 
+# to commit arson
+
+# to commit suicide
+
 # to quote
 
 He quoted us $100USD. He said it would cost us 100USD.
@@ -1165,6 +1169,7 @@ We sipped wine while we watched the sunset.
 
 # conduct conducted (id) (reg) 
 - We must conduct a review of our procedures.
+- I'm conducting talks with my manager regarding my promotion.
 - Water conducts electricity.
 - The interview was conducted in English.
 

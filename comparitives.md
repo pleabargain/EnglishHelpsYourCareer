@@ -4,8 +4,10 @@ We use **comparative [[adjectives]]** to show change or make comparisons:
 * This phone is certainly **better**, but it's much **more expensive**.
 
 * I'm feeling **healthier** now.
+* She is moving **closer** to the coast.
 
 * We need a **bigger** apartment.
+* She's even **crazier** than me.
   
 
 We use _than_ when we want to **compare one thing with another**:

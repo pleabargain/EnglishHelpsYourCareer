@@ -58,7 +58,7 @@ https://en.wikipedia.org/wiki/Cyprus
 - We need new talent from time to time. [[topic work]]
 - If you need to find IT specialists ... #conditional 
 - There is public transport in Cyprus.
-- It's better to rent a car. [[topic car]]
+- It's better to rent a car. [[topic cars]]
 - Traffic is really bad in [[topic Kyiv]].
 - I didn't know that taxes in Cyprus were so low. [[topic taxes]]
 - That's the way it is. #phrase

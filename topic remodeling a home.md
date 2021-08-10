@@ -19,6 +19,7 @@
 # statements
 - The apartment is very hot in the summer and very cold in the winter.
 - I have never seen it.
+- We are planning to replace some tiles.
 - Everything can go wrong and guaranteed it will be expensive!
 - We live on the top floor.
 - We don't hear him at all.

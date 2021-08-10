@@ -24,7 +24,7 @@ The underlined documents are found on github: https://github.com/pleabargain/Eng
 - use [[comparitives]]
 
 # week 6
-- convince us that driving your own [[topic car|car]] or [[topic public transportation|public transportation]] is superior
+- convince us that driving your own [[topic cars|car]] or [[topic public transportation|public transportation]] is superior
 - use [[conditionals]]
 
 

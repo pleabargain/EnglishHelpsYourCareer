@@ -1,3 +1,4 @@
+finite<>infinite
 
 sincere<>insincere
 

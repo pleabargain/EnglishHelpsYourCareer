@@ -892,15 +892,6 @@ LIDAR
 * slower
 
 
-# topic travel to Egypt package
-* How long will you be there?
-* Is it a charter flight?
-* When do you travel?
-
-topic travel 
-suitcase
-pack suitcase
-airport
 
 
 # topic travel to Thailand

@@ -16,6 +16,7 @@
 * oaths
 * paths
 * baths
+* strengths
 * goths (gawths)
 * moths
 * sloths
@@ -119,8 +120,13 @@
 * fasten
 
 ## silent h (don't pronounce the H!)
+https://pronunciationstudio.com/h/
 * honest
 * whistle
+* HONOUR, 
+* HOUR, 
+* HONEST, 
+* HEIR
 
 ## silent k (don't pronounce the K!)
 * knee
@@ -131,6 +137,16 @@
 * kneel
 * knight
 * knowledge
+
+## silent p
+https://englishlive.ef.com/blog/language-lab/silent-letter-english-words-silent-letters-pronounce/
+- psyche
+- psychologist
+- psychiatry
+- psychological
+-  psychotic 
+- pseudo
+
 
 ## silent w  (don't pronounce the W!)
 * answer
