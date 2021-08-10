@@ -17,11 +17,11 @@
   - Silicon Valley (sitcom)
   - Young Sheldon https://g.co/kgs/KejRvY
   - The Office (https://en.wikipedia.org/wiki/The_Office_(American_TV_series))
-  - The Big Bang Theory https://g.co/kgs/qwKYLi
+  - [[topic The Big Bang Theory]] https://g.co/kgs/qwKYLi
 # Animated
   - The Fixies (children) https://www.youtube.com/channel/UCnRuuiSVqDF2EmoYS7yE6ZA
-  - Rick and Morty  (very adult) 
-  - Bo Jack Horseman (very adult)
+  - [[topic Rick and Morty]]  (very adult) 
+  - [[topic Bo Jack Horseman]] (very adult)
 	- https://en.wikipedia.org/wiki/BoJack_Horseman 
 	- https://transcripts.fandom.com/wiki/BoJack_Horseman:_The_BoJack_Horseman_Story,_Chapter_One
 # watch movies in English

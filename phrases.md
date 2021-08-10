@@ -1,3 +1,13 @@
+# spoiler alert
+
+# word salad
+He spilled his thoughts on us like a word salad.
+
+# idea salad
+
+# spit balling
+We were just spit balling ideas.
+
 # off-the-cuff
 
 # over the moon

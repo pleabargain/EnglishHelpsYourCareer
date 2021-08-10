@@ -14,8 +14,13 @@ https://g.co/kgs/B7i3M7
 # Better Call Saul
 https://g.co/kgs/5bYmjX
 
-# Rick and Morty
+# [[topic Rick and Morty]]
 https://g.co/kgs/DYFfwp
+
+# Dark
+- time travel
+		
+# [[topic Solar Opposites]]
 
 # Friends
 https://g.co/kgs/NRrXXR
@@ -31,3 +36,9 @@ https://g.co/kgs/JDPiJA
 https://g.co/kgs/VWZy9Z
 
 # Big Bang Theory
+
+# Stargate
+
+# Young Sheldon
+
+# [[topic Doctor Who]]
