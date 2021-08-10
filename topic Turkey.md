@@ -9,16 +9,19 @@
 - Was the hotel full?
 - What was the nationality mix at the resort?
 - What was the cost of the trip?
+- What was there for children to do?
 - How would you describe the resort?
 - How many rooms were in the hotel?
+- How much did it cost per person?
 - Were there any COVID restrictions?
+- Was it a relaxing trip?
 - At the border, did they ask for PCR tests?
 - How much cash should I bring?
 - What's there to do in ...?
 
 
 # statements
-
+- We spent seven days on the sea shore.
 - We haven't visited the hotel before but we know the region.
 - If we want to save a bit of money on our vacation we might want to consider ...
 - I don't remember.

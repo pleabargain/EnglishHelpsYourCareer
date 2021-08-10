@@ -1,5 +1,8 @@
 verbs (pronunciation) (regular or irregular)
 
+# to give up
+He gave up on trying to learn Chinese after seeing the keyboard.
+
 # to commit arson
 
 # to commit suicide
