@@ -37,3 +37,12 @@
 # statements
 We hope that there will be fewer people in the lower season.
 
+
+
+# verbs
+- to transfer
+
+# nouns
+
+# adjectives
+- busy

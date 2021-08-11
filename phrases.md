@@ -1,3 +1,13 @@
+# to be in a rut
+- I felt like I was in a rut at work.
+# marriage is a two-way street
+
+# marriage is a tug of war
+# marriage is a game of give and take
+
+
+# get to know each other
+
 # spoiler alert
 
 # word salad

@@ -4,6 +4,7 @@ https://en.wikipedia.org/wiki/Zaporizhzhia
 - What would you want to go do in Zaporizhzhia? 
 - What kind of people would you like to meet in Zaporizhzhia? 
 - What street would you want to walk down in Zaporizhzhia?
+- How are the parks there?
 - What is your general impression of Zaporizhzhia?
 - How many violent crimes are committed in Zaporizhzhia every month?
 - Why should I move my company to **Zaporizhzhia**?
@@ -30,7 +31,7 @@ https://en.wikipedia.org/wiki/Zaporizhzhia
 - How many universities are in Zaporizhzhia?
 - How many kilometers of [[topic biking]] lanes are there in Zaporizhzhia?
 - What is the average income of someone living in Zaporizhzhia?
-- Is [[topic rent control|rent control]] enforced in  Zaporizhzhia?
+- Is [[topic rent control|rent control]] enforced in Zaporizhzhia?
 - What is the ratio of police officers to the general population?
 - What annual events are held in Zaporizhzhia?
 - What are the plans for increasing public transportation?
@@ -43,6 +44,9 @@ https://en.wikipedia.org/wiki/Zaporizhzhia
 - Zaporizhzhia has more than forty libraries.
 - There is a famous street in Z called Z.
 - There is a plan to build a metro...
+- There are some interesting buildings in the city.
+- Z is more of an industrial city.
+- They are building a new hydro-electric power plant.
 - My favorite place in Z is Hortense island.
 - A major issue in Z is drug addiction.
 - Citizens of Z have to work hard to survive.

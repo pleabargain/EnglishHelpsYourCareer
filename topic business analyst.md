@@ -1,6 +1,7 @@
 # Questions
 - How would you describe a Business Analyst's role?
 - What business problem interests you?
+- What are the skills that a business analyst needs?
 - How do you go about defining a problem?
 - How do you go about validating a problem is real?
 - What is the certificate process for a Business Analyst?
@@ -19,6 +20,8 @@
 
 # statements
 - This is a good starting point.
+- 
+- Tell me about a problem that you solved recently.
 - There are different kinds of ... [[plurals in English]]
 - I have to manage the back log.
 - I have to create new user stories.

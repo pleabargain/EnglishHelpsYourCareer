@@ -31,7 +31,7 @@
   * rooms
 * there were a few
 	* dogs
-	* 
+	* glasses on the table
 	* cats
 	* people at the restaurant
 * one of my favorite
@@ -47,8 +47,9 @@
   * a lot of stories
   * a lot of videos
 
+* There are different types of ...
 * There are different kinds of ...
-* many different 
+* There are many different 
 	* situations
 	* types of X
 	* ideas about X

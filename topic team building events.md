@@ -13,3 +13,9 @@
 - I need to send out a survey.
 - I want to have a single evening where we can all get together.
 - They have seen more team building events than I have.
+
+# verbs
+
+# nouns
+
+# adjectives

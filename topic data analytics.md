@@ -4,6 +4,7 @@
 - How would you approach an existing data project as a newcomer?
 - What is the largest database you have ever worked with?
 - What questions should I ask during a data engineer interview?
+- What can you tell us about Exasol?
 - What data tools have you worked with in the past?
 - Which of those tools are you most comfortable using?
 - How many years of experience do you have working with data?
@@ -20,6 +21,16 @@
 
 
 # statements
+- I am good at improving the efficiency of algorithms.
+
+# nouns
+
+
+
+# applications
+Tableu
+Exasol
+SAS
 
 # resources
 https://www.youtube.com/channel/UC3q8O3Bh2Le8Rj1-Q-_UUbA

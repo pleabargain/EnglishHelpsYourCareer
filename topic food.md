@@ -12,7 +12,6 @@
 -Is there anything you don't eat?
 - Do you cook or do you only eat prepackaged food? How often do you go out to eat?
 - Will you eat everything on your plate no matter how much is there (assuming you like the food)? Or will you quit when you feel full enough? Do you need to feel "stuffed" to be satisfied?
-
 -Have you been to any good restaurants recently?
 -What Are the Most Memorable Meals You've Ever Had?
 -What's Your Favorite Holiday Food Memory?
@@ -32,6 +31,11 @@
 -Do You Eat Cafeteria Food?
 -Is School Lunch Really All That Bad?
 
+
+# statements
+I'm trying to find time to cook.
+My father is a very good cook.
+He doesn't know how to cook fried eggs.
 
 
 # restaurants in Kyiv
@@ -56,7 +60,7 @@ oven
 ribs
 salt 
 mutton
-
+cuisine
 
 
 

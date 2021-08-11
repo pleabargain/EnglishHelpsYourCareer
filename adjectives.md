@@ -1,3 +1,6 @@
+# dangerous
+- It's a dangerous place! Be careful!
+
 # touristy
 - It's a touristy place.
 
