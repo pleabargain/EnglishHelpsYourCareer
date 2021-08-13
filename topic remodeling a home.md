@@ -1,7 +1,9 @@
 # questions
 - Are you doing the remodeling work yourself?
 - Are you using a contractor to do the work?
+- Have they laid the foundation?
 - What advice do you have to someone planning a remodel?
+- Have you hired an inspector to make sure the work is being done properly?
 - How would you go about budgeting a remodeling project?
 -   How much will my remodel cost? 
 -   How long will my remodel take? 
@@ -14,11 +16,27 @@
 -   Who manages the building?
 -   What are you doing for sound insulation?
 -   Are you installing air conditioning?
+-   How is the remodel going?
+-   Would you ever consider working in construction as a full time job?
+-   Can you recommend someone?
+-   
 
 
 # statements
+
+- If you want to remodel your place, first step is to increase your budget.
+- He's a jack of all trades and master of none.
+- He did all of the work in my flat.
+- He did everything.
 - The apartment is very hot in the summer and very cold in the winter.
+- I've got sore muscles at the end of the day.
 - I have never seen it.
+- We forgot to order tiles.
+- It has become a problem.
+- I've never thought about it.
+- I need to bring concrete to the flat.
+- I can do the easy stuff.
+- We went to the store and couldn't find what we were looking for.
 - We are planning to replace some tiles.
 - Everything can go wrong and guaranteed it will be expensive!
 - We live on the top floor.
@@ -62,6 +80,7 @@
 - a tile floor
 - a hardwood floor
 - a laminate floor
+- budget overrun
 
 # adjective
 - wooden

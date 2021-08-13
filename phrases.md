@@ -1,3 +1,8 @@
+# to show off
+She likes to show off her new diamond.
+
+# to be laser focused
+
 # to be in a rut
 - I felt like I was in a rut at work.
 # marriage is a two-way street

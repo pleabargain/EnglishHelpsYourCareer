@@ -12,13 +12,22 @@
 - Why doesn't he want to get vaccinated?
 
 
+
 # statements
 - The pandemic is worldwide, not just here. The hospitals are full of sick people. I'm willing to stay at home to stay safe and healthy. [[topic health]]
-- You have just convinced me!
+- You have just convinced me! [[verbs#convince convinced t reg]]
 - It took a while to get the results.
+- My brother asked me if I wanted to get vaccinated. [[verbs#vaccinate vaccinated id reg]]
+- She's running a fever.
+- She lost her sense of smell and taste.
+- She hasn't been traveling at all.
+- I haven't heard back from him.
+- I chatted with my friend. [[verbs#chat chatted id reg]]
+- She's very tired all of the time.
+- She contracted Covid19. [[verbs#contract contracted id reg]]
 - She gets sick several times a year.
 - We are encouraging him to get vaccinated.
-- I am fully vaccinated.
+- I am fully vaccinated. [[verbs#vac]]
 - I saw a lot of people [using oxygen masks,on respirators].
 - I saw it with my own eyes!
 - The PCR test cost about 40USD.
@@ -35,3 +44,4 @@
 - to vaccinate
 - to test
 - to inject
+- to get vaccinated

@@ -1,3 +1,5 @@
+[[topic travel]]
+
 # questions
 
 # statements
@@ -13,14 +15,3 @@
 # adjectives
 
 # resources
-
-
-
-
-
-# key ideas
-
-[[acronyms#POC]]
-
-distributed control system (DCS)
-DCS

@@ -19,10 +19,17 @@
 * Would You Trade Your Paper Books for Digital Versions?
 * To what writer would you award a prize?
 
+# Authors
+- Seth Gordin
+- Taleb
+- Sam Harris
+
 # recommended books
 - Good Omens https://g.co/kgs/ke9mLY
 - Dune https://g.co/kgs/qP6hYQ
+- Free Will  Sam Harris https://g.co/kgs/GXZKMv
 - Siddhartha  https://g.co/kgs/QquWHN
+
 - The Art of Thinking Clearly https://g.co/kgs/HsKM5T
 - Hitchhikers Guide to the Galaxy https://g.co/kgs/G7udR1
 - Confessions of a Public Speaker (https://g.co/kgs/4RmF1Z)
@@ -31,3 +38,6 @@
 - Confessions of a Public Speaker https://g.co/kgs/4RmF1Z
 - The 3-Minute Rule: Say Less to Get More from Any Pitch Or Presentation https://g.co/kgs/HVaXsW
 - O Henry https://short-edition.com/en/classic/author/o-henry
+
+# unread
+- Critique of Pure Reason Book by Immanuel Kant https://g.co/kgs/JPXHxw

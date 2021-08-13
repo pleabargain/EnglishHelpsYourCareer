@@ -1,3 +1,6 @@
+# IAM
+identity and access management
+
 # RFP
 RFP request for proposal
 
@@ -159,3 +162,13 @@ Standard Operating Procedure
 
 # SLA
 Service Level Agreement
+
+
+# DCS
+distributed control system
+
+# VC
+venture capital
+
+# SPAC
+Special Purpose Acquisition Company

@@ -28,6 +28,8 @@
 ## drums
 ## piano
 ## guitar
+## bandura
+https://www.google.com/search?q=bandura+instrument
 
 
 
@@ -44,9 +46,10 @@ https://i.imgur.com/yjeM18m.png
 # live music
 
 
-
-# dialog
-
+# statements
+- We are a family of musicians.
+# dialogues
+---
 Ana: What's your favorite karaoke song?
 
 Bob: I don't sing karaoke song very often, so I don't really have a favorite.
@@ -54,3 +57,14 @@ Bob: I don't sing karaoke song very often, so I don't really have a favorite.
 ---
 
 
+
+# phrases
+
+# verbs
+to conduct
+to compose
+# nouns
+- choir
+- orchestra
+- conductor
+# adjectives

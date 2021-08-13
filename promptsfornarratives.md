@@ -463,57 +463,7 @@
 * What Is Your Most Prized Possession?
 
 
-# Growing Up
-* What did you learn in Your Teens?
-* What Do You Remember Best About Being 12?
-* What Personal Achievements Make You Proud?
-* What Are Some Recent Moments of Happiness in Your Life?
-* What Rites of Passage Have You Participated In?
-* What Are You Grateful For?
-* What Advice Would You Give Younger Kids About Middle or High School?
-* What Have You Learned From Older People?
-* What Can Older People Learn From Your Generation?
-* What Do Older Generations Misunderstand About Yours?
-* Do You Recognize Yourself in Descriptions of 'Generation Z'?
 
-# Morality
-* Have you ever committed a felony? Have you ever been arrested?
-* Are you listed as an organ donor on your driver's license for when you die? Would you like for your organs to be donated?
-* Do you have a position on the government killing men and women who have knowingly committed murder?
-* What do you think about pornography? Do you think it is ever helpful?
-* How do you feel about men and women killing people from other countries? Have you already been in a war? How did it affect you to have to kill (or support those who killed) others?
-* Are you an activist for any causes?
-* Do you think you could kill a person if they were threatening the life of your loved ones?
-* Would you be able to marry someone who formerly was in a gay relationship or had a few homosexual experiences prior to dating you?
-* Is there anyone you would be wil ing to die for?
-* Do you vote regularly? Do you vote straight Republican, Democrat or other party? Or do you analyze each candidate and vote for who you think is most qualified regardless of party affiliation?
-* Are you currently involved in any criminal activities right now?
-* Would you steal a car for $200,000 if you would be certain that you would not be caught? What about for $1,000,000?
-* How would you feel if one of your friends said he or she was gay?
-* Would you still want to socialize with him or her?
-* Are you often embarrassed about how most of your race behaves?
-* Do you think your race is superior to al others/most?
-* How do you feel about gambling? If your company sent you on a business trip to Las Vegas, what limit would you place on yourself for gambling each day?
-* To what extent are you involved in politics?
-* Do you have guidelines regarding movies you wil not see?
-* Do you use foul language? Why do you do it? Does it bother you when you hear others cuss?
-* Is there anything you would physical y fight for?
-* If you found a wal et with $300 cash in it, would you return it to its owner? Would you turn it into the police if there was no identification in it?
-* Do you feel strongly against people wearing fur coats?
-* Are you liberal, conservative or somewhere in the middle?
-* Do you think your parents are/were racist? How did that affect the way you think about people of other races?
-* From your past relationships, do you think that most people learn from their mistakes or do they simply keep repeating them?
-* Do you believe that most people are trustworthy and honest?
-* Tell me about the biggest lie you've ever told? Why did you tel it and how did you feel afterwards?
-* Do you think you could go skinny dipping with your mate in private?
-* How about with a group of people you knew?
-* Have you ever been to or would you ever go to a nude beach? What is your opinion on nudism (people who enjoy being nude around others - not in a sexual way)?
-* Besides traffic violations, have you ever knowingly broken a law?
-* What did you do? Do you believe that there are some laws that aren't necessary to be kept?
-* Do you support (with money and/or time) any charities or causes?
-* If your dear friends wanted you to donate sperm or eggs because they were infertile, would you do so? How would you feel about your mate doing so? What about donating them for a couple that would remain anonymous?
-* Do you believe there is one right person for you out there in the world or that there can be many different potential mates that you could live blissfully with?
-* What sort of emotions (rage, anger, sorrow, etc.) do you think are inappropriate for people to express publicly?
 
 
 
@@ -628,27 +578,7 @@
 
 
 
-# The Internet
-* How do you know when you are wasting your time?
-* What's So Great About YouTube?
-* What has YouTube taught you?
-* What Are Your Favorite Viral Videos?
-* What Are Your Favorite Internet Spoofs?
-* What would you teach the world in an online video?
-* Do You Ever Seek Advice on the Internet?
-* Would You Share an Embarrassing Story Online?
-* Are you a good story teller?
-* How Do You Know if What You Read Online Is True?
-* What Are Your Experiences With Internet-Based Urban Legends?
-* How Much Do You Trust Online Reviews?
-* How Do You Use Wikipedia?
-* How Careful Are You Online?
-* What Story Does Your Personal Data Tell?
-* Do You Worry About the Lack of Anonymity in the Digital Age?
-* Would You Mind if Your Parents Blogged About You?
-* Do You Wish You Had More Privacy Online?
-* Have You Ever Been Scammed?
-* Whom Would You Share Your Passwords With?
+
 
 
 
@@ -670,22 +600,6 @@
 * What Are Your Favorite Cartoons?
 * What Are Your Favorite Commercials?
 * How Much Are You Influenced by Advertising?
-
-# Movies & Theater
-
-* What was the last live performance you saw?
-* What Are Your Favorite Movies Ever?
-* What Were the Best Movies You Saw in the Past Year?
-* What Movies Do You Watch, or Reference, Over and Over?
-* What Movies, Shows or Books Do You Wish Had Sequels, Spinoffs or New Episodes?
-* Do You Like Horror Movies?
-* What Is Your Favorite Comedy?
-* Who Are Your Favorite Movie Stars?
-* Would You Pay Extra for a 3-D Movie?
-* Where, and How, Do You Watch Movies?
-* What Are the Best Live Theatrical Performances You've Ever Seen?
-* Have You Ever Stumbled Upon a Cool Public Performance?
-* 
 
 
 
@@ -772,38 +686,6 @@
 * Do You Ever 'Mix It Up' and Socialize With Different People at School?
 * What Fads Are You and Your Friends Into Right Now?
 
-# communication
-* How do you feel about people who don't keep their commitments?
-* What does my body language tel you sometimes even though I'm not talking?
-* Are there any parts of a couple's private life that should not be discussed with family or friends?
-* Do you think your partner can listen to you and do something else (like watch TV or read the paper) at the same time? Can you?
-* Do you think your partner talks too much on the phone and neglects you or other important things?
-* Are there things that are easier to discuss with your friends than your partner?
-* Do you think I can usual y read your body language? Where am I good at it and what do I usual y get wrong?
-* On a typical month, how much is your long distance phone bil ?
-* Does that include international cal s?
-* If I get offended or irritated at something you say or do, what is the best way for me to bring it up so that you don't get angry?
-* Do you think someone should ever correct his or her mate in public?
-* How often do you feel that you really don't know your partner? Will time fill in the gaps or do you feel that your partner won't open up and you may never really know him or her?
-* Can you have good conversations with someone you were just introduced to?
-* When you real y don't feel like talking to me, why is that?
-* Do you prefer to stay in touch with others by letter, email, or the phone?
-* When you ask your mate a question, does he or she always respond? How do you feel if you don't get a response?
-* If you are in a grouchy mood, should I leave you alone or do something else?
-* If there are some things from my past that are just too painful or uncomfortable to share is that ok with you? Would you be able to commit to someone who can't share everything?
-* Does your mate usually interrupt your sentences? Do you find it irritating? Does your mate monopolize the conversation, making it hard to speak?
-* Did your family tend to share feelings and emotions when you were growing up?
-* If you have something that you real y need to do, but you keep forgetting about it, how should I remind you without being a nag?
-* Do you feel that your partner often takes ten minutes to tel you something when it could have been said in 30 seconds? Does that frustrate you?
-* Do you enjoy talking about yourself - your job, your vacations, your accomplishments, etc.?
-* Do you usually return phone calls and emails within a day?
-* Are you good at taking phone messages or passing along important calendar dates to your partner?
-* Do you sense that others may think that you talk too much about yourself?
-* How much do you think a spouse should inform his or her mate regarding their schedule and whereabouts?
-* Do you find it easy to start conversations with strangers?
-* What areas do you think we could most improve our communication? (you might want to use the book chapter headings as a guide)
-* What one topic do you wish I would be able to talk about more openly and freely?
-
 
 # College and University
 * How much of what you learned at school can you apply to your current job?
@@ -863,75 +745,6 @@ better: What languages were commonly used on your last project?
 
 
 
-
-# Friendship
-* How would you describe the circles you run in?
-* How would you describe your friends?
-* What question do you want your friend to ask you?
-* What do you think is the common link among all (or at least most) of your friends? (School, Work, Personality, Hobbies, etc.) Do you have problems letting friendships dissolve when you realize you have little in common? Do you feel obligated to keep close family ties with relatives you would not normally choose to socialize with? Is it ever appropriate to "divorce" yourself from certain family members?
-* On a typical day/night out with your friends, what do you do?
-* How many friends do you have?
-* How often do you have your friends over to your place?
-* Do you like it when friends feel comfortable enough to drop by unexpectedly?
-* Who is your least favorite relative? Do you try to avoid him or her?
-* Do you have a favorite relative? What makes them so special?
-* Do you think you could live more than six hours away from your parents and/or siblings?
-* Did you grow up in an ethnic or cultural y unique community? What role does it play in your life? Will you want to stay active in that community when you get married?
-* In what ways do you think your parents could select a better mate for you than you could?
-* If your family hated the person you were dating and voiced strong opinion against you marrying him or her, would you get married anyway?
-* How have you changed since high school? What would your high school pals think about you now?
-* What does my family do that annoys you?
-* What family traditions did you have growing up? Would you want your children to continue them?
-* What is the most important thing you learned from your father? What are some other things he taught you?
-* What makes the difference between a good parent and a great parent?
-* Do you enjoy hosting out of town guests in your home? If so, how long?
-* How powerful is peer pressure to you? Do you feel you need to live in a similar fashion as your friends? Did you have problems with peer pressure in your earlier years?
-* Which family member are you closest to? Has it always been that way?
-* Have you given any thought to how you wil take care of your mom and dad when they are older and need assistance?
-* What is your relationship with your siblings?
-* What makes the difference between a good husband and a great husband? Good wife and a great wife?
-* What did you most enjoy doing with your family when you were a kid?
-* How do you feel about friends, relatives or people in need living in your house for a year?
-* Are you jealous of any of the members of your family? Why?
-* What's the biggest fight you've had with your family? Has the issue been completely settled?
-* How often do you see your family? Do you think that's enough or too much?
-* How have your family been poor role models for relationships?
-* Did you ever hear or see your parents fighting when you were a child? How did it make you feel?
-* What is the most important thing you learned from your mother?
-* What are some other things she taught you?
-* Did one of your parents love you more than the other?
-* Do you think it is risky or unhealthy for your mate to have a best friend's of the opposite sex?
-* Do any of your friends have things that make you envious?
-* Which of your friends is most successful? Would you like to have the same level of success?
-* What positive things have you learned from observing your parents' marriage?
-* Do you think you are a good influence on your friends or do you think they need you to be a good influence on them? How are they a bad influence?
-* How long do you think you could stay with my parents before you became unhappy or resentful?
-* When you are in a serious relationship do you tend to ignore your friends? Have you ever had friends get married and suddenly lose contact with their single friends? Is that to be expected?
-* Have you ever had to deal with conflict in you family? How did you do it?
-* Have your grandparents taught you anything really important or profound?
-* What is your parents' nationality? Were you raised in that culture or do you know much about it?
-* Do you like your last name? If you don't like it, would you consider changing it?
-* If we have children, how often would you like the children to see their grandparents? Do you have any particular concern about the children spending too much time with any of their grandparents or relatives (that are racist, alcoholics, foul-mouthed, ill-tempered, etc.)?
-* Can you say "no" to your parents when they want you to do something you would prefer not to?
-* When you get married, do you think there would be any changes in your social circle? Which friendships do you think you would let go and which ones would you add?
-* If you were married, how would you like to meet new people to socialize with?
-* Are you currently satisfied with the quality and quantity of friends you have? Why or why not?
-* Early in the dating stage, how strongly do you consider your friends and family's opinion as to whether you should continue seeing someone?
-* When was the last time you called your Mom, just to tell her you love her? Your Dad?
-* How often do you call your parents/family members?
-* Who is your best friend? What about this person makes them so special?
-* Ideally, what characteristics would your friends have?
-* What have your friends taught you?
-* Do You Have a Best friend?
-* How Often Do You Spend One-on-One Time With Your Closest friends?
-* How Do You Feel About Introducing friends from Different Parts of Your Life?
-* Do You Find It Easier to Make New friends Online or In Person?
-* How Good a friend Are You?
-* How Have You Helped a friend in a Time of Need?
-* Do You Like Your friends?
-* Is Competitiveness an Obstacle to Making or Keeping friendships?
-* How Should You Handle the End of a friendship?
-* Have You Ever Felt Left Out?
 
 
 
@@ -1318,28 +1131,6 @@ better: What languages were commonly used on your last project?
 * How Do You Feel About Zoos?
 
 
-# Environmental Issues
-* What do you do to protect the environment? Do you think you should do more?
-* How Do You Try to Reduce Your Impact on the Environment?
-* Do You Ever Feel Guilty About What, or How Much, You Throw Away?
-* How Much Food Does Your Family Waste?
-* What Could You Live Without?
-* How Do You Celebrate Earth Day?
-* Do you sort your recycling?
-* Do you support politicians who advocate for better environmental practices?
-
----
-Ana: How Green Are You?
-
-Bob: I'm not green enough. I need to be better about sorting the recycling. It's more convenient now than before... I bought a travel cup to reduce the use of throw way cups. I can do better.
-
-Ana: I think you are a good example for our community. Most people don't recycle!
-
-Bob: How Do You Try to Reduce Your Impact on the Environment?
-
-Ana: I'm trying to sort my garbage and conserve electricity wisely.
-
----
 
 
 

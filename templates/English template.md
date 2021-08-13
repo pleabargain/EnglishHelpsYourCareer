@@ -21,6 +21,7 @@
 - What does your workout routine consist of? [[topic exercising]]
 - Say a [[nouns|noun]] or [[verbs|verb]] of [[adjectives|adjective]] for each letter in the alphabet.
 - What will you be doing to improve your English in the future?
+# historical trivia
 - https://www.thisdaytrivia.com
 <iframe
 	border=0
@@ -30,10 +31,25 @@
 	src="https://www.thisdaytrivia.com">
 </iframe>
 
+# trivia
+-  https://www.reddit.com/r/AskReddit/comments/oye601/whats_the_most_ridiculous_fact_you_know/
+
+<iframe
+	border=0
+	frameborder=0
+	height=250
+	width=850  
+	src="https://www.reddit.com/r/AskReddit/comments/oye601/whats_the_most_ridiculous_fact_you_know/">
+</iframe>
+
+# interviews
+-  https://www.freshdialogues.com/
+
 
 # questions
 
 # statements
+
 
 # reading
 

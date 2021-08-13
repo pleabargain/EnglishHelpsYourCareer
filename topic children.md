@@ -1,3 +1,6 @@
+
+# questions
+
 - At this stage in your life do you think you would prefer having children or being child-free? Do you think your feeling might change?
 - What are your thoughts on adopting children if you were unable to have children of our own? Would you adopt even if you could have children? Would you prefer surrogate motherhood or fatherhood to adoption?
 - If you had a son, would you want him to be circumcised? Why?
@@ -79,3 +82,13 @@
 - Do you believe children should be seen and not heard? Why or why not?
 - If the doctors detected that your unborn child had a severe birth defect and they could easily abort it, would you still have the baby?
 - Do you think parents should provide cars for their teenagers if they are financially able? Would you allow your teenager to buy his or her own car if he or she had the funds?
+- How much do you expect to pay for the delivery of the baby?
+
+# statements
+- We'll visit the hospital this weekend.
+- She is under medical observation.
+# nouns
+
+# verbs
+
+# adjectives

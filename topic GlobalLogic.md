@@ -14,13 +14,4 @@
 
 # resources
 
-
-
-
-
-# key ideas
-
-[[acronyms#POC]]
-
-distributed control system (DCS)
-DCS
+https://g.co/kgs/t2DnH6

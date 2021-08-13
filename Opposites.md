@@ -1,3 +1,5 @@
+unusual <> usual
+
 finite<>infinite
 
 sincere<>insincere
@@ -14,9 +16,11 @@ inedible<>edible
 
 deep<>shallow
 
+guilty <>innocent
+
 unleash <> leash
 
-innner <> outer
+inner <> outer
 * We were under the hood looking at the inner workings.
 
 inconsistent<>consistent

@@ -1,0 +1,17 @@
+# questions
+-   What do we want to achieve?
+-   How are we going to measure success?
+-   What are we going to do to make progress?
+# statements
+
+# dialogues
+
+# phrases
+
+# verbs
+
+# nouns
+
+# adjectives
+
+# resources

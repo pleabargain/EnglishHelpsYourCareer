@@ -1,11 +1,16 @@
 verbs (pronunciation) (regular or irregular)
 
+# vaccinate vaccinated (id) (reg)
+I'm going to get vaccinated.
+
 # to give up
 He gave up on trying to learn Chinese after seeing the keyboard.
 
 # to commit arson
 
 # to commit suicide
+
+# contract contracted (id) (reg)
 
 # to quote
 
@@ -652,10 +657,16 @@ They specialized in catering and party management.
 
 
 # finish finished (t) (reg)
+## dialogue
+---
 
+Ana: Did you finish your work?
+
+Bob: Not really!
+
+---
 
 - We have finished moving in!
-
 - We have finished our code review. (present perfect simple)
 - I was finishing my lunch when she walked in. (past continuous)
 - I could have finished earlier but the holidays got in the way!
@@ -1179,9 +1190,10 @@ We sipped wine while we watched the sunset.
 # convince convinced (t) (reg)
 - I'm convinced that this project is going to succeed!
 - She wasn't convinced.
+- We weren't convinced of his ability.
 
 # convert converted (id) (reg)
-- We need to convert this pdf into a word file.
+- We need to convert this PDF into a word file.
 
 # consent consented (id) (reg) 
 - He should have consented to her offer.
