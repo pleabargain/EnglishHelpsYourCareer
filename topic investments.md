@@ -18,9 +18,10 @@
 		* https://g.co/kgs/1wMX8b
 
 # statements
+The best time to start investing is yesterday.
 
 # verbs
-- [[verbs#invest]]
+- [[grammar verbs#invest]]
 
 # acronyms
 IP0 initial public offering

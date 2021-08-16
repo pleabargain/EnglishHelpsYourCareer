@@ -1,4 +1,5 @@
-https://en.wikipedia.org/wiki/Dnipro
+# questions
+
 [[topic Ukraine]]
 - What if this were the first full day of living in Dnipro? 
 - What would you want to go do in Dnipro? 
@@ -38,15 +39,28 @@ https://en.wikipedia.org/wiki/Dnipro
 - What can you tell me about X?
 
 
-# statement
+# statements
 - Z is the third largest producer of steel in [[topic Ukraine]].
 - Dnipro nuclear power plant produces 20% of all electricity in Ukraine.
 - Dnipro has more than forty libraries.
 - There is a famous street in Z called Z.
-
 - There is a plan to build a metro...
 - My favorite place in Z is Hortense island.
 - There are some islands in the river.
 - In every city you can find something good and bad.
 - A major issue in Z is drug addiction.
 - Citizens of Z have to work hard to survive.
+
+
+# dialogues
+
+# phrases
+
+# verbs
+
+# nouns
+
+# adjectives
+
+# resources
+https://en.wikipedia.org/wiki/Dnipro

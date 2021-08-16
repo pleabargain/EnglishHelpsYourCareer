@@ -1,3 +1,9 @@
+# BPMN
+ Business Process Modeling and Notification BPMN
+# CFO
+chief financial officer
+# CEO
+chief executive officer
 # IAM
 identity and access management
 

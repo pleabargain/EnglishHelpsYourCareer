@@ -4,9 +4,9 @@
 
 # statements
 - I have been taking courses.
-- I have created a number of cheat sheets. [[verbs#create created id reg]]
-- I have completed some ML labs. [[verbs#complete completed id reg]]
-- It's designed for professionals [[verbs#design designed d reg]]
+- I have created a number of cheat sheets. [[grammar verbs#create created id reg]]
+- I have completed some ML labs. [[grammar verbs#complete completed id reg]]
+- It's designed for professionals [[grammar verbs#design designed d reg]]
 - It's important to understand how Sagemaker works.
 - There are 20 main algorithms...
 - It's important to know...

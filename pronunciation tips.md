@@ -1,26 +1,11 @@
-# pronunciation rules
+# pronunciation of past tense ed
+## pronunciation rules
 * 'p'	stopped
 * 'f'	laughed
 * 's'	promised
 * 't'      watched
 * 'sh'      finished
 * 'k'	walked
-
-
-## Pronunciation of -ths
-* youths
-* months (munce)
-  * Two months ago I bought new clothes.
-* clothes (cloze/close)
-* Beth's
-* oaths
-* paths
-* baths
-* strengths
-* goths (gawths)
-* moths
-* sloths
-
 
 
 ## pronunciation with (id) sound at the end
@@ -47,7 +32,7 @@
 
 
 
-## pronunciation With (T) sound at the end
+## pronunciation with (T) sound at the end
 * talked
 * typed
 * smoked
@@ -75,7 +60,7 @@
 * Rocked
 * Socked (to sock)
 
-## pronunciation With soft d sound
+## pronunciation with soft d sound
 * allowed
 * Cried
 * borrowed
@@ -93,6 +78,7 @@
 * played
 * apologized
 
+# pronunciation of other letters
 ## silent b (don't pronounce the B!)
 * climb
 * comb
@@ -110,22 +96,14 @@
 ## silent c
 - yachts
 
-## silent t (don't pronounce the T!)
-* bustle
-* castle
-* whistle
-* listen
-* mortgage
-* hustle
-* fasten
 
 ## silent h (don't pronounce the H!)
 https://pronunciationstudio.com/h/
 * honest
 * whistle
-* HONOUR, 
-* HOUR, 
-* HONEST, 
+* HONOUR
+* HOUR
+* HONEST
 * HEIR
 
 ## silent k (don't pronounce the K!)
@@ -146,6 +124,31 @@ https://englishlive.ef.com/blog/language-lab/silent-letter-english-words-silent-
 - psychological
 -  psychotic 
 - pseudo
+
+
+## silent t (don't pronounce the T!)
+* bustle
+* castle
+* whistle
+* listen
+* mortgage
+* hustle
+* fasten
+
+## Pronunciation of -ths
+* youths
+* months (munce)
+  * Two months ago I bought new clothes.
+* clothes (cloze/close)
+* Beth's
+* oaths
+* paths
+* baths
+* strengths
+* goths (gawths)
+* moths
+* sloths
+
 
 
 ## silent w  (don't pronounce the W!)

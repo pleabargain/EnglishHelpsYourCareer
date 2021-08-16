@@ -1,11 +1,15 @@
-
+# What's new
 - What new words or phrases in English have you learned since we last spoke?
-	- new [[verbs]]
-	- new [[adjectives]]
-	- new [[adverbs]]
+	- new [[grammar verbs]]
+	- new [[grammar adjectives]]
+	- new [[grammar adverbs]]
 	- new [[phrases]]
-	- new [[nouns]]
-	- new topics
+	- new [[prepositions]]
+	- new [[conjunctions]]
+	- new [[grammar nouns]]
+
+# topics
+- new topics
 - Is there something that you would like to talk about?
 - What [[topic food|food]] can you comment on?
 - What's new at [[topic work|work]]?
@@ -19,9 +23,19 @@
 - What [[topic Youtube|YouTube]] channels can you recommend?
 - What have you done for fun recently?
 - What does your workout routine consist of? [[topic exercising]]
-- Say a [[nouns|noun]] or [[verbs|verb]] of [[adjectives|adjective]] for each letter in the alphabet.
+- Say a [[grammar nouns|noun]] or [[grammar verbs|verb]] of [[grammar adjectives|adjective]] for each letter in the alphabet.
 - What will you be doing to improve your English in the future?
+# word of the day
+https://www.merriam-webster.com/word-of-the-day
+
+# joke of the day
+https://www.ajokeaday.com/
 # historical trivia
+---
+
+
+---
+
 - https://www.thisdaytrivia.com
 <iframe
 	border=0

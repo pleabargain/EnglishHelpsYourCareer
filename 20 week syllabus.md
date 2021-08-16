@@ -14,14 +14,14 @@ The underlined documents are found on github: https://github.com/pleabargain/Eng
 
 # week 3
 - present your favorite [[topic food|food]]
-- use [[adjectives]]
+- use [[grammar adjectives]]
 
 # week 4 
 - present your favorite [[topic books|book]]  or [[topic movies|movie]]
-- use [[adverbs]]
+- use [[grammar adverbs]]
 # week 5
 - convince an audience that your company is the best at X
-- use [[comparitives]]
+- use [[grammar comparitives]]
 
 # week 6
 - convince us that driving your own [[topic cars|car]] or [[topic public transportation|public transportation]] is superior

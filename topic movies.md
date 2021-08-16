@@ -61,11 +61,18 @@ https://g.co/kgs/tdwgrp
 ## Now you See Me
 https://g.co/kgs/XT7S4p
 
+## Winter on Fire: Ukraine's Fight for Freedom
+
+2015 ‧ Documentary ‧ 1h 42m
+https://g.co/kgs/2p7bUo
+
+
 ## Wedding In Malinovka
 - 1967
 - https://en.wikipedia.org/wiki/Wedding_in_Malinovka
 ## West Side Story
 
+## Hologram for the King
 
 ## Mad Max
 - post apocalypse
@@ -79,11 +86,12 @@ https://g.co/kgs/XT7S4p
 
 # new movies
 
+
 ## Dune 2021
 
 ## Space Jam 2021
 
-## Luca 2021 Disney
+## Luca (2021 Disney)
 
 ## Tenet
 

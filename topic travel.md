@@ -2,6 +2,9 @@
 - Have you ever been hang gliding?
 https://i.imgur.com/3UgqnZF.png
 - What is your preferred leisure activity?
+- What sort of vacations do you like to take?
+- Where did you want to go on vacation?
+- Are you still on vacation?
 - Is it safe to do X?
 - When was the last time you renewed your passport?
 - Who chooses the destination for your vacations?
@@ -38,8 +41,6 @@ https://i.imgur.com/3UgqnZF.png
 - It was the worst experience ever!
 
 
-
-
 # verbs
 - to reserve a hotel room
 - to make a reservation
@@ -55,9 +56,7 @@ https://i.imgur.com/3UgqnZF.png
 
 
 # topic: travel
-- What sort of vacations do you like to take?
-- Where did you want to go on vacation?
-- Are you still on vacation?
+
 - I want to go on vacation.
 
 - I have never participated in adventure travel.
@@ -77,7 +76,7 @@ https://i.imgur.com/3UgqnZF.png
 
 
 
-## topic: travel verbs
+## verbs
 - ski
 - rent
 - prepare

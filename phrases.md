@@ -1,3 +1,23 @@
+# to level up
+I need to level up your skills.
+
+# to bump up
+You need to bump up your game!
+
+# to pump up
+Pump up the volume! I love this song.
+
+# Take as much time as you want!
+
+# got sunburned
+I got sunburned over the weekend.
+
+# know thyself
+
+
+# depends on
+We depend on her to deliver.
+
 # to show off
 She likes to show off her new diamond.
 
