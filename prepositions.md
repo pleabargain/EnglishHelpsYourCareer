@@ -1,12 +1,18 @@
 # At
 ## At (to indicate a place)
 - There are a good number of people at the park.  
+- You can meet me at the cafe at 10.
+- I met my team mates at work.
+- I saw my trainer at  the gym.
 ## At (to refer an email address)
 - Please contact me at @ mylovelyemail.com
 ## At (to refer a time) 
  - Meet me at 5 p.m. tomorrow.  
+ - I'm available at 10 tomorrow morning.
 ## At (indicate one’s activity)
 - John laughed at my singing.
+- My wife was surprised at how hard it was to open the jar.
+- My manager took a look at my report.
 
 # In
 ## In (to indicate a location)
@@ -14,14 +20,18 @@
 - I am in the store.
 ## In (used while doing something) 
  - The tagline should be catchy in marketing a product.  
+ - Testing is very important in software development.
 ## In (to indicate opinion, belief, feeling, etc.)
-- I believe in hardwork.  
+- I believe in hard work.  
 - They believe that aliens are among us.
 ## In (specify day, month, season, year) 
 - I prefer to do my workout in the morning.  
 - The new project will commence in March.  
 ## In (to indicate color, shape and size) 
--This dress comes in four sizes.
+- This dress comes in four sizes.
+- I prefer to wear clothes that come in green.
+- This shoe comes only in two sizes.
+
 
 
 # On   
@@ -43,6 +53,7 @@
 # To
 ## To (to indicate the direction, place)
 - The friends went to the restaurant.  
+- I went with my wife to the city center.
 - I am heading to my college.  
 ## To (to indicate relationship) 
 - Do not respond to annoying people.  
@@ -53,12 +64,16 @@
 - I am here from 10 to 5.
 
 # Of
-## Of (to indicate relating to, belonging to) — 
-- I always dreamed of being famous.  
+## Of (to indicate relating to, belonging to) 
+- I always dreamed of being famous. 
+- I'm thinking of my past.
+- We have contracted the services of a lawyer. 
 ## Of (to indicate reference)
 - This is a picture of my last birthday.  
+- This is an example of my code.
 ## Of (to specify the number or an amount) 
 - A good number of people understand Hindi.
+- A lot of money has passed through this casino.
 
 
 

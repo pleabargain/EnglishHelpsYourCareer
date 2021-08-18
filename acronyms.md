@@ -1,17 +1,35 @@
+# KMS
+key management service [[topic cyber security]] 
+https://en.wikipedia.org/wiki/Key_management
+
+# MFA 
+- multi-factor authentication [[topic cyber security]] 
+
+# SSL
+- secure services layer [[topic cyber security]] 
+
+# ACL
+-  access control list [[topic cyber security]] 
+# TLS
+- transfer layer service [[topic cyber security]] 
 # BPMN
- Business Process Modeling and Notification BPMN
+ - Business Process Modeling and Notification BPMN [[topic business analyst]]
 # CFO
-chief financial officer
+- chief financial officer
 # CEO
-chief executive officer
+- chief executive officer
+
+# PII
+- Personally identifiable information [[topic cyber security]] 
+
 # IAM
-identity and access management
+- identity and access management [[topic cyber security]]
 
 # RFP
-RFP request for proposal
+- RFP request for proposal
 
 # RFQ
-RFQ request for quote
+- RFQ request for quote
 
 # CPG
 Consumer packaged goods
@@ -26,31 +44,31 @@ system design document
 As far as I can tell
 
 # AFAIK
-As far as I know
+- As far as I know
 
 # AFK
-away from keyboard
+- away from keyboard
 
 # ASAP
-As soon as possible
+- As soon as possible
 
 # BRB
-be right back
+- be right back
 
 # BTW
-By the way
+- By the way
 
 # CC
- carbon copy
+ - carbon copy
 
 # BCC
-blind carbon copy
+- blind carbon copy
 
 # PS
-post script
+- post script
 
 # DND
-Do Not Disturb
+- Do Not Disturb
 
 # FYI
 For your information

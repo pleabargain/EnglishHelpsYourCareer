@@ -1,0 +1,6 @@
+-   The sun was shining every day that summer.
+-   As I spoke, the children were laughing at my cleverness.
+-   The audience was applauding until he fell off the stage.
+-   I was making dinner when she arrived.
+-   At 6 o'clock, I was eating dinner.
+-   She was talking constantly in class in those days.

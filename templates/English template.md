@@ -5,7 +5,7 @@
 	- new [[grammar adverbs]]
 	- new [[phrases]]
 	- new [[prepositions]]
-	- new [[conjunctions]]
+	- new [[grammar conjunctions]]
 	- new [[grammar nouns]]
 
 # topics

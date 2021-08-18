@@ -87,6 +87,9 @@ It's not a reasonable solution.
 # feasible
 - Is the project feasible?
 
+# pertinent
+- She asked me a lot of very pertinent questions.
+
 # dull 
 comparitive: dull·er
 superlative: dull·est

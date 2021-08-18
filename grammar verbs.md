@@ -1,10 +1,24 @@
 [[grammar]]
 
+
+
 # instructions
 verbs (pronunciation) (regular or irregular)
 
+
+# convict convicted  (id) (reg)
+- He was convicted of murder.
+- Her mother was tried and convicted for murder and sentenced to life in prison.
+
+
+# perplex perplexed (t) (reg)
+- They were perplexed by my answer.
+
+# tousle tousled (d) (reg)
+- I woke up from my nap and my hair was all tousled.
+
 # to concoct(id) (reg)
-I concocted a new cocktail!
+- I concocted a new cocktail!
 
 # to short out
 - We shorted out our apartment when we installed the new microwave. It blew all of the fuses.
@@ -538,6 +552,7 @@ They specialized in catering and party management.
 - It reminds me of home.
 
 # remember remembered (d) (reg)
+- Remember to wear your warm clothes!
 - I can't remember the last time I was at work in the office!
 - I remember when I was in Spain... 
 - I don't remember any others.
@@ -676,7 +691,7 @@ They specialized in catering and party management.
 - Can I have a moment alone please?
 - I could have bought a car if I had won the lottery! (conditional)
 - Last year, I had the best [trip, vacation] of my life!
-- I was having lunch with my daughter. (past continuous)
+- I was having lunch with my daughter. [[past continuous tense]]
 
 
 # fidget fidgeted (id) (reg)
@@ -960,6 +975,7 @@ We sipped wine while we watched the sunset.
 # encounter encountered (d) (reg)
 - I haven't [encountered,seen] them yet.
 - I have never encountered this word before.
+- They have encountered a new bug.
 
 # employ employed (d) (reg)
 - My uncle [was employed,worked] at MegaCorp for ten years. He was an employee. His employer, Megacorp, went bankrupt.
@@ -1555,7 +1571,7 @@ We sipped wine while we watched the sunset.
 
 
 # pull pulled (d) (reg)
-- I had just pulled the door open when the dog ran in! (past perf simple)
+- I had just pulled the door open when the dog ran in! [[past perfect simple tense]]
 - I will have been pulling my code for an hour by the time the meeting starts!
 - I will have been pulling my code for a week since Monday because we are accessing the repo from our 1k baud from Guatemala!
 

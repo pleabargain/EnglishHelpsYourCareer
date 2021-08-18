@@ -1,5 +1,11 @@
+# coroner
+- My brother is a coroner and works at the police office.
+
 # scuttlebutt
-What's the scuttlebutt on our planned return to the office.
+- What's the scuttlebutt on our planned return to the office?
+- What's the [scuttlebutt|gossip] on the new hire?
+
+
 # arsonist
 He's an arsonist.
 

@@ -1,6 +1,5 @@
-
 # questions
-- How much time do you spend on Youtube.
+
 # statements
 
 # dialogues
@@ -14,5 +13,3 @@
 # adjectives
 
 # resources
-## sci fi
-Birch Punk

@@ -1,4 +1,4 @@
-# topic Mars landing Perserverance
+# topic Mars landing Perseverance
 
 # topic learning to drive
 * How long have you been driving?

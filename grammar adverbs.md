@@ -1,5 +1,7 @@
 [[grammar]]
 
+
+
 # implicitly
 - She trusted her husband implicitly.
 - https://www.google.com/search?q=implicitly

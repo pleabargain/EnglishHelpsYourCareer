@@ -6,6 +6,9 @@
   - http://www.yougowords.com/3-letters
   - http://www.yougowords.com/4-letters
 
+# collocations in English
+https://colab.research.google.com/drive/1UbSQr72HL1AeF8FNYfGfGKxGpsqoq1jj?usp=sharing
+
 # watch TV in English
 - https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g
 - Shameless (https://www.sho.com/shameless)

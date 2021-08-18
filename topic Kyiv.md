@@ -1,4 +1,20 @@
 [[topic travel]]
+
+# questions
+- What  are your favorite places to visit in Kyiv?
+
+# statements
+
+# dialogues
+
+# phrases
+
+# verbs
+
+# nouns
+
+# adjectives
+
 # to do
 
 # walks
