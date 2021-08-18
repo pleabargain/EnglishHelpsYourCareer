@@ -1,9 +1,23 @@
 [[grammar]]
 
 
-
 # instructions
 verbs (pronunciation) (regular or irregular)
+
+
+# decease deceased (t) (reg)
+
+She has been deceased for three months.
+
+# gripe griped (t) (reg)
+- He griped all day long about how long he had to work.
+- My daughter was griping about her boyfriend.
+
+# peck pecked (t) (reg)
+She kept pecking at me for a decision.
+
+# mingle mingled   (d) (reg)
+- I mingled with the masses at the concert.
 
 
 # convict convicted  (id) (reg)
@@ -691,7 +705,7 @@ They specialized in catering and party management.
 - Can I have a moment alone please?
 - I could have bought a car if I had won the lottery! (conditional)
 - Last year, I had the best [trip, vacation] of my life!
-- I was having lunch with my daughter. [[past continuous tense]]
+- I was having lunch with my daughter. [[tense past continuous]]
 
 
 # fidget fidgeted (id) (reg)
@@ -1571,7 +1585,7 @@ We sipped wine while we watched the sunset.
 
 
 # pull pulled (d) (reg)
-- I had just pulled the door open when the dog ran in! [[past perfect simple tense]]
+- I had just pulled the door open when the dog ran in! [[tense past perfect]]
 - I will have been pulling my code for an hour by the time the meeting starts!
 - I will have been pulling my code for a week since Monday because we are accessing the repo from our 1k baud from Guatemala!
 
@@ -2311,7 +2325,8 @@ https://i.imgur.com/D6KFFLx.png
 # feed fed fed (irr)
 - Please feed me!
 - I could have fed your cat for you!
-- YOu should feed me before you leave! Don't you love me anymore?!
+- Have you fed the cat yet?
+- You should feed me before you leave! Don't you love me anymore?!
 - My cat wants to be fed!
 
 
@@ -2323,7 +2338,6 @@ https://i.imgur.com/D6KFFLx.png
 # feel felt felt (irr)
 - We felt so relaxed at the spa. 
 - Have you ever felt like this?
-
 - I have never felt so bad!
 - Were there any questions that made you feel uncomfortable?
 - Your apartment feels so homey! I love what you have done with the place!
@@ -2337,6 +2351,8 @@ https://i.imgur.com/D6KFFLx.png
 - I made a good choice!
 - That's why I chose it! 
 - I should have chosen a better venue.
+- We chose X because it's very close.
+- I chose tiles for the bathroom.
 - In my opinion, the choice is obvious.
 - I should have chosen a better word.
 - You should choose your [girlfriends,career,job,wife,husband,friends,words] carefully.
@@ -2693,6 +2709,14 @@ We kayaked down the river.
 
 # project projected  (id) (reg)
 - We projected a bigger turnout.
+
+# demote 
+
+
+# relegate relegated (id) (reg)
+- He has been relegated to a different position.
+- He has been relegated to a different project.
+
 
 # promote promoted (id) (reg)
 - Have you been promoted, yet?

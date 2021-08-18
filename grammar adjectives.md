@@ -1,12 +1,16 @@
 [[grammar]]
 
+
+# evaluative
+- You are, as Foucault might say, the intersection of many **evaluative** and potentially determining discourses: you boy, you girl, have been made.
+
 # brute
-He's quite a brute.
+- He's quite a brute.
 
 # secular
 
 # reasonable
-It's not a reasonable solution.
+- It's not a reasonable solution.
 # dangerous
 - It's a dangerous place! Be careful!
 

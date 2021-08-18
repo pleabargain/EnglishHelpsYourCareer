@@ -10,7 +10,7 @@ The underlined documents are found on github: https://github.com/pleabargain/Eng
 # week 2
 - present your favorite [[topic hobby|hobby]]
 
-- use [[superlatives]]
+- use [[grammar superlatives]]
 
 # week 3
 - present your favorite [[topic food|food]]

@@ -1,3 +1,5 @@
+[[topic travel]]
+
 # questions
 - What are some interesting places to visit in Montenegro?
 - Are you interested in site-seeing?
@@ -10,7 +12,8 @@
 - How's the service at the hotels?
 - How would you compare the service in [[topic Egypt| Egypt]] and [[topic Montenegro|Montenegro]]?
 - Are there a lot of hustlers in Montenegro?
-- Is Montenegro cheaper than [[topic Egypt]]?
+- What do you think of  Montenegrins?
+- Is Montenegro cheaper than [[topic Egypt|Egypt]]?
 - How do prices compare between Montenegro and Ukraine?
 - How good is the internet in Montenegro?
 - Would you recommend renting a car?
@@ -44,5 +47,5 @@
 
 
 # adjective
-cozy
-touristy
+- cozy
+- touristy

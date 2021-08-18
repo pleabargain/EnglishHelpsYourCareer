@@ -177,12 +177,13 @@ as soon as possible
 Minimum Viable Product
 
 # MVP 
-Most Valuable Player 
+- Most Valuable Player 
 
 # TMI
-Too Much Information
+- Too Much Information
+
 # SOP
-Standard Operating Procedure
+- Standard Operating Procedure
 
 # SLA
 Service Level Agreement

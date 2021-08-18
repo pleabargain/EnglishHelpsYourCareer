@@ -1,5 +1,5 @@
 [[grammar]]
-[[prepositions]]
+[[grammar prepositions]]
 
 ```mermaid
 gantt

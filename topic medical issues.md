@@ -1,5 +1,5 @@
 # questions 
-Why do you think [[topic parents]] push back on medical questions?
+Why do you think [[topic parenting]] push back on medical questions?
 What is your attitude towards doctors?
 What is your attitude towards dentists?
 Are you taking yourself?

@@ -18,8 +18,7 @@
 -   Are you installing air conditioning?
 -   How is the remodel going?
 -   Would you ever consider working in construction as a full time job?
--   Can you recommend someone?
--   
+-   Can you recommend someone?   
 
 
 # statements
@@ -52,7 +51,6 @@
 - I'm going to do it myself.
 - The floor is not level.
 - The floor is not flat.
-
 - I don't know what it's called in English. 
 - I don't know the word in English.
 - I don't know the phrase in English.
@@ -82,7 +80,7 @@
 - a laminate floor
 - budget overrun
 
-# adjective
+# adjectives
 - wooden
 - metallic
 - chrome

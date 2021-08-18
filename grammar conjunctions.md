@@ -17,7 +17,7 @@
 ## or – before an alternative  
 - Would you like cake **or** cookies with your coffee?
 
-## yet  – contrast, despite something [synonyms = _nevertheless, but, still_] 
+## yet  – contrast, despite something synonyms = nevertheless, but, still
 - He’s overweight and feels terrible, **yet** he continues to eat.
 
 ## so – for showing the consequence of something  
@@ -36,9 +36,11 @@ means "in spite of the fact that"  -   show two opposite statements
 - He came to work, although he felt sick.  
 - Although the sun was shining, it wasn't very warm.
 - He's a very good cook although he is very slim.
+- Although I didn't prepare for the presentation, it went well.
 - I went to the office although, there was no one there! 
 - Although my mother told me to come home early, I stayed out late.
 - My wife told me to buy some food although I didn't know what to buy.
+- Although she complains a lot, she's my best friend
 
 ## After
 ---
@@ -68,6 +70,7 @@ means "in spite of the fact that"  -   show two opposite statements
 ## Even though—means "in spite of the fact that"  
 - I had coffee this morning even though I know it's not good for me.
 - Even though she was talented, she didn't get the job.
+- Even though, I haven't had an English class I'm still able to speak English.
 
 ## How—means "the way in which"  
 - Tell me how you persuaded Danny to see that film.  
@@ -97,11 +100,12 @@ means "in spite of the fact that"  -   show two opposite statements
 - So that she could keep her job, she didn't complain at all.  
 - He finished his work as fast as possible so that he could leave early.  
 - He worked harder for a promotion so he could buy a new car.
+- I turned on my computer so that I could join the meeting.
 
 ## Until—means "up to the time that"  
 - Don't do anything until I come back.  
 - I won't start cooking until after 9 p.m.
-- She didn't know she was a talented singer until she sang at the company picnic.  
+- She didn't know she was a talented singer until she sang at the company picnic. 
 - They won't allow us to start until everyone arrives.
 
 ## Unless —means "except, on the condition"  
@@ -121,6 +125,8 @@ means "in spite of the fact that"  -   show two opposite statements
 
 # despite
 -   despite is used to introduce a fact that is in sharp contrast with another fact.
+- Despite the rain, we enjoyed the festival.
+- Despite the rain, I went jogging.
 
 # provided
 
@@ -187,5 +193,9 @@ Don't open that 5liter bottle of wine unless you are planning to have a party!
 
     
 #   Nevertheless
+--- 
+synonym: yet
+
+
     
 # Moreover

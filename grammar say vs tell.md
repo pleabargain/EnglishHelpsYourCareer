@@ -1,5 +1,8 @@
 # instructions
 
+We say something ...
+You tell someone something...
+
 ---
 
  Choose the write word in the sentences below.
@@ -18,12 +21,15 @@
 - He told said his dog is called Rover.
 - Let me say tell you something about my hobbies.
 - Forget everything I just  said  told .
+- Forget everything I just  said  told you.
 - She said told that she needs a vacation.
+- 
 - Forget everything I just  said  told  you.
  - Why didn't you  say  tell him that before?
  - Did you say tell him the news?
  - My wife told said to go the gym.
  - He didn't tell say me anything.
+ - He didn't tell say anything to me about the new project!
  - Who said told you that the project was canceled?
  - Someone once said told that all that glitters is not gold.
  - Why didn't you  say  tell that before?

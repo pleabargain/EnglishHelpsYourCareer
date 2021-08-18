@@ -5,6 +5,7 @@
 # statements
 - There was a big storm last night.
 - The streets were flooded.
+- There was a lot of wind last night but luckily I didn't lose any trees.
 - The metro stations were flooded.
 - There was a lot of damage to the building.
 - The wind will die down but there will be very heavy rain.
@@ -25,6 +26,8 @@
 ## topic weather adjectives
 - chilly
 - muggy
+- heavy rain
+- strong winds
 - cold
 - misty
 - hot

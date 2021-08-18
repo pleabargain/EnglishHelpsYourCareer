@@ -4,9 +4,10 @@
 	- new [[grammar adjectives]]
 	- new [[grammar adverbs]]
 	- new [[phrases]]
-	- new [[prepositions]]
+	- new [[grammar prepositions]]
 	- new [[grammar conjunctions]]
 	- new [[grammar nouns]]
+	- new [[acronyms]]
 
 # topics
 - new topics

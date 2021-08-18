@@ -3,7 +3,7 @@ We use **comparative [[grammar adjectives]]** to show change or make compari
   
 
 - This phone is certainly **better**, but it's much **more expensive**.
-
+- The water is bluer here than over there.
 - I'm feeling **healthier** now.
 - She is moving **closer** to the coast.
 

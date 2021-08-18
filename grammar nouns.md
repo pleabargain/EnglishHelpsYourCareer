@@ -1,3 +1,7 @@
+# frontier
+- We are at the frontier of AI designed micro chips.
+- We are at the frontier of AI designing everything.
+
 # coroner
 - My brother is a coroner and works at the police office.
 
@@ -5,6 +9,15 @@
 - What's the scuttlebutt on our planned return to the office?
 - What's the [scuttlebutt|gossip] on the new hire?
 
+# commotion
+
+
+
+# circumference
+The hole has a circumference 
+
+# adversary
+- The President has many adversaries.
 
 # arsonist
 He's an arsonist.
