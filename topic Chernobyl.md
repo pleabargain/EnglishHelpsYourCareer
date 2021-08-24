@@ -10,3 +10,12 @@
 - nuclear
 - radioactive
 # adjectives
+
+
+# dialogues
+
+# phrases
+
+# adverbs
+
+# resources

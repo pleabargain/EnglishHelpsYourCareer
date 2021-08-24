@@ -1,6 +1,15 @@
 [[grammar]]
 
+---
+Adverbs describe verbs.
 
+---
+
+# frequently
+- We frequently observe this bird in the morning.
+
+# freshly
+- I smell freshly cut grass.
 
 # implicitly
 - She trusted her husband implicitly.
@@ -61,6 +70,9 @@ We took off early.
 # hardly
 - I have hardly begun studying. I need to get serious!
 - We [scarcely,hardly] ever hear from her anymore since she got married and moved to [Beijing,Buenos Aires]!
+
+# otherwise
+- We might have chosen otherwise if we had known more.
 
 # badly
 - My team was badly beaten.

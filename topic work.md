@@ -10,3 +10,21 @@
 # statements
 - It doesn't pay very much.
 - I like my job but it doesn't pay.
+- I've got a lot of work to do.
+- I need to respond to them.
+- I haven't read the offer yet.
+
+
+# dialogues
+
+# phrases
+
+# verbs
+
+# nouns
+
+# adjectives
+
+# adverbs
+
+# resources

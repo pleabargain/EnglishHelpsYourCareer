@@ -15,8 +15,11 @@
 
 # statements
 - I'm a big fan of your work!
+- There's money to be made in gaming these days.
+- He does the commentary.
 - I've been waiting for a long time for the next version.
 - We are in the process of developing some new modules.
+- Some people can't stop playing.
 - We are developing things that you have never seen before!
 - It will blow your mind!
 # dialogues

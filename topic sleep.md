@@ -1,13 +1,16 @@
 # questions
-- What Are Your Sleep Habits?
-- How Much of a Priority Do You Make Sleep?
-- Do You Get Enough Sleep?
+- What are your sleep habits?
+- How much of a priority do you make sleep?
+- Do you get enough sleep?
 - What do you think are your optimum hours of sleep to be fully energized?
-- Do you currently suffer from a sleeping disorder? Have you ever?
+- Do you currently suffer from a sleeping disorder? 
+- Have you ever had a sleeping disorder?
 
 
 # statements
-I'm usually very tired by the end of the day.
+- I'm usually very tired by the end of the day.
+- Sometimes I don't get enough sleep.
+
 
 # dialogues
 ---

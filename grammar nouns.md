@@ -1,3 +1,21 @@
+# knitting needles
+- I have lost my knitting needles.
+
+# embroidery
+
+# criteria
+- We have many criteria. There is only one criterion that must be met.
+# intensity
+- The intensity of his response surprised all of us!
+
+# obesity
+- Obesity is a world wide problem.
+
+# serenity
+- When I go to bed I feel serenity.
+- I feel a lot of serenity when I'm walking in the forest.
+- I feel serenity when my cat is in a good mood!
+
 # frontier
 - We are at the frontier of AI designed micro chips.
 - We are at the frontier of AI designing everything.

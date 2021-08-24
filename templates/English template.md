@@ -4,10 +4,13 @@
 	- new [[grammar adjectives]]
 	- new [[grammar adverbs]]
 	- new [[phrases]]
-	- new [[grammar prepositions]]
+	
 	- new [[grammar conjunctions]]
+	- new [[grammar determiners]]
+	- new [[grammar prepositions]]
 	- new [[grammar nouns]]
 	- new [[acronyms]]
+	- new [[mermaid_English_prefixes_roots_suffixes|prefix root or suffix]]
 
 # topics
 - new topics
@@ -26,15 +29,34 @@
 - What does your workout routine consist of? [[topic exercising]]
 - Say a [[grammar nouns|noun]] or [[grammar verbs|verb]] of [[grammar adjectives|adjective]] for each letter in the alphabet.
 - What will you be doing to improve your English in the future?
+
+
+[[tense past simple]]
+[[tense past perfect]]
+[[tense past continuous]]
+[[tense past perfect continuous]]
+[[tense present simple]]
+[[tense present perfect]]
+[[tense present continuous]]
+[[tense present perfect continuous]]
+[[tense future simple]]
+[[tense future perfect]]
+[[tense future continuous]]
+[[tense future perfect continuous]]
+
 # word of the day
 https://www.merriam-webster.com/word-of-the-day
 
 # joke of the day
 https://www.ajokeaday.com/
-# historical trivia
+http://www.laughfactory.com/jokes/latest-jokes
+
 ---
 
 
+---
+
+# historical trivia
 ---
 
 - https://www.thisdaytrivia.com
@@ -45,6 +67,10 @@ https://www.ajokeaday.com/
 	width=850  
 	src="https://www.thisdaytrivia.com">
 </iframe>
+
+---
+
+---
 
 # trivia
 -  https://www.reddit.com/r/AskReddit/comments/oye601/whats_the_most_ridiculous_fact_you_know/
@@ -58,6 +84,7 @@ https://www.ajokeaday.com/
 </iframe>
 
 # interviews
+- https://www.google.com/search?q=full+transcript+interview
 -  https://www.freshdialogues.com/
 
 

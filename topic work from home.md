@@ -6,3 +6,25 @@
 -   Do you feel connected enough to your teammates? Why or why not?
 -   Do you feel you’ve been able to learn and grow in the last few months? If so, how? If not, why not?
 -   How has working from home changed the way you communicate with other people?
+-   How do you manage your work life calendar?
+
+
+
+# statements
+- This week was very busy. [[topic time]]
+- I have a lot of regular meetings. [[topic meetings]]
+- There is a lot of questions back and forth.
+- It's easier for me to call him. [[grammar comparitives]]
+# dialogues
+
+# phrases
+
+# verbs
+
+# nouns
+
+# adjectives
+
+# adverbs
+
+# resources

@@ -1,11 +1,64 @@
+# to click with someone
+- I clicked immediately with her.
+
+# to be run down
+No one takes care of the park so it looks really run down.
+
+# to jump for joy
+- My wife was jumping for joy when I surprised her with a new ring.
+
+
+# to count on someone
+- You can count on me.
+
+# assume the worst
+- We can assume the worst!
+# bring the house down
+- She really brought the house down when she sang "I'm Sexy and I Know It".
+
+# I scratch your back. You scratch mine.
+
+# What's he talking about?
+
+# daily life
+- We all must bear the pressures of daily life.
+# we have a bad connection
+- I'm sorry, can you repeat that? We have a bad connection.
+# by the deadline
+- I need to get this done by the deadline.
+
+# no matter what we do
+- No matter what we do at this point, the seas will continue to rise for generations.
+# just for your information
+- Just for your information, it's supposed to rain tonight.
+
+# common practice
+- It's common practice to hold the door open for people.
+
+# cross selling
+
+# to get used to
+- I need to get used to the hot weather.
+
+# stresses me out
+- This music really stresses me out!
+- Owning a car really stresses me out.
+
 # wax and wane
+- His interest in exercising waxes and wanes.
 
 # ebb and flow
+- I watched the ebb and flow of the party with great interest.
 
 # coined a term
-I just coined a new term: evaluatable.
+- I just coined a new term: evaluatable.
 
 # same shit, different day
+---
+- How's it going?
+- Same shit. Different day!
+
+---
 
 # in any case
 
@@ -130,44 +183,50 @@ Our bet paid off! [[tense past simple]]
 This will investment will never pay off. [[tense future simple]]
 
 # to sneak around
-The pentesters were sneaking around in the network.
-Why are you sneaking around behind my back?
-Why are you sneaking around in my desk?
+- The pentesters were sneaking around in the network.
+- Why are you sneaking around behind my back?
+- Why are you sneaking around in my desk?
 
 # to be screwed
-We are totally screwed! 
+- We are totally screwed! 
 
 # screwed up
 
-I screwed up the dates.
-I screwed up the production server.
+- I screwed up the dates.
+- I screwed up the production server.
 
 # I've got good intel on X.
-Where did you get this intel?
+- Where did you get this intel?
 
 # to crack a joke
-He likes to crack a joke.
+- He likes to crack a joke every now and then.
+
+# slow and steady
+Slow and steady wins the race.
 
 # slow your roll
-You need to calm down! You need to slow your roll!
+- You need to calm down! You need to slow your roll!
 
 # bark up the wrong tree
-I think you are barking up the wrong tree.
+- I think you are barking up the wrong tree.
 
 # fool around
-Don't fool around in a production environment.
+- Don't fool around in a production environment.
 
 # to fool around with someone
-My wife and I were fooling around last night.
+- My wife and I were fooling around last night.
 
 
 # from the ground up
-We built this company from the ground up.
+- We built this company from the ground up.
 
 # put down
-I am going to put this down right here.
+- I am going to put this down right here.
 # as far as I know
-As far as I know, she will be arriving tonight.
+- As far as I know, she will be arriving tonight.
+- As far as I know, it's not required.
+
+
 # If you don't have anything nice to say then don't say anything at all.
 
 # this too shall pass
@@ -310,6 +369,7 @@ I need to atone for my sins.
 
 
 # an eye opener
+
 
 # start from scratch
 
@@ -1201,7 +1261,6 @@ He told me that it's so far so good.
 
 
 
-
 # in a better light
 - I can now see her in a better light. She's not everything she says she is.
 
@@ -1209,6 +1268,8 @@ He told me that it's so far so good.
 - We had a falling out,  we are no longer friends.
 
 
+# in the long run
+- In the long run, this will be a good choice.
 
 # I just met him. He's not my friend, he's just an acquaintance.
 
@@ -1501,20 +1562,23 @@ Someone who has just arrived in country.
 - That idea is as old as dirt. 
 
 # once in a blue moon
-- I see her once every blue moon.
 (not very often.)
+- I see her once every blue moon.
+
 
 # open up a can of worms
 (create new problems when you are trying to solve a problem)
 
 # rise and shine
 (wake up)
+- It's time to rise and shine! 
 
 # A rolling stone gathers no moss.
 (If a person is always moving to new places, then he will never form relationships or have attachments to anything.)
 
 # Stop and smell the roses.
 (Take time to enjoy life.)
+- My mother likes to tell me to stop and smell the roses.
 
 # The grass is always greener on the other side.
 (Things or situations seem to look better for other people.)

@@ -20,6 +20,7 @@
 - My brother asked me if I wanted to get vaccinated. [[grammar verbs#vaccinate vaccinated id reg]]
 - She's running a fever.
 - She lost her sense of smell and taste.
+- Please try to maintain social distancing.
 - She hasn't been traveling at all.
 - I haven't heard back from him.
 - I chatted with my friend. [[grammar verbs#chat chatted id reg]]

@@ -2,8 +2,7 @@
 
 ---
 
-
-
+The future perfect is made with the future simple of 'have' (will have) and the past participle. For regular past participles add 'ed' to the verb ('play' becomes 'played').
 
 ---
 

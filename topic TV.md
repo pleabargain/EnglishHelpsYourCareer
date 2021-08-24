@@ -1,9 +1,35 @@
+# questions
+- Who is your favorite character on the show?
+- What do they sound like?
+
+# statements
+
+# dialogues
+
+# phrases
+
+# verbs
+
+# nouns
+
+# adjectives
+
+# adverbs
+
+# resources
+
+
+
+
 # Handmaid's Tale
 https://www.imdb.com/title/tt5834204/
 
 # Loki
 https://g.co/kgs/GsPDM5
 
+
+# Lucifer
+It's better than average. [[grammar comparatives]]
 
 # Good Omens
 https://g.co/kgs/4QwrWM
@@ -34,6 +60,7 @@ https://g.co/kgs/JDPiJA
 
 # Lie to me
 https://g.co/kgs/VWZy9Z
+https://en.wikipedia.org/wiki/Lie_to_Me
 
 # Big Bang Theory
 

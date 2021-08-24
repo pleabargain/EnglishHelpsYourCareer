@@ -14,6 +14,7 @@
 - My wife likes ice cream but she never buys it.
 
 
+
 ## or – before an alternative  
 - Would you like cake **or** cookies with your coffee?
 
@@ -173,6 +174,7 @@ Don't open that 5liter bottle of wine unless you are planning to have a party!
 # whereas
 
 -   show contrast**examples**
+-   IBM is a private company whereas SoftServe is a private company.
 
 # but
 
@@ -199,3 +201,12 @@ synonym: yet
 
     
 # Moreover
+
+# correlative conjunctions
+## either or
+We can either go to the movies or stay inside and watch Netflix. The sound was either a firework or a gunshot.
+
+## neither nor
+## both and
+## not only but also
+## whether or

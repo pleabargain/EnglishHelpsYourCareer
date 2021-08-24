@@ -4,17 +4,50 @@
 # instructions
 verbs (pronunciation) (regular or irregular)
 
+# vet vetted (id) (reg)
+- I have done my due diligence and vetted this company as appropriate for our needs.
+
+
+# nag nagged (d) (reg)
+- My sister nagged her husband so much that he eventually left her.
+- My mom nagged me to clean my room!
+- She's always bothering me about my dirty clothes and nags me all the time to do the dishes.
+
+
+# allow allowed (d) (reg)
+- We are not allowed to go in there.
+
+# hedge hedged  (d) (reg)
+- We should have hedged our investments.
+
+# congest congested (id) (reg)
+- The traffic is congested.
+
+
+# abandon abandoned  (d) (reg)
+- She abandoned the car on the side of the road.
+# mangle mangled (d) (reg)
+- My hair was totally mangled when I woke up this morning.
+
+# send sent (irr)
+- She sent me a message earlier.
+
+# suffer suffered  (d) (reg)
+- I have suffered greatly since she left me.
+
+# conceive conceived(d) (reg)
+- I conceived of the idea while I was cooking dinner.
 
 # decease deceased (t) (reg)
 
-She has been deceased for three months.
+- She has been deceased for three months.
 
 # gripe griped (t) (reg)
 - He griped all day long about how long he had to work.
 - My daughter was griping about her boyfriend.
 
 # peck pecked (t) (reg)
-She kept pecking at me for a decision.
+- She kept pecking at me for a decision.
 
 # mingle mingled   (d) (reg)
 - I mingled with the masses at the concert.
@@ -609,6 +642,7 @@ They specialized in catering and party management.
 
 # explain explained (d) (reg)
 - It's hard for me to explain!
+- Please explain to me why this is so.
 - Please allow me to explain...
 - She explained to me why she was late.
 - Allow me to explain the situation to you.
@@ -1879,6 +1913,12 @@ https://i.imgur.com/D6KFFLx.png
 # find found found (irr)
 - Apple was founded by the two Steves.
 - We found out later that his father had died of cancer.
+- My wife found my phone.
+- You might find what you are looking for [over there,in that shop].
+- I have found this method quite useful.
+- I have found a bug crawling on the kitchen counter top!
+- Have you found out the reason why it failed?
+- Did you find out why she called?
 
 
 # fix fixed (T) (reg)
@@ -2075,6 +2115,8 @@ https://i.imgur.com/D6KFFLx.png
 # hesitate hesitated (id) (reg)
 - We shouldn't have hesitated. Now we are stuck here.
 - If I get another chance to kill you, I will not hesitate!
+- I hesitated for a moment before paying for the subscription.
+- He who hesitates, is lost.
 
 # locate located (id) (reg)
 - Do you know where it is located?
@@ -2261,12 +2303,7 @@ https://i.imgur.com/D6KFFLx.png
 - We need to filter the array based on our test criteria.
 
 
-# find found found (irr)
-- You might find what you are looking for [over there,in that shop].
-- I have found this method quite useful.
-- I have found a bug crawling on the kitchen counter top!
-- Have you found out the reason why it failed?
-- Did you find out why she called?
+
 
 
 

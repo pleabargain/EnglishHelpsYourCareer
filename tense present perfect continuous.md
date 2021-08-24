@@ -1,5 +1,25 @@
 [[English Tenses]]
+
+The present perfect continuous is formed using the construction has/have been + the present participle (root + -ing).
+
 -   I have been studying for three hours.
 -   I have been watching TV since 7pm.
--   Tara hasn't been feeling well for two weeks.
--   Tara hasn't been visiting us since March.
+-   {NAME} hasn't been feeling well for two weeks.
+-   {NAME} hasn't been visiting us since {MONTH}.
+- Statement: You **have been waiting** here for two hours.
+-   Question: **Have** you **been waiting** here for two hours?
+-   Negative: You **have not been waiting** here for two hours.
+-   They **have been talking** for the last hour.
+-   She **has been working** at that company for three years.
+-   What **have** you **been doing** for the last 30 minutes?
+-   {NAME} **has been teaching** at the university since {MONTH}.
+-   We **have been waiting** here for over two hours!
+-   Why **has** {FEMALE_NAME} **not been taking** her medicine for the last three days?
+-   Recently, I **have been feeling** really tired.
+-   She **has been watching** too much television lately.
+-   **Have** you **been exercising** lately?
+-   {FEMALE_NAME} **has been feeling** a little depressed.
+-   {FEMALE_NAME} **has not been practicing** her English.
+-   {MALE_NAME}**has had** his car for two years.
+-   What **have** you **been doing**?
+

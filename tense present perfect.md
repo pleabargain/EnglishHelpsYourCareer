@@ -24,9 +24,8 @@ Examples:
 -   Have written: They have written three letters already.
 -   Have worked: I have worked here since I graduated school.
 -   Has done: He has finished his homework.
--   Have been: We have been to Canada.
+-   Have been: We have been to {COUNTRY}.
 -   Has forgotten: She has forgotten her folder.
-
 - He has seen that movie several times. (present perfect)
 - I have been promoted! (passive)
 - I have [finished, completed,done] this task.
@@ -34,7 +33,9 @@ Examples:
 - It has happened before.
 - I haven't heard that news. 
 - They have spread some [nasty,mean,bad] gossip about the new guy.
-- I have visited Greece.
+- I have visited {COUNTRY}.
 - I have finished the task.
 - We have brought in another team to help us on this project.
 - I have spent four hours completing this task.
+- We **have lived** here since {YEAR}. [and we still live here]  
+- I **have been working** at the university for over ten years.

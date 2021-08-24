@@ -5,6 +5,9 @@ https://en.wikipedia.org/wiki/Key_management
 # MFA 
 - multi-factor authentication [[topic cyber security]] 
 
+# L & D
+- Learning and Development [[topic education]]
+
 # SSL
 - secure services layer [[topic cyber security]] 
 

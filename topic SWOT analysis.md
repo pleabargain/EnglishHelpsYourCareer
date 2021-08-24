@@ -1,6 +1,12 @@
 # questions
+What is SWOT analysis?
 
 # statements
+- Strengths
+- Weaknesses
+- Opportunities
+- Threats
+
 
 # dialogues
 
@@ -11,7 +17,5 @@
 # nouns
 
 # adjectives
-
-# adverbs
 
 # resources

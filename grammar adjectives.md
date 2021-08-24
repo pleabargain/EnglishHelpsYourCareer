@@ -1,11 +1,38 @@
 [[grammar]]
 
+---
+
+Adjectives describe nouns
+
+---
+
+# nimble
+She practices yoga and is quite nimble.
+
+# leafy
+- The forest is very leafy.
+
+# worth 
+It's worth my time to learn English.
+
+
+# hazy 
+- I'm a bit hazy on what happened last night.
+- They are talking a lot but they are hazy on the details.
+
+# copious
+- He used copious amounts of pepper in his soup.
+
 
 # evaluative
 - You are, as Foucault might say, the intersection of many **evaluative** and potentially determining discourses: you boy, you girl, have been made.
 
+
 # brute
 - He's quite a brute.
+
+# fresh
+- I smell fresh air.
 
 # secular
 
@@ -69,10 +96,14 @@
 - They are mistaken.
 - But the answer is a reform of retirement provision and long term care, not pandering to a minority who want to play with their pension pots, probably in the mistaken belief they know what they are doing.
 - But academics in the US who have been trying to solve the mystery believe these El Salvadorians to be mistaken.
-- That was the mistaken assumption made by the Today programme, which asked Linehan if he had "changed it much".
+- That was the mistaken assumption made by the Today program, which asked Linehan if he had "changed it much".
 
 # edible
 - It's edible but not necessarily delicious.
+
+# grumpy
+- My husband isn't normally grumpy but today his car didn't work.
+- He's grumpy because he hasn't eaten lunch yet.
 
 # envious
 - I'm envious of people that earn more than I do.
@@ -428,6 +459,8 @@ My city can be very smoggy in the early afternoon!
 # chilly
 
 # guilty
+- I feel guilty because I forgot to remember our anniversary!
+- I feel guilty because I forgot to call my mother on her birthday.
 
 # peppery
 - The pizza was but it was too peppery!

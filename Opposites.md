@@ -1,8 +1,13 @@
 unusual <> usual
 
+safe<>dangerous
+
+
 finite<>infinite
 
 sincere<>insincere
+
+manual<>automatic
 
 innocent<>guilty
 

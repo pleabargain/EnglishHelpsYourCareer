@@ -8,15 +8,23 @@ We make the past simple just like the present simple except we use 'did' instead
 
 - They found out later that it was a different neighbor making the noise.
 
-- Yesterday was abnormally hot day.
-
-- She fell and broke her leg.
-
+- Yesterday was an abnormally hot day. [[grammar adverbs]]
+- She doesn't want to speak {LANGUAGE}.
+- {FEMALE_NAME}  fell and broke her leg.
 -   I saw a movie yesterday.
+-   We caught a lot of fish. [[topic fishing]]
+- The film **started** at seven thirty.  
+- We **arrived** home before dark._
 -   I didn't see a play yesterday.
--   My visa expired.
--   Last year, I traveled to Japan.
--   Last year, I didn't travel to Korea.
+-   My visa expired. [[topic travel]]
+-   How long did you work at X?
+-   Last year, I traveled to {COUNTRY}.
+-   Last year, I didn't travel to {COUNTRY}.
 -   Did you have dinner last night?
--   She washed her car.
--   He didn't wash his car.
+-   {FEMALE_NAME}  washed her car.
+-   {MALE_NAME}  didn't wash his car.
+
+# dialogues
+-   How long did you work at X?
+-   I worked at X for three years.
+  ---

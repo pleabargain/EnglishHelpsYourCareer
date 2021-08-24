@@ -9,6 +9,10 @@
 # collocations in English
 https://colab.research.google.com/drive/1UbSQr72HL1AeF8FNYfGfGKxGpsqoq1jj?usp=sharing
 
+# applications
+- Duolingo
+- 
+
 # watch TV in English
 - https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g
 - Shameless (https://www.sho.com/shameless)
@@ -37,6 +41,7 @@ https://colab.research.google.com/drive/1UbSQr72HL1AeF8FNYfGfGKxGpsqoq1jj?usp=sh
 - Office Space: https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRzV5Ym1zU0FtVnVLQUFQAQ?oc=3&ceid=US:en
 
 #  Watch YouTube channels in English:
+  - watch at a reduced speed if you need to
   - field days (Australia)
   - https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g
   - Watch YT videos on subjects you like.

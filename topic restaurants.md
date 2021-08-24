@@ -5,8 +5,11 @@
 - When did you open the restaurant?
 - Why did you open the restaurant?
 - Why did you choose Georgian cuisine?
+- What is your new favorite restaurant?
+- When was the last time you complained to a manager?
+- How much do you normally tip?
 - Is your staff from Georgia?
-- How did you bring the essence of Georgia to Lviv.
+- How did you bring the essence of Georgia to Lviv?
 
 # statements
 - The average check was about 40USD.
