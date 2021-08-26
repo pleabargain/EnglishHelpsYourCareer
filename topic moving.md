@@ -10,6 +10,8 @@
 # statements
 - We are moving the day after tomorrow.
 - We need strong backs.
+- We will need to buy some new kitchen appliances.
+- We did some chores around the house.
 - It's twice as expensive.
 - We are using the old boxes from our last move!
 - We will be asking our friends for help.

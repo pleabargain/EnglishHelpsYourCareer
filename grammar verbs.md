@@ -1,8 +1,10 @@
-[[grammar]]
+[[grammar subordinating conjunctions]]
 
 
 # instructions
 verbs (pronunciation) (regular or irregular)
+
+
 
 # vet vetted (id) (reg)
 - I have done my due diligence and vetted this company as appropriate for our needs.
@@ -1317,6 +1319,7 @@ We sipped wine while we watched the sunset.
 # commit committed (id) (reg)
 - Someone has just committed a crime! Call the police!
 - I will be committing my code tomorrow morning! (future continuous)
+- He committed a crime.
 
 # communicate communicated (id) (reg)
 - They should have communicated their progress to the PM.
@@ -1963,6 +1966,7 @@ https://i.imgur.com/D6KFFLx.png
 
 # correct corrected (id) (reg)
 - I should have corrected that error earlier.
+- She corrected me.
 
 # combine combined (d) (Reg)
 - I combined my love of fishing with my love of engineering.
@@ -2195,7 +2199,7 @@ https://i.imgur.com/D6KFFLx.png
 - We suffered a huge financial loss when the market crashed.
 
 
-# rush rushed (T) (reg)
+# rush rushed (t) (reg)
 - I didn't want to feel rushed.
 - I think that the Russian vaccine was rushed and did not get tested sufficiently.
 - They had rushed the product out the door and it showed.
@@ -2214,6 +2218,8 @@ https://i.imgur.com/D6KFFLx.png
 - I walked around a park for a little to get some fresh air.
 - We were walking around last night.
 
+
+# desire desired (d) (reg)
 
 
 # want wanted (id) (reg) syn: wish, desire, need

@@ -1,4 +1,4 @@
-[[grammar]]
+[[grammar subordinating conjunctions]]
 
 # description
 We use "until" to talk about the period of time from a starting point until a deadline or the end of some period of time. So, "by" only refers to the deadline, but "until" **refers to all the time between now and the end of something**.

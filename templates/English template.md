@@ -4,13 +4,16 @@
 	- new [[grammar adjectives]]
 	- new [[grammar adverbs]]
 	- new [[phrases]]
-	
-	- new [[grammar conjunctions]]
+	- new [[grammar coordinating conjunctions]]
+	- new [[grammar subordinating conjunctions]]
+	- new [[grammar conjunctive adverbs]]
 	- new [[grammar determiners]]
 	- new [[grammar prepositions]]
 	- new [[grammar nouns]]
 	- new [[acronyms]]
 	- new [[mermaid_English_prefixes_roots_suffixes|prefix root or suffix]]
+	- [[pronunciation tips]]
+		
 
 # topics
 - new topics

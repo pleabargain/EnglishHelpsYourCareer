@@ -72,7 +72,7 @@
 
 
 # statements
-
+- My friend came over last night.
 # dialogues
 
 # phrases

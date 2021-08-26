@@ -1,10 +1,12 @@
-[[grammar]]
+[[grammar subordinating conjunctions]]
 
 ---
 
 Adjectives describe nouns
 
 ---
+
+# Adequate
 
 # nimble
 She practices yoga and is quite nimble.
@@ -632,7 +634,7 @@ bennies (slang for benefits)
 
 # sad
 - It was bad news. It was sad news.
-- It would be sad if I don't get a pay raise if I can't meet this one requirement.
+- It would be sad if I don't get a pay raise because I can't meet this one requirement.
 
 # sufficient
 - I think my current knowledge is sufficient.

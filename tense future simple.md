@@ -10,6 +10,12 @@ The formula for the simple future is **will + [root form of verb]**.
 - They will arrive later.
 -   I will meet him later (I'll ..)
 -   You will come (you'll..)
+ -   What **shall I tell** the boss about this issue?
+-   It **will rain** tomorrow.
+-   **I'll do** the dishes later.
+ -   **Shall I open** the window?
+-   We will start testing soon.
+-   The baby **won't eat** his soup.
 -   It will rain tomorrow (it'll)
 -   She will be late (she'll..)
 -   He will help us later (he'll..)

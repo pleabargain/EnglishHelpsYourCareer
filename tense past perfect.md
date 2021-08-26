@@ -28,3 +28,56 @@ We use the past perfect simple (_had_ + past participle) to talk about time up t
 - He explained that he had closed the window because of the rain.
 - I wondered if I had been there before.
 - I asked them why they had not finished.
+- We had eaten sushi the night before.
+
+- I had just finished cooking the meal when my guests arrived.
+
+- I didn't want to watch the film, as I had already seen it.
+
+- I had activated my account before taking the exam.
+
+- We had seen the movie before.
+
+- I hadn't been sick before I started working in the clinic and now I'm sick all of the time.
+
+- They had leveraged all of their available resources.
+
+- I had not traveled with my in-laws before.
+
+- I had cleaned the apartment yesterday after work and now it's a mess again!
+
+- I hadn't planted any trees last year because I was worried about frost.
+
+- I had implemented the new module before my boss told me to.
+
+- I had hung the picture on the wall before they arrived.
+
+- I had created the marketing plan before writing the content.
+
+- She had felt that something was wrong for awhile.
+
+- I had walked to the end of the street before I realized I had forgotten my keys.
+
+- They had negotiated for hours but didn't arrive to a solution.
+
+- We had built our dreams on sand.
+
+- We had used the last of our money.
+
+- I had driven the road only during the day and quickly got lost in the night.
+
+- We had visited her mother in the hospital.
+
+- They had painted over the mural.
+
+- She had baited me before we got married and now I'm hooked!
+
+- They had fixed the stove before I got home.
+
+- I had slept well the night before.
+
+- I had bought a bicycle for my wife for her birthday but she never rode it.
+
+- I had talked to her about this problem before but nothing had changed.
+
+- He had acted [strangely, weirdly] before meeting his friends.

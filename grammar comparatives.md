@@ -1,4 +1,4 @@
-[[grammar]]
+[[grammar subordinating conjunctions]]
 [[grammar superlatives]]
 We use **comparative [[grammar adjectives]]** to show change or make comparisons:
   
@@ -57,3 +57,16 @@ We often use _the_ with comparative adjectives to **show that one thing depends 
 # as something as
 
 - You're not as good as X.
+- > _The world’s biggest bull is as big as a small elephant._
+
+> _The weather this summer is as bad as last year. It hasn’t stopped raining for weeks._
+
+> _You have to unwrap it as carefully as you can. It’s quite fragile._
+
+> _It’s not as heavy as I thought it would be, actually._
+
+> _Rory hasn’t grown as tall as Tommy yet._
+
+> _She’s not singing as loudly as she can._
+
+> _They didn’t play as well as they usually do._

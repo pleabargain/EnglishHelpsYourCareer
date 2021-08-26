@@ -1,4 +1,4 @@
-[[grammar]]
+[[grammar subordinating conjunctions]]
 
 # description
 ---

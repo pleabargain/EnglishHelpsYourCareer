@@ -83,9 +83,7 @@ https://g.co/kgs/VgZ5Tu
 # should
 - You should watch films in English with sub titles.
 - You should practice English with your international colleagues.
-- You should sing out loud in English.
 - You should study grammar.
-- You should sing your favorite songs out loud in English.
 - You should try to think in English.
 - You should try to learn phrases in English.
 - You should watch educational videos in  English.
@@ -122,7 +120,11 @@ https://g.co/kgs/VgZ5Tu
 - Practice English with purpose.
 - Play multi-player games in English.
 
-
+# singing
+https://www.youtube.com/watch?v=2dANDhfWU8g&list=PLikM1nBK3VWRbVxrnYC3Egn7m5XXKL1Y5
+- You should sing your favorite songs out loud in English.
+- You should sing out loud in English.
+- Karaoke https://en.wikipedia.org/wiki/Karaoke
    
 
 # try

@@ -1,3 +1,3 @@
-[[grammar]]
+[[grammar subordinating conjunctions]]
 
 # resources

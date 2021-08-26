@@ -1,4 +1,4 @@
-[[grammar]]
+[[grammar subordinating conjunctions]]
 
 ---
 Adverbs describe verbs.
@@ -35,6 +35,14 @@ They efficiently installed the system.
 - I can barely hear you! Please speak up!
 - I can barely find time for my hobbies much less time for boys!
 
+# however
+-   He was feeling very ill. **However**, he went to work.
+-   She is the best student in school. **However**, she doesn’t do her homework on time.
+-   January may be the coldest month, **however**, it is a time of great beauty.
+-   Some people disagree with this idea, **however**, it’s never been proven wrong.
+-   The weather was sunny; **however**, we didn’t go outside.
+
+
 # correctly
 - I am not thinking about this problem correctly.
 
@@ -62,6 +70,8 @@ We took off early.
 
 # definitely
 - I definitely agree with you.
+
+# carelessly
 
 # carefully
 - Please tread carefully.
