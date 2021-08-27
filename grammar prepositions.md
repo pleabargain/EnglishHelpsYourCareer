@@ -3,7 +3,7 @@
 - There are a good number of people at the park.  
 - You can meet me at the cafe at 10.
 - I met my team mates at work.
-- I saw my trainer at  the gym.
+- I saw my trainer at the gym.
 ## At (to refer an email address)
 - Please contact me at @ mylovelyemail.com
 ## At (to refer a time) 
@@ -37,9 +37,11 @@
 # On   
 ## On (refers a surface of something)- 
 - I put the dishes on the dining table.  
+- My laptop is on the desk.
 ## On (specifies days and dates)
-- I will come on Monday.  
-- Ben Affleck was born on 15th August.  
+- I will come on {DAY}.  
+- {NAME}} was born on 15th August.  
+- She'll return on {DAY}.
 ## On (refers TV or other devices)
 - She is on the phone.  
 - My favorite movie will be on TV now.  

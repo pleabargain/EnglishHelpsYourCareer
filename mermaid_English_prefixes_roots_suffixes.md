@@ -19,6 +19,7 @@ graph TD;
     -able--> enjoyable;
     -able--> preventable; 
 	-able--> editable; 
+	-able--> unbearable; 
 	
 	-able--> consumable; 
 	
@@ -29,6 +30,17 @@ graph TD;
     -able--> capable;
     
 ```
+
+## -ate showing; full of'
+```mermaid
+graph TD;
+-ate--> elaborate;
+-ate--> considerate;
+
+-ate--> passionate;
+
+```
+
 
 ## -ible Meaning: capable of being > adjective 
 ```mermaid
@@ -70,6 +82,18 @@ graph TD;
 
 ```
 
+
+# pro - "**forward, forth, toward the front**"
+```mermaid
+graph TD;
+pro--> protect; 
+pro--> profession; 
+pro--> proceed; 
+pro--> protest; 
+pro--> proclamation; 
+
+
+```
 
 
 ## cede
@@ -289,6 +313,39 @@ dis -->  disobey;
 
 # Prefix to create new verbs
 
+## con prefix
+with
+```mermaid
+graph TD;
+con -->concieve;
+con -->convince;
+```
+
+
+## en -within, in
+```mermaid
+graph TD; 
+en --> endorse;
+ex --> enable;
+```
+
+
+## ex **out of**
+
+```mermaid
+graph TD; 
+ex --> exclaim;
+ex --> explain;
+```
+
+
+## anti 
+```mermaid
+graph TD; 
+anti --> antipathy;
+
+```
+
 ## re- meaning: again or back
 ```mermaid
 graph TD; 
@@ -414,6 +471,10 @@ inter --> intercede;
 ```mermaid
 graph TD;
 
+pre--> prejudice;
+pre--> prevent;
+pre--> prepare;
+
 pre--> prejudge;
 pre--> pretest
 ```
@@ -447,6 +508,16 @@ under--> underperform;
 # suffixes 
 
 
+## -logy 
+study of
+```mermaid
+graph TD;
+-logy --> psychology;
+-logy --> caridologist;
+
+```
+
+
 ## -ity state or quality of being
 
 ```mermaid
@@ -476,6 +547,18 @@ graph TD;
 -er --> programmer;
 -er --> plumber;
 ```
+
+
+## -atic **of the nature of the thing specified**
+
+```mermaid
+graph TD;
+-atic --> systematic;
+-atic --> problematic;
+-atic --> erratic;
+
+```
+
 
 
 ## -ism doctrine of N
@@ -535,32 +618,27 @@ graph TD;
 graph TD;
 -ment -->development; 
 -ment -->punishment; 
--metn -->augment;
+-ment -->augment;
 -ment -->unemployment;
+-ment -->enticement;
 ```
 
 
-# con prefix
-with
-```mermaid
-graph TD;
-con -->concieve;
-con -->convince;
-```
 
 # roots
 
-# act
+## act
 to move or do (actor, acting, reenact)
 ```mermaid
 	graph TD;
 	act(do)-->actor
 	act(do)-->acting
 	act(do)-->reenact
+	act(do)-->interact
 
 ```
 
-# ambul
+## ambul
 to move or walk
 ```mermaid
 	graph TD;
@@ -572,7 +650,7 @@ to move or walk
 
 
 
-# arbor
+## arbor
 tree
 
 ```mermaid
@@ -584,7 +662,7 @@ tree
 
 ```
 
-# cardio
+## cardio
 heart
 ```mermaid
 	graph TD;
@@ -596,7 +674,7 @@ heart
 
 
 
-# crypt
+## crypt
 to hide
 ```mermaid
 	graph TD;
@@ -608,10 +686,9 @@ to hide
 ```
 
 
--   **crypt** - to hide (apocryphal, cryptic, cryptography)
 
-
-# acri
+## acri
+bitter
 ```mermaid
 	graph TD;
 	acri(bitter)-->acrid
@@ -619,7 +696,8 @@ to hide
 	acri(bitter)--> acridity
 
 ```
-# astro
+## astro
+stars
 ```mermaid
 	graph TD;
 
@@ -629,7 +707,7 @@ to hide
 
 ```
 
-# aud
+## aud
 hear
 ```mermaid
 	graph TD;
@@ -640,7 +718,7 @@ hear
 
 ```
 
-# auto
+## auto
 self
 ```mermaid
 	graph TD;
@@ -653,7 +731,7 @@ self
 ```
 
 
-# bene
+## bene
 good
 ```mermaid
 	graph TD;
@@ -664,13 +742,14 @@ good
 	
 ```
 
-# carn
+## carn
 flesh
 ```mermaid
 	graph TD;
 
 	carn(flesh)-->carnal
 	carn(flesh)--> carnivorous
+	carn(flesh)--> carnivore
 	carn(flesh)--> reincarnate
 	carn(flesh)--> incarnate
 	
@@ -678,7 +757,7 @@ flesh
 ```
 
 
-# corp
+## corp
 body
 ```mermaid
 	graph TD;
@@ -687,10 +766,9 @@ body
 	corp(body)--> corporate
 	corp(body)--> corpse
 		
-	
 ```
 
-# cred
+## cred
 believe
 ```mermaid
 	graph TD;
@@ -701,7 +779,7 @@ believe
 			
 ```
 
-# dem
+## dem
 
 people
 ```mermaid
@@ -714,7 +792,7 @@ people
 ```
 
 
-# derm
+## derm
 skin
 
 ```mermaid
@@ -729,7 +807,7 @@ skin
 
 
 
-# dict
+## dict
 say
 ```mermaid
 	graph TD;
@@ -742,7 +820,7 @@ say
 			
 ```
 
-# ego
+## ego
 I
 ```mermaid
 	graph TD;
@@ -753,9 +831,9 @@ I
 			
 ```
 
-# equi
+## equi
 equal
--   **equi** - equal (equity, equilateral, equidistant)
+
 ```mermaid
 	graph TD;
 
@@ -767,7 +845,7 @@ equal
 ```
 
 
-# eu
+## eu
 ```mermaid
 	graph TD;
 
@@ -779,7 +857,7 @@ equal
 
 
 
-# fac
+## fac
 
 ```mermaid
 	graph TD;
@@ -787,13 +865,21 @@ equal
 	fac(to do)-->factory
 	fac(to do)-->faculty
 	fac(to do)-->faction
-	
 			
 ```
 
-# hypo
+## herb
+plants
+```mermaid
+	graph TD;
+
+	herb(plants)-->herbivore
+			
+```
+
+
+## hypo
 sleep
--   **hypno** - sleep (hypnosis, hypnotic, hypnotism)
 ```mermaid
 	graph TD;
 	
@@ -804,7 +890,7 @@ sleep
 ```
 
 
-# intra
+## intra
 within or into
 ```mermaid
 	graph TD;
@@ -815,7 +901,7 @@ within or into
 ```
 
 
-# gen
+## gen
 ```mermaid
 	graph TD;
 	
@@ -825,7 +911,8 @@ within or into
 ```
 
 
-# lum
+## lum
+light
 ```mermaid
 	graph TD;
 	
@@ -834,7 +921,7 @@ within or into
 	lum(light)-->luminous
 ```
 
-# micro
+## micro
  small
 ```mermaid
 	graph TD;
@@ -845,7 +932,8 @@ within or into
 	
 ```
 
-# multi
+## multi
+many
 ```mermaid
 	graph TD;
 	
@@ -856,7 +944,7 @@ within or into
 ```
 
 
-
+## port
 ```mermaid
 	graph TD;
 	
@@ -868,7 +956,3 @@ within or into
 
 
 
-
-
-## todo
-con -

@@ -1,5 +1,7 @@
 # questions
-What is SWOT analysis?
+- What is SWOT analysis?
+- What does SWOT stand for?
+- How are we better than our competition?
 
 # statements
 - Strengths
@@ -11,7 +13,8 @@ What is SWOT analysis?
 # dialogues
 
 # phrases
-
+- pros and cons
+- pluses and minuses
 # verbs
 
 # nouns

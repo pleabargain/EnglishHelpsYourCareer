@@ -12,6 +12,7 @@
 
 # statements
 - This week was very busy. [[topic time]]
+- I want a private office.
 - I have a lot of regular meetings. [[topic meetings]]
 - There is a lot of questions back and forth.
 - It's easier for me to call him. [[grammar comparitives]]

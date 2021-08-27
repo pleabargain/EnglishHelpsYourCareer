@@ -28,6 +28,7 @@ Examples:
 -   Has forgotten: She has forgotten her folder.
 - He has seen that movie several times. (present perfect)
 - I have been promoted! (passive)
+
 - I have [finished, completed,done] this task.
 - I have spread myself too thin! (idiomatic) I am trying to  do everything at the same time.
 - It has happened before.

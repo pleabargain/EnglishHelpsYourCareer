@@ -1,10 +1,12 @@
 [[grammar subordinating conjunctions]]
 [[grammar superlatives]]
+
 We use **comparative [[grammar adjectives]]** to show change or make comparisons:
   
 - The flooding got much worse after the storm.
 - It is worse than before.
 
+- Everyone is driving more carefully because of the rain.
 - This phone is certainly **better**, but it's much **more expensive**.
 - The water is **bluer** here than over there.
 - It will be **easier** if you do what I tell you.

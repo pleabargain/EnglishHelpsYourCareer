@@ -11,7 +11,7 @@ https://markdownlivepreview.com/
 
 # Thank you
 
-Thank you for working with me! If you know of someone else who would be interested in English conversation practice please share my details with them.
+Thank you for working with me! If you know of someone else who would be interested in English conversation practice please share my details with them. My details are below!
 
 ---
 

@@ -4,8 +4,11 @@
 # instructions
 verbs (pronunciation) (regular or irregular)
 
+# tackle tackled (d) (reg) 
+- We tackled the problem without fear!
 
-
+# labor labored (d) (reg)
+- We labored very long to finish this project.
 # vet vetted (id) (reg)
 - I have done my due diligence and vetted this company as appropriate for our needs.
 
@@ -89,6 +92,9 @@ verbs (pronunciation) (regular or irregular)
 
 # vaccinate vaccinated (id) (reg)
 - I'm going to get vaccinated.
+
+# parse parsed (t) (reg) 
+- We parsed out the problem to the team.
 
 # to give up
 - He gave up on trying to learn Chinese after seeing the keyboard.
@@ -1841,9 +1847,12 @@ https://i.imgur.com/D6KFFLx.png
 - Yeah. I've got the TPS report right here in front of me! And I see that it's missing the cover page!
 
 
-
 # mix mixed (T) (reg)
 - You need to mix it all together.
+
+# modify modified (d) (reg)
+- I saw that you modified the code.
+
 
 # move moved (d) (reg)
 - We have moved to a new place.

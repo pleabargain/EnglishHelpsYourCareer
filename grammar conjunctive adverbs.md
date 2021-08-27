@@ -22,8 +22,11 @@
 -   In the making of domestic policy; **moreover** , she is often at sea.
 -   The student’s essay was badly written. **Moreover**, it was too short.
 ## similarly
-- It was obvious from the deafening applause the other concertgoers were similarly impressed by the singer’s performance. 
+- It was obvious from the deafening applause the other concert goers were similarly impressed by the singer’s performance. 
 - We encourage our coders to write similarly styled code.
+- We were similarly occupied when our manager walked in.
+- They speak similarly and I don't understand either of them!
+- They dress similarly.
 
 - The students were asked to dress similarly for the graduation ceremony. 
 ## also          
@@ -33,6 +36,8 @@
 ## hence         
 - She was not going to make the meeting hence we started the meeting without her.
 - A year **hence** she won’t be here.
+- Five years hence I will be living in my own house.
+- Two years hence I will be in the United States.
 - We are a one-income family now; hence we will not be taking two vacation trips this year. 
 - When the teenagers started to fight in the park, a shot rang out, and hence the police were called.  
 - We modded the software and hence there is a new feature.
@@ -55,7 +60,12 @@
 - She's going to do what she wants anyway.
 ## however       
 ## nevertheless  
-- We don't like them nevertheless we will continue working with them.
+- We don't like them, nevertheless we will continue working with them.
+- Her attitude was terrible, nevertheless management kept her on.
+- The weather was beautiful, nevertheless we had to stay in the office and finish our work.
+- I was very tired but nevertheless I kept working.
+- I don't like onions, nevertheless I ate my grandmother's onion soup.
+- My manager canceled my vacation, nevertheless I will call in sick.
 ## then
 ## besides       
 ## incidentally  
@@ -113,6 +123,14 @@
  ## likewise      
  - Just water the plants twice a week in the bathroom and likewise the plants in the kitchen.
  ## otherwise     
+ - Because her hands were otherwise occupied, she left it there.
  ## undoubtedly
+ - This was an area where he undoubtedly knew best.
+ - It could undoubtedly be  increased.
+ - She is undoubtedly the best candidate for this role.
+ - The sun will rise undoubtedly in the east tomorrow morning.
+ - Undoubtedly it will be difficult to come up with a solution that satisfies everyone.
  ## further       
+ - She did it to further her goals.
  ## meanwhile
+ The children were playing in the park. Meanwhile, their parents were sipping coffee in the cafe.

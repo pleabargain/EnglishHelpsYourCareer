@@ -15,6 +15,8 @@ The present perfect continuous is formed using the construction has/have been + 
 -   {NAME} **has been teaching** at the university since {MONTH}.
 -   We **have been waiting** here for over two hours!
 -   Why **has** {FEMALE_NAME} **not been taking** her medicine for the last three days?
+-   I have been preparing.
+-   I have been reading about X.
 -   Recently, I **have been feeling** really tired.
 -   She **has been watching** too much television lately.
 -   **Have** you **been exercising** lately?

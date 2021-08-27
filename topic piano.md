@@ -14,6 +14,7 @@
 # statements
 - I had an acoustic piano.
 - I'm not a big fan of his work.
+- I'm learning how to read music.
 - My book will be released at the end of September.
 - I would recommend any of his recent works.
 - It's one of my favorites.

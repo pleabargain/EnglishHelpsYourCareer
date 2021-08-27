@@ -1,15 +1,17 @@
 # What's new
 - What new words or phrases in English have you learned since we last spoke?
-	- new [[grammar verbs]]
+	- new [[grammar nouns]]
 	- new [[grammar adjectives]]
+	- new [[grammar verbs]]
 	- new [[grammar adverbs]]
 	- new [[phrases]]
+	- new [[grammar comparatives]]
 	- new [[grammar coordinating conjunctions]]
 	- new [[grammar subordinating conjunctions]]
 	- new [[grammar conjunctive adverbs]]
 	- new [[grammar determiners]]
 	- new [[grammar prepositions]]
-	- new [[grammar nouns]]
+	
 	- new [[acronyms]]
 	- new [[mermaid_English_prefixes_roots_suffixes|prefix root or suffix]]
 	- [[pronunciation tips]]
