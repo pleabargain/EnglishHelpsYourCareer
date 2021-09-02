@@ -1,26 +1,31 @@
 # pronunciation of past tense ed
-## pronunciation rules
-* 'p'	stopped
-* 'f'	laughed
-* 's'	promised
-* 't'      watched
-* 'sh'      finished
-* 'k'	walked
-
+## pronunciation rules for past tense 
+* 'p'	stopped (t)
+* 'gh'	laughed (t)
+* 's'	promised (t)
+* 'ch'    watched (t)
+* 'ch'   researched (t)
+* 'ch'   matched (t)
+* 'ch'   launched (t)
+* 'sh'    finished (t)
+* 'k'	walked (t)
+* 'x' fixed (t)
 
 ## pronunciation with (id) sound at the end
-* wanted (want-id)
-* ended	(end-id)
-* decided	(decide-id)
+* 't' wanted (want-id)
+* 'd' ended	(end-id)
+* 't' listed (end-id)
+* 'd' decided	(decide-id)
 * admitted	(admit-id)
 * suggested	(suggest-id)
 * recommended	(recommend-id)
-* hated	(hate-id)
+* 't' hated	(hate-id)
 * intended	(intend-id)
-* started	(start-id)
-* sedated
-* Baited
-* Inflated
+* 't' interested	(intend-id)
+* 't' started	(start-id)
+* 't' sedated
+* baited
+* inflated
 * Parted
 * started
 * ended
@@ -33,19 +38,21 @@
 
 
 ## pronunciation with (T) sound at the end
-* talked
+* talked (t)
 * typed
 * smoked
 * spooked
 * cracked
+* crashed
 * forced
-* Backed
-* Smacked
-* Stacked
+* backed
+* smacked
+* stacked
 * duked
 	*	They really duked it over who was the best boxer!
-* Marked
-* Stocked
+* marked
+* stocked
+* stopped
 * blushed
 * Locked
 * Kicked
@@ -61,22 +68,25 @@
 * Socked (to sock)
 
 ## pronunciation with soft d sound
-* allowed
-* Cried
-* borrowed
-* enjoyed
-* cleaned
-* Imagined
-* determined
-* changed
-* Realized
-* Recognized
-* learned
-* Arranged
-* Planned
-* Arrived
-* played
-* apologized
+* 'w' allowed
+* 'i' cried
+* 'i' lied
+* 'i' died
+* 'i' fried
+* 'w' borrowed
+* 'y' enjoyed
+* 'n' cleaned
+* 'n' imagined
+* 'n' determined
+* 'g' changed
+* 'z' realized
+* 'z'  recognized
+* 'n'learned
+* 'g' arranged
+* 'n' planned
+* 'v' Arrived
+* 'y' played
+* 'z' apologized
 
 # pronunciation of other letters
 ## silent b (don't pronounce the B!)
@@ -95,6 +105,10 @@
 
 ## silent c
 - yachts
+- muscle
+- scissors 
+- ascent 
+- fascinate
 
 
 ## silent h (don't pronounce the H!)

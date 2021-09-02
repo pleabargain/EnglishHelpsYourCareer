@@ -1,5 +1,6 @@
 # questions
 - When will the bus arrive?
+- What were you doing on the metro?
 
 
 # statements

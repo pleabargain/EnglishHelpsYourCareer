@@ -2,16 +2,20 @@
 
 ---
 
-The past perfect continuous tense (also known as the past perfect progressive tense) shows that an **action that started in the past continued up until another time in the past**. The past perfect continuous tense is constructed using had been + the verb's present participle (root + -ing).
+The past perfect continuous tense (also known as the past perfect progressive tense) shows that an **action that started in the past continued up until another time in the past**. The past perfect continuous tense is constructed using **had been** + the verb's present participle (**root + -ing**).
 
 
 ---
 
--   He had been drinking milk out the carton when Mom walked into the kitchen.
--   I had been working at the company for five years when I got the promotion.
--   {FEMALE_NAME} had been walking three miles a day before she broke her leg.
--   The program that was terminated had been working well since 1945.
--   I had been going to school with my mind closed.
+-   He **had been drinking** milk out the carton when Mom walked into the kitchen.
+-   I **had been working** at the company for five years when I got the promotion.
+-   We **had been working** on project X for two years and then the budget got cut.
+-   We **had been thinking** about buying a new car when we found out that there will be a new bus station next door.
+-   I **had been sitting** at my desk for 44 minutes when my cat appeared on my laptop!
+-  
+-   {FEMALE_NAME} **had been walking** three miles a day before she broke her leg.
+-   The program that was terminated **had been working** well since 1945.
+-   I **had been going** to school with my mind closed.
 
 - I had been driving for hours before I stopped for a technical break.
 

@@ -29,11 +29,11 @@
 
 - The chair is upholstered in cheap nylon.
 
-- The chair is fahsioned out of wood and leather.
+- The chair is fashioned out of wood and leather.
 
 - I always arrive on time.
 
-- He perserveres.
+- He perseveres.
 
 - He perserveres in the face of all obstacles.
 

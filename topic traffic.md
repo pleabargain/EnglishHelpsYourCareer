@@ -5,10 +5,10 @@
 - There was a lot of traffic.
 - There are two lanes of traffic.
 - I need to go to the office.
-- The traffic is congested. [[grammar verbs]]
+- The traffic is congested. [[grammar elements verbs]]
 - It's a two lane road.
 - I hear people blowing their car horns all the time. 
-- When we arrived it was already dark. [[grammar verbs#arrive arrived d reg]]
+- When we arrived it was already dark. [[grammar elements verbs#arrive arrived d reg]]
 
 
 # dialogues

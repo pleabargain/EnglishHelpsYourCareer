@@ -1,7 +1,14 @@
-# topic: onboarding
+# questions
+
+# statements
 
 * The process can take a couple of weeks.
 * Because the company is so complex, there are multiple layers of security.
+
+# dialogues
+
+# phrases
+
 
 ## topic:  onboarding verb
 * approve
@@ -32,3 +39,19 @@
 * useful
 * mandatory
 * manageable
+
+
+
+
+# verbs
+- to train
+# nouns
+- newcomer
+- manager
+- noobie
+- beginner
+- training session
+- trainee
+# adverbs
+
+# resources

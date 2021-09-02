@@ -1,6 +1,6 @@
 Hello! Open this file with your favorite Markdown viewer.
 
-I use VS Code for viewing markdown.
+I use VS Code (https://code.visualstudio.com/3) for viewing markdown.
 
 It's free, fast and quite a good text tool as well.
  

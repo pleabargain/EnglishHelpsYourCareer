@@ -42,6 +42,7 @@
 
 # phrases
 - I blew a tire!
+- The MF just cut me off!
 - I have a spare tire in the trunk.
 - Keep an eye open for cops!
 - I need to get gas.

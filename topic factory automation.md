@@ -20,7 +20,7 @@
 
 # key ideas
 
-[[acronyms#POC]]
+[[English in use acronyms#POC]]
 
 distributed control system (DCS)
 DCS

@@ -2,6 +2,7 @@
 # questions
 - Does your car have air conditioning?
 - How is the weather there?
+- Was it raining in your neighborhood?
 # statements
 - There was a big storm last night.
 - The streets were flooded.

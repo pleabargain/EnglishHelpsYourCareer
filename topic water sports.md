@@ -1,6 +1,6 @@
 # kayaking
-When was the last time you went [[grammar verbs#kayak kayaked t reg]]?
-We [[grammar verbs#assemble assembled d reg]] our kayak.
+When was the last time you went [[grammar elements verbs#kayak kayaked t reg]]?
+We [[grammar elements verbs#assemble assembled d reg]] our kayak.
 We carried our kayaks up the bank.
 I asked my friend to pick us up.
 The other kayakers paddled on to Kyiv.

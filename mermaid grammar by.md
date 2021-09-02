@@ -1,5 +1,5 @@
-[[grammar subordinating conjunctions]]
-[[grammar prepositions]]
+[[grammar elements subordinating conjunctions]]
+[[grammar elements prepositions]]
 
 ```mermaid
 gantt

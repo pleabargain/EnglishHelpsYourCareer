@@ -18,12 +18,12 @@
 
 # technical interview
 - Describe some elements in BPMN.
-- What are the two primary processes in [[acronyms#BPMN]]?
+- What are the two primary processes in [[English in use acronyms#BPMN]]?
 - What do you know about [[topic SQL]]
 # statements
 - This is a good starting point.
 - Tell me about a problem that you solved recently.
-- There are different kinds of ... [[plurals in English]]
+- There are different kinds of ... [[grammar elements plurals]]
 - I have to manage the back log.
 - I have to create new user stories.
 - We don't have a designer on our team.
@@ -60,7 +60,7 @@
 - practitioner
 - communication skills
 - competencies
-- [[acronyms#BPMN]]  Business Process Modeling and Notification BPMN
+- [[English in use acronyms#BPMN]]  Business Process Modeling and Notification BPMN
 
 
 # adjectives

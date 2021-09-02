@@ -35,7 +35,21 @@
 - What is your criteria for an ideal vacation?
 
 # statements
-We hope that there will be fewer people in the lower season.
+- We hope that there will be fewer people in the lower season.
+- I'm planning on taking a vacation next month.
+
+- Everyone's on vacation.
+
+- I want to go to {COUNTRY}!
+
+- I had a great vacation in {COUNTRY}!.
+
+- I wish my vacation was longer.
+- I wish my vacation had been longer. [[past perfect]]
+
+- My vacation was too short. [[grammar elements adverbs]]
+
+- I need a vacation after my vacation!
 
 
 

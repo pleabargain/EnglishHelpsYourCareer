@@ -10,12 +10,18 @@ Past simple sentences are created by changing a regular verb into its past tense
 
 - They found out later that it was a different neighbor making the noise.
 - I went to school.
-
+- She arrived last night. [[grammar elements verbs#arrive arrived d reg]]
+- I watched TV. [[grammar elements verbs#watch watched t reg]]
+- I thought about the world.
 - We ate earlier.
+- I made a good cup of coffee!
+- I went to a cafe.
+- We fostered a new group of young developers to become better coders.
 
 - A few weeks ago I finished a very good book.
-
+- I left my previous company two years ago.
 - Our trees produced a lot of fruit.
+- I went to Odessa one year ago.
 
 - We grew a number of crops this summer.
 
@@ -88,7 +94,7 @@ Past simple sentences are created by changing a regular verb into its past tense
 - My spouse cooked dinner last night.
 
 - My business partner said I was useless!
-- Yesterday was an abnormally hot day. [[grammar adverbs]]
+- Yesterday was an abnormally hot day. [[grammar elements adverbs]]
 - She doesn't want to speak {LANGUAGE}.
 - {FEMALE_NAME}  fell and broke her leg.
 -   I saw a movie yesterday.

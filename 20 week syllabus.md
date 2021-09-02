@@ -10,22 +10,22 @@ The underlined documents are found on github: https://github.com/pleabargain/Eng
 # week 2
 - present your favorite [[topic hobby|hobby]]
 
-- use [[grammar superlatives]]
+- use [[grammar in use superlatives]]
 
 # week 3
 - present your favorite [[topic food|food]]
-- use [[grammar adjectives]]
+- use [[grammar elements adjectives]]
 
 # week 4 
 - present your favorite [[topic books|book]]  or [[topic movies|movie]]
-- use [[grammar adverbs]]
+- use [[grammar elements adverbs]]
 # week 5
 - convince an audience that your company is the best at X
 - use [[grammar comparitives]]
 
 # week 6
 - convince us that driving your own [[topic cars|car]] or [[topic public transportation|public transportation]] is superior
-- use [[grammar conditionals]]
+- use [[grammar elements conditionals]]
 
 
 # week7 

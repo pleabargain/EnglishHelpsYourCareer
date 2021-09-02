@@ -135,3 +135,8 @@ https://www.youtube.com/watch?v=2dANDhfWU8g&list=PLikM1nBK3VWRbVxrnYC3Egn7m5XXKL
 
 ## listening
 https://www.youtube.com/channel/UCxw-YwaBR9lVa1fmreWy94g
+
+# Toastmasters
+Find a Toastmasters club and join!
+https://www.toastmasters.org/
+

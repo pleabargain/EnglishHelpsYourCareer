@@ -22,7 +22,7 @@
 - twig
 
 # adjectives
-- [[grammar adjectives#leafy]]
+- [[grammar elements adjectives#leafy]]
 # adverbs
 
 # resources

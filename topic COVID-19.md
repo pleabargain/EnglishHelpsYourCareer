@@ -15,20 +15,20 @@
 
 # statements
 - The pandemic is worldwide, not just here. The hospitals are full of sick people. I'm willing to stay at home to stay safe and healthy. [[topic health]]
-- You have just convinced me! [[grammar verbs#convince convinced t reg]]
+- You have just convinced me! [[grammar elements verbs#convince convinced t reg]]
 - It took a while to get the results.
-- My brother asked me if I wanted to get vaccinated. [[grammar verbs#vaccinate vaccinated id reg]]
+- My brother asked me if I wanted to get vaccinated. [[grammar elements verbs#vaccinate vaccinated id reg]]
 - She's running a fever.
 - She lost her sense of smell and taste.
 - Please try to maintain social distancing.
 - She hasn't been traveling at all.
 - I haven't heard back from him.
-- I chatted with my friend. [[grammar verbs#chat chatted id reg]]
+- I chatted with my friend. [[grammar elements verbs#chat chatted id reg]]
 - She's very tired all of the time.
-- She contracted Covid19. [[grammar verbs#contract contracted id reg]]
+- She contracted Covid19. [[grammar elements verbs#contract contracted id reg]]
 - She gets sick several times a year.
 - We are encouraging him to get vaccinated.
-- I am fully vaccinated. [[grammar verbs#vac]]
+- I am fully vaccinated. [[grammar elements verbs#vac]]
 - I saw a lot of people [using oxygen masks,on respirators].
 - I saw it with my own eyes!
 - The PCR test cost about 40USD.

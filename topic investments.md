@@ -7,8 +7,10 @@
 - What budget items do you track?
 - Is now a good time to buy stocks in your favorite industry?
 - How much of it should you buy?
+- What is the best way to approach the market?
 - What do you do if an investment is a winner?
 - Which of your friends or family invest?
+- How can I minimize my risk?
 - What are they investing in?
 - How comfortable are you with determining your own risk level?
 - What do you do if an investment is a loser?
@@ -27,8 +29,8 @@
 - If you had invested in FEB 2020 in X you would have made a lot of money.
 
 # verbs
-- [[grammar verbs#invest]]
-- [[grammar verbs#hedge]]
+- [[grammar elements verbs#invest]]
+- [[grammar elements verbs#hedge]]
 
 # acronyms
 IP0 initial public offering

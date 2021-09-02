@@ -1,7 +1,7 @@
 # questions
 - How do you conduct your candidate interviewers?
-- What is your weakest soft skill? [[grammar superlatives]]
-- What is your strongest soft skill? [[grammar superlatives]]
+- What is your weakest soft skill? [[grammar in use superlatives]]
+- What is your strongest soft skill? [[grammar in use superlatives]]
 - How important are budgeting skills to a project manager?
 
 # statements

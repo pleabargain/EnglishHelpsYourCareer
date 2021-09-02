@@ -7,11 +7,12 @@ The present perfect continuous is formed using the construction has/have been + 
 -   {NAME} hasn't been feeling well for two weeks.
 -   {NAME} hasn't been visiting us since {MONTH}.
 - Statement: You **have been waiting** here for two hours.
--   Question: **Have** you **been waiting** here for two hours?
+- **Have** you **been waiting** here for two hours?
+- I have been driving around for hours looking for a parking place. [[topic cars]]
 -   Negative: You **have not been waiting** here for two hours.
 -   They **have been talking** for the last hour.
 -   She **has been working** at that company for three years.
--   What **have** you **been doing** for the last 30 minutes?
+-   What **have** you **been doing** for the last 30 minutes? #questions
 -   {NAME} **has been teaching** at the university since {MONTH}.
 -   We **have been waiting** here for over two hours!
 -   Why **has** {FEMALE_NAME} **not been taking** her medicine for the last three days?

@@ -15,7 +15,7 @@
 - There were a lot of people on the beaches.
 - It was beautiful from above.
 - We rented a pedal boat and pedaled around the lake for two hours.
-- The trip took longer than we expected. [[grammar comparatives]]
+- The trip took longer than we expected. [[grammar in use comparatives]]
 # dialogues
 
 # phrases

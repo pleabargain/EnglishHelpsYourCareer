@@ -6,7 +6,7 @@
 # statements
 - They are citizens of the world.
 - Young people don't know how difficult it was to get independence.
-- Ukraine is the largest country in Europe. [[grammar superlatives]]
+- Ukraine is the largest country in Europe. [[grammar in use superlatives]]
 # dialogues
 ---
 - How is Ukraine celebrating this holiday?

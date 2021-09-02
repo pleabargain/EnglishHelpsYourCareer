@@ -32,7 +32,7 @@
 # phrases
 
 # verbs
-- [[grammar verbs#interview interviewed d reg]]
+- [[grammar elements verbs#interview interviewed d reg]]
 
 # nouns
 

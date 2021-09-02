@@ -1,4 +1,4 @@
-[[grammar subordinating conjunctions]]
+[[grammar elements subordinating conjunctions]]
 
 ```mermaid
 	sequenceDiagram

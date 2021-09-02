@@ -21,6 +21,7 @@ Examples:
 3.  We --have lived-- here for three years.
 
 -   Has lived: She has lived here all her life.
+-   I have been on the metro for hours.
 -   Have written: They have written three letters already.
 -   Have worked: I have worked here since I graduated school.
 -   Has done: He has finished his homework.
@@ -28,7 +29,7 @@ Examples:
 -   Has forgotten: She has forgotten her folder.
 - He has seen that movie several times. (present perfect)
 - I have been promoted! (passive)
-
+- I have had many meetings last week.
 - I have [finished, completed,done] this task.
 - I have spread myself too thin! (idiomatic) I am trying to  do everything at the same time.
 - It has happened before.

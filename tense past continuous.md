@@ -2,25 +2,24 @@
 
 ---
 
-The past continuous tense is **formed by combining the past tense of to be** (i.e., was/were) with the verb's present participle (-ing word). There are many situations in which this verb tense might be used in a sentence. For example, it is often used to describe conditions that existed in the past. The past continuous is formed using was/were + present participle.
+The past continuous tense is **formed by combining the past tense of to be** (i.e., was/were) with the verb's present participle (-ing word). There are many situations in which this verb tense might be used in a sentence. For example, it is often used to describe conditions that existed in the past. The past continuous is formed using **was/were + present participle**.
 
 Questions are indicated by inverting the subject and was/were. Negatives are made with not.
 
 ---
 
 - I was going to call her.
-
+- I was considering a new job.
+- They were going  to call her at six o clock but they didn't.
 - We were eating a lot of ice cream before we noticed how fat we had gotten.
-
 - She was taking her time to answer.
-
 - It was living here for awhile.
-
 - I was buying foreign currency when my wife [distracted,disturbed] me with some bad news: the dollar was rising in value!
-
 - They were discovering a lot of pitfalls during the project analysis phase.
-
 - The bird was living here for awhile.
+- I was trying to find a way to test a remote API before I noticed that there was already a solution on the confluence page.
+
+- I was trying to find a way to test a remote API before I noticed that someone had already posted a solution.
 
 - While I was working on the project, Natalie cooked lunch for me.
 
