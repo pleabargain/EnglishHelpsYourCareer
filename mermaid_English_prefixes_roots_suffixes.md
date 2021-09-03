@@ -125,14 +125,35 @@ viewing or staring
 
 ```mermaid
 graph TD; 
-scope --> microscope;
+	scope --> microscope;
+	scope --> telescope;
+	scope --> stethoscope;
 
 ```
 
 
+## -ence
+action or process 
+```mermaid
+graph TD;
+    -ence--> emergence; 
+	-ence-->reference;
+    
+```
+
+
+quality or state
+
+```mermaid
+graph TD;
+    -ence--> despondence; 
+	-ence--> evidence; 
+	
+    
+```
 
 ## -ary 
-Meaning: of or relating to
+of or relating to
 
 ```mermaid
 graph TD;
@@ -288,6 +309,7 @@ in --> inconvenient;
 in --> inconcievable; 
 in --> incongrous; 
 in --> injustice; 
+in --> invariably; 
 
 in --> infallible;
 in --> inactive; 
@@ -666,6 +688,7 @@ meaning across, over
 graph TD;
 trans --> transform;
 trans -->  transcribe;
+trans -->  transmission;
 trans -->  transplant;
 trans --> transparent;
 ```
@@ -676,6 +699,7 @@ meaning: not enough
 ```mermaid
 graph TD;
 under--> underbelly;
+under--> underneath;
 under--> underperform;
 under--> undermine;
 ```
@@ -869,6 +893,15 @@ to move or walk
 ```
 
 
+## init
+to begin
+```mermaid
+	graph TD;
+	init-->initiate;
+	init-->initialize;
+
+```
+
 
 
 ## arbor
@@ -943,7 +976,7 @@ hear
 self
 ```mermaid
 	graph TD;
-
+	auto(self)-->automobile;
 	auto(self)-->autonomy;
 	auto(self)--> autocrat;
 	auto(self)-->automatic;

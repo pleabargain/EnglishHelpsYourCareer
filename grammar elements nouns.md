@@ -3,6 +3,9 @@
 
 # embroidery
 
+# wardrobe
+- I have a very extensive winter wardrobe!
+
 # criteria
 - We have many criteria. There is only one criterion that must be met.
 # intensity
@@ -22,6 +25,14 @@
 
 # coroner
 - My brother is a coroner and works at the police office.
+
+# phenomenon
+- Lightning is one of the most fascinating natural phenomenons.
+
+
+
+# flawlessly #adverb
+This software is perfect! It runs flawlessly!
 
 # scuttlebutt
 - What's the scuttlebutt on our planned return to the office?

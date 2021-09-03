@@ -1,3 +1,12 @@
+# We can figure out it together.
+
+# money doesn't grow on trees!
+
+# It goes in one ear and out the other!
+- When I hear people talk about politics, it goes in one ear and out the other!
+
+# on a case by case basis
+
 # talk him down
 - The police are trying to talk him down off the roof.
 

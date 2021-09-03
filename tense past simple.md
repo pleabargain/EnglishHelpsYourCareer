@@ -7,18 +7,52 @@ We make the past simple just like the present simple except we use 'did' instead
 Past simple sentences are created by changing a regular verb into its past tense form, we normally add –ED to the end of the verb.
 
 ---
-
+- 
 - They found out later that it was a different neighbor making the noise.
+---
+- What did you do?
 - I went to school.
+
+---
+
+- What did you do yesterday?
+- I went to school yesterday.
+
+---
+
+- What she did she do last night? When did she arrive?
 - She arrived last night. [[grammar elements verbs#arrive arrived d reg]]
+
+---
+- What did you do?
 - I watched TV. [[grammar elements verbs#watch watched t reg]]
+
+---
+
 - I thought about the world.
+
+---
+- When did you eat?
 - We ate earlier.
+---
+
 - I made a good cup of coffee!
 - I went to a cafe.
-- We fostered a new group of young developers to become better coders.
 
-- A few weeks ago I finished a very good book.
+
+- We fostered a new group of young developers to become better coders.
+---
+
+- A few weeks ago I finished a very good book. I think you will like it!
+- What is the book's title? What is the book's name? What's the name of the book?
+
+---
+
+- When did you finish the book? (you know what book I'm reading)
+- A few weeks ago I finished reading The Petite Prince.
+
+---
+
 - I left my previous company two years ago.
 - Our trees produced a lot of fruit.
 - I went to Odessa one year ago.
@@ -27,7 +61,11 @@ Past simple sentences are created by changing a regular verb into its past tense
 
 - We planted a lot of trees in our orchard.
 
-- Our PO launched this initiative six months ago.
+---
+- When did your PO launch this initiative?
+- Our PO launched this initiative six months ago. [[English in use acronyms#PO]]
+
+---
 
 - Yesterday our friend was really determined to get vaccinated.
 

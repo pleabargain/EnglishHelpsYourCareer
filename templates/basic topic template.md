@@ -4,14 +4,14 @@
 
 # dialogues
 
-# phrases
+# [[English in use phrases]]
 
-# verbs
+# [[grammar elements verbs]]
 
-# nouns
+# [[grammar elements nouns]]
 
-# adjectives
+# [[grammar elements adjectives]]
 
-# adverbs
+# [[grammar elements adverbs]]
 
 # resources

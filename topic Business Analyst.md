@@ -5,6 +5,8 @@ What is the certificate process for a Business Analyst?
 
 Which BA certificate do you recommend?
 
+How would you describe X business process?
+
 https://www.iiba.org/
 
 How do you go about estimating time requirements for a story?

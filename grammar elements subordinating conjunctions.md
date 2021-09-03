@@ -60,49 +60,64 @@ means "in spite of the fact that"  -   show two opposite statements
 - If I get paid more, I'll be able to travel more.
 - You can watch TV if you finish your homework.
 
-## Once—indicates "at the moment when" 
+## Once
+—indicates "at the moment when" 
 - Once you see him, you will recognize him.  
 - Once the light came on, we all shouted with joy.  
 - Call me once you start working.
 
-## Since-means "from the time when"  
+## Since
+--means "from the time when"  
 - I've been a dancer since I was young.  
 - Since he graduated, he has been doing nothing of importance.  
 - This shop has been refurbished three times since I lived here.
 - Since I moved, I've stopped traveling as much.
 
-## So that—means "in order to"  
+## So that
+—means "in order to"  
+
 - So that she could keep her job, she didn't complain at all.  
 - He finished his work as fast as possible so that he could leave early.  
 - He worked harder for a promotion so he could buy a new car.
 - I turned on my computer so that I could join the meeting.
 
-## Until—means "up to the time that"  
+## Until
+—means "up to the time that"  
+
 - Don't do anything until I come back.  
 - I won't start cooking until after 9 p.m.
+- They won't allow us to upgrade X until it becomes a blocker for other projects.
+- They won't allow us to upgrade X until it becomes absolutely necessary.
 - She didn't know she was a talented singer until she sang at the company picnic. 
 - They won't allow us to start until everyone arrives.
+- You are young until you feel otherwise.
+- 
 
-## Unless —means "except, on the condition"  
+## Unless 
+—means "except, on the condition"  
 - You will not pass the exam **unless** you work harder.  
 - You don’t need to go **unless** you want to.
 - I won't talk to them anymore unless they cancel the test then I'll reconsider.
 - I will not tell you anything unless you tell me what you know first.  
 - Unless you ask her, you will never know.
 
-## When—means "at that time"  
+## When
+—means "at that time"  
 - When I came in the room, everyone looked at me.  
 - I woke up when my baby was crying.  
 - I started looking for a place to stay when I decided I wanted to live here.
 
-# as
+## as
 - The dolphins popped up _**as** we passed by_.
 -  Paul watched her_ **_as_** she walked through the crowd.
 
-# despite
+## despite
 -   despite is used to introduce a fact that is in sharp contrast with another fact.
 - Despite the rain, we enjoyed the festival.
 - Despite the rain, I went jogging.
+- Despite the rain, I went to the BBQ.
+- Despite the fact that I had a lot of work I still did my English homework.
+- Despite being tired after our trip, we did enjoy our vacation to [[topic Montenegro|Montenegro]].
 
 # provided
 
@@ -113,13 +128,17 @@ means "in spite of the fact that"  -   show two opposite statements
 
 -   Unless means except on the condition that**examples**
 
-Don't open that 5liter bottle of wine unless you are planning to have a party!
+- Don't open that 5liter bottle of wine **unless** you are planning to have a party!
+- Don't spend that money **unless** you know where it grows!
 
 # since
 
 -   since is used to show result
 
-**examples**
+- I haven't been to this cafe since 2018.
+- Since you are taking next Friday off, let's plan on taking a long weekend to the sea!
+- Since you were on vacation last week, you might need to spend a day catching up on emails.
+- Since I'm young, I'm going to party like there's no tomorrow!
 
 # so
 
@@ -178,7 +197,7 @@ Spanish.
     
 
     
-#   Nevertheless
+#  nevertheless
 
 synonym: yet
 
@@ -187,7 +206,7 @@ synonym: yet
 -   Samuel works a lot, but **nevertheless** he hasn’t any money.
 -   {FEMALE_NAME} is not our best worker, but **nevertheless** she tries very hard.
     
-# Moreover
+# moreover
 
 
 Synonym words with **Moreover**; furthermore, in addition, besides

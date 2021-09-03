@@ -1,6 +1,9 @@
 # SDLC
 - software development life cycle
 
+# PO
+- product owner
+
 # SCORM 
 - Shareable Content Object Reference Model [[topic education]]
 
@@ -220,4 +223,7 @@ venture capital
 Special Purpose Acquisition Company
 
 # UI
-- user interface
+- user interface [[topic frontend developement]]
+
+# SRS
+software requirements specification [[topic business analyst]]

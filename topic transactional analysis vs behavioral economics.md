@@ -21,11 +21,14 @@
 - What protocols exist for applying Transactional Analysis in the field?
 - How can we integrate this theory into our learning program?
 - Is this a time waster?
+- What are the games that people play?
 
 # statements
 - He needs to learn how to control his reactions.
 - Everybody has a purpose in life.
 - Nobody told me what was going on.
+- Stress can be infectious.
+- TA is practical if we can identify the mental problem.
 - There are four primal emotions: fear, love, happiness, anger,
 - We want people to become more mature.
 - He was a revolutionary in the field of psychiatry.
@@ -54,11 +57,13 @@
 - NVC non violent communication
 
 # verbs
-
+- to diagnose
+- to analyze
 # nouns
 - psychotherapists
 - schizophrenia
 - psychiatrists
+- clinical psychiatrists
 
 # adjectives
 

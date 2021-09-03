@@ -1,6 +1,6 @@
 # questions
 - What are you good at?
-
+- How do you handle difficult clients?
 
 # statements
 - I'm good at designing reports.

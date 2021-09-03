@@ -5,6 +5,10 @@ Adverbs describe verbs.
 
 ---
 
+# invariably
+- It invariably rains on the day when I want to have a BBQ picnic!
+
+
 # frequently
 - We frequently observe this bird in the morning.
 

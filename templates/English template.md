@@ -1,5 +1,8 @@
 # What's new
 - What new words or phrases in English have you learned since we last spoke?
+
+# issues
+
 # parts of speech
 -  [[grammar elements nouns]]
 -  [[English in use 1500 common words]]

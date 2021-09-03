@@ -6,10 +6,9 @@ The past continuous tense is **formed by combining the past tense of to be** (i.
 
 Questions are indicated by inverting the subject and was/were. Negatives are made with not.
 
----
 
-- I was going to call her.
-- I was considering a new job.
+
+---
 - They were going  to call her at six o clock but they didn't.
 - We were eating a lot of ice cream before we noticed how fat we had gotten.
 - She was taking her time to answer.

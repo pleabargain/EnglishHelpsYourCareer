@@ -418,6 +418,7 @@
 - chain
 - answer
 - shame
+	- My mother told me, "Shame on you!" when she found out that I had cheated on my exam.
 - cycle
 - black
 - thing
@@ -432,6 +433,8 @@
 - attempt
 - wind
 - concern
+	- My mother was very concerned about her health and so she went to the doctor.
+	- I wasn't [worried|concerned] about the interview because I was prepared.
 - assist
 - period
 - stable
@@ -465,6 +468,9 @@
 - sympathy
 - virus
 - tune
+	- The piano needs to be tuned.
+	- The radio is out of tune! Please fix it!
+	- 
 - suck
 - studio
 - light
@@ -488,6 +494,8 @@
 - abroad
 - management
 - position
+	- Please change the position of the laptop on the desk.
+	- I think I'm perfect for this job position!
 - alternative
 - bank
 - sleep
