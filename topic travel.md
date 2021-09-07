@@ -33,6 +33,7 @@ https://i.imgur.com/3UgqnZF.png
 - If you could time-travel, where would you go?
 - Where will you go first after [[topic COVID-19| Covid 19]].
 - Have you ever rented a motor home?
+- Have you ever had a room or a meal comped? (comped = complementary = for free = gratis)
 - What was the nationality mix at your hotel?
 - How was the water near the resort?
 
