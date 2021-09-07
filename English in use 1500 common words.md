@@ -399,6 +399,13 @@
 - carry
 - wine
 - guidance
+---
+
+- Did our client give us enough guidance on the feature?
+- Our client has not given us enough guidance on this feature request.
+
+---
+
 - hit
 - dealer
 - cousin
@@ -410,6 +417,11 @@
 - organization
 - respond
 - extent
+---
+	- Do you know the extent of the problem?
+	- We don't know the extent of the problem!
+
+---
 - swim
 - exchange
 - background
@@ -970,6 +982,15 @@
 - hold
 - sun
 - prompt
+---
+Q: Who prompted you to make these changes to the contract?
+A:  A little voice told me to add 9s to the price!
+
+---
+Q: What is a good prompt for you to get started?
+A: I really like a good cup of coffee in the morning!
+
+---
 - post
 - practice
 - pin
@@ -978,6 +999,12 @@
 - mission
 - screen
 - gear
+---
+Q: What gear are you in? (context: Wife is driving and the engine is screaming!)
+A: I'm in second gear, why do you ask?
+
+
+---
 - comfortable
 - finding
 - chicken

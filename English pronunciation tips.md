@@ -1,3 +1,6 @@
+# general American pronunciation
+- The first vowel [a,e,i,o,u] gets the emphasis.
+
 # pronunciation of past tense ed
 ## pronunciation rules for past tense 
 * 'p'	stopped (t)
@@ -125,7 +128,10 @@ https://pronunciationstudio.com/h/
 * knock
 * know
 * knife
-* knead
+ - knot
+	 - He is experienced in tying sailing knots.
+ - knead
+	 - I need to knead the dough before I bake it.
 * kneel
 * knight
 * knowledge

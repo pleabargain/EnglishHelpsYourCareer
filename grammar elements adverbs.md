@@ -1,7 +1,7 @@
 [[grammar elements subordinating conjunctions]]
 
 ---
-Adverbs describe verbs.
+An adverb is a word that modifies a adjective, verb, determiner, another adverb, clause, noun phrase, or sentence. Adverbs typically express place, manner, frequency, time, level of certainty, degree, etc.
 
 ---
 
@@ -20,20 +20,22 @@ Adverbs describe verbs.
 - https://www.google.com/search?q=implicitly
 
 # recently
-Recently I have been thinking about...
+- Recently I have been thinking about...
 
 # widely
-It's widely recognized as X.
+- It's widely recognized as X.
+- I use my laptop widely; for work, for home and for hacking my car!
 
 # thoroughly
-I thoroughly agree with you!
+- I thoroughly agree with you!
 
 # occasionally
 - We met up occasionally for a drink.
 
 
 # efficiently
-They efficiently installed the system.
+- They efficiently installed the system without errors.
+- If you want more time, you need to handle your time efficiently.
 
 # barely
 - I can barely hear you! Please speak up!
@@ -48,7 +50,9 @@ They efficiently installed the system.
 
 
 # correctly
-- I am not thinking about this problem correctly.
+- I get the feeling that I am not thinking about this problem correctly.
+- Did you configure the server correctly?
+- Was everything installed correctly?
 
 # notoriously
 - The company is notoriously known for not paying it's suppliers.
@@ -66,7 +70,7 @@ They efficiently installed the system.
 - It happened too quickly, so I just didn’t see it.
 
 # off
-We took off early.
+- We took off early.
 
 # freely
 - I want to be able to speak more freely with my colleagues.
@@ -79,7 +83,7 @@ We took off early.
 - I definitely agree with you.
 
 # carelessly
-He behaved carelessly and so he was fired for dereliction of duty.
+- He behaved carelessly and so he was fired for dereliction of duty.
 
 # carefully
 - Please tread carefully.
@@ -99,9 +103,9 @@ He behaved carelessly and so he was fired for dereliction of duty.
 - Our friends recently got engaged to each other.
 # loudly
 # freshly
-These vegetables are freshly picked from our garden.
+- These vegetables are freshly picked from our garden.
 # horribly
-She was horribly disfigured after the accident.
+- She was horribly disfigured after the accident.
 # lively
 - She had a lively weekend with her family.
   

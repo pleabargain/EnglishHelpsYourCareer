@@ -76,6 +76,7 @@ Past simple sentences are created by changing a regular verb into its past tense
 - She had determination.
 
 - I had lunch.
+- I had a good time.
 
 - I drank bottled water from Fiji!
 

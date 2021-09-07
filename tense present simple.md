@@ -9,7 +9,9 @@
 
 
 -   I work in London.
+-   She promotes her marketing services every month on Linked In.
 -   {NAME} works in London.
+
 -   This program complies with the state regulations.
 -   This project combines a lot of services into one.
 -   I'm nineteen years old. 

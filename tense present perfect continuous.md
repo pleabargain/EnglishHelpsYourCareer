@@ -7,6 +7,7 @@ The present perfect continuous is formed using the construction has/have been + 
 -   {NAME} hasn't been feeling well for two weeks.
 -   {NAME} hasn't been visiting us since {MONTH}.
 - Statement: You **have been waiting** here for two hours.
+- I have been writing this blog for two hours.
 - **Have** you **been waiting** here for two hours?
 - I have been driving around for hours looking for a parking place. [[topic cars]]
 -   Negative: You **have not been waiting** here for two hours.

@@ -42,6 +42,31 @@
 - investigate
 - measure
 - perform
+- responsible
+- verify 
+- check
+- run
+- establish
+- initiate
+- require
+
+# questions
+- Have you tested this application?
+
+- Can you notify me after you have resolved this bug?
+
+- What is the root cause of the bug?
+
+- Have you investigated this problem?
+
+- How can we measure our progress?
+
+- Can you perform the tests tomorrow?
+
+- Who is responsible for testing this feature?
+
+
+
 
 ## topic: QC nouns: 
 - issue
@@ -59,3 +84,4 @@
 # statements
 - We didn't have enough time to deploy the code.
 - I took classes in software testing.
+- I know what it means.

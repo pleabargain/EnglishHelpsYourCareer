@@ -318,6 +318,8 @@
 # besides
 - Besides being a great mother, my wife is a great cook.
 - We often sit besides each other.
+- I got a new offer. It says that I can work from home and besides that the salary is better too!
+- Besides his great looks, he is also a good dancer.
 
 
 # affect

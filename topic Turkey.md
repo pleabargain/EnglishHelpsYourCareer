@@ -2,6 +2,7 @@
 # questions
 - What part of Turkey have you visited?
 - What do you like to do in Turkey?
+- Have you ever been to Turkey?
 - What travel advice would you give to your friends?
 - What things do you recommend I bring with me on my vacation to Turkey?
 - What was your favorite part of your trip?
@@ -44,6 +45,24 @@
 - You should a bring a hat to protect yourself from the sun.
 
 
-# nouns
+
+
+# dialogues
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
+
 - sun stroke
 - sunburn
+- All inclusive
+
+
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources

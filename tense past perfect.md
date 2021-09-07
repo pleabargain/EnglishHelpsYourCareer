@@ -8,9 +8,16 @@ We use the past perfect simple (**had** + past participle) to talk about time up
 ---
 
 -   After {FEMALE_NAME} **had finished** her work, she went to lunch.
+-   They had negotiated the deal by the time we arrived.
+-   I had driven to the mountains to see the leaves change color.
+-   I had been in a quirky situation when my boss found out that my mother was dating his father.
+-   He had developed a quirky personality in the prisons of Afghanistan.
+-   I had created the marketing plan before writing the content.
 -   I washed the floor after the painter **had gone**.
 -   I **had finished** my work when I my mother called me.
 -   I **had completed** most of my onboarding training. [[topic onboarding]]
+-   I **had activated** my account before taking the exam.
+-   My colleague and I had a meeting with a provider who had developed a program for voiceless people.
 -   They **had become** stuck on some details.
 -   Harold **had known **about it for a while.
 -    I **had misplaced** the keys and therefore my wife was not able to find them.

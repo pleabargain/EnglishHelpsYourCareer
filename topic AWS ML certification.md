@@ -3,7 +3,7 @@
 - What's your advice on how to pass the exam?
 
 # statements
-- I have been taking courses.
+- I have been taking courses. [[tense present continuous]]
 - I have created a number of cheat sheets. [[grammar elements verbs#create created id reg]]
 - I have completed some ML labs. [[grammar elements verbs#complete completed id reg]]
 - It's designed for professionals [[grammar elements verbs#design designed d reg]]

@@ -18,8 +18,7 @@
 * Why is GDPR important?
 * How would you explain GDPR to a client?
 
-# topic RACI matrix
-* How important is a RACI matrix in an agile environment?
+
 
 # topic local cuisine
 

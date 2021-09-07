@@ -6,12 +6,21 @@
   - http://www.yougowords.com/3-letters
   - http://www.yougowords.com/4-letters
 
+# ask more questions
+https://www.englishhints.com/question-formation.html
+
 # collocations in English
 https://colab.research.google.com/drive/1UbSQr72HL1AeF8FNYfGfGKxGpsqoq1jj?usp=sharing
 
 # applications
 - Duolingo
-- 
+- https://www.engvid.com/
+
+# vocabulary
+- www.Vocabulary.com (get the free student account)
+- https://www.getrandomthings.com/
+
+And of course, reading (out loud!), listening and taking notes while listening to native speakers will help build your vocabulary.
 
 # watch TV in English
 - https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g

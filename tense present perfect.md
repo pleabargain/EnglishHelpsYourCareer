@@ -28,11 +28,16 @@ Examples:
 -   Have been: We have been to {COUNTRY}.
 -   Has forgotten: She has forgotten her folder.
 - He has seen that movie several times. (present perfect)
+- I have never delayed my deadlines.
 - I have been promoted! (passive)
 - I have had many meetings last week.
 - I have [finished, completed,done] this task.
 - I have spread myself too thin! (idiomatic) I am trying to  do everything at the same time.
 - It has happened before.
+- I have heard that there will be more changes.
+- I haven't seen this before.
+- I have been to Venezuela.
+- I have been to the office but there was no one there.
 - I haven't heard that news. 
 - They have spread some [nasty,mean,bad] gossip about the new guy.
 - I have visited {COUNTRY}.

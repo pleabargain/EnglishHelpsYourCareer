@@ -21,12 +21,14 @@
 
 
 # nouns
-bride (female)
-groom (male)
-bouquet
-fiance
-photographer
-honeymoon
+- bride (female)
+- groom (male)
+- best man
+- bride's maid
+- bouquet
+- fiance
+- photographer
+- honeymoon
 
 
 

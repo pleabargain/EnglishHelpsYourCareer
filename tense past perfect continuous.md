@@ -9,6 +9,12 @@ The past perfect continuous tense (also known as the past perfect progressive te
 
 -   He **had been drinking** milk out the carton when Mom walked into the kitchen.
 -   I **had been working** at the company for five years when I got the promotion.
+-   She had been analyzing the results when her laptop crashed.
+-   The fans **had been crowding **the musicians before the concert began.
+-   
+-   They had been crowding the restaurant ever since Lady Gaga showed up. 
+-   
+-   
 -   We **had been working** on project X for two years and then the budget got cut.
 -   We **had been thinking** about buying a new car when we found out that there will be a new bus station next door.
 -   I **had been sitting** at my desk for 44 minutes when my cat appeared on my laptop!

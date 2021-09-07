@@ -1,4 +1,3 @@
-
 # questions
 
 - At this stage in your life do you think you would prefer having children or being child-free? Do you think your feeling might change?
@@ -79,6 +78,7 @@
 - Do you believe in tough love - letting children suffer consequences from their repeated mistakes?
 - Have you ever abused or molested a child (or been accused of it)? If so, what steps should we take to make sure it doesn't happen again?
 - If you and your spouse have disagreements about child rearing, what methods do you use?
+- Have you considered what you would do if your child was diagnosed as deaf?
 - Do you believe children should be seen and not heard? Why or why not?
 - If the doctors detected that your unborn child had a severe birth defect and they could easily abort it, would you still have the baby?
 - Do you think parents should provide cars for their teenagers if they are financially able? Would you allow your teenager to buy his or her own car if he or she had the funds?

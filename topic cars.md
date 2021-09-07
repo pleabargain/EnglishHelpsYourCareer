@@ -9,7 +9,9 @@
 
 # statements
 - They fixed my flat.
-- We don't drive very far.
+- When I start my car...
+- It's not a gas guzzler.
+- We don't drive very far in general.
 - The roads are very narrow.
 - I don't what it's called in English...
 - You need to pay attention while driving!
@@ -89,7 +91,13 @@
 - insurance
 - speedometer
 - gas gauge
+- emergency brake
 - idiot lights
+- trunk
+- stick shift
+- spare tire
+- head lights
+- sun visor
 - tires
 - steering wheel
 - gas cap

@@ -5,7 +5,7 @@ We use "until" to talk about the period of time from a starting point until a de
 
 ---
 # instructions
-- choose the write word:
+- choose the right word:
 
 ---
 

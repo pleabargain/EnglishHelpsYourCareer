@@ -6,6 +6,7 @@ https://i.imgur.com/3UgqnZF.png
 - Where did you want to go on vacation?
 - Are you still on vacation?
 - Is it safe to do X?
+- Is the hotel opened seasonally?
 - When was the last time you renewed your passport?
 - Who chooses the destination for your vacations?
 - What sort of vacations do you like to take?
@@ -15,18 +16,18 @@ https://i.imgur.com/3UgqnZF.png
 - What is your fantasy vacation?
 - What would your fantasy road trip be like?
 - What is the best country to travel from?
-- What Crazy Adventure Would You Want to Take?
-- What Local 'Microadventures' Would You Like to Go On?
-- What's Your Perfect Family Vacation?
+- What crazy adventure would you want to take?
+- What local 'microadventures' would you like to go on?
+- What's your perfect family vacation?
 - Do you enjoy staycations?
-- How Has Travel Affected You?
+- How has travel affected you?
 - Who is your favorite person to travel with?
 - What kind of tourist are you?
 - What does your travel diary consist of?
-- What Are the Best Souvenirs You've Ever Collected While Traveling?
-- What Famous Landmarks Have You Visited?
-- What's the Coolest Thing You've Ever Seen in Nature?
-- How Much Do You Know About the Rest of the World?
+- What are the best souvenirs you've ever collected while traveling?
+- What famous landmarks have you visited?
+- What's the coolest thing you've ever seen in nature?
+- How much do you know about the rest of the world?
 - Would you like to live in another country?
 - Would you want to be a space tourist?
 - If you could time-travel, where would you go?

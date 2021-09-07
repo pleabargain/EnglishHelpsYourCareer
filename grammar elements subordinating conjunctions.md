@@ -182,8 +182,9 @@ means "in spite of the fact that"  -   show two opposite statements
 # besides
 
 -   in addition to, also. It is a preposition.**examples**
--   She speaks three languages **besides**  
-Spanish.
+-   She speaks three languages **besides** Spanish.
+-   He's at a happy place in his career and, besides, he is about to go on vacation.
+-   And besides, the emergency department is busy today – an ongoing safeguarding issue, pneumonia, countless bumps and bruises.
 
 # unlike
 

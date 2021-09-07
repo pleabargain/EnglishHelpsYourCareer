@@ -6,8 +6,14 @@ The future perfect is made with the future simple of 'have' (will have) and the 
 
 ---
 
-- I will have been studying X for six hours by the end of the day.
+-
+- I will have evaluated the success of our most recent campaign by the end of the week.
+- I will have sold 100 copies of my new book by the end of the month.
+- I will have completed my tasks by the end of the day except for the last one involving web scraping.
+-
 - What will you have [completed, done] by Sunday night?
+- I will have boiled water for tea by the time you get here.
+- I will have cooked something before my wife gets home.
 - He will have connected to the conference call by the time we start the meeting.
 - We will have talked to our doctor about our next appointment.
 - I will have started my courses by 15DEC.

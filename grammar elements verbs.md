@@ -5,9 +5,15 @@
 verbs (pronunciation) (regular or irregular)
 
 
+# ruin ruined (d) (reg)
+They have ruined everything.
+
+# disappoint disappointed
+
 # obsess obsessed (t) (reg)
 - She was obsessed with chocolate and it showed on her waste line!
 - My last manager  was obsessed with time management.
+- As a functional manager, I'm obsessed with time management!
 - He was so obsessed with cleanliness we were convinced he was OCD!
 
 # foster fostered  (d) (reg) 

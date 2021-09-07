@@ -8,7 +8,7 @@ A student asked, “What gender is “Computer”?
 
 In spite of giving the answer, the Spanish Teacher decided to do a fun activity which results in a funny computer joke. She made two groups of the class, one male and one female, and asked them to discuss whether the “Computer” is masculine or a feminine noun and come up with four reasons in the support of their recommendation.
 
-The boys took their call that “Computer” should surely be the female( La Computadora”), because:
+The boys took their call that “Computer” should surely be the female( "La Computadora”), because:
 
 1.  Only the creator knows their internal logic.
 2.  The language used by them is incomprehensible to everyone else.

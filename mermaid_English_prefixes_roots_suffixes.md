@@ -215,7 +215,6 @@ graph TD;
 -ious--> gracious; 
 -ious-->  cautious; 
 -ious-->  spacious; 
-
 -ious-->  fallacious
 ```
 
@@ -227,6 +226,11 @@ graph TD;
 -ous--> humorous; 
 -ous-->  fabulous;
 -ous-->  dangerous;
+-ous--> joyous; 
+-ous--> cantankerous; 
+
+
+
 ```
 
 
@@ -310,7 +314,7 @@ in --> inconcievable;
 in --> incongrous; 
 in --> injustice; 
 in --> invariably; 
-
+in --> invisible;
 in --> infallible;
 in --> inactive; 
 in --> inevitable;
@@ -385,6 +389,7 @@ graph TD;
 dis --> disloyal;
 dis -->  dissimilar;
 dis -->  disagree;
+dis -->  dismantle;
 dis -->  dismember;
 dis -->  dishonest;
 dis --> disperse;
@@ -491,12 +496,13 @@ en --> enable;
 
 
 ## ex-
-**out of**
+out of
 
 ```mermaid
 graph TD; 
 ex --> exclaim;
 ex --> explain;
+ex --> extent;
 ```
 
 
@@ -515,6 +521,9 @@ meaning: again or back
 graph TD; 
 re --> restructure;
 re --> revisit;
+re --> rehearse;
+re --> redo;
+
 re --> repulsive;
 
 re --> reinstate;
@@ -560,6 +569,23 @@ un-->unable;
 
 
 ```
+
+## para -
+alongside of, beside, near, resembling, beyond, apart from, and abnormal
+
+```mermaid
+graph TD; 
+para --> parasol;
+para --> parallel;
+para --> paradigm;
+
+
+
+```
+
+
+
+
 
 ## mis- 
 meaning: badly or wrongly 	
@@ -824,6 +850,7 @@ graph TD;
 -tion --> alteration;
 -tion -->  demonstration;
 -tion -->  documentation;
+-tion -->  presentation;
 
 ```
 
@@ -859,13 +886,25 @@ graph TD;
 # roots
 
 ## ratio
-logic;  
-reason;  
-judgment
+logic;  reason;  judgment
 
 ```mermaid
 	graph TD;
 	ratio(logic)-->rational;
+	
+
+```
+
+
+## hydro
+water
+
+```mermaid
+	graph TD;
+	hydro(water)-->hydrant;
+	hydro(water)-->hydrometer;
+	hydro(water)-->hydrogen;
+	hydro(water)-->hydrometeor;
 	
 
 ```
@@ -882,6 +921,18 @@ to move or do (actor, acting, reenact)
 	act(do)-->interact;
 
 ```
+
+## crim
+judicial, crime
+```mermaid
+	graph TD;
+	crim-->criminal;
+	crim-->incriminate;
+	crim-->crime;
+	
+
+```
+
 
 ## ambul
 to move or walk

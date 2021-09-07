@@ -1,11 +1,32 @@
-# We can figure out it together.
+# wear and tear
+My shirt has seen a lot of wear and tear.
 
-# money doesn't grow on trees!
+# block party
+We are going to have a block this party and invite all of our neighbors.
+# the apple doesn't fall far from the tree
+- The apple doesn't fall far from the tree is a phrase that is typically said **in connection with children who show qualities or talents that are similar to those of their parents**.
+
+
+# read the fine print
+# in my opinion
+In my opinion, this book is terrible.
+
+# TGIF
+Thank God it's Friday!
+
+# throw a wrench into your plans
+When the client decided to change suppliers at the last minute, it really threw a wrench into our plans.
+
+# We can figure it out together.
+
+# Money doesn't grow on trees!
+Be careful how you spend your earnings. Money doesn't grow on trees!
 
 # It goes in one ear and out the other!
 - When I hear people talk about politics, it goes in one ear and out the other!
 
 # on a case by case basis
+- We need to review each bug on a case by case basis.
 
 # talk him down
 - The police are trying to talk him down off the roof.

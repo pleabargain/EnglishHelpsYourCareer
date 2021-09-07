@@ -1,3 +1,9 @@
+# BATNA
+- best alternative to a negotiated agreement
+
+# TGIF
+- Thank God it's Friday!
+
 # SDLC
 - software development life cycle
 
@@ -94,6 +100,9 @@ https://en.wikipedia.org/wiki/Key_management
 # FYI
 - For your information
 
+# JFYI
+- Just For your information
+
 # IDC
 - I don't care
 
@@ -140,13 +149,12 @@ no problem
 total cost of ownership
 
 # OKR
-objectives key results
+objectives, key results
 
 # KPI
 key performance indicators
 
 # WIP
-
 work in progress
 
 # POC
@@ -156,7 +164,7 @@ Proof of concept
 minimum viable product
 
 # 2FA
-two factor authorization
+two factor authorization [[topic cyber security]]
 
 # IP
 intellectual property
@@ -210,20 +218,23 @@ Minimum Viable Product
 - Standard Operating Procedure
 
 # SLA
-Service Level Agreement
+- Service Level Agreement
 
 
 # DCS
-distributed control system
+- distributed control system
 
 # VC
-venture capital
+- venture capital
 
 # SPAC
-Special Purpose Acquisition Company
+- Special Purpose Acquisition Company
 
 # UI
 - user interface [[topic frontend developement]]
 
 # SRS
-software requirements specification [[topic business analyst]]
+- software requirements specification [[topic business analyst]]
+
+# QOL
+- quality of life

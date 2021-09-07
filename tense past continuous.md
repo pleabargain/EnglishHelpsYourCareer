@@ -10,6 +10,8 @@ Questions are indicated by inverting the subject and was/were. Negatives are mad
 
 ---
 - They were going  to call her at six o clock but they didn't.
+- I was traveling with my mother.
+- I was planning on meeting my manager but the power went off!
 - We were eating a lot of ice cream before we noticed how fat we had gotten.
 - She was taking her time to answer.
 - It was living here for awhile.

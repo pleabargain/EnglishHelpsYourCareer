@@ -1,8 +1,8 @@
 # plurals 
 - Advice is always singular.
 - Documentation is always singular.
-- percent is always singular
-- feedback is always singular
+- Percent is always singular.
+- Feedback is always singular.
 - Knowledge is always singular.
 - Data is always singular. (pick your pronunciation)
 
@@ -22,44 +22,54 @@
 
 - one of the 
 	- most important things
-  - benefits
-  - ways
-  - possible problems
-  - children
-  - dogs
-  - children
-  - clients
-  - meetings
-  - rooms
+	- most common questions
+	- benefits
+	- ways
+	- best ways to do X
+	- possible problems
+	- children
+	- dogs
+	- children
+	- clients
+	- meetings
+	- rooms
+
+
 - there were a few
 	- dogs
 	- glasses on the table
 	- cats
 	- people at the restaurant
+
 - one of my favorite
-  - foods
-  - books
-  - interviews
-  - places
-  - people
-  - questions
+	- foods
+	- books
+	- interviews
+	- places
+	- people
+	- questions
+	
 - a lot of + nouns + s
-  - a lot of situations
-  - a lot of tasks
-  - a lot of stories
-  - a lot of videos
+	- a lot of situations
+	- a lot of tasks
+	- a lot properties
+	- a lot of stories
+	- a lot of videos
 
-- There are different types of ...
-
-- There are different kinds of ...
+- There are different 
+	- types of ...
+	- kinds of ...
 
 - There are many different 
 	- situations
 	- types of X
 	- ideas about X
+	
 - different + noun + s
-  - colors
-  - things
+	- colors
+	- things
+
+
 ## many + noun + s
   - organizations
   - times I stared off into space

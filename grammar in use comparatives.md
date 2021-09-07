@@ -5,6 +5,26 @@ We use **comparative [[grammar elements adjectives]]** to show change or make
   
 - The flooding got much worse after the storm.
 - It is worse than before.
+- We were happier before the Internet arrived.
+- Three years ago I was [thinner|younger|fatter] than I am now.
+
+---
+-Q: Are we much further along today than we were six months ago?
+-A: Yes, we are much further along today than we were six months ago.
+
+-Q: When can I expect the project to be completed?
+-A: Yes, we  are much further along today than we were six months ago.
+
+
+-Q: When can I expect the project to be completed?
+-A: We are planning to complete the project next week.
+
+
+
+-Q: When can I expect the project to be completed?
+-A: Our current estimates show that we will complete the project by next week.
+
+---
 
 - Everyone is driving more carefully because of the rain.
 - This phone is certainly **better**, but it's much **more expensive**.

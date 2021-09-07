@@ -8,6 +8,7 @@ The formula for the simple future is **will + [root form of verb]**.
 
 
 - They will arrive later.
+- I will eat lasagna for dinner tonight.
 - I will need to speak more English in the future.
 -   I will meet him later (I'll ..)
 -   You will come (you'll..)
@@ -17,6 +18,7 @@ The formula for the simple future is **will + [root form of verb]**.
 -   **I'll do** the dishes later.
  -   **Shall I open** the [door|window]?
 -   We will start testing soon.
+-   I will sign the documents before I leave work.
 -   The baby **won't eat** his soup.
 -   It will rain tomorrow (it'll)
 -   She will be late (she'll..)
