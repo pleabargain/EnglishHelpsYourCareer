@@ -1,6 +1,8 @@
+[[topic humor]]
+
 A Spanish Teacher was teaching in a class about the usage of nouns. How, unlike English, Spanish nouns are categorized as masculine or feminine.  
 
-“House” for example, is Feminine: “La Casa.”
+“House” for example, is feminine: “La Casa.”
 
 “Pencil” , however, is masculine: “El Lapiz.”
 
@@ -11,7 +13,7 @@ In spite of giving the answer, the Spanish Teacher decided to do a fun activity 
 The boys took their call that “Computer” should surely be the female( "La Computadora”), because:
 
 1.  Only the creator knows their internal logic.
-2.  The language used by them is incomprehensible to everyone else.
+2.  The language used by computers is incomprehensible to everyone else.
 3.  However small the mistake, it is stored in the long term memory for later use.
 4.  Just when you decide to commit to one, you find yourself spending more on the accessories.
 

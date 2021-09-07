@@ -170,6 +170,18 @@ https://englishlive.ef.com/blog/language-lab/silent-letter-english-words-silent-
 * sloths
 
 
+## V
+1.  Wild vines make fine vintage wines.
+2.  Victor’s friend Vincent rinsed his vests in vinegar.
+3.  Vivacious Vivian loved to voice vigorous verses vociferously.
+4.  Stephen vainly viewed vast vales with vacant eyes.
+5.  Vincent vowed vengeance very vehemently.
+6.  Woollen vests for wailing wolves are worn in the vast woodlands. 
+7.  For once, weary Wanda's woolgathering lost its vim and vigour.
+8.  Which witch winds white weasel wool well?
+9.  Very volatile vets visited several wives.
+10.  Which is worse verse - Wendy's verse or Wayne's verse?
+
 
 ## silent w  (don't pronounce the W!)
 * answer

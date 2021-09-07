@@ -1,3 +1,5 @@
+# get a grip
+- Get a grip! It's not the end of the world!
 # wear and tear
 My shirt has seen a lot of wear and tear.
 

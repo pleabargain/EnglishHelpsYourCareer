@@ -1,5 +1,6 @@
 # BATNA
-- best alternative to a negotiated agreement
+- best alternative to a negotiated agreement [[topic negotiations]]
+
 
 # TGIF
 - Thank God it's Friday!

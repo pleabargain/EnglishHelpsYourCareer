@@ -5,8 +5,10 @@ strengths <> weaknesses.
 safe<>dangerous
 
 soft<>rigid
+sour <> sweet
 flexible<>rigid
 
+thick <>thin
 
 finite<>infinite
 
