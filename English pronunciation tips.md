@@ -1,5 +1,11 @@
 # general American pronunciation
-- The first vowel [a,e,i,o,u] gets the emphasis.
+- Usually, the first vowel [a,e,i,o,u] gets the emphasis.
+
+# French words
+- banquet
+- bouquet
+- cuisine
+- baguette
 
 # pronunciation of past tense ed
 ## pronunciation rules for past tense 
@@ -98,8 +104,10 @@
 * crumb
 * dumb
 * lamb
+* bomb
 * subtle
 * debt
+* numb
 * doubt
 * plumber
 * thumb

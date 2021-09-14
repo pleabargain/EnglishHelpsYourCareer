@@ -1,3 +1,29 @@
+# The cat is out of the bag!
+- Someone let the cat out of the bag, our secret project is now all of over the Internet!
+
+# shooting the shit
+- We were shooting the shit last night.
+# bullshitting
+- We spent the night bullshitting about nothing.
+
+# talking shop
+- We were talking shop for awhile.
+
+# catching up
+- I caught up with an old friend last night.
+
+# mouth watering
+- These cookies are absolutely mouth watering.
+
+# finger food
+- There was a lot of good finger food at the bar during happy hour.
+
+# truth of dare
+- The teenagers played truth or dare until early morning.
+
+# womb to tomb
+A good socialist economy will take care of you from womb to tomb.
+
 # get a grip
 - Get a grip! It's not the end of the world!
 # wear and tear
@@ -166,7 +192,7 @@ We need to include them as they are key players.
 - She will be the master of ceremonies at our next event.
 
 # couch potato
-![[Pasted image 20210818121556.png]]
+![[couch potato.png]]
 
 # honestly speaking
 
@@ -376,34 +402,34 @@ This is a classic case of of too many chiefs not enough Indians.
 I'm not sure I follow your logic.
 
 # out-of-body-experience
-I had an out-of-body-experience while I was on the surgeon's table.
+- I had an out-of-body-experience while I was on the surgeon's table.
 
 # to turn the other cheek
-We were taught to turn the other cheek.
+- We were taught to turn the other cheek.
 
 # sweeping statement
-To say that all Americans are X is a sweeping statement.
+- To say that all Americans are X is a sweeping statement.
 
 # the benefit of the doubt
-We should give him the benefit of the doubt.
+- We should give him the benefit of the doubt.
 
 # that's an understatement
-To say that she is difficult to work with is an understatement.
+- To say that she is difficult to work with is an understatement.
 
 # flaky
-Phoebe is very flaky.
+- Phoebe is very flaky.
 
 # pushover
-She will do whatever you ask. She's such a pushover.
+- She will do whatever you ask. She's such a pushover.
 
 # push back
-We got a lot of push back 
+- We got a lot of push back when we asked for more money for the project. 
 
 # your days are numbered
-I have to tell you that your days are numbered here. You will get fired on Friday!
+- I have to tell you that your days are numbered here. You will get fired on Friday!
 
 # moral obligation
-I feel no moral obligation to help the drunk passed out on the bus bench.
+- I feel no moral obligation to help the drunk passed out on the bus bench.
 
 # I'm interested in how it turns out. 
 
@@ -412,37 +438,37 @@ I feel no moral obligation to help the drunk passed out on the bus bench.
 # I'll give it a try.
 
 # decent amount of X
-We have a decent amount of food for the party.
+- We have a decent amount of food for the party.
 
 # to take risk
-I am going to take a risk here and say that you are feeling uncomfortable.
+- I am going to take a risk here and say that you are feeling uncomfortable.
 
 # night owl
-He likes to stay up late like a night owl.
+- He likes to stay up late like a night owl.
 
 # early bird
-She's quite the early bird.
+- She's quite the early bird. She gets up every day at five in the morning.
 
 # the rules of the road
-You need to follow the rules of the road.
+- You need to follow the rules of the road.
 
 # stuck in a situation
-I'm stuck in a bad situation.
+- I'm stuck in a bad situation.
 
 # the lay of the land
-I took me awhile to learn the lay of the land.
+- I took me awhile to learn the lay of the land.
 
 # lost time
-We lost time when we had to cross through the city.
+- We lost time when we had to cross through the city.
 
 # waste time
-I feel like I'm wasting my time at this job.
+- I feel like I'm wasting my time at this job.
 
 # no strings attached
-She said that there were no strings attached but you know what that means.
+- She said that there were no strings attached but you know what that means.
 
 # atone for sins
-I need to atone for my sins.
+- I need to atone for my sins.
 
 # go through the motions
 - I just went through the motions!
@@ -460,7 +486,7 @@ I need to atone for my sins.
 - My grandmother told me not to sweat the small stuff.
 
 # don't overthink it
-
+- I know you like to consider every angle but I would recommend you don't overthink it.
 
 
 # it's foolhardy
@@ -480,9 +506,9 @@ I need to atone for my sins.
 # I'm looking forward to seeing...
 - I'm looking forward to seeing to how they do it.
 - I'm looking forward to seeing you next week.
-  
-# asking for time
-- Give me a second.
+
+# Give me a second.
+- Give me a second. I'm busy right now.
 
 
 # planned obsolescence
@@ -491,7 +517,7 @@ I need to atone for my sins.
 # eye opening experience
 - My first colonoscopy was an eye opening experience!
 
-# put in my two senses
+# put in my two cents
 
 # don't sweat the small stuff
 - My grandmother told me not to sweat the small stuff.
@@ -502,6 +528,7 @@ I need to atone for my sins.
 
 
 # to touch base
+- I need to touch base with my wife first before I confirm anything.
 
 
 # There's more than one way to skin a cat.

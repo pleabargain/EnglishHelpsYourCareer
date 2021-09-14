@@ -118,6 +118,7 @@
 
 ## For: Period of time
 - We’ve lived here for 2 years.
+-  We will have wandered around the mall **for** about two hours before we will see our friends.
 - I've been taking English classes for 2 years.
 - I've been married for eight years.
 - I dated her for five years.
@@ -182,6 +183,7 @@
 
 # in order to
 - In order to finish the project by tomorrow, I need more help.
+- In order to control the robot you need to write your own navigation stack.
 
 
 # instead of
@@ -189,6 +191,7 @@
 
 # because of		
 - Because of the budget cuts, we will not be having the annual company summer picnic.
+- Because of the complexity of the system, you will need to do something.
 
 
 # amid
@@ -196,11 +199,14 @@
 
 # among
 - They walk among us every day.
-- Aliens walk among us every day.
+- There are some who say that aliens walk among us every day.
+- Among our team, we have several very talented AI developers.
+- Among those trees you might find mushrooms.
 
 # against
 - Our home team played against another team and lost.
 - I played against the computer, and I won!
+- The robot collided against the wall.
 
 # opposite to
 - I live opposite to a big super market.
@@ -229,6 +235,7 @@
 
 # according to
 - According to the weather man, it's supposed to rain today.
+- According to the code guidance document you should write unit tests.
 
 # in accordance with
 - This budget is in accordance with our contracted agreement.
@@ -239,6 +246,7 @@
 
 # as far as I'm concerned...
 - As far as I'm concerned, we should think about limiting our time on our devices.
+- As far as I'm concerned we should meet more often.
 
 # as
 - I want to speak Chinese as well as you do!
@@ -251,6 +259,8 @@
 
 # as opposed to
 - I prefer this one as opposed to that one.
+- Bluetooth is a superior protocol as opposed to SMS in this case.
+- Having a monitoring tool on the robot is a good idea as opposed to putting the monitoring tool in a central location.
 
 # as well as
 - As well as I know, England is very green.
@@ -355,6 +365,7 @@
 
 # in order to
 - In order to earn money, I must work.
+- In order to connect the platform it's best to use MQTT.  [[English in use acronyms#MQTT]]
 
 # plus
 - We will buy a bottle of wine plus a bit of cheese for the party.

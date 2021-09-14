@@ -1,9 +1,21 @@
+# MQTT
+- message query telemetry transport 
+
+# BYOB
+- bring your own booze [[topic parties]]
+
+# ASIC
+- application-specific integrated circuit [[topic integrated chips]]
+
 # BATNA
 - best alternative to a negotiated agreement [[topic negotiations]]
 
 
-# TGIF
-- Thank God it's Friday!
+# TGIF 
+- Thank God it's Friday! [[topic parties]]
+
+# IPO 
+- initial public offering [[topic investments]]
 
 # SDLC
 - software development life cycle

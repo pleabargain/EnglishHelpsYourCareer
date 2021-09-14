@@ -10,6 +10,8 @@ flexible<>rigid
 
 thick <>thin
 
+tame <> wild
+
 finite<>infinite
 
 clean <>dirty

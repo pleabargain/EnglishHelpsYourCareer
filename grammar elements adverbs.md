@@ -5,6 +5,69 @@ An adverb is a word that modifies a adjective, verb, determiner, another adverb,
 
 ---
 
+# effectively
+- They did try, but I think it was a case of mismanagement and not knowing how to deal with disability effectively.
+
+# anxiously
+- I anxiously await the new episode each Monday night.
+
+# suddenly
+- He died suddenly in 2006 in unclear circumstances.
+- Out of my depth, and committed to a professional political engagement I no longer believe in, I suddenly have every sympathy for him.
+
+# hourly
+- She's on a terrific salary, of course, though she jokes that the hourly rate mightn't be quite so good.
+
+# less
+- We've been selling print books for 15 years and Kindle books for less than four years.
+
+
+# everywhere
+- But "she took an honorable icon that is seen in sporting venues everywhere and degraded it".
+- After a resounding  loss, that word "fault" is now everywhere.
+
+# rarely
+- He used to like hill-walking and playing the guitar, but rarely finds the time now.
+
+# anxiously
+- I anxiously await the new episode each Monday night.
+- "Be careful honey," says Sam anxiously, "Don't go too near the edge".
+
+
+# immediately
+- The Police Department did not immediately respond to a request for comment.
+- It stopped, and was immediately followed by a voice remarking her own thoughts.
+- We hit it off immediately.
+- Stop whisking, then immediately and carefully pour the egg into the center of the whirlpool.
+
+# gleefully
+- "I'll tell you something," he rasped gleefully.
+- Supporters of both have gleefully highlighted their differences, but their similarities are more striking.
+
+
+# innocently
+- "Is there a legend connecting him with the town?" I asked innocently at the ticket booth for the cathedral museum.
+- But most of those caught up in his affairs, however innocently, are educators.
+
+# freely
+- This nutrition advice will be freely dispensed to customers.
+
+# dramatically
+- They displayed their talents both musically and dramatically.
+- Our company has grown dramatically.
+
+# previously
+-  **Previously** it was based on different technology.
+		
+# quickly
+-  We **quickly** finished the project.
+
+# simply
+-  Simply explained, I'm going to change the world.
+-  We simply don't know.
+-  Or is it simply that the movies have got better?
+
+
 # invariably
 - It invariably rains on the day when I want to have a BBQ picnic!
 
@@ -21,6 +84,12 @@ An adverb is a word that modifies a adjective, verb, determiner, another adverb,
 
 # recently
 - Recently I have been thinking about...
+- Only recently have many lawmakers begun to give him credit for kickstarting the debate.
+
+
+# simply
+
+- Simply explained, I'm going to change the world.
 
 # widely
 - It's widely recognized as X.
@@ -101,6 +170,7 @@ An adverb is a word that modifies a adjective, verb, determiner, another adverb,
 # quickly
 - Recently, there have have been a lot articles about X.
 - Our friends recently got engaged to each other.
+-  We quickly finished the project.
 # loudly
 # freshly
 - These vegetables are freshly picked from our garden.

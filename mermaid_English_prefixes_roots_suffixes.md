@@ -184,27 +184,27 @@ Meaning: full of or notable of (adjective)
 ```mermaid
 graph TD;
 
--ful--> grateful; 
 -ful-->  beautiful; 
--ful-->  wonderful; 
--ful-->  useful; 
--ful-->  helpful; 
--ful-->  forceful; 
--ful-->  graceful; 
 -ful-->  bountiful; 
+-ful-->  eventful;
+-ful-->  forceful; 
 -ful-->  fanciful;
+-ful--> grateful; 
+-ful-->  graceful;
+-ful-->  helpful; 
 -ful-->  hopeful;
-
+-ful-->  useful; 
+-ful-->  wonderful; 
 ```
 
 ## -ic 
 Meaning: relating to
 ```mermaid
 graph TD; 
+-ic-->  heroic; 
 -ic--> iconic;
- -ic-->  organic; 
- -ic-->  heroic; 
- -ic-->  poetic
+-ic-->  organic; 
+-ic-->  poetic
 ```
 
 ## -ious 

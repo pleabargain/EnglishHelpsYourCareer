@@ -4,11 +4,47 @@
 # instructions
 verbs (pronunciation) (regular or irregular)
 
+# postpone postponed (d) (reg)
+
+
+# index indexed (t) (reg)
+- Our site was indexed by Google last night.
+
+
+#  shed shedded (id) (reg)
+---
+
+-   Q: Has your lizard shed it's skin?
+-   A: Normally, my lizard will shed about once [per|a] year.
+		
+---
+
+-   Q: Is your cat shedding? There is hair everywhere!
+-   A: My cat sheds all the time!
+	
+---
+
+
+# shock shocked (t) (reg)
+- I was shocked by her behavior.
+
+# accomplish accomplished  (t) (reg)
+- We accomplished nothing!
+
+# whirl whirled (d) (reg)
+- The whirling dervishes are a strange group of believers of god.
+
+# arise arose arisen (irr)
+- He will arise in the morning.
+- He arose at seven in the morning.
+- He had arisen at seven to start his day.
+
+
 
 # ruin ruined (d) (reg)
-They have ruined everything.
+- They have ruined everything.
 
-# disappoint disappointed
+# disappoint disappointed (id) (reg)
 
 # obsess obsessed (t) (reg)
 - She was obsessed with chocolate and it showed on her waste line!
@@ -86,6 +122,8 @@ They have ruined everything.
 
 # to concoct(id) (reg)
 - I concocted a new cocktail!
+- He has concocted a crazy new combination of chicken and rice.
+- My team and I have concocted a great team building plan.
 
 # to short out (phrasal verb)
 - We shorted out our apartment when we installed the new microwave. It blew all of the fuses.
@@ -153,10 +191,14 @@ They have ruined everything.
 - He emitted a lot of conflicting signals. [[topic communication]]
 
 
-# switch over
+# please pleased (d) (reg)
+- I was very pleased with the results.
+
+# switch off
 - "Please switch off your phones".
+- - It's a nice switch-off.
+# switch over
 - Switch off unit before destroying.
-- It's a nice switch-off.
 - I switched over to a new provider.
 
 # hide hidden (irr)
@@ -388,7 +430,8 @@ I like to exercise in the morning.
 
 # plan planned (d) (reg)
 - I'm planning to take a break.
-- We are planning to move to Bali.
+- We are planning to move to Bali. [[tense present continuous]]
+- We thought we had planned for everything. 
 - I'm planning to see it sometime soon.
 - We had planned to meet here.
 - Before we start the work, we should plan it.
@@ -1085,7 +1128,7 @@ We sipped wine while we watched the sunset.
 - You should drink more water.
 - You shouldn't have drunk so much alcohol! 
 - You shouldn't drink too much at the party.
-- 
+- I drank too much last night.
 
 # to get along (irr)
 
@@ -1344,7 +1387,7 @@ We sipped wine while we watched the sunset.
 
 # complement complemented (id) (reg)
 - I had complemented her many times for her tasteful meals. (past perfect simple)
-- My mother was always complementing me on my hardwork at school.
+- My mother was always complementing me on my hard work at school.
 
 # commit committed (id) (reg)
 - Someone has just committed a crime! Call the police!
@@ -1422,6 +1465,7 @@ We sipped wine while we watched the sunset.
 
 # realize realize (d) (reg)
 - When I was a child I realized that I didn't like snails at all because they are slimy.
+- We didn't realize that there was a problem until it was until late.
 - She realized that her phone was missing.
 - After realizing that my phone was missing, I tried to call it.
 
@@ -2000,6 +2044,7 @@ https://i.imgur.com/D6KFFLx.png
 # correct corrected (id) (reg)
 - I should have corrected that error earlier.
 - She corrected me.
+
 
 # combine combined (d) (Reg)
 - I combined my love of fishing with my love of engineering.
