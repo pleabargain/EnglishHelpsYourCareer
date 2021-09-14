@@ -7,9 +7,7 @@ Bob: I'm good ___. tennis.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
-
 </p>
 </details>
 
@@ -25,9 +23,7 @@ Bob: He's interested ___ history.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 in
-
 </p>
 </details>
 
@@ -44,9 +40,7 @@ Bob: Please don't interfere ___ my personal affairs.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 in
-
 </p>
 </details>
 
@@ -65,9 +59,7 @@ Bob: He was embarrassed because everybody was laughing ___ him.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
-
 </p>
 </details>
 
@@ -84,7 +76,6 @@ Bob: She's obsessed ___ her project.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 with
 
 </p>
@@ -103,9 +94,7 @@ Bob: I know nothing ___ the matter.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 on
-
 </p>
 </details>
 
@@ -122,7 +111,6 @@ Bob: He's married ___ Jane.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
 
 </p>
@@ -141,9 +129,7 @@ Bob: He doesn't care ___. losing his job.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 about
-
 </p>
 </details>
 
@@ -159,7 +145,6 @@ Bob: I never listen ___. the radio.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
 
 </p>
@@ -177,7 +162,6 @@ Bob: Don't take any notice ___ him. You can ignore him.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 of
 
 </p>
@@ -196,7 +180,6 @@ Bob: I'm fed up ___ his mess.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 with
 
 </p>
@@ -216,7 +199,6 @@ Bob: I'd rather be single ____ in a bad relationship.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 than
 
 </p>
@@ -236,7 +218,6 @@ Bob: Using your cell phone while driving is ___________ the law.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 against
 
 </p>
@@ -256,7 +237,6 @@ Bob: After payment, you'll receive the product __________ 10 business days.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 within
 
 </p>
@@ -276,7 +256,6 @@ Bob: I have no experience, so I'm _____ a disadvantage when it comes to this job
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
 
 </p>
@@ -296,7 +275,6 @@ Bob: Yes, I read a great book ___ John Grisham but I didn't like it very much.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 by
 
 </p>
@@ -315,7 +293,6 @@ Bob: My grandparents lived in that same house _____ ages.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 for
 
 </p>
@@ -334,7 +311,6 @@ Bob: He's Italian? For some reason I was _______ the impression that he was Span
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 under
 
 </p>
@@ -353,7 +329,6 @@ Bob: She should have gotten here ______ now.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 by
 
 </p>
@@ -373,7 +348,6 @@ Bob: We've put a lot of effort ______ this project.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 into
 
 </p>
@@ -393,7 +367,6 @@ Bob: ____ she's a little shy, she's a wonderful person once you get to know her.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 Although
 
 </p>
@@ -413,7 +386,6 @@ Bob: We drove ________ the coastline of California.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 along
 
 </p>
@@ -431,7 +403,6 @@ Bob: His consulting fee is $150 ______ hour.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 per
 
 </p>
@@ -449,7 +420,6 @@ Bob: Everyone ____ Joanna agreed with me.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 except
 
 </p>
@@ -467,7 +437,6 @@ Bob: You can take 6 people to the airport _________ you have a minivan.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 since
 
 </p>
@@ -485,7 +454,6 @@ Bob: The scientist made an amazing discovery _____ accident: time is money!
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 by
 
 </p>
@@ -503,7 +471,6 @@ Bob: He's tired ___ their complaints.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 of
 
 </p>
@@ -520,7 +487,6 @@ Bob: She'll be there ___ you.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 on
 
 </p>
@@ -536,7 +502,6 @@ Bob: She's sick ___ her job.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 on
 
 </p>
@@ -554,10 +519,7 @@ Bob: The trouble ___. him is that he never knows when to [shut up,keep quiet].
 
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -571,10 +533,7 @@ Bob: Yes, you can.
   
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -588,10 +547,7 @@ Bob: I had to borrow five dollars ___. Jane for the taxi.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -605,10 +561,7 @@ Bob: Everybody blamed her ___ the accident.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -622,10 +575,7 @@ Bob: Everybody is blaming her ___ the accident because she was driving.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -638,10 +588,7 @@ Congratulations ___. your [promotion,engagement,anniversary].
 
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -657,9 +604,7 @@ Bob: Sure, I can! Let me start from the beginning...
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
@@ -675,10 +620,7 @@ Bob: She suffers ___ a [liver,lung,heart,kidney] disease.
 * from
 <details><summary><b>Answer</b></summary>
 <p>
-
-from
-
-</p>
+from</p>
 </details>
 
 ---
@@ -693,9 +635,7 @@ Bob: I prefer spring ___ summer.
 * to
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
@@ -712,10 +652,7 @@ Bob: She spent a fortune ___ that painting.
 * to
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -726,10 +663,7 @@ Ana: How much did A. Jolie gain ___ the sale of Winston Churchill's painting?
 Bob: She [gained,made] 7M pounds.
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -743,10 +677,7 @@ Bob: That reminds me ___ when I was at university.
 * for
 <details><summary><b>Answer</b></summary>
 <p>
-
-of
-
-</p>
+of</p>
 </details>
 
 ---
@@ -773,9 +704,7 @@ Have you spoken ___ him yet?
 * at
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
@@ -786,10 +715,7 @@ to
 Lady Gaga is famous ___ her songs and her costumes.
 <details><summary><b>Answer</b></summary>
 <p>
-
-for
-
-</p>
+for</p>
 </details>
 
 ---
@@ -801,10 +727,7 @@ It's famous ___ its [cocktails,steaks,seafood].
 * for
 <details><summary><b>Answer</b></summary>
 <p>
-
-for
-
-</p>
+for</p>
 </details>
 
 ---
@@ -816,9 +739,7 @@ How do you feel ___ their coming?
 * to
 <details><summary><b>Answer</b></summary>
 <p>
-
 about
-
 </p>
 </details>
 
@@ -830,9 +751,7 @@ How do you feel ___ their coming over dinner next Friday?
 * to
 <details><summary><b>Answer</b></summary>
 <p>
-
 about
-
 </p>
 </details>
 
@@ -848,10 +767,7 @@ What's the matter ___ her?
 
 <details><summary><b>Answer</b></summary>
 <p>
-
-with
-
-</p>
+with</p>
 </details>
 
 ---
@@ -877,10 +793,7 @@ in / at
 The weather is often terrible in London ___ January.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -891,9 +804,7 @@ in
 It's better to get a taxi if you are out alone ___ night.
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
-
 </p>
 </details>
 
@@ -905,10 +816,7 @@ at
 She got married ___ September.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -919,10 +827,7 @@ in
 They usually go to the south of France ___ the summer.
 <details><summary><b>Answer</b></summary>
 <p>
-
-for
-
-</p>
+for</p>
 </details>
 
 ---
@@ -932,10 +837,7 @@ for
 Columbus sailed to the Americas ___ the 16th century.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -947,10 +849,7 @@ in
 The Beatles were popular ___ the 1960s.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -962,10 +861,7 @@ in
 I graduated from university ___ 2001.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -977,10 +873,7 @@ in
 His birthday is ___ June.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -1007,9 +900,7 @@ for / on
 The train leaves tomorrow morning ___ 8:00 am.
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
-
 </p>
 </details>
 
@@ -1021,10 +912,7 @@ at
 I love going skiing ___ January.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -1035,9 +923,7 @@ in
 We met at the restaurant ___ 8pm.
 <details><summary><b>Answer</b></summary>
 <p>
-
 at 
-
 </p>
 </details>
 
@@ -1049,9 +935,7 @@ at
 The class is ___ 9am ___ Monday mornings.
 <details><summary><b>Answer</b></summary>
 <p>
-
-at / on
-
+at | on
 </p>
 </details>
 
@@ -1063,10 +947,7 @@ at / on
 I like to drink coffee ___ the morning and tea the afternoon.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -1077,10 +958,7 @@ in
 She left London ___ the 4th of March.
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
@@ -1089,10 +967,7 @@ on
 I had a party ___ my birthday.
 <details><summary><b>Answer</b></summary>
 <p>
-
-for
-
-</p>
+for</p>
 </details>
 
 ---
@@ -1102,10 +977,7 @@ for
 Lucy went to New York ___ New Year.
 <details><summary><b>Answer</b></summary>
 <p>
-
-for
-
-</p>
+for</p>
 </details>
 
 ---
@@ -1117,9 +989,7 @@ for
 We're meeting ___ lunchtime next Tuesday.
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
-
 </p>
 </details>
 
@@ -1133,10 +1003,7 @@ at
 England is famous ___ its rainy weather.
 <details><summary><b>Answer</b></summary>
 <p>
-
-for
-
-</p>
+for</p>
 </details>
 
 ---
@@ -1147,10 +1014,7 @@ for
 I'm very proud ___ my daughter, she has worked very hard to get where she is in life.
 <details><summary><b>Answer</b></summary>
 <p>
-
-of
-
-</p>
+of</p>
 </details>
 
 ---
@@ -1161,10 +1025,7 @@ of
 He isn't really interested ___ getting married.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -1174,10 +1035,7 @@ in
 Luke is very pleased ___ his exam results.
 <details><summary><b>Answer</b></summary>
 <p>
-
-with
-
-</p>
+with</p>
 </details>
 
 ---
@@ -1189,9 +1047,7 @@ with
 Unfortunately, I'm very bad ___ languages.
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
-
 </p>
 </details>
 
@@ -1202,9 +1058,7 @@ at
 I've been married ___ my husband for 10 years.
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
@@ -1215,9 +1069,7 @@ to
 She's very excited ___ the idea of going to a party.
 <details><summary><b>Answer</b></summary>
 <p>
-
 about
-
 </p>
 </details>
 
@@ -1228,10 +1080,7 @@ about
 Julie is very different ___ her sister.
 <details><summary><b>Answer</b></summary>
 <p>
-
-from
-
-</p>
+from</p>
 </details>
 
 ---
@@ -1243,10 +1092,7 @@ from
 My niece is afraid ___ dogs.
 <details><summary><b>Answer</b></summary>
 <p>
-
-of
-
-</p>
+of</p>
 </details>
 
 ---
@@ -1257,9 +1103,7 @@ of
 A ball gown is similar ___ an evening dress.
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
@@ -1270,10 +1114,7 @@ to
 What is your town famous ___?
 <details><summary><b>Answer</b></summary>
 <p>
-
-for
-
-</p>
+for</p>
 </details>
 
 ---
@@ -1283,10 +1124,7 @@ for
 It's great you got that job - you should be proud ___ yourself.
 <details><summary><b>Answer</b></summary>
 <p>
-
-of
-
-</p>
+of</p>
 </details>
 
 ---
@@ -1296,9 +1134,7 @@ of
 I'm very excited ___ buying a new computer.
 <details><summary><b>Answer</b></summary>
 <p>
-
 about
-
 </p>
 </details>
 
@@ -1308,9 +1144,7 @@ about
 That bike is similar ___ yours.
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
@@ -1322,10 +1156,7 @@ to
 She is interested ___ jazz.
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -1335,10 +1166,7 @@ in
 Are you pleased ___ your new house?
 <details><summary><b>Answer</b></summary>
 <p>
-
-with
-
-</p>
+with</p>
 </details>
 
 ---
@@ -1350,9 +1178,7 @@ with
 Lucy is extremely good ___ languages.
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
-
 </p>
 </details>
 
@@ -1364,9 +1190,7 @@ at
 Who is James married ___ ?
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
@@ -1378,10 +1202,7 @@ to
 English cheese is very different ___ French cheese.
 <details><summary><b>Answer</b></summary>
 <p>
-
-from
-
-</p>
+from</p>
 </details>
 
 ---
@@ -1392,10 +1213,7 @@ from
 He isn't afraid ___ anything.
 <details><summary><b>Answer</b></summary>
 <p>
-
-of
-
-</p>
+of</p>
 </details>
 
 ---
@@ -1404,14 +1222,10 @@ of
 
 
 
-Mark sympathised ___ his friend's situation. 
+Mark sympathized ___ his friend's situation. 
 <details><summary><b>Answer</b></summary>
 <p>
-
-with
-
-
-</p>
+with</p>
 </details>
 
 ---
@@ -1419,11 +1233,7 @@ with
 This soup tastes ___ garlic. 
 <details><summary><b>Answer</b></summary>
 <p>
-
-like
-
-
-</p>
+like</p>
 </details>
 
 ---
@@ -1431,10 +1241,7 @@ like
 The doctor specializes ___ heart surgery. 
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
@@ -1442,11 +1249,7 @@ in
 The player was so angry that he threw the ball ___ the referee. 
 <details><summary><b>Answer</b></summary>
 <p>
-
-at
-
-
-</p>
+at</p>
 </details>
 
 ---
@@ -1454,9 +1257,7 @@ at
 If you look ___ the window you can see where I parked the car. 
 <details><summary><b>Answer</b></summary>
 <p>
-
 out
-
 </p>
 </details>
 
@@ -1465,10 +1266,7 @@ out
 We are all looking forward ___ seeing you. 
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
-
 </p>
 </details>
 
@@ -1477,10 +1275,7 @@ to
 We made good use ___ the free period in school and did our homework. 
 <details><summary><b>Answer</b></summary>
 <p>
-
-of
-
-</p>
+of</p>
 </details>
 
 ---
@@ -1488,9 +1283,7 @@ of
 I will look ___ this problem and try to find an answer. 
 <details><summary><b>Answer</b></summary>
 <p>
-
 at
-
 </p>
 </details>
 
@@ -1499,10 +1292,7 @@ at
 The children were warned ___ talking to strangers. 
 <details><summary><b>Answer</b></summary>
 <p>
-
 against
-
-
 </p>
 </details>
 
@@ -1512,10 +1302,7 @@ against
 The lifeguard saved the boy ___ drowning. 
 <details><summary><b>Answer</b></summary>
 <p>
-
 from
-
-
 </p>
 </details>
 
@@ -1527,9 +1314,7 @@ I couldn't find the solution ___. the problem.
 * in
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
@@ -1543,104 +1328,82 @@ Bob: Green peppers are very rich ___ vitamin C.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
-in
-
-</p>
+in</p>
 </details>
 
 ---
 
-I was amazed ---------------------- her brilliant performance.
+I was amazed ___ her brilliant performance.
 <details><summary><b>Answer</b></summary>
 <p>
-
-by
-
-</p>
+by</p>
 </details>
 
 ---
 
-She is anxious ------------------------ hear from her daughter.
+She is anxious ___ hear from her daughter.
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
 ---
 
 
-I am anxious ---------------------- his health.
+I am anxious ___ his health.
 <details><summary><b>Answer</b></summary>
 <p>
-
-for
-
-</p>
+for</p>
 </details>
 
 ---
 
 
-He apologized ---------------------- her for his rude behavior.
+He apologized ___ her for his rude behavior.
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
 ---
 
 
-They appealed --------------------- us for help.
+They appealed ___ us for help.
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
 ---
 
 
-He appears ---------------------- be rather opinionated.
+He appears ___ be rather opinionated.
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
 ---
 
 
-We want the best candidate to be appointed --------------------- the post.
+We want the best candidate to be appointed ___ the post.
 <details><summary><b>Answer</b></summary>
 <p>
-
 to
-
 </p>
 </details>
 
 ---
 
 
-Are you aware ------------------- his plans?
+Are you aware ___ his plans?
 <details><summary><b>Answer</b></summary>
 <p>
-
-of
-
-</p>
+of</p>
 </details>
 
 ---
@@ -1648,36 +1411,27 @@ of
 
 
 
-She is behind --------------------- her studies.
+She is behind ___ her studies.
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
 
-I don't think we can bank --------------------- him this time.
+I don't think we can bank ___ him this time.
 <details><summary><b>Answer</b></summary>
 <p>
-
-on
-
-</p>
+on</p>
 </details>
 
 ---
 
 
-Please bear ----------------------- me until I finish this job.
+Please bear ___ me until I finish this job.
 <details><summary><b>Answer</b></summary>
 <p>
-
-with
-
-</p>
+with</p>
 </details>
 
 ---
