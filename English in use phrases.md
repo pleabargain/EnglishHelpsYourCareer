@@ -1,3 +1,12 @@
+# to get on someone's nerves
+- You are getting on my last nerve! This is your last warning!
+
+# to drown your sorrows
+- Drinking to drown your sorrows will only prolong your pain.
+
+# putting out fires
+- I've putting out fires all day long; my team is not trained and they don't know what to do.
+
 # The cat is out of the bag!
 - Someone let the cat out of the bag, our secret project is now all of over the Internet!
 

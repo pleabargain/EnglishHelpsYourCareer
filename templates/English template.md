@@ -31,7 +31,7 @@ https://www.brainyquote.com/
 -  [[English in use dialogues]]
 -  [[English opposites]]
 -  [[English in use phrases]]
- -  [[English in use acronyms]]
+-  [[English in use acronyms]]
 
 
 # grammar elements
