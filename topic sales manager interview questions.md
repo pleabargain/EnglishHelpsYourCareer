@@ -1,0 +1,21 @@
+-  What kind of [work,job] experience do you have?
+-  What was the worst business situation you had with one of your clients?
+  -  What did you learn from this experience?
+
+-  What questions would you ask someone who is going to join your sales team?
+-  Why did you leave your previous [job,company]?
+-  What strategies do you like to use to convince a client to buy?
+-  Why do you want to work here at our company?
+-  Do you have a leads database?
+-  What title best reflects your skills?
+-  What is your expected salary?
+-  What questions would you ask for someone who wants to manage a sales team?
+-  How many people have you managed?
+-  What is your delegation style?
+  -  I delegate the tasks based on the team's individual abilities. And try to leverage up everyone as fast as possible.
+-  How effective financially was your sales team at your last company?
+-  Have you ever had to build a sales team from the ground up?
+-  Have you ever fired someone from your sales team?
+-  In your experience, what is the most effective way to motivate your team?
+-  What is the most important characteristic of an effective sales manager?
+-  How are you going to meet the next quarter budget?

@@ -1,6 +1,5 @@
-# questions
-- What is your opinion of zoos?
- - How Do You Feel About Zoos?
+ # questions
+-  Have you ever been to a wine tasting?
 
 # statements
 
@@ -10,10 +9,20 @@
 
 # [[grammar elements verbs]]
 
+-  smell
+-  taste
+
+
 # [[grammar elements nouns]]
+
+-  bottle
+-  vintage
+-  winery
+
 
 # [[grammar elements adjectives]]
 
 # [[grammar elements adverbs]]
 
 # resources
+

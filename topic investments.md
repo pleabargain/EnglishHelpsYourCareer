@@ -16,6 +16,8 @@
 - What do you do if an investment is a loser?
 - What do you do if an investment is simply a laggard?
 - How much do you invest in yourself?
+- How comfortable are you with risk?
+- What do you hope to achieve?
 - Have you ever used a stock simulator?
 - Have you heard about X?
 - Have you heard of [[https://www.interactivebrokers.com/en/home.php|Interactive Brokers]]
@@ -25,15 +27,18 @@
 
 # statements
 - The best time to start investing is yesterday.
+- It sounds like a good idea.
+- I didn't trust her.
 - Their numbers are amazing.
+- I want financial independence for my retirement.
 - If you had invested in FEB 2020 in X you would have made a lot of money.
 
 # verbs
-- [[grammar elements verbs#invest]]
-- [[grammar elements verbs#hedge]]
+- [[grammar elements verbs#invest invested id reg]]
+- [[grammar elements verbs#hedge hedged d reg]]
 
-# acronyms
-IP0 initial public offering
+# [[English in use acronyms]]
+- IP0 initial public offering
 
 
 # dialogues

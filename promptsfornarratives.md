@@ -1,48 +1,3 @@
-# attractions
-* If you didn't like your mate's clothing or hairstyle, would you tell him or her? Would you want your partner to tel you?
-* What first attracted you to me? How has that one attraction changed since then?
-* If you went bald, would you consider wearing a toupee or getting hair plugs?
-* Would you want your spouse to talk with you first before they dramatically changed their hairstyle or facial hair?
-* If your partner asked you to shave or not to shave (face, underarms, legs, pubic area) would you do it? What is your preference for shaving those areas?
-* If you had problems with my personal hygiene, would you be able to tell me?
-* What physical or personality trait do you think makes people first attracted to you?
-* Do stylish clothes, nice hair, expensive jewelry or "things" make you feel better about yourself?
-* Do you think you tend to attract a certain type of person?
-* Do you feel like you need to dress sexy? Why or why not? Do you feel that people who dress sexy are sending the message that they are interested in sex?
-* How do you feel about permanent tattoos? Why do you think most people get them?
-* If you suddenly became blind, how would your idea of the perfect mate change?
-* Do you believe in love at first sight? If so, what about the mil ions of cases when love at first site ended in disaster?
-* Do you really like the way I dress? What changes could I make that would please you?
-* Which do you think you would rather have: a gorgeous mate who wasn't very interested in sex or very good in bed or a very ordinary looking spouse that was awesome in the sack?
-* If you could be any height and build you desire, what would it be?
-* Should your sweetheart love you just the way you are, or would you be willing to make some changes (the way you dress, shaving, new hairstyle, etc) to become more attractive to him or her?
-* In what ways are you smart?
-* How would you feel if your mate wanted to wear matching outfits or dress like you?
-* What do you find attractive about my physical features? Is there a favorite?
-* If you were single and wanted to write a personal ad describing your qualities, how would it read?
-* Do you fear looking older?
-* How do you feel about women wearing makeup? What do you think is ideal?
-* What is your opinion on women spending money to get their nails done? Do you have a preference on how you like women's nails?
-* What do you perceive to be your physical flaws?
-* Are you currently comfortable with your body? If not, what would you change to make you comfortable?
-* How would you feel if I had breast implants?
-* If you could change one thing about your body, what would it be?
-* What outfit of mine is your favorite? Why is it?
-* Do you think that dressing is something you do out of necessity or do you enjoy putting outfits together?
-* If your aunt left you a large sum of money in her wil for you to have any sort of plastic surgery you desired would you have anything done?
-* Name one or two minor changes I could make to my appearance that would make me more attractive?
-  
-# favorites
-* Do you have a favorite type (or a couple) of music? A favorite singer? Or musical group?
-* What is your favorite fast food restaurant? How often do you eat there? What's your favorite restaurant for casual dining? Favorite special occasion restaurant?
-* Do you have a favorite movie? Actor? Actress? Comedy? Drama?
-* What's your favorite alcoholic beverage?
-* What meal would you eat most often if you could? Do you have a favorite "fancy" meal?
-* What is your favorite snack food? Dessert? What's your favorite ice cream flavor?
-* Do you have a favorite and least favorite day of the week? Why do you feel that way?
-* What is your favorite time of day?
-* What's your favorite candy bar?
-* What is your favorite ethnic cuisine?
 
 # personality
 * What things about me remind you of anyone from your past, either past sweethearts or good friends?
@@ -344,16 +299,7 @@
 * Who's Your 'Outsider Role Model'?
 
 
-# Fishing
-* Can you describe the contents of a basic fisherman's tackle box?
-* What do you consider to be basic fishing tackle?
-* What fishing equipment do you recommend for a beginner?
-* Where do you go fishing?
-* Why do you go fishing?
-* Have you ever tried fishing?
-* Have you ever tried to catch a fish?
-* When do you usually go fishing?
-* Is [fishing,walking,singing,playing guitars] one of your hobbies?
+
 
 
 
@@ -436,31 +382,6 @@
 
 
 
-
-
-# Childhood Memories
-* What were you like as a kid?
-* What Was Your Most Precious Childhood Possession?
-* What Objects Tell the Story of Your Life?
-* What Do You Collect?
-* What Were Your Favorite Childhood Shows and Characters?
-* Do You Have Childhood Memories of Being Read Aloud To?
-* What Were Your Favorite Picture Books When You Were Little?
-* What Things Did You Create When You Were a Child?
-* What Places Do You Remember Fondly From Childhood?
-* What Food or Flavor Do You Remember Tasting for the First Time?
-* What Do You Wish You Could See, Hear, Read or Experience for the First Time All Over Again?
-* Have You Ever Felt Embarrassed by Things You Used to Like?
-* Do You Wish You Could Return to Moments From Your Past?
-* Was There a Toy You Wanted as a Child but Never Got?
-* What's the Best Gift You've Ever Given or Received?
-* What's the best present you ever gave someone? Ever received?
-* What's the Most Memorable Thing You Ever Got in the Mail?
-* Have You Ever Lost (or Found) Something Valuable?
-* What Nicknames Have You Ever Gotten or Given?
-* What Are Your Best Sleepover Memories?
-* What Old, Worn Out Thing Can You Just Not Part With?
-* What Is Your Most Prized Possession?
 
 
 
@@ -583,23 +504,7 @@
 
 
 
-# Television
 
-* What Are the Best Things You've Watched, Read, Heard or Played This Year?
-* What Are Your TV Habits?
-* Do Your Television Viewing Habits Include 'Binge-Watching'?
-* What Role Does Television Play in Your Life and the Life of Your Family?
-* What Television Shows Have Mattered to You?
-* How Often Do You Watch a Television Show When It Originally Airs?
-* * How Often Do You Watch a Television Show When It Originally starts?
-* Have You Fallen Into 'Friends' or Any Other Older Television Shows?
-* What Old Television Shows Would You Bring Back?
-* Why Do We Like Reality Shows So Much?
-* What Ideas Do You Have for a Reality Show?
-* What Reality TV Show Would You Want to Be a Guest Star On?
-* What Are Your Favorite Cartoons?
-* What Are Your Favorite Commercials?
-* How Much Are You Influenced by Advertising?
 
 
 
@@ -920,38 +825,7 @@ better: What languages were commonly used on your last project?
 * Do you think a woman should take a man last's name? Why or why not? How about hyphenated last names? Would the man consider a hyphenated last name too?
 * Do you have a vision of a perfect honeymoon (or second honeymoon)?
 
-# Winter
-## Winter verbs: 
-* skiing
-* melt
 
-
-## Winter nouns
-* ice
-* snow
-* Holidays
-* presents
-
-## Winter adjectives
-* snowy
-* icy
-* uncomfortable
-* chilly
-* Windy
-* Wet
-* White
-* Dreary
-* cloudy
-
-
-
-* How Do You Fight the Winter Blues?
-* Are you susceptible to the Winter Blues?
-* Are you susceptible to depression during the winter?
-* What Would You Do on a Snow Day?
-* What Are Your Experiences With Severe Weather? e.g. hurricanes, typhoons, tornadoes, hail storm
-* What Would Your Vacation Break Be Like?
-* What's Your Favorite winter Food?
 
 
 ## Spring
@@ -1128,7 +1002,6 @@ better: What languages were commonly used on your last project?
 * Would You Want to Hang Out at a Cat Cafe?
 * Why Do We Love Watching Animal Videos So Much?
 * What Are Your Most Memorable Stories About Wildlife?
-* How Do You Feel About Zoos?
 
 
 

@@ -26,12 +26,12 @@
 - miserable
 - overwhelmed
 - sad
-- shocked
+- shocked[[grammar elements verbs#shock]]
 - shy
 - smug
 - surprised
 - suspicious
-- accomplished
+- accomplished [[grammar elements verbs#accomplish accomplished t reg]]
 
 - aggravated
 

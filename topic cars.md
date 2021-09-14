@@ -87,16 +87,30 @@
 - to get gas
 # nouns
 - detour
+	- There's a detour coming up. We will have to turn right.
 - freedom
 - insurance
+	- If you want to drive your car across international borders, you will need insurance.
 - speedometer
-- gas gauge
+- gas gauge	
+	- The gas gauge is telling me that we need to fill up!
+- oil gauge
+	- The oil gauge is telling me that I need to add oil.
+- dashboard
 - emergency brake
+	- You should use the emergency brake when parking on a hill.
+
+- parking brake
+	- You should use the parking brake when parking on a hill.
 - idiot lights
 - trunk
+	- Can you open the trunk please? I need to put in my bag.
 - stick shift
 - spare tire
+- fender
+- bumper
 - head lights
+	- In Ukraine, you need to turn on the headlights during the day in certain seasons.
 - sun visor
 - tires
 - steering wheel

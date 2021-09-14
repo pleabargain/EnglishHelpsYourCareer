@@ -16,8 +16,8 @@
 - Is this a perk for the team?
 - Have you considered setting up a poker game?
 - Is there a pool table at the venue?
-- Will the cost of transfers be covered?
-- Will the cost of staying in a hotel be covered?
+- Will the cost of transfers be covered? #money
+- Will the cost of staying in a hotel be covered? #money
 - 
 
 # statements
@@ -30,10 +30,12 @@
 - It's an opportunity to acknowledge the team's [successes|work|efforts].
 
 # verbs
+- to plan
 
 # nouns
 
 # adjectives
-
+- busy
+- complex
 # resources
 https://brandongaille.com/10-pros-and-cons-of-team-building/

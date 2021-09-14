@@ -310,17 +310,6 @@ LIDAR
 * How do you balance your schedule with your international colleagues?
 
 
-# topic wine
-* Have you ever been to a wine tasting?
-  
-## topic wine nouns
-* bottle
-* vintage
-* winery
-
-## topic wine verbs
-* smell
-* taste
 
 
 
