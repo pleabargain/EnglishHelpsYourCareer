@@ -5,6 +5,7 @@
 verbs (pronunciation) (regular or irregular)
 
 # postpone postponed (d) (reg)
+- We had to postpone this task until the next sprint.
 
 
 # index indexed (t) (reg)

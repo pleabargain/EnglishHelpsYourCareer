@@ -10,6 +10,10 @@
 # statements
 - I'm usually very tired by the end of the day.
 - Sometimes I don't get enough sleep.
+- I slept very well last night.
+- I could have slept a little longer this morning.
+- I should have gone to bed earlier last night.
+- I was able to go to bed and then to sleep early last night.
 
 
 # dialogues

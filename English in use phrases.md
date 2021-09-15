@@ -1,3 +1,66 @@
+# to be slammed
+I'm slammed at work! I have got so much to do!
+
+# initial offer 
+the first offer made to a candidate 
+# counter-offer
+an offer made in response to a previous offer including changes 
+# to lowball/ highball 
+(to make an offer much lower or higher than expected )
+
+# deadlock 
+(when the parties cannot reach an agreement )
+# amplify 
+(expand; give more information )
+# arbitration 
+(conflict that is addressed by using a neutral third party )
+# bargain 
+(try to change a person's mind by using various tactics) 
+- My wife likes to bargain at the farmer's market.
+# bottom line 
+the most important factor or point 
+#  deal-breaker 
+essential condition to a contract which, could cause one party to pull out of the deal 
+# amendment 
+a change to something 
+
+# leverage 
+(bargaining power) something that gives one party a greater chance at succeeding over another 
+# tentative solution
+an agreement that depends on some conditions, so that it might not be a final agreement 
+# log-rolling 
+trading one favor for another 
+# the ball is in one’s court
+is time for someone to deal with a problem 
+# cut-throat 
+ruthless 
+# to decline an offer
+to not accept an offer 
+# to weigh up the options 
+to review all the options 
+# to reach an agreement 
+to agree on something 
+# to improve on an offer 
+make an offer more attractive 
+# to yield 
+to give in to another's requests 
+# to iterate on an offer 
+make another offer 
+# to back down 
+to stop asking for something 
+# to call the shots 
+the person who makes the decisions. 
+# to draw the line
+to put a limit on what you will do or allow to happen 
+# to drive a hard bargain 
+to fiercely negotiate and demand what you want 
+
+# to have an ace up one’s sleeve
+means to have an important and secret advantage in a negotiation, competition, etc. 
+# over my dead body 
+is an expression used to communicate that a person will do anything to prevent something from happening.
+
+
 # to get on someone's nerves
 - You are getting on my last nerve! This is your last warning!
 

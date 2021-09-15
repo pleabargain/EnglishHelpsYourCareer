@@ -3,6 +3,8 @@ How do you feel about X?
 We are interested in getting delivery as soon as possible.
 We will give you a X% discount if you buy more than 50 units.
 We could consider further discounts on the condition that you place regular orders for the next six months.
+I would like to suggest postponing the integration until the next sprint.
+May I suggest we move some of the budget from testing over to dev?
 We’ll pay for the delivery as long as X is delivered first.
 We’ll pay for the delivery provided that we get X.
 We’ll pay for the delivery on the condition that X happens.

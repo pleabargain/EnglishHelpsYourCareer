@@ -314,6 +314,8 @@ in --> inconcievable;
 in --> incongrous; 
 in --> injustice; 
 in --> invariably; 
+in --> inject; 
+
 in --> invisible;
 in --> infallible;
 in --> inactive; 
@@ -1258,8 +1260,21 @@ many
 	port(carry)-->transport	;
 ```
 
+## ject
+```mermaid
+	graph TD;
+	
+	ject-->abject;
+	ject-->reject;
+	ject-->object;
+	ject-->inject;
+	ject-->subject;
+	
+	
+```
 
-# scrib
+
+## scrib
 write
 ```mermaid
 	graph TD;

@@ -4,45 +4,31 @@
 
 
 ---
- Context: You are negotiating. 
-
+Context: You are negotiating.
 
         
-        David, from the Canada office, starts by opening the meeting by saying :
+Tom, from the Egypt office, starts by opening the meeting by saying :
 
+- (agenda) We should begin the meeting. Would you agree? 
 
-        - (agenda) Can we concentrate on X first and then get to Y and Z later? 
-
-
-        - (proposal) We will give you a X% discount if you buy more than 50 units. 
-
+- (proposal) I would like to suggest postponing the integration until the next sprint. 
  
-        - (suggestions) What is there in the deal for us? 
+- (suggestions) I believe the best option would be … 
 
+- (agreeing) Let's take your idea and improve upon it. 
 
-        - (agreeing) Let’s stick to your idea. 
+- (objecting) I can’t make that decision myself. 
 
+- (prioritizing) X is our major priority. 
 
-        - (objecting) I can’t make that decision myself. 
+- (clarification) Could you clarify one point for me? 
 
+- (compromising) We are ready to accept your offer; however, there would be one condition… 
 
-        - (prioritizing) Our main concern is X. 
+- (bargaining) From where we stand an acceptable price would be X. 
 
+- (postponing) I think we should both seriously reconsider our positions. 
 
-        - (clarification) Could you clarify one point for me? 
+- (concluding) That covers everything, I suppose. 
 
-
-        - (compromising) I see your point but… 
-
-
-        - (bargaining) We would be willing to X if Y? 
-
-
-        - (postponing) Let’s break and come back with some fresh ideas. 
-
-
-        - (concluding) Let’s summarize the main points. 
-
-
-        - (asking_sale) Will you accept our offer? 
-
+- (asking_sale) Let's sign the agreement. 
