@@ -1,6 +1,9 @@
 # What's new
 - What new words or [[English in use phrases|phrases]] in English have you learned since we last spoke?
 
+# warm up
+
+
 # issues
 
 # quotes

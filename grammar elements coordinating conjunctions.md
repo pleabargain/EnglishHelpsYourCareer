@@ -11,6 +11,7 @@ FANBOYS
 
 ## nor – for two non-contrasting grammatically negative items (not + not)  
 - He doesn’t eat cake, **nor** does he eat cookies.
+- We haven't visited Moscow nor have we seen Tokyo.
 
 ## but – for contrast  
 - I eat cake, **but** I never eat cookies; I don’t like them.

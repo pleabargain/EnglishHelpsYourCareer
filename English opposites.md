@@ -1,37 +1,23 @@
 unusual <> usual
-
 strengths <> weaknesses.
-
 safe<>dangerous
-
 soft<>rigid
 sour <> sweet
 flexible<>rigid
-
 thick <>thin
-
 tame <> wild
-
+expect <> unexpected
 finite<>infinite
-
+something<>nothing
 clean <>dirty
-
 sincere<>insincere
-
 manual<>automatic
-
 innocent<>guilty
-
 sane<>insane
-
 yesterday<>tomorrow
-
 unhealthy<>healthy
-
 inedible<>edible
-
 deep<>shallow
-
 guilty <>innocent
 
 unleash <> leash

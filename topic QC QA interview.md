@@ -1,5 +1,6 @@
-# interview
+# questions
 - What exactly was the issue?
+- Have you contacted the devs regarding this issue, yet?
 - What is your opinion of fuzz testing?
 - What is a test policy page?
 - What is on your document checklist before starting a new project?
@@ -7,6 +8,14 @@
 - What's your background with X(fuzz testing?)?
 - What is your opinion of automated testing?
 - Why did it happen?
+- What tasks do you want to complete today?
+- What did you do yesterday?
+- Have you found any critical bugs?
+- Have you reviewed the client's checklist?
+- What are you working on today?
+- What were you working on yesterday?
+- How much time did you spend testing that functionality?
+- How much time did you spend testing those functionalities?
 - Could you clarify what is positive and negative testing?
 - How are SOLID principles useful for testing? https://en.wikipedia.org/wiki/SOLID
 - How important is this issue for the users?
@@ -33,16 +42,31 @@
 - How do you approach problem solving?
 - What are your strengths and weaknesses?
 
-## topic: QC verbs
+# verbs
 - test
 - notify
 - become
 - cause
 - work
 - investigate
-- measure
+- expect
+- share
+- communicate
+- contact
+- edit
+- review
+- deploy
+- close
+- reopen 
+- create
+- meet
+- schedule
+- measure 
+- install <>uninstall
 - perform
-- responsible
+- respond
+- discuss
+- describe
 - verify 
 - check
 - run
@@ -79,6 +103,7 @@
 
 ## topic: QC adjectives
 - slower
+- responsible
 
 
 # statements

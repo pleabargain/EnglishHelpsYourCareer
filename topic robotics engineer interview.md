@@ -34,6 +34,7 @@
 - to plan
 - to receive
 - to check
+- to compile
 - to monitor
 - to connect
 

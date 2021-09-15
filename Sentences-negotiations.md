@@ -7,28 +7,28 @@
 Context: You are negotiating.
 
         
-Tom, from the Egypt office, starts by opening the meeting by saying :
+George, from the Fiji office, starts by opening the meeting by saying :
 
-- (agenda) We should begin the meeting. Would you agree? 
+- (agenda) First we need to agree on the agenda. Can we concentrate on X first and then get to Y and Z later? 
 
 - (proposal) I would like to suggest postponing the integration until the next sprint. 
  
 - (suggestions) I believe the best option would be … 
 
-- (agreeing) Let's take your idea and improve upon it. 
+- (agreeing) That sounds reasonable. 
 
 - (objecting) I can’t make that decision myself. 
 
-- (prioritizing) X is our major priority. 
+- (prioritizing) X is a secondary issue. 
 
-- (clarification) Could you clarify one point for me? 
+- (clarification) I’m not sure I fully understand your point. 
 
-- (compromising) We are ready to accept your offer; however, there would be one condition… 
+- (compromising) What I may be able to consider is… 
 
-- (bargaining) From where we stand an acceptable price would be X. 
+- (bargaining) I’m afraid we can only go as low as X. 
 
 - (postponing) I think we should both seriously reconsider our positions. 
 
-- (concluding) That covers everything, I suppose. 
+- (concluding) Let’s just confirm the details, then. 
 
-- (asking_sale) Let's sign the agreement. 
+- (asking_sale) Can we agree to this offer? 

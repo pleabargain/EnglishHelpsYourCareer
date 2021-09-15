@@ -1,0 +1,10 @@
+be 
+have 
+do 
+say 
+make 
+go 
+take 
+come 
+see 
+get

@@ -1,3 +1,9 @@
+# back up to speed
+- I will be back up to speed as soon as I heal from my surgery.
+
+
+# on the same page
+We are all on the same page.
 # to be slammed
 I'm slammed at work! I have got so much to do!
 
