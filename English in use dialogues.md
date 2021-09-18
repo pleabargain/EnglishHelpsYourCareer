@@ -1,1335 +1,1472 @@
+---
+
+#mermaid 
+
+Q: When did you eat?
+A: We ate earlier.
+
+---
+#mermaid 
+
+Q: I made a good cup of coffee!
+A: I went to a cafe.
+
+---
+
+#mermaid 
+Q: Does your mom live nearby? 
+A: She doesn't live in the city. She lives in a very rural community.
+
+---
+
+#mermaid 
+Q: I think he's calming down. (context: father to mother about son)
+A: He's not calm! He's manic.
+
+
+#mermaid 
+
+Q: When did your PO launch this initiative?
+A: Our PO launched this initiative six months ago.
+
+---
+
+
+
+#mermaid 
+Q: A few weeks ago I finished a very good book. I think you will like it!
+A: What is the book's title? What is the book's name? What's the name of the book?
+
+---
+
+#mermaid 
+Q: When did you finish the book? (you know what book I'm reading)
+A: A few weeks ago I finished reading The Petite Prince.
+
+---
+
+
+
 
 # weather
 
+#mermaid 
+Q:    What is your opinion of the current weather?
 
-Ana:   What is your opinion of the current weather?
+A:   I like this weather! The snow is beautiful!  I [walked |went by foot] to the park and it was magnificent!
 
-Bob:   I like this weather! The snow is beautiful!  I [walked |went by foot] to the park and it was magnificent!
-
+---
 
 # location
-Ana: Where are they?
+#mermaid 
+Q:  Where are they?
 
-Bob: They are AT the supermarket.
+A: They are AT the supermarket.
 
 # trouble
+#mermaid 
+Q:  Are they in trouble?
 
-Ana: Are they in trouble?
-
-Bob: They were at the scene of the crime but I don't know if they are in trouble.
+A: They were at the scene of the crime but I don't know if they are in trouble.
 
 # contracts
+#mermaid 
+Q:  Have you taken a look at the contract?
 
-Ana: Have you taken a look at the contract?
-
-Bob: No, but I need to look into it soon.
+A: No, but I need to look into it soon.
 
 # enjoy
+#mermaid 
+Q:  She's really enjoying herself!
 
-Ana: She's really enjoying herself!
-
-Bob: Yep! She's clearly into the music! (idiomatic phrase)
+A: Yep! She's clearly into the music! (idiomatic phrase)
 
 
 # asking for status
+#mermaid 
+Q:  Everything ok?
 
-Ana: Everything ok?
-
-Bob: Yeah. We're good.
+A: Yeah. We're good.
 
 
 # doing
+#mermaid 
+Q:  What were you doing yesterday at lunch time? 
 
-Ana: What were you doing yesterday at lunch time? 
-
-Bob: I was being examined by my doctor. (past-continuous)
-
-
-
+A: I was being examined by my doctor. (past-continuous)
 
 
 # party
+#mermaid 
+A: I don't want to go to the party! What will we do there?
 
-Bob: I don't want to go to the party! What will we do there?
+Q:  We can dance at the party!
 
-Ana: We can dance at the party!
-
-Bob: Of course, we can dance at the party my love. But, first I must drink!
+A: Of course, we can dance at the party my love. But, first I must drink!
 
 # yesterday
+#mermaid 
 
+A: What did you do yesterday?
 
-Bob: What did you do yesterday?
-
-Ana: I painted my apartment yesterday. (simple past tense)
+Q:  I painted my apartment yesterday. (simple past tense)
 
 # documents
+#mermaid 
+Q:  We have documents that need to be signed.
 
-
-
-Ana: We have documents that need to be signed.
-
-Bob: We must sign and send them as soon as possible.
+A: We must sign and send them as soon as possible.
 
 ---
 
+#mermaid 
+Q:  Could you speak to William tomorrow?
 
+A: Sure. What do you want me to speak with him about?
 
-Ana: Could you speak to William tomorrow?
+#mermaid 
+Q:  I would like you to talk to him about raising my salary.
 
-Bob: Sure. What do you want me to speak with him about?
+A: Sure, I can talk to him about that.
 
-Ana: I would like you to talk to him about raising my salary.
+---
+#mermaid 
+Q:  How was your day?
 
-Bob: Sure, I can talk to him about that.
+A: I had a [wonderful,awful] day
+
+---
+#mermaid 
+Q:  What did you do yesterday before school?
+
+A: I had finished my homework before leaving. (past perfect)
+
+---
+#mermaid 
+
+Q:  I don't know what to do? What should I do?
+
+A: Don't worry, I will try to help you.
 
 
 ---
+#mermaid 
+Q:  What did you do yesterday?
 
-Ana: How was your day?
+A: I did my yoga exercises in the morning.
 
-Bob: I had a [wonderful,awful] day
+---
+#mermaid 
+Q:  What did Yulia do yesterday?
+
+A: I don't know.
+
+---
+#mermaid 
+Q:  What does she do everyday? (present simple)
+
+A: She is working. (present continuous) She works everyday, like the rest of us!
+
+---
+#mermaid 
+Q:  What was your presentation about?
+
+A: In my presentation last week, I [talked about,showed] our approach to the solution.
+
+---
+#mermaid 
+
+Q:  Should I say this to him?
+
+A: Yes, you must tell him the truth.
 
 ---
 
-Ana: What did you do yesterday before school?
+#mermaid 
+Q:  What did she say to you?
 
-Bob: I had finished my homework before leaving. (past perfect)
-
----
-
-
-Ana: I don't know what to do? What should I do?
-
-Bob: Don't worry, I will try to help you.
-
+A: She said that I should buy this shampoo.
 
 ---
+#mermaid 
+Q:  What does the meter say?
 
-Ana: What did you do yesterday?
-
-Bob: I did my yoga exercises in the morning.
-
----
-
-Ana: What did Yulia do yesterday?
-
-Bob: I don't know.
+A: The meter says 1.0 degrees.
 
 ---
+#mermaid 
+Q:  What does the thermometer say?
 
-Ana: What does she do everyday? (present simple)
-
-Bob: She is working. (present continuous) She works everyday, like the rest of us!
-
-
----
-Ana: What was your presentation about?
-
-Bob: In my presentation last week, I [talked about,showed] our approach to the solution.
+A: The thermometer says 1.0 degrees.
 
 ---
+#mermaid 
 
+Q:  What did you say?
 
-Ana: Should I say this to him?
-
-Bob: Yes, you must tell him the truth.
-
-
----
-Ana: What did she say to you?
-
-Bob: She said that I should buy this shampoo.
+A: I said that I need to study for my exam.
 
 ---
-Ana: What does the meter say?
+#mermaid 
+Q:  What did you say to your manager?
 
-Bob: The meter says 1.0 degrees.
-
----
-Ana: What does the thermometer say?
-
-Bob: The thermometer says 1.0 degrees.
+A: I told him that I want to take a day off next Monday. (reported speech)
 
 ---
+#mermaid 
+Q:  What did you say to your manager?
 
-
-Ana: What did you say?
-
-Bob: I said that I need to study for my exam.
-
----
-Ana: What did you say to your manager?
-
-Bob: I told him that I want to take a day off next Monday. (reported speech)
+A: I said that I was tired.
 
 ---
-Ana: What did you say to your manager?
+#mermaid 
+Q:  What did you say? (past simple)
 
-Bob: I said that I was tired.
-
----
-Ana: What did you say? (past simple)
-
-Bob: I said that the weather will be better tomorrow. (reported speech)
+A: I said that the weather will be better tomorrow. (reported speech)
 
 ---
-Ana: What did she say to you?
+#mermaid 
+Q:  What did she say to you?
 
-Bob: She said that I was a loser!
-
----
-Bob: What kind of mood are you in?
-
-Ana: I said that I am in a Christmas mood.
+A: She said that I was a loser!
 
 ---
+#mermaid 
+A: What kind of mood are you in?
+
+Q:  I said that I am in a Christmas mood.
+
 ---
+#mermaid 
 
-Bob: What were you talking to Oleg about?
+A: What were you talking to Oleg about?
 
-Ana: I talked to Oleg about his budget request.
+Q:  I talked to Oleg about his budget request.
 
 --- 
+#mermaid 
+A: Where can we talk?
 
-Bob: Where can we talk?
+Q:  We will talk in the park.
 
-Ana: We will talk in the park.
+---
+#mermaid 
+
+Q:  What did you tell her?
+
+A: I told her that we will leave at 6 p.m.
 
 ---
 
+#mermaid 
+Q:  Would you like to taste my new cocktail? 
 
+A: Oh, just a sip please.
+
+---
+#mermaid 
+
+A: What must you do before we leave?
+
+Q:  I must eat my breakfast before we leave.
+
+---
+#mermaid 
+
+A: What did you do this morning?
+
+Q:  I ate breakfast this morning.
+
+---
+#mermaid 
+A: What did you eat for breakfast?
+
+Q:  I ate fried eggs and an apple.
+
+---
+#mermaid 
+Q:  I don't really get along with my brother.
+
+A: You need to try to get along with your brother because he's your only family left after the tragic plane crash in Africa. 
+
+Q:  Yes, well my brother was flying that plane, so there!
+
+---
+#mermaid 
+Q:  I will be worried about you if you are driving at night. (conditional)
+
+A: You [needn't,mustn't,shouldn't] worry about me! I'm driving the new Tesla with SkyNet installed!
 
 ---
 
-Ana: What did you tell her?
+#mermaid 
+Q:  We may hire another engineer to help us on our project.
 
-Bob: I told her that we will leave at 6 p.m.
+A: That sounds good! We need the help!
 
----
-
----
-
-Ana: Would you like to taste my new cocktail? 
-
-Bob: Oh, just a sip please.
-
----
+Q:  We can expect a new person as early as next [week,month,year].
 
 
 
 ---
+#mermaid 
+Q:  Did you get the documents?
 
-Bob: What must you do before we leave?
-
-Ana: I must eat my breakfast before we leave.
-
----
-
-Bob: What did you do this morning?
-
-Ana: I ate breakfast this morning.
+A: I got the documents before the project started.
 
 ---
+#mermaid 
+Q:  When will you get home tonight?
 
-Bob: What did you eat for breakfast?
-
-Ana: I ate fried eggs and an apple.
-
----
+A: I will get home late tonight. I have a lot of work to do!
 
 ---
-Ana: I don't really get along with my brother.
+#mermaid 
+Q:  When did you get home?
 
-Bob: You need to try to get along with your brother because he's your only family left after the tragic plane crash in Africa. 
-
-Ana: Yes, well my brother was flying that plane, so there!
-
----
-
---- 
-
-Ana: I will be worried about you if you are driving at night. (conditional)
-
-Bob: You [needn't,mustn't,shouldn't] worry about me! I'm driving the new Tesla with SkyNet installed!
+A: I got home at 6 a.m.
 
 ---
+#mermaid 
 
----
-Ana: We may hire another engineer to help us on our project.
 
-Bob: That sounds good! We need the help!
+Q:  I have [prepared,typed] some notes for today's meeting. (present perfect)
 
-Ana: We can expect a new person as early as next [week,month,year].
+A: Could you share with me your notes?
+
+Q:  Sure. Can you send me your email?
+
+A: I will send you my email [as soon as possible, ASAP, at my earliest convenience].
 
 
 ---
+#mermaid 
+Q:  Your mother told me to tell you that you need to chew your food better!
 
-
----
-Ana: Did you get the documents?
-
-Bob: I got the documents before the project started.
-
----
-Ana: When will you get home tonight?
-
-Bob:I will get home late tonight. I have a lot of work to do!
-
----
-Ana: When did you get home?
-
-Bob:I got home at 6 a.m.
-
----
-
-
-
-Ana: I have [prepared,typed] some notes for today's meeting. (present perfect)
-
-Bob: Could you share with me your notes?
-
-Ana: Sure. Can you send me your email?
-
-Bob: I will send you my email [as soon as possible, ASAP, at my earliest convenience].
-
----
-
-
----
-
-Ana: Your mother told me to tell you that you need to chew your food better!
-
-Bob: Thank you for the reminder! I'll chew on that idea later!
+A: Thank you for the reminder! I'll chew on that idea later!
 
 
 
 # documentation
+#mermaid 
+Q:  You should read the documentation about the new API that we are using.
 
-Ana: You should read the documentation about the new API that we are using.
+A: I'll read it. Thanks for the recommendation. Do you have anything else for me?
 
-Bob: I'll read it. Thanks for the recommendation. Do you have anything else for me?
+Q:  You should get in touch with the other devs and discuss the API with them.
 
-Ana: You should get in touch with the other devs and discuss the API with them.
-
-
+---
 # read the book
+#mermaid 
+Q:  I have never read this book.
 
-Ana: I have never read this book.
+A: I think you could find it on Google.
 
-Bob: I think you could find it on Google.
+Q:  I will look for it.
 
-Ana: I will look for it.
+A: In my opinion, you must read this book. (strong opinion)
 
-Bob: In my opinion, you must read this book. (strong opinion)
+A: In my opinion, you should read this book. (opinion)
 
-Bob: In my opinion, you should read this book. (opinion)
-
+---
 
 # assign
+#mermaid 
+Q:  I need to decide who will be assigned this task.
 
-Ana: I need to decide who will be assigned this task.
+A: Let's check who has availability.
 
-Bob: Let's check who has availability.
+Q:  We should check the JIRA board.
 
-Ana: We should check the JIRA board.
+---
 
 # decide
+#mermaid 
+Q:  What did you decide to do?
 
-Ana: What did you decide to do?
-
-Bob:I decided to postpone my trip.
+A: I decided to postpone my trip.
 
 ---
 
 # rewind
-Ana: Did you rewind the string?
+#mermaid 
 
-Bob: Yes, I rewound the string yesterday.
+Q:  Did you rewind the string?
 
+A: Yes, I rewound the string yesterday.
 
+---
 # check out
+#mermaid 
 
-Ana: You can pay for that at the [cashier |check out counter].
+Q:  You can pay for that at the [cashier |check out counter].
 
-Bob: I want to check out(to look at) some other things first.
+A: I want to check out(to look at) some other things first.
 
-Ana: Are you sure? You look kind of spacey! You look like you have already checked out!
+Q:  Are you sure? You look kind of spacey! You look like you have already checked out!
 
-
+---
 # party
+#mermaid 
+Q:  Where did you go during the party?
 
-Ana: Where did you go during the party?
-
-Bob: I fled for an hour or so to the bar down the street to get away from that annoying guy from the accounting department!
-
-
----
-
-Ana: What did you decide to do?
-
-Bob: I made the decision to postpone my trip.
+A: I fled for an hour or so to the bar down the street to get away from that annoying guy from the accounting department!
 
 
 ---
+#mermaid 
+Q:  What did you decide to do?
 
-Ana: When did you go home?
+A: I made the decision to postpone my trip.
 
-Bob:I went home at 5.
 
+---
+#mermaid 
+Q:  When did you go home?
+
+A: I went home at 5.
+
+---
 # been
+#mermaid 
+Q:  Where have you been?
 
-Ana: Where have you been?
+A: I went to my mother's to help her. I went to my mother's home to help her.
 
-Bob: I went to my mother's to help her.
-I went to my mother's home to help her.
-
+---
 
 
 # information
+#mermaid 
+Q:  We don't have enough information.
 
-Ana: We don't have enough information.
-
-Bob: Additional information will be provided today.
+A: Additional information will be provided today.
 
 ---
+#mermaid 
+Q:  We didn't get the information.
 
-Ana: We didn't get the information.
-
-Bob: Igor should have provided the information to you already.
+A: Igor should have provided the information to you already.
  
 
 
 ---
+#mermaid 
+Q:  What have you been doing the last couple of [hours,days,weeks,months,years]?
 
-Ana: What have you been doing the last couple of [hours,days,weeks,months,years]?
+A: I have spent several days resolving this issue.
 
-Bob: I have spent several days resolving this issue.
-
+---
 
 # win
-Ana: Did you know that you would win?
+#mermaid 
+Q:  Did you know that you would win?
 
-Bob:I knew that I would win the scholarship. (past simple)
+A: I knew that I would win the scholarship. (past simple)
+
+---
 
 # my place
-Ana: How long have you known how to get to my [home,place]?
+#mermaid 
+Q:  How long have you known how to get to my [home,place]?
 
-Bob:I have known the best direction to your [home,place] for months. (present perfect)
+A: I have known the best direction to your [home,place] for months. (present perfect)
 
-
+---
 
 # Xmas Tree
+#mermaid 
+Q:  Did you go see the big Christmas tree?
 
-Ana: Did you go see the big Christmas tree?
+A: No, we didn't have time to see it. 
 
-Bob: No, we didn't have time to see it. 
-
-
+---
 
 
 # TV
-Ana: Do you watch TV?
+#mermaid 
+Q:  Do you watch TV?
 
-Bob: No, I don't watch TV.
+A: No, I don't watch TV.
 
+---
 
 
 # option
+#mermaid 
 
-Ana: Why do you think the first option is not good enough?
+Q:  Why do you think the first option is not good enough?
 
-Bob: Because he doesn't have enough hands-on experience with X.
+A: Because he doesn't have enough hands-on experience with X.
 
-Ana: Oh! I didn't know that. Maybe we might go with the second option.
+
+Q:  Oh! I didn't know that. Maybe we might go with the second option.
 
 ---
 
 # budget
+#mermaid 
+A: Have you thought about my budget request?
 
-Bob: Have you thought about my budget request?
+Q:  I have thought about your budget request.
 
-Ana: I have thought about your budget request.
+---
+#mermaid 
+
+A: What did you think about it?
+
+Q:  I think there are problems in your request.
+
+---
+#mermaid 
+
+A: Will you travel this year?
+
+Q:  I can think about traveling after the quarantine lifts.
+
+
+---
+#mermaid 
+Q:  Why is it taking so long? What's the hold up?
+
+A: They had thought that the challenge was easy.
+
+---
+#mermaid 
+A: Have you been looking for a new apartment?
+
+Q: We have looked at a lot of apartments.
+
+---
+#mermaid 
+
+A: What did you do today?
+
+Q:  I did a lot of things! Including, I ran today at four o'clock in the afternoon.
+
+---
+#mermaid 
+
+Q:  Doug has the new signed contract but he will be off tomorrow.
+
+A: So, you must meet him today.
+
+---
+#mermaid 
+A: What can we do after work?
+
+Q:  We can walk in the park after work.
+
+---
+#mermaid 
+A: What did you do after work?
+
+Q:  I walked after work.
+
+---
+#mermaid 
+Q:  What was the last thing that you discovered?
+
+A: I have never discovered anything!
 
 ---
 
-Bob: What did you think about it?
+#mermaid 
 
-Ana: I think there are problems in your request.
+Q:  Did you find the source of the problem?
 
----
-
-Bob: Will you travel this year?
-
-Ana: I can think about traveling after the quarantine lifts.
-
+A: Yes. Do you want to hear what was the problem?
 
 ---
 
-Ana: Why is it taking so long? What's the hold up?
+#mermaid 
 
-Bob: They had thought that the challenge was easy.
 
----
+Q: How long have you been working with him?
 
-Bob: Have you been looking for a new apartment?
-
-Ana:We have looked at a lot of apartments.
+A: He's on my team but I don't work with him directly.
 
 ---
+#mermaid 
 
+Q: Can you swim?
 
-Bob: What did you do today?
-
-Ana: I did a lot of things! Including, I ran today at four o'clock in the afternoon.
-
----
-
-
-Ana: Doug has the new signed contract but he will be off tomorrow.
-
-Bob: So, you must meet him today.
+A: No, I can't swim.
 
 ---
+#mermaid 
 
-Bob: What can we do after work?
+Q:  What are your feelings about the situation?
 
-Ana: We can walk in the park after work.
-
----
-
-Bob: What did you do after work?
-
-Ana: I walked after work.
+A: I took [the,this] situation too seriously!
 
 ---
+#mermaid 
+A: What did you write?
 
-Ana: What was the last thing that you discovered?
-
-Bob: I have never discovered anything!
-
----
+Q:  I wrote letters for work.
 
 ---
+#mermaid 
 
-Ana: Did you find the source of the problem?
+Q:  I wrote down some notes from our last meeting.
 
-Bob: Yes. Do you want to hear what was the problem?
+A: What notes did you write down?
 
 ---
+#mermaid 
+
+A: What do you need to do now?
+
+Q:  I need to write letters to my clients.
+
+---
+#mermaid 
+
+Q:  Is Peter bringing Steve to my party?
+
+A: Yes, Peter will bring Steve to the party. 
+
+---
+#mermaid 
+Q:  Can you research this product for me on the Internet?
+
+A: Sure I can. What is the budget?
+
+Q:  Money is not an issue but it must be high quality.
+
+A: Do you understand that this could be VERY expensive?
+
+Q:  What would you call very expensive?
+
+A: It might cost 500USD or higher!
+
+Q:  I agree with you, that is expensive. Maybe you can find something a little cheaper but with high quality.
+
+A: I will do my best.
+
+---
+#mermaid 
+Q:  Someone stole my phone!
+
+A: Ah shit man! That's a bummer!
+
+---
+#mermaid 
+Q:  What do you want for dinner? 
+
+A: It's up to you.
+
+---
+#mermaid 
+Q:  How's your day?
+
+A: Oh, you know. Same shit, different day.
+
+---
+#mermaid 
+Q:  Where are you?!
+
+A: I'm on my way!
+
+---
+#mermaid 
+Q:  Are we still on for Monday?
+
+A: Yep. Nothing has changed on my side!
+
+---
+#mermaid 
+Q:  Would you like to share a taxi with me?
+
+A: Sure, can you drop me off at the train station?
+
+---
+#mermaid 
+
+Q:  How are you?
+
+A: Everything's good! I've got it made in the shade!
+
+---
+#mermaid 
+Q:  What is the point of these lessons?
+
+A: The whole point of these lessons is to improve my English.
+
+---
+#mermaid 
+Q:  I couldn't help hearing what you said about the end of the world. Is that happening today?
+
+A: No. Come back later!
+
+---
+#mermaid 
+Q:  My niece is going to turn 1 year old! We should buy her a present?
+
+A: Why bother! She doesn't even recognize you!
+
+---
+#mermaid 
+Q:  Dinner was good wasn't it? How you feeling?
+
+A: Fat and happy!
+
+---
+#mermaid 
+Q:  Did you sleep well last night honey? 
+
+A: I slept like a baby!
+
+---
+#mermaid 
+Q:  How was the movie?
+
+A: Damn good!
+
+---
+#mermaid 
+
+Q:  How are you doing?
+
+A: Damn good!
+
+
+---
+#mermaid 
+Q:  O, should we start that new project?
+
+A: Game on!
+
+---
+#mermaid 
+Q:  What do you think about doing X?
+
+A: Let' go ahead with that!
+
+---
+#mermaid 
+Q:  How's it goin?
+
+A: So-far so good!
+
+
+---
+#mermaid 
+Q:  Why did you do it?!
+
+A: I did it intentionally! 
+
+---
+#mermaid 
+Q:  Does this look good on me?
+
+A: It's a good look for you.
+
+
+---
+#mermaid 
+Q:  Are you meeting anyone after work?
+
+A: I am meeting my girlfriend after work.
+
+---
+#mermaid 
+Q:  What are you doing right now?
+
+A: I am doing the dishes.
+
+---
+#mermaid 
+Q:  What are they doing right now?
+
+A: They are having an English lesson right now.
+
+
+---
+#mermaid 
+Q:  How much coffee have you had today?
+
+A: I have drunk two cups of coffee this morning.
+
+---
+#mermaid 
+Q:  What have you been doing all day?
+
+A: I have been reviewing his code all day.
+
+
+---
+#mermaid 
+Q: What were you doing today?
+
+A: I was doing my [laundry,expenses, homework].
+
+---
+#mermaid 
+Q: What were you doing today?
+
+A: I was walking with my dog.
+
+---
+#mermaid 
+Q:  What had you done earlier today?
+
+A: I had done the dishes.
+
+---
+#mermaid 
+Q:  Where had your dog gone?
+
+A: He(the dog) had gone to the park.
+
+
+---
+#mermaid 
+
+Q:  Where had you been when your mother called?
+
+A: I had been working in my office.
 
 --- 
+#mermaid 
 
-Ana:How long have you been working with him?
+Q: Where will you go tomorrow?
 
-Bob: He's on my team but I don't work with him directly.
-
----
----
-
-Ana:Can you swim?
-
-Bob: No, I can't swim.
+A: I will go to the store and do some shopping.
 
 ---
----
+#mermaid 
 
-Ana: What are your feelings about the situation?
+Q: What will you be doing for New Years?
 
-Bob: I took [the,this] situation too seriously!
-
----
+A: We will have a quiet evening at home.
 
 ---
+#mermaid 
+Q:  What will you be doing tomorrow?
 
-Bob: What did you write?
-
-Ana: I wrote letters for work.
-
----
-
-Ana: I wrote down some notes from our last meeting.
-
-Bob: What notes did you write down?
-
----
-
-Bob: What do you need to do now?
-
-Ana: I need to write letters to my clients.
-
----
-
-Ana: Is Peter bringing Steve to my party?
-
-Bob: Yes, Peter will bring Steve to the party. 
-
-
-
+A: I will be watching a movie with my family.
 
 
 ---
+#mermaid 
 
-Ana: Can you research this product for me on the Internet?
+Q:  How long will you have been living in your current apartment?
 
-Bob: Sure I can. What is the budget?
+A: I will have been living in my apartment for three years in January. 
 
-Ana: Money is not an issue but it must be high quality.
+---
+#mermaid 
 
-Bob: Do you understand that this could be VERY expensive?
+Q:  His disability prevents him from driving!
 
-Ana: What would you call very expensive?
+A: What is his disability?
 
-Bob: It might cost 500USD or higher!
+Q:  He's an idiot!
 
-Ana: I agree with you, that is expensive. Maybe you can find something a little cheaper but with high quality.
 
-Bob: I will do my best.
+---
+#mermaid 
+
+Q:  What do you think about their decision to cancel the contract?
+
+A: I think that was a wise decision.
+
+Q:  I think that time will tell. (idiomatic phrase)
+
+
+---
+#mermaid 
+Q:  What were the results of the tests?
+
+A: We are still reviewing the data now.
+
+
+---
+ #mermaid 
+ 
+A: How did you spend your weekend?
+
+Q:  We had a splendid weekend with the family.
+
+
+---
+#mermaid 
+A: How would you rate his knowledge of the project? Does he know the history of this project?
+
+Q:  He has a rudimentary knowledge of the history of our project.
+
+
+---
+#mermaid 
+Q:  There are so many problems on this project!
+
+A: Yes, there are but they are all manageable. We can manage them.
+
+
+---
+#mermaid 
+Q:  What is AWS?
+
+A: Amazon infrastructure in the cloud. You can run your virtual environments in AWS. This you don't need to use on premises resources. You can change the available resources very quickly. You can scale up and down as you [wish,want].
+
+
+---
+#mermaid 
+Q:  What is AMI?
+
+A: Amazon Machine Image. It's a ready image for your preferred operating system. You can load your own image if you want.
 
 ---
 
----
+#mermaid 
+Q:  What is EBS?
 
-Ana: Someone stole my phone!
-
-Bob: Ah shit man! That's a bummer!
-
----
-
-Ana: What do you want for dinner? 
-
-Bob: It's up to you.
----
-
-Ana: How's your day?
-
-Bob: Oh, you know. Same shit, different day.
+A: Elastic Block Storage. EBS is connected to ECS. EBS offers persistent storage after your EBS is blown away. EBS is good for up to 64TB.
 
 ---
+#mermaid 
+Q:  What is the largest storage instance you have ever worked with?
 
-Ana: Where are you?!
-
-Bob: I'm on my way!
+A: 1 or 2TB on a local environment.
 
 ---
+#mermaid 
 
-Ana: Are we still on for Monday?
+Q:  What are the different types of instances on AWS?
 
-Bob: Yep. Nothing has changed on my side!
+A: There are five types. General Purpose, computer optimized, memory optimized, storage optimized, accelerated computing (used for training ML models)
+
+
+---
+#mermaid 
+
+Q:  What should you teach your mentee about AWS?
+
+A: We have a library of scripts for creating environments.
 
 ---
 
-Ana: Would you like to share a taxi with me?
+#mermaid 
 
-Bob: Sure, can you drop me off at the train station?
 
----
+Q:  How much data do you think we need to get a working model?
 
----
+A: The golden rule is the more data we can use the better the model we can build. And, We have another golden rule: garbage in, garbage out. So, let's try with a small clean data set and begin building our model from there.
 
-Ana: How are you?
-
-Bob: Everything's good! I've got it made in the shade!
-
----
-Ana: What is the point of these lessons?
-
-Bob: The whole point of these lessons is to improve my English.
+Q:  Great! Thank you for your short and sweet answer! Let's get started!
 
 ---
 
-Ana: I couldn't help hearing what you said about the end of the world. Is that happening today?
+#mermaid 
 
-Bob: No. Come back later!
 
----
+Q:  What accuracy score did you get after you processed your model?
 
-Ana: My niece is going to turn 1 year old! We should buy her a present?
+A: We got a 91% accuracy on the model. This is a good result as the state of the art suggests a score of 95%. So, we're close!
 
-Bob: Why bother! She doesn't even recognize you!
-
----
-Ana: Dinner was good wasn't it? How you feeling?
-
-Bob: Fat and happy!
-
----
-
-Ana: Did you sleep well last night honey? 
-
-Bob: I slept like a baby!
-
----
-
-Ana: How was the movie?
-
-Bob: Damn good!
-
----
-
-Ana: How are you doing?
-
-Bob: Damn good!
+Q: I'm a business analyst! Not a Kaggler! For me the most important thing is what value can we bring to our client not about how close we are to the state of the art!
 
 
 ---
 
-Ana: O, should we start that new project?
+#mermaid 
 
-Bob: Game on!
+A:  How do I begin the onboarding process?
 
+Q:  The first thing to do is to look over the onboarding check list.
 
----
+A: And then what do I do?
 
-Ana: What do you think about doing X?
+Q:  After you have completed the onboarding checklist,you will need to read the documentation about the team structure and project specifics.
 
-Bob: Let' go ahead with that!
+A: How long will it take to complete the checklist?
 
+Q:  You can expect to complete the checklist in a few weeks.
 
+A: What kind of documentation do you need from me?
 
----
+Q:  I don't need any documentation for now. As of now, we're good. After you complete the onboarding process you will be able to start working.
 
-Ana: How's it goin?
+A: Thank you Ana! Who should I contact if I have questions?
 
-Bob: So-far so good!
-
-
-
----
-
-Ana: Why did you do it?!
-
-Bob: I did it intentionally! 
-
+Q:  You can ask me any questions. If I'm not available, you can ask Chris.
 
 
 ---
 
-Ana: Does this look good on me?
+#mermaid 
 
-Bob: It's a good look for you.
+Q:  What seems to be the problem?
 
+A: My daughter is not feeling well. She has a temperature.
 
+Q:  Has she been eating?
 
----
+A: She's been less than usual.
 
-Ana: Are you meeting anyone after work?
+Q:  Have you given her anything to feel better? Any medicines?
 
-Bob: I am meeting my girlfriend after work.
+A: We gave her ibuprofen.
 
----
+Q:  Anything else?
 
-Ana: What are you doing right now?
+A: We gave her Paracetamol to treat her fever.
 
-Bob: I am doing the dishes.
+Q:  How long has she been feeling unwell?
 
----
+A: For about two days... we came to you because she has a cough. I would like you to listen to her lungs.
 
-Ana: What are they doing right now?
+Q:  What is your daughter's name?
 
-Bob: They are having an English lesson right now.
+A: Her name is Polina.
 
+Q:  OK... Polina, let's listen to you!
 
----
-
-Ana: How much coffee have you had today?
-
-Bob:I have drunk two cups of coffee this morning.
-
----
-
-Ana: What have you been doing all day?
-
-Bob: I have been reviewing his code all day.
-
-
----
-
-Ana:What were you doing today?
-
-Bob: I was doing my [laundry,expenses, homework].
-
----
-
-Ana:What were you doing today?
-
-Bob:I was walking with my dog.
-
----
-
-Ana: What had you done earlier today?
-
-Bob: I had done the dishes.
-
----
-
-Ana: Where had your dog gone?
-
-Bob: He(the dog) had gone to the park.
-
-
----
-
-Ana: Where had you been when your mother called?
-
-Bob: I had been working in my office.
-
---- 
-
-Ana:Where will you go tomorrow?
-
-Bob: I will go to the store and do some shopping.
-
----
-
-Ana:What will you be doing for New Years?
-
-Bob: We will have a quiet evening at home.
-
----
-
-Ana: What will you be doing tomorrow?
-
-Bob: I will be watching a movie with my family.
 
 
 
 ---
 
-Ana: How long will you have been living in your current apartment?
+#mermaid 
 
-Bob: I will have been living in my apartment for three years in January. 
+Q:  Why is this issue important?
 
+A: This issue is important because the women that have been violated don't have help from the government nor access to the justice system.
 
+Q:  What help do these women need?
 
----
+A: These women need psychological and medical help.
 
-Ana: His disability prevents him from driving!
+Q:  Is this all that they need?
 
-Bob: What is his disability?
+A: No, but this would begin to cover their basic needs.
 
-Ana: He's an idiot!
+Q:  What else do they need?
 
+A: These women need legal help and they need support from the police in catching the perpetrators.
 
----
+Q:  And, why is this an issue now?
 
-Ana: What do you think about their decision to cancel the contract?
+A: The police don't want to work on old rape cases.
 
-Bob: I think that was a wise decision.
+Q:  Why don't the police want to work on old rape cases?
 
-Ana: I think that time will tell. (idiomatic phrase)
+A: Because it's a hard problem and they don't want to get involved.
 
+Q:  What then is the solution? What does your organization propose?
 
+A: The police don't want to work with old evidence. The crime happened a long time ago. We propose to simplify how the police work with evidence. 
 
----
-
-Ana: What were the results of the implementation on the team?
-
-(Ana: What are the results of the PEEX evaluation on your team?)
-
-Bob: It has had a positive impact on our team.
-
+Q:  Specifically? Can you tell me more details?
 
 ---
 
-Bob: How did you spend your weekend?
+#mermaid 
 
-Ana: We had a splendid weekend with the family.
+Q:  What is your message to the government?
 
 
----
-
-Bob: How would you rate his knowledge of the project? Does he know the history of this project?
-
-Ana: He has a rudimentary knowledge of the history of our project.
-
-
----
-
-Ana: There are so many problems on this project!
-
-Bob: Yes, there are but they are all manageable. We can manage them.
-
-
----
-
-Ana: What is AWS?
-
-Bob: Amazon infrastructure in the cloud. You can run your virtual environments in AWS. This you don't need to use on premises resources. You can change the available resources very quickly. You can scale up and down as you [wish,want].
-
-Ana: What is AMI?
-
-Bob: Amazon Machine Image. It's a ready image for your preferred operating system. You can load your own image if you want.
-
-Ana: What is EBS?
-
-Bob: Elastic Block Storage. EBS is connected to ECS. EBS offers persistent storage after your EBS is blown away. EBS is good for up to 64TB.
-
-Ana: What is the largest storage instance you have ever worked with?
-
-Bob: 1 or 2TB on a local environment.
-
-Ana: What are the different types of instances on AWS?
-
-Bob: There are five types. General Purpose, computer optimized, memory optimized, storage optimized, accelerated computing (used for training ML models)
-
-Ana: What should you teach your mentee about AWS?
-
-Bob: We have a library of scripts for creating environments.
-
-Ana: Are the scripts documented?
-
-Ana: Does your mentee know that the scripts are in the repo?
-
-Ana: Is your mentee working on his AWS certificate.
-
----
-
-
-
---- 
-
-Ana: How much data do you think we need to get a working model?
-
-Bob: The golden rule is the more data we can use the better the model we can build. And, We have another golden rule: garbage in, garbage out. So, let's try with a small clean data set and begin building our model from there.
-
-Ana: Great! Thank you for your short and sweet answer! Let's get started!
-
-
----
-
-Ana: What accuracy score did you get after you processed your model?
-
-Bob: We got a 91% accuracy on the model. This is a good result as the state of the art suggests a score of 95%. So, we're close!
-
-Ana: Bob, I'm a business analyst! Not a Kaggler! For me the most important thing is what value can we bring to our client not about how close we are to the state of the art!
-
-
----
-
-
----
-
-Bob:  How do I begin the onboarding process?
-
-Ana: The first thing to do is to look over the onboarding check list.
-
-Bob: And then what do I do?
-
-Ana: After you have completed the onboarding checklist,you will need to read the documentation about the team structure and project specifics.
-
-Bob: How long will it take to complete the checklist?
-
-Ana: You can expect to complete the checklist in a few weeks.
-
-Bob: What kind of documentation do you need from me?
-
-Ana: I don't need any documentation for now. As of now, we're good. After you complete the onboarding process you will be able to start working.
-
-Bob: Thank you Ana! Who should I contact if I have questions?
-
-Ana: You can ask me any questions. If I'm not available, you can ask Chris.
-
-
----
-
-Ana: What seems to be the problem?
-
-Bob: My daughter is not feeling well. She has a temperature.
-
-Ana: Has she been eating?
-
-Bob: She's been less than usual.
-
-Ana: Have you given her anything to feel better? Any medicines?
-
-Bob: We gave her ibuprofen.
-
-Ana: Anything else?
-
-Bob: We gave her Paracetamol to treat her fever.
-
-Ana: How long has she been feeling unwell?
-
-Bob: For about two days... we came to you because she has a cough. I would like you to listen to her lungs.
-
-Ana: What is your daughter's name?
-
-Bob: Her name is Polina.
-
-Ana: OK... Polina, let's listen to you!
-
-
----
-
-
----
-
-Ana: Why is this issue important?
-
-Bob: This issue is important because the women that have been violated don't have help from the government nor access to the justice system.
-
-Ana: What help do these women need?
-
-Bob: These women need psychological and medical help.
-
-Ana: Is this all that they need?
-
-Bob: No, but this would begin to cover their basic needs.
-
-Ana: What else do they need?
-
-Bob: These women need legal help and they need support from the police in catching the perpetrators.
-
-Ana: And, why is this an issue now?
-
-Bob: The police don't want to work on old rape cases.
-
-Ana: Why don't the police want to work on old rape cases?
-
-Bob: Because it's a hard problem and they don't want to get involved.
-
-Ana: What then is the solution? What does your organization propose?
-
-Bob: The police don't want to work with old evidence. The crime happened a long time ago. We propose to simplify how the police work with evidence. 
-
-Ana: Specifically? Can you tell me more details?
-
----
-
-
-Ana: What is your message to the government?
-
-
-Bob: Women that have been violated should have the right to seek justice. Women that have been violated should have the right to seek reparation from the government.
+A: Women that have been violated should have the right to seek justice. Women that have been violated should have the right to seek reparation from the government.
 
 
 # front end designer interview
 
-Ana: Tell me all about your previous job responsibilities as a front end designer.
+#mermaid 
 
-Bob: At last my last job, I was doing basically the same thing I'm doing today.
+Q:  Tell me all about your previous job responsibilities as a front end designer.
 
-Ana: What exactly what were you doing before?
+A: At last my last job, I was doing basically the same thing I'm doing today.
 
-Bob: I was creating user interfaces. I was designing the things that you see on the web when using your browser.
+Q:  What exactly what were you doing before?
 
-Ana: What tools do you use in your design process?
+A: I was creating user interfaces. I was designing the things that you see on the web when using your browser.
 
-Bob: Front End devs use design patterns. They are like templates that help us speed up the process and to build cope using industry best practices.
+Q:  What tools do you use in your design process?
 
-Ana: What are some best practices in Front End design? Which best practice do you subscribe to most?
+A: Front End devs use design patterns. They are like templates that help us speed up the process and to build cope using industry best practices.
 
-Bob: There are many of them.
+Q:  What are some best practices in Front End design? Which best practice do you subscribe to most?
 
-Ana: Which one do you use most?
+A: There are many of them.
 
-Bob: I like to use pre-processors for styles. It helps me to write cleaner and faster code!
+Q:  Which one do you use most?
 
-Ana: Thank you for talking to me. We'll continue this conversation later.
+A: I like to use pre-processors for styles. It helps me to write cleaner and faster code!
 
+Q:  Thank you for talking to me. We'll continue this conversation later.
 
-
-
---- 
-
-Ana: What was the difference in performance?
-
-Bob: I didn't measure it exactly but it was obvious that it's not as good as before.
-
-# cause
-
-Ana: What was the cause of the issue??
-
-Bob: I'm not sure yet.
 
 ---
-Ana: How did you learn about this issue? Did the client notify you?
 
-Bob: I was testing a feature and I noticed that the performance was not as good
+#mermaid 
+
+
+
+
+Q:  What was the difference in performance?
+
+A: I didn't measure it exactly but it was obvious that it's not as good as before.
+
+# cause
+#mermaid 
+Q:  What was the cause of the issue??
+
+A: I'm not sure yet.
+
+---
+
+#mermaid 
+Q:  How did you learn about this issue? Did the client notify you?
+
+A: I was testing a feature and I noticed that the performance was not as good
 as before.
 
 ---
-Ana: Are you going to investigate the root cause?
+#mermaid 
+Q:  Are you going to investigate the root cause?
 
-Bob: I notified the developers of the issue.
+A: I notified the developers of the issue.
 
 
 # beaches in Thailand
+#mermaid 
 
-Ana: Where are the most beautiful beaches in Thailand?
+Q:  Where are the most beautiful beaches in Thailand?
 
-Bob: The best beaches are on Ko Lanta Island.
+A: The best beaches are on Ko Lanta Island.
 
-Ana: Where can I go surfing in Thailand?
+Q:  Where can I go surfing in Thailand?
 
-Bob: There are lots of places... I'll have to look it up for you.
+A: There are lots of places... I'll have to look it up for you.
 
-Ana: Where is the best shopping?
+Q:  Where is the best shopping?
 
-Bob: In my opinion, Bangkok has some of the best shopping in Asia.
+A: In my opinion, Bangkok has some of the best shopping in Asia.
 
 
 
 ---
+# Grafana
+#mermaid 
 
-Ana: What should I know about Grafana? What does it do?
+Q:  What should I know about Grafana? What does it do?
 
-Bob: Allow me to explain. Grafana is necessary for visualizing certain metrics. 
+A: Allow me to explain. Grafana is necessary for visualizing certain metrics. 
 
-Ana: How do I go about planning an implementation of Grafana? How do I go about setting up Grafana?
+Q:  How do I go about planning an implementation of Grafana? How do I go about setting up Grafana?
 
-Bob: Read the set up documentation for Grafana. I would recommend you follow those steps for setting up Grafana.
+A: Read the set up documentation for Grafana. I would recommend you follow those steps for setting up Grafana.
 
-Ana: Could you send me the links to the documentation?
+Q:  Could you send me the links to the documentation?
 
-Bob: Sure. I will send them to you as soon as I can.
+A: Sure. I will send them to you as soon as I can.
 
-Ana: Thanks for your help! I'll wait for the links from you!
+Q:  Thanks for your help! I'll wait for the links from you!
 
-# grafana
-Ana: What do you need to do today?
+# Grafana II
+#mermaid 
+Q:  What do you need to do today?
 
-Bob: I need to finish a couple of my tasks.
+A: I need to finish a couple of my tasks.
 
-Ana: Is there anything preventing you from completing your tasks? 
+Q:  Is there anything preventing you from completing your tasks? 
 
-Bob: I am waiting for information from Ivan.
+A: I am waiting for information from Ivan.
 
-Ana: Let me know if Ivan doesn't send you the information that you need. What else are you working on? What exactly are you working on?
+Q:  Let me know if Ivan doesn't send you the information that you need. What else are you working on? What exactly are you working on?
 
 Bob :  Right now I'm working on Grafana dashboards based on user defined metrics.
 
-Ana: Cool. What have you learned about Grafana?
+Q:  Cool. What have you learned about Grafana?
 
-Bob: I have learned a lot about Grafana variables and Grafana in general.
+A: I have learned a lot about Grafana variables and Grafana in general.
 
-Ana: What else are you learning these days?
+Q:  What else are you learning these days?
 
-Bob: I'm preparing to take my Google certification exam.
+A: I'm preparing to take my Google certification exam.
 
-Ana: That's good to hear! GCP is important for our company.
+Q:  That's good to hear! GCP is important for our company.
 
-Bob: Yes, I know! I need to spend more time studying!
+A: Yes, I know! I need to spend more time studying!
 
 
 # mentees
+#mermaid 
+Q:  How would you go about selecting mentees in the future?
 
-Ana: How would you go about selecting mentees in the future?
+A: I would choose people who want to learn.
 
-Bob: I would choose people who want to learn.
+Q:  How do you identify people who want to learn?
 
-Ana: How do you identify people who want to learn?
+A: That's a good question!
 
-Bob: That's a good question!
-
+---
 # mentor
+#mermaid 
 
-Ana: What advice would you offer to another new mentor?
+Q:  What advice would you offer to another new mentor?
 
-Bob: It's not that hard to mentor a team. You should establish a single line of communication. You should identify a team lead and the team communicates via the team lead.
+A: It's not that hard to mentor a team. You should establish a single line of communication. You should identify a team lead and the team communicates via the team lead.
 
 # mentor again
-Ana: Would you consider being a mentor again?
+#mermaid 
+Q:  Would you consider being a mentor again?
 
-Bob: I would like to mentor a team again because I want to use what I learned from my previous mentoring experience.
+A: I would like to mentor a team again because I want to use what I learned from my previous mentoring experience.
 
-
+---
 # weekend
+#mermaid 
 
-Ana: Hey Bob! What are you planning to do next weekend?
+Q:  Hey Bob! What are you planning to do next weekend?
 
-Bob: Hey Ana! I'm planning to go to the movies this weekend. Would you like to join?
+A: Hey Ana! I'm planning to go to the movies this weekend. Would you like to join?
 
-Ana: Yah! Sure. What movie did you want to see?
+Q:  Yah! Sure. What movie did you want to see?
 
-Bob: I want to see Titanic again!
+A: I want to see Titanic again!
 
-Ana: Oh, that's a great movie! Sure, I could see it again.
+Q:  Oh, that's a great movie! Sure, I could see it again.
 
-Bob: Ok, we can meet Saturday night at 6 p.m. near the XYZ cinema.
+A: Ok, we can meet Saturday night at 6 p.m. near the XYZ cinema.
 
-Ana: Ok, see you on Saturday.
+Q:  Ok, see you on Saturday.
 
 
 # what are you doing
+#mermaid 
+Q:  Hey, Ira! What are you going to do this weekend?
 
-Ana: Hey, Ira! What are you going to do this weekend?
+A:  I'm planning to go to a party this weekend. Do you want to [roll with,come with] me?
 
-Ira: I'm planning to go to a party this weekend. Do you want to [roll with,come with] me?
+Q:  Of course! That's a great idea. Where's the party?
 
-Ana: Of course! That's a great idea. Where's the party?
+A:  The party is at some guy's villa near the center of town.
 
-Ira: The party is at some guy's villa near the center of town.
+Q:  We can meet before the party at our bar.
 
-Ana: We can meet before the party at our bar.
+A:  Oh...cool! Let's do that!
 
-Ira: Oh...cool! Let's do that!
+Q:  I will meet you at our bar at 8 p.m.
 
-Ana: I will meet you at our bar at 8 p.m.
+A:  Wait girl! I didn't tell you what day was the party!
 
-Ira: Wait girl! I didn't tell you what day was the party!
-
-Ana: Oh, I already know about this party! I'm in the know! (idiomatic)
+Q:  Oh, I already know about this party! I'm in the know! (idiomatic)
 
 
 # come over
+#mermaid 
+A:  Hey Ana, I'm coming over to your place before we go to the bar! Is that ok?
 
-Ira: Hey Ana, I'm coming over to your place before we go to the bar! Is that ok?
+Q:  Good idea! Come on over! When will you get here?
 
-Ana: Good idea! Come on over! When will you get here?
+A:  I'm at your door now!
 
-Ira: I'm at your door now!
+Q:  Oh, shit let me hide my mess!
 
-Ana: Oh, shit let me hide my mess!
+A:  Don't worry about it!
 
-Ira: Don't worry about it!
+Q:  (Ira enters Ana's home) Hello Ira! Sam says hello too! Come on in! Would you like something to drink? Tea? Coffee? Water? Something stronger?
 
-(Ira enters Ana's home)
-Ana: Hello Ira! Sam says hello too! Come on in! Would you like something to drink? Tea? Coffee? Water? Something stronger?
+A:  Yeh... I would like a glass of water with a shot of your best!
 
-Ira: Yeh... I would like a glass of water with a shot of your best!
+Q:  OK! (brings a glass of water with a shot of your best cognac)
 
-Ana: OK! 
-(bring a glass of water with a shot of your best cognac)
+A:  What should I wear tonight?!
 
-Ira: What should I wear tonight?!
+Q:  You should wear something cute and comfortable!
 
-Ana: You should wear something cute and comfortable!
+A:  But, I don't have anything that is cute and comfortable.
 
-Ira: But, I don't have anything that is cute and comfortable.
+Q:  You can check what I've got. Look in my wardrobe.
 
-Ana: You can check what I've got. Look in my wardrobe.
+A:  You're the best! Thank you! Can I wear this!?
 
-Ira: You're the best! Thank you! Can I wear this!?
+Q:  Yes. Of course! As long as you don't destroy it!
 
-Ana: Yes. Of course! As long as you don't destroy it!
+A:  Of course I'll be careful with it!
 
-Ira: Of course I'll be careful with it!
-
-Ana: Ira! It's late it's time to go! We need to get an Uber!
+Q:  Ira! It's late it's time to go! We need to get an Uber!
 
 
 
 
 # feedback
+#mermaid 
 
-Bob: What kind of feedback have you received from your colleagues?
+A: What kind of feedback have you received from your colleagues?
 
-Ana: I got excellent feedback from my colleagues and I hope to get the same from you!
+Q:  I got excellent feedback from my colleagues and I hope to get the same from you!
 
-Bob: Can you be more specific about the nature of the feedback you received?
+A: Can you be more specific about the nature of the feedback you received?
 
-Ana: My team lead said that I was productive and effective over the last three months. And the customer mentioned that the client is happy working with me.
+Q:  My team lead said that I was productive and effective over the last three months. And the customer mentioned that the client is happy working with me.
 
-Bob: What courses are you taking now?
+A: What courses are you taking now?
 
-Ana: I've been participating in English courses and I am going to  start an SQL professional course.
+Q:  I've been participating in English courses and I am going to  start an SQL professional course.
 
-Bob: Are you getting enough [feedback,support] from the career development?
+A: Are you getting enough [feedback,support] from the career development?
 
-Ana: Yes, I'm happy with the support I've been getting.
+Q:  Yes, I'm happy with the support I've been getting.
 
 # working with teams
+#mermaid 
+Q:  Good morning! Have you had issues while working with your teams?
 
-Ana: Good morning! Have you had issues while working with your teams?
+A: Good morning! There are a lot of talented people on my team. I'm happy to be working with them.
 
-Bob: Good morning! There are a lot of talented people on my team. I'm happy to be working with them.
+Q:  What kind of feedback have you received from your colleagues? By the way, I wrote some feedback for you. Have you read it?
 
-Ana: What kind of feedback have you received from your colleagues? By the way, I wrote some feedback for you. Have you read it?
+A: I got good feedback from my team mates. I got constructive feedback on what I can improve. And, of course, I read your feedback.
 
-Bob: I got good feedback from my team mates. I got constructive feedback on what I can improve. And, of course, I read your feedback.
+Q:  I saw the feed back from your team and I think you should get a raise. I would like to suggest that we create a career plan for you now!
 
-Ana: I saw the feed back from your team and I think you should get a raise. I would like to suggest that we create a career plan for you now!
-
-Bob: Sounds good! I like hearing that I'm doing a good job and that I'm getting recognized.
+A: Sounds good! I like hearing that I'm doing a good job and that I'm getting recognized.
 
 
 
 # great design
-Ana: I've got a great new design ready to go!
+#mermaid 
+Q:  I've got a great new design ready to go!
 
-Bob: Great! Looks good! That should knock 'em dead!
+A: Great! Looks good! That should knock 'em dead!
 
+---
 
 # thanks for the invite
+#mermaid 
+Q:  Hi Bob! Thanks for inviting me over!
 
-Ana: Hi Bob! Thanks for inviting me over!
+A: Come on in! Make yourself at home.
 
-Bob: Come on in! Make yourself at home.
+Q:  Hey, is that a bottle of red wine?
 
-Ana: Hey, is that a bottle of red wine?
-
-Bob: Sure, help yourself!
+A: Sure, help yourself!
 
 
 # good luck
+#mermaid 
 
-Ana: Good luck at your performance tonight!
+Q:  Good luck at your performance tonight!
 
-Bob: Ana! It's bad luck to wish an actor good luck before a show!
+A: Ana! It's bad luck to wish an actor good luck before a show!
 
-Ana: Oh right! Break a leg!
+Q:  Oh right! Break a leg!
 
 
 # analysis
-Ana: What is your analysis of the situation?
+#mermaid 
 
-Bob: Which situation are you [talking about,referring to]?
+Q:  What is your analysis of the situation?
 
-Ana: I'm referring to the situation of the roads in downtown...
+A: Which situation are you [talking about,referring to]?
 
-Bob: This morning the situation was very stressful and dreadful. I hope that the situation will be better when I leave work tonight.
+Q:  I'm referring to the situation of the roads in downtown...
+
+A: This morning the situation was very stressful and dreadful. I hope that the situation will be better when I leave work tonight.
 
 
 # going to the store
+#mermaid 
 
-Ana: I'm going to the store! 
+Q:  I'm going to the store! 
 
-Bob: Gotcha!
+A: Gotcha!
+
+---
+#mermaid 
+
+Q:  The party starts in two hours. Please finish sweeping the floor.
+
+A: Gotcha!
+
+---
+#mermaid 
+
+Q:  What was he planning to do? 
+A: He planned to stay here for two weeks but they need him back at work immediately. 
+
+---
+#mermaid 
+
+Q:  How long was he been planning to stay?
+A: He planned to stay here for two weeks but they need him back at work immediately. 
+
+
+---
+#mermaid 
+
+Q:  How long did you wait for her call? 
+A: I waited for her call until 6 p.m. but she didn't call. I suppose she was busy. 
+
+
+---
+#mermaid 
+
+Q:  Why didn't she call? 
+A: I waited for her call until 6 p.m. but she didn't call. I am guessing she was busy.
+
+
+
+---
+#mermaid 
+
+Q:  Who was allowed to use written materials? 
+A:  No one was allowed to use any written materials during  the exam. 
+
+---
+#mermaid 
+
+Q:  Was anyone allowed to use written materials during the exam?
+A: No one was allowed to use any written materials during  the exam. 
+
+
+
+---
+#mermaid 
+
+
+Q:  Where the hell is he?! Has he arrived yet?
+A: I hope he hasn't had an accident. He said he would be here [at, around,about, by] six but he hasn't come yet. 
+
+
+---
+#mermaid 
+
+
+Q:   How long did you work at X?
+A:  I worked at X for three years.
+
+---
+---
+- What did you do?
+- I went to school.
 
 ---
 
-Ana: The party starts in two hours. Please finish sweeping the floor.
-
-Bob: Gotcha!
-
----
-
-Ana: What was he planning to do? 
-Bob: He planned to stay here for two weeks but they need him back at work immediately. 
+- What did you do yesterday?
+- I went to school yesterday.
 
 ---
-Ana: How long was he been planning to stay?
-Bob: He planned to stay here for two weeks but they need him back at work immediately. 
+
+- What she did she do last night? When did she arrive?
+- She arrived last night. [[grammar elements verbs#arrive arrived d reg]]
 
 ---
-Bob: When can you deliver the new monitors? We need them before next Friday at the latest. 
+- What did you do?
+- I watched TV. [[grammar elements verbs#watch watched t reg]]
 
-Bob: When are you able to make the delivery? We need them before next Friday at the latest. 
+---
+#mermaid 
+Q: When did you eat?
+A: We ate earlier.
 
-Bob: Could you deliver the new computer monitors by the end of this week? We need them before next Tuesday at the latest. 
+---
+#mermaid 
+Q: I made a good cup of coffee!
+A: I went to a cafe.
 
-----
-Ana: How long did you wait for her call? 
-Bob: I waited for her call until 6 p.m. but she didn't call. I suppose she was busy. 
-
-Ana: Why didn't she call? 
-Bob: I waited for her call until 6 p.m. but she didn't call. I am guessing she was busy.
-
-
-
---------
-Ana: Who was allowed to use written materials? 
-Bob:  No one was allowed to use any written materials during  the exam. 
-
-Ana: Was anyone allowed to use written materials during the exam?
-Bob: No one was allowed to use any written materials during  the exam. 
-
-
-
--------
-
-Ana: Where the hell is he?! Has he arrived yet?
-I hope he hasn't had an accident. He said he would be here [at, around,about, by] six but he hasn't come yet. 
-
+---

@@ -446,6 +446,8 @@ be --> becalm;
 ```
 
 
+
+
 ## dia -
 complete, through
 
@@ -461,9 +463,20 @@ dia --> diarrhea;
 
 ```
 
+## circum- 
+around, about
+```mermaid
+graph TD;
+circum -->circumspect;
+circum -->circumcise;
+
+```
+
+
+
+
 
 ## con- 
-prefix
 with
 ```mermaid
 graph TD;
@@ -692,6 +705,7 @@ pre--> prejudice;
 pre--> prevent;
 pre--> prepare;
 pre--> predate;
+pre--> precise;
 pre--> prejudge;
 pre--> pretest;
 ```
@@ -878,7 +892,6 @@ graph TD;
 -ment -->augment;
 -ment --> impedement;
 -ment--> embellishment;
-
 -ment -->unemployment;
 -ment -->enticement;
 ```
@@ -886,6 +899,45 @@ graph TD;
 
 
 # roots
+
+## fect
+make or do
+```mermaid
+graph TD;
+fect --> infect;
+fect -->perfect;
+fect -->defect;
+```
+
+##  ject 
+means '**throw**
+
+```mermaid
+graph TD;
+ject --> trajectory;
+ject --> inject;
+ject --> reject;
+ject --> eject;
+
+
+```
+
+
+## cise
+
+cut (down)
+```mermaid
+graph TD;
+cise(cut)-->circumcise
+cise(cut)-->decisive
+cise(cut)-->incision
+cise(cut)-->incisive
+cise(cut)-->incisor
+cise(cut)-->precise
+cise(cut)-->scissors
+
+```
+
 
 ## ratio
 logic;  reason;  judgment

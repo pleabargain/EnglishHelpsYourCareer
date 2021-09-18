@@ -6,14 +6,29 @@ Have you ever been in a car accident?
 I was speeding and my car flipped!
 The road was slick from a recent rain.
 
-# nouns
+# dialogues
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+to damage
+to flip
+
+# [[grammar elements nouns]]
 mud
 insurance
 accident
 
-# adjectives
-slick
 
-# verbs
-to damage
-to flip
+# [[grammar elements adjectives]]
+- slick
+# [[grammar elements adverbs]]
+
+# resources

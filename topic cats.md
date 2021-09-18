@@ -12,17 +12,19 @@
 
 
 # dialogues
----
-- Why is she meowing in the morning?
-- It's her way of getting attention.
+#mermaid 
+Q:   Why is she meowing in the morning?
+A: It's her way of getting attention.
 
 ---
-- Why is she staring at the wall?
-- She said that she is talking to ghosts.
+#mermaid 
+Q:   Why is she staring at the wall?
+A:  She said that she is talking to ghosts.
 
 ---
-- Please ask her when she is planning to stop shedding.
-- She said that it is seasonal and she will stop shedding in autumn.
+#mermaid
+Q:   Please ask her when she is planning to stop shedding.
+A:  She said that it is seasonal and she will stop shedding in autumn.
 
 
 

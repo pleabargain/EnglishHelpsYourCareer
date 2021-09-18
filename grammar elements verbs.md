@@ -55,6 +55,7 @@ verbs (pronunciation) (regular or irregular)
 
 # foster fostered  (d) (reg) 
 - We have [fostered|created] a positive work environment.
+- We fostered a new group of young developers to become better coders.
 
 # tackle tackled (d) (reg) 
 - We tackled the problem without fear!

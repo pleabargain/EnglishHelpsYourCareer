@@ -8,3 +8,25 @@
 - The factory owners are not afraid of the law enforcement.
 - Public awareness is more important than police enforcement.
 - Everyone should be treated equally under the law.
+
+
+# dialogues
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources

@@ -1,5 +1,3 @@
-[[topic drivers license]]
-[[topic car accidents]]
 # questions 
 - When did you get your driver's license?
 - What kind of car would you like to own?
@@ -21,24 +19,37 @@
 - If you don't have insurance the police will fine you.
 
 # dialogues
----
-- person: What kind of fuel do you like?
-- person via car: She likes octane 95. She also likes LPG!
----
+#mermaid 
 
-- How much does insurance cost?
-- It doesn't cost very much but the insurance companies rarely pay out.
+Q: What kind of fuel do you like?
+A: She likes octane 95. She also likes LPG!
 
 ---
-- person: Which do you prefer, petrol or gas?
-- person via car: She told me that it doesn't matter.
+
+#mermaid 
+
+Q: How much does insurance cost?
+A: It doesn't cost very much but the insurance companies rarely pay out.
 
 ---
-- How much did it cost to get the tire repaired?
-- It didn't cost much.
+
+#mermaid 
+
+Q: person: Which do you prefer, petrol or gas?
+A: She told me that it doesn't matter.
+
 ---
-- How is the parking in your neighborhood?
-- I have got a private parking spot not far from home.
+#mermaid 
+
+Q: How much did it cost to get the tire repaired?- 
+A: It didn't cost much.
+
+---
+#mermaid 
+
+Q: How is the parking in your neighborhood?
+A:  I have got a private parking spot not far from home.
+
 ---
 
 

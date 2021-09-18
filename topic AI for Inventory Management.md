@@ -19,3 +19,24 @@
 - The requirements are not the same for every client.
 - We will never be able to explain... 
 
+
+# dialogues
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources

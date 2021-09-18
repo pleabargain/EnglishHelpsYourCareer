@@ -34,5 +34,24 @@
 - They haven't finished the building.
 - I don't know what it is called.
 
-# advice
-- Hang out in the neighborhood of your likely purchase...
+
+# dialogues
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources

@@ -3,15 +3,22 @@
 # statements
 
 # dialogues
+---
+#mermaid 
 
-# phrases
+Q: 
+A: 
 
-# verbs
+---
 
-# nouns
+# [[English in use phrases]]
 
-# adjectives
+# [[grammar elements verbs]]
 
-# adverbs
+# [[grammar elements nouns]]
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
 
 # resources

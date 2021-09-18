@@ -12,6 +12,26 @@
 - The baby is due in a few weeks.
 
 
-# nouns
+
+
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
 - baby carriage
 - maternity leave
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources

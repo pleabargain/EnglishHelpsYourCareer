@@ -514,3 +514,9 @@
 
 # without
 - I can't work without my laptop!
+
+# under
+- We were under the hood looking at the inner workings of the car.
+
+# over
+- We crossed over the bridge.

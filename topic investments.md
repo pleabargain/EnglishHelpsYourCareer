@@ -2,6 +2,11 @@
 - What investment do you want to buy?
 - What markets would you buy into?
 - Who among your friends invests?
+- Do you want to DIY or set it and forget it?
+- What is your timeline?
+- What is your risk tolerance?
+- What return do you need?
+- What do you know about robo investors?
 - Who manages the budget in your home?
 - What is your number one expense in your home?
 - What budget items do you track?

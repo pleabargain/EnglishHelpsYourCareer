@@ -28,6 +28,13 @@
 # statements
 
 # dialogues
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
 
 # [[English in use phrases]]
 

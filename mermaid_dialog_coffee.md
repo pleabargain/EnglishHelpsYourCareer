@@ -7,25 +7,27 @@ Ana:  What do you like to drink?
 
 Bob:  I like to drink herbal tea or water.
 
-``` mermaid
+
+
+
+```mermaid
 sequenceDiagram
 
-Ana->>Bob: What kind of coffee do you prefer?
+Ana->Bob: What kind of coffee do you prefer?
 
 loop Politeness
 
-Bob->>Bob: Fight against rude reply
+Bob->Bob: Fight against rude reply
 
 end
 
 Note right of Bob: She's trying to be nice!
 
-Bob->>Ana: I prefer to not drink coffee at all!
+Bob->Ana: I prefer to not drink coffee at all!
 
-Ana->>Bob:   What do you like to drink?
+Ana->Bob:   What do you like to drink?
 
-Bob->>Ana: I like to drink herbal tea or water.
+Bob->Ana: I like to drink herbal tea or water.
 
-Ana->>Bob: Ok. I'll see if we have any.
-
+Ana->Bob: Ok. I'll see if we have any.
 ```

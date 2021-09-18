@@ -1,0 +1,10 @@
+-   I will be writing articles on different topics.
+-   Robert will be reading various kinds of books.
+-   I will be climbing in the mountains next Saturday after my friend's birthday party.
+-   They will be playing football in that field.
+-   April will be having coffee in this coffee shop.
+-   I am going to meet my friends.
+-   I will be launching the campaign before going on vacation.
+-   Bob will be going to the library.
+-   I will be guiding people on a historical tour of the city.
+-   We will be shopping in that market this Monday.

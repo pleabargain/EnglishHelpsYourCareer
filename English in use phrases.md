@@ -1,64 +1,73 @@
+# blows my mind
+- It's blows my mind how quickly the year has passed!
+
+# two way street #negotiation
+- Marriage is a two way street.
+
+# give and take #negotiation
+There's a lot of give and take in relationships.
+
 # back up to speed
 - I will be back up to speed as soon as I heal from my surgery.
 
 
-# on the same page
-We are all on the same page.
+# on the same page 
+- We are all on the same page.
 # to be slammed
-I'm slammed at work! I have got so much to do!
+- I'm slammed at work! I have got so much to do!
 
-# initial offer 
+# initial offer #negotiation
 the first offer made to a candidate 
-# counter-offer
+# counter-offer #negotiation
 an offer made in response to a previous offer including changes 
-# to lowball/ highball 
+# to lowball/ highball #negotiation
 (to make an offer much lower or higher than expected )
 
-# deadlock 
+# deadlock #negotiation
 (when the parties cannot reach an agreement )
-# amplify 
+# amplify #negotiation
 (expand; give more information )
-# arbitration 
+# arbitration #negotiation
 (conflict that is addressed by using a neutral third party )
-# bargain 
+# bargain #negotiation
 (try to change a person's mind by using various tactics) 
 - My wife likes to bargain at the farmer's market.
-# bottom line 
+# bottom line #negotiation
 the most important factor or point 
-#  deal-breaker 
+#  deal-breaker #negotiation
 essential condition to a contract which, could cause one party to pull out of the deal 
-# amendment 
+# amendment #negotiation
 a change to something 
 
-# leverage 
+# leverage #negotiation
 (bargaining power) something that gives one party a greater chance at succeeding over another 
-# tentative solution
+# tentative solution #negotiation
 an agreement that depends on some conditions, so that it might not be a final agreement 
-# log-rolling 
+# log-rolling #negotiation
 trading one favor for another 
-# the ball is in one’s court
+# the ball is in one’s court #negotiation
 is time for someone to deal with a problem 
-# cut-throat 
+# cut-throat #negotiation
 ruthless 
-# to decline an offer
+# to decline an offer #negotiation
 to not accept an offer 
-# to weigh up the options 
+# to weigh up the options #negotiation
 to review all the options 
-# to reach an agreement 
+# to reach an agreement #negotiation
 to agree on something 
-# to improve on an offer 
+# to improve on an offer #negotiation
 make an offer more attractive 
-# to yield 
+# to yield #negotiaton
 to give in to another's requests 
-# to iterate on an offer 
+# to iterate on an offer #negotiation
 make another offer 
-# to back down 
+# to back down #negotiation
 to stop asking for something 
 # to call the shots 
 the person who makes the decisions. 
 # to draw the line
 to put a limit on what you will do or allow to happen 
-# to drive a hard bargain 
+# to drive a hard bargain #negotiation
 to fiercely negotiate and demand what you want 
 
 # to have an ace up one’s sleeve

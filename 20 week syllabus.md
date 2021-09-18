@@ -70,14 +70,19 @@ The underlined documents are found on github: https://github.com/pleabargain/Eng
 # week15 
 - describe a healthy family relationship
 - [[grammar elements subordinating conjunctions]]
-]]
+
 # week16 
 - What do you wish you knew when you were twenty years old?
+
+
 # week17 
 - Where do you see yourself in 5 years?
+
 # week18 
 - How has technology changed the way you interact with your parents?
+
 # week19 
 - Why is social media both good and bad?
+
 # week20
 - Give career advice to your 20 year old self.

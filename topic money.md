@@ -1,12 +1,20 @@
 # questions
- Are you a coupon collector? Do you sometimes get fanatical about saving money on groceries?
+ Are you a coupon collector? 
+ Do you sometimes get fanatical about saving money on groceries?
+ 
 
 # statements
 
 # dialogues
 
-# verbs
+# [[English in use phrases]]
 
-# nouns
+# [[grammar elements verbs]]
 
-# adjectives
+# [[grammar elements nouns]]
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources

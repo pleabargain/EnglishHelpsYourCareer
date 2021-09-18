@@ -9,6 +9,8 @@ tame <> wild
 expect <> unexpected
 finite<>infinite
 something<>nothing
+high<>low
+stop<>go
 clean <>dirty
 sincere<>insincere
 manual<>automatic
@@ -19,11 +21,12 @@ unhealthy<>healthy
 inedible<>edible
 deep<>shallow
 guilty <>innocent
-
+over<>under
 unleash <> leash
+goodbye<>hello
 
 inner <> outer
-* We were under the hood looking at the inner workings.
+
 
 inconsistent<>consistent
 
@@ -42,15 +45,11 @@ get sick <>recover
 suitable<>unsuitable
 
 rural<>urban
-* She doesn't live in the city. She lives in a very rural community.
 calm<>manic
-* He's not calm! He's manic.
 sharp knife<>dull knife
-* I bought a bought a sharp knife a while ago but not it's dull.
 sharp person<>stupid person
 
 entertaining<>dull
-* There are both entertaining and dull shows on Netflix.
 
 vertical<>horizontal
 

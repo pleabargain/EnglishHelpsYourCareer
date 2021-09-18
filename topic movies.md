@@ -23,6 +23,8 @@
 - I go to the movies to eat popcorn.
 - I had bacon flavored popcorn.
 - I had cheese flavored popcorn.
+- There are both entertaining and dull shows on Netflix.
+
 
 
 # genres

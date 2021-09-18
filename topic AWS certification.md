@@ -23,16 +23,30 @@
   -  As may know, every AWS service is accessible via the command line, or SDK.
 
 
-## topic AWS nouns
+
+
+
+# dialogues
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
 -  YAML
 -  JSON
 
-## topic AWS verbs
+# [[grammar elements adjectives]]
 
+# [[grammar elements adverbs]]
 
-# ML Ops
+# resource
+https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf
 
-# Machine Learning
-
-
-# resource: https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf

@@ -14,6 +14,7 @@
 - Writing bad code is a bad habit and furthermore it slows down the software development process.
   
 - She won the race, and **furthermore**, she established a new world record.
+
 ## moreover      
 -   The car looked good; **moreover**, the price was right.
 -   Mark is handsome; **moreover**, he is rich.
@@ -21,6 +22,7 @@
 -   Excessive alcohol drinking alcohol is a bad for your health; moreover it is harmful to society.
 -   In the making of domestic policy; **moreover** , she is often at sea.
 -   The student’s essay was badly written. **Moreover**, it was too short.
+
 ## similarly
 - It was obvious from the deafening applause the other concert goers were similarly impressed by the singer’s performance. 
 - We encourage our coders to write similarly styled code.
@@ -66,8 +68,11 @@
 - I was very tired but nevertheless I kept working.
 - I don't like onions, nevertheless I ate my grandmother's onion soup.
 - My manager canceled my vacation, nevertheless I will call in sick.
+
 ## then
+
 ## besides       
+
 ## incidentally  
 - The city’s plans include a new football stadium, which incidentally, is going to be paid for with taxpayer dollars.
 
@@ -75,8 +80,10 @@
 -   The next train to Baltimore is at ten.
 -   The next six months will be the hardest.
 -   The next chapter deals with the post-war situation.
+
 ## thereafter
 -   She married at 17 and gave birth to her first child shortly thereafter.
+
 ## certainly  
 -   Without treatment, she will almost certainly die.
 -   Certainly, the early years are crucial to a child's development.
@@ -85,24 +92,28 @@
 -   She was certainly attractive but you couldn’t call her beautiful.
 -   It is certainly true that individual earthquakes are difficult to predict with any accuracy.
 -   This will certainly make them think again.
- ## indeed      
+
+## indeed      
  -   Thank you very much indeed!
 -   I was very sad indeed to hear of your father's death.
 -   The last three months have been very good indeed for the company.
- ## nonetheless   
+
+## nonetheless   
  -   The book is too long but, nonetheless, informative and entertaining.
 -   The problems are not serious. Nonetheless, we shall need to tackle them soon.
- ## therefore
+
+## therefore
  ergo
  
- - She was not going to make the meeting therefore we started without her.
- - She was not going to make the meeting ergo we started without her.
+- She was not going to make the meeting therefore we started without her.
+- She was not going to make the meeting ergo we started without her.
  
  
- ## consequently  
- -   This poses a threat to agriculture and the food chain, and consequently to human health.
+## consequently  
+-   This poses a threat to agriculture and the food chain, and consequently to human health.
 -   She failed her exams and was consequently unable to start her studies at college.
- ## instead   
+
+## instead   
  -   He didn't reply. Instead, he turned on his heel and left the room.
 -   She said nothing, preferring instead to save her comments till later.
 -   She might have pursued a successful career in business, but she chose instead to become a nun.

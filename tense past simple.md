@@ -32,29 +32,35 @@ Past simple sentences are created by changing a regular verb into its past tense
 - I thought about the world.
 
 ---
-- When did you eat?
-- We ate earlier.
----
+#mermaid 
+Q: When did you eat?
+A: We ate earlier.
 
-- I made a good cup of coffee!
+---
+#mermaid 
+Q: I made a good cup of coffee!
 - I went to a cafe.
 
-
-- We fostered a new group of young developers to become better coders.
 ---
-
-- A few weeks ago I finished a very good book. I think you will like it!
-- What is the book's title? What is the book's name? What's the name of the book?
 
 ---
 
-- When did you finish the book? (you know what book I'm reading)
-- A few weeks ago I finished reading The Petite Prince.
+---
+#mermaid 
+Q: A few weeks ago I finished a very good book. I think you will like it!
+A: What is the book's title? What is the book's name? What's the name of the book?
 
 ---
+---
+#mermaid 
+Q: When did you finish the book? (you know what book I'm reading)
+A: A few weeks ago I finished reading The Petite Prince.
 
-- I left my previous company two years ago.
-- Our trees produced a lot of fruit.
+---
+---
+#mermaid 
+Q:  I left my previous company two years ago.
+A: Our trees produced a lot of fruit.
 - I went to Odessa one year ago.
 
 - We grew a number of crops this summer.

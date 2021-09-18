@@ -1,4 +1,12 @@
-# car camping
+
+# questions
+How did you make fire?
+
+# statements
+We didn't need to pack in water.
+We used plastic bottles to carry water.
+
+
 
 # glam camping or glamping
 
@@ -38,12 +46,6 @@ mountain summit
 trail
 
 
-# statements
-We didn't need to pack in water.
-We used plastic bottles to carry water.
-
-# questions
-How did you make fire?
 
 
 

@@ -6,113 +6,114 @@
 - bouquet
 - cuisine
 - baguette
+- expertise (experteez)
 
 # pronunciation of past tense ed
 ## pronunciation rules for past tense 
-* 'p'	stopped (t)
-* 'gh'	laughed (t)
-* 's'	promised (t)
-* 'ch'    watched (t)
-* 'ch'   researched (t)
-* 'ch'   matched (t)
-* 'ch'   launched (t)
-* 'sh'    finished (t)
-* 'k'	walked (t)
-* 'x' fixed (t)
+- 'p'	stopped (t)
+- 'gh'	laughed (t)
+- 's'	promised (t)
+- 'ch'    watched (t)
+- 'ch'   researched (t)
+- 'ch'   matched (t)
+- 'ch'   launched (t)
+- 'sh'    finished (t)
+- 'k'	walked (t)
+- 'x' fixed (t)
 
 ## pronunciation with (id) sound at the end
-* 't' wanted (want-id)
-* 'd' ended	(end-id)
-* 't' listed (end-id)
-* 'd' decided	(decide-id)
-* admitted	(admit-id)
-* suggested	(suggest-id)
-* recommended	(recommend-id)
-* 't' hated	(hate-id)
-* intended	(intend-id)
-* 't' interested	(intend-id)
-* 't' started	(start-id)
-* 't' sedated
-* baited
-* inflated
-* Parted
-* started
-* ended
-* over rated
-* laminated
-* sated
-* stated
+- 't' wanted (want-id)
+- 'd' ended	(end-id)
+- 't' listed (end-id)
+- 'd' decided	(decide-id)
+- admitted	(admit-id)
+- suggested	(suggest-id)
+- recommended	(recommend-id)
+- 't' hated	(hate-id)
+- intended	(intend-id)
+- 't' interested	(intend-id)
+- 't' started	(start-id)
+- 't' sedated
+- baited
+- inflated
+- Parted
+- started
+- ended
+- over rated
+- laminated
+- sated
+- stated
 
 
 
 
 ## pronunciation with (T) sound at the end
-* talked (t)
-* typed
-* smoked
-* spooked
-* cracked
-* crashed
-* forced
-* backed
-* smacked
-* stacked
-* duked
+- talked (t)
+- typed
+- smoked
+- spooked
+- cracked
+- crashed
+- forced
+ - backed
+- smacked
+- stacked
+- duked
 	*	They really duked it over who was the best boxer!
-* marked
-* stocked
-* stopped
-* blushed
-* Locked
-* Kicked
-* discussed
-* Splashed
-* squashed
-* Kissed
-* Passed
-* Hooked
-* Cooked
-* Looked
-* Rocked
-* Socked (to sock)
+- marked
+- stocked
+- stopped
+- blushed
+- locked
+- kicked
+- discussed
+- splashed
+- squashed
+- kissed
+- passed
+- hooked
+- cooked
+- looked
+- rocked
+- socked (to sock)
 
 ## pronunciation with soft d sound
-* 'w' allowed
-* 'i' cried
-* 'i' lied
-* 'i' died
-* 'i' fried
-* 'w' borrowed
-* 'y' enjoyed
-* 'n' cleaned
-* 'n' imagined
-* 'n' determined
-* 'g' changed
-* 'z' realized
-* 'z'  recognized
-* 'n'learned
-* 'g' arranged
-* 'n' planned
-* 'v' Arrived
-* 'y' played
-* 'z' apologized
+- 'w' allowed
+- 'i' cried
+- 'i' lied
+- 'i' died
+- 'i' fried
+- 'w' borrowed
+- 'y' enjoyed
+- 'n' cleaned
+- 'n' imagined
+- 'n' determined
+- 'g' changed
+- 'z' realized
+- 'z'  recognized
+- 'n'learned
+- 'g' arranged
+- 'n' planned
+- 'v' Arrived
+- 'y' played
+- 'z' apologized
 
 # pronunciation of other letters
 ## silent b (don't pronounce the B!)
-* climb
-* comb
-* crumb
-* dumb
-* lamb
-* bomb
-* subtle
-* debt
-* numb
-* doubt
-* plumber
-* thumb
-* womb
-* tomb
+-climb
+-comb
+-crumb
+-dumb
+-lamb
+-bomb
+-subtle
+-debt
+-numb
+-doubt
+-plumber
+-thumb
+-womb
+-tomb
 
 ## silent c
 - yachts
@@ -124,25 +125,25 @@
 
 ## silent h (don't pronounce the H!)
 https://pronunciationstudio.com/h/
-* honest
-* whistle
-* HONOUR
-* HOUR
-* HONEST
-* HEIR
+-honest
+-whistle
+-HONOUR
+-HOUR
+-HONEST
+-HEIR
 
 ## silent k (don't pronounce the K!)
-* knee
-* knock
-* know
-* knife
+-knee
+-knock
+-know
+-knife
  - knot
 	 - He is experienced in tying sailing knots.
  - knead
 	 - I need to knead the dough before I bake it.
-* kneel
-* knight
-* knowledge
+-kneel
+-knight
+-knowledge
 
 ## silent p
 https://englishlive.ef.com/blog/language-lab/silent-letter-english-words-silent-letters-pronounce/
@@ -155,47 +156,49 @@ https://englishlive.ef.com/blog/language-lab/silent-letter-english-words-silent-
 
 
 ## silent t (don't pronounce the T!)
-* bustle
-* castle
-* whistle
-* listen
-* mortgage
-* hustle
-* fasten
+-bustle
+-castle
+-whistle
+-listen
+-mortgage
+-hustle
+-fasten
 
 ## Pronunciation of -ths
-* youths
-* months (munce)
-  * Two months ago I bought new clothes.
-* clothes (cloze/close)
-* Beth's
-* oaths
-* paths
-* baths
-* strengths
-* goths (gawths)
-* moths
-* sloths
+-youths
+-months (munce)
+  -Two months ago I bought new clothes.
+-clothes (cloze/close)
+-Beth's
+-oaths
+-paths
+-baths
+-strengths
+-goths (gawths)
+-moths
+- sloths
 
 
 ## V
-1.  Wild vines make fine vintage wines.
-2.  Victor’s friend Vincent rinsed his vests in vinegar.
-3.  Vivacious Vivian loved to voice vigorous verses vociferously.
-4.  Stephen vainly viewed vast vales with vacant eyes.
-5.  Vincent vowed vengeance very vehemently.
-6.  Woollen vests for wailing wolves are worn in the vast woodlands. 
-7.  For once, weary Wanda's woolgathering lost its vim and vigour.
-8.  Which witch winds white weasel wool well?
-9.  Very volatile vets visited several wives.
-10.  Which is worse verse - Wendy's verse or Wayne's verse?
+Wild vines make fine vintage wines.
+Does Viktoria drink wine?
+Does Vitali drink vinegar?
+Victor’s friend Vincent rinsed his vests in vinegar.
+Vivacious Vivian loved to voice vigorous verses vociferously.
+Stephen vainly viewed vast vales with vacant eyes.
+Vincent vowed vengeance very vehemently.
+Woollen vests for wailing wolves are worn in the vast woodlands. 
+For once, weary Wanda's woolgathering lost its vim and vigor.
+Which witch winds white weasel wool well?
+Very volatile vets visited several wives.
+Which is worse verse - Wendy's verse or Wayne's verse?
 
 
 ## silent w  (don't pronounce the W!)
-* answer
-* sword
+-answer
+-sword
 
 
 ## pronunciation common errors
-* recipe
-* months
+-recipe
+-months

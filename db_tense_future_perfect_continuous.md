@@ -1,0 +1,5 @@
+- I will have been playing football for three years this January.
+- I will have been publishing children's books for three years next summer.
+- I had been driving for hours when I got a flat tire.
+- I had been hoping for a promotion when I learned that my manager had been fired.
+- We will have been deleting the old files for three hours [before,by the time] our boss arrives at 3 p.m.

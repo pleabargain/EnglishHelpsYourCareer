@@ -1,4 +1,17 @@
-# past
+# questions
+
+# statements
+
+# dialogues
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
+
+# [[English in use phrases]]
 You can reach me at...
 You can contact me at...
 I contacted your colleague...
@@ -7,6 +20,13 @@ I messaged you...
 I called you... 
 I reached out to your manager...
 
-# future
-You will find me on Social Media X ...
-I will contact you after I get a definitive answer.
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources

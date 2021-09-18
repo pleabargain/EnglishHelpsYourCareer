@@ -250,7 +250,6 @@ _Now write your own sentences in present_simple:_
 
 
 
-
 # past 
 [[tense past simple]]
 [[tense past perfect]]
@@ -275,24 +274,13 @@ https://www.vocabulary.com/
 https://www.ajokeaday.com/
 http://www.laughfactory.com/jokes/latest-jokes
 
----
-
 
 ---
 
 # historical trivia
----
 
 - https://www.thisdaytrivia.com
-<iframe
-	border=0
-	frameborder=0
-	height=250
-	width=850  
-	src="https://www.thisdaytrivia.com">
-</iframe>
 
----
 
 ---
 

@@ -87,8 +87,25 @@
 # statements
 - We'll visit the hospital this weekend.
 - She is under medical observation.
-# nouns
 
-# verbs
 
-# adjectives
+# dialogues
+---
+#mermaid 
+
+Q: 
+A: 
+
+---
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources
