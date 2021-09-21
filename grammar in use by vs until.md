@@ -5,21 +5,22 @@ We use "until" to talk about the period of time from a starting point until a de
 
 ---
 # instructions
-- choose the right word:
+
+- Which is the right word either BY or UNTIL?
 
 ---
 
-- I need to complete the task by  the time my team gets back.
+- I need to complete the task by until the time my team gets back.
 - Stay here and don't touch anything until by I come back.
 - The bank will keep calling until you pay them!
- - I need to turn in my homework until by {DAY}.
+- I need to turn in my homework until by {DAY}.
 
 - You need to take me home until by midnight or else she will get mad.
 
- - The party lasted until by sunrise.
- - We cannot trust them until by the war is over.
+- The party lasted until by sunrise.
+- We cannot trust them until by the war is over.
  
- - I need to pay the bill until by {MONTH} 5th.
+- I need to pay the bill until by {MONTH} 5th.
 - I will keep asking by until you send my payment.
 
 - I have to work until 10 pm.

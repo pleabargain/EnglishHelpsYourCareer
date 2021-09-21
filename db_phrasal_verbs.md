@@ -93,7 +93,8 @@ come apart
 come down with something
 come forward
 come from some place
-count on somebody/ something
+count on somebody
+count on something
 cross something out
 cut back on something
 cut something down
@@ -104,14 +105,17 @@ cut something off
 cut something off
 cut somebody off
 cut something out
-do somebody/ something over
+do somebody over
 do something over
 do away with something
 do something up
 dress up
 drop back
-drop in/ by/ over
-drop somebody/ something off
+drop in
+drop over
+drop by
+drop somebody off
+drop something off
 drop out
 eat out
 end up
@@ -125,7 +129,8 @@ fill something out
 fill something up
 find out
 find something out
-get something across/ over
+get something across
+get something over
 get along/on
 get around
 get away

@@ -172,6 +172,10 @@ An adverb is a word that modifies a adjective, verb, determiner, another adverb,
 - Our friends recently got engaged to each other.
 -  We quickly finished the project.
 # loudly
+
+# accordingly
+- I would use the materials that I have and adjust accordingly.
+
 # freshly
 - These vegetables are freshly picked from our garden.
 # horribly

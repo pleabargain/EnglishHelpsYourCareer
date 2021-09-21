@@ -46,7 +46,6 @@
 
 
 
-
 ## pronunciation with (T) sound at the end
 - talked (t)
 - typed
@@ -125,19 +124,19 @@
 
 ## silent h (don't pronounce the H!)
 https://pronunciationstudio.com/h/
--honest
--whistle
--HONOUR
--HOUR
--HONEST
--HEIR
+- honest
+- whistle
+- honor
+- hour
+- honest
+- heir
 
 ## silent k (don't pronounce the K!)
--knee
--knock
--know
--knife
- - knot
+- knee
+ - knock
+- know
+- knife
+- knot
 	 - He is experienced in tying sailing knots.
  - knead
 	 - I need to knead the dough before I bake it.
@@ -156,26 +155,26 @@ https://englishlive.ef.com/blog/language-lab/silent-letter-english-words-silent-
 
 
 ## silent t (don't pronounce the T!)
--bustle
--castle
--whistle
--listen
--mortgage
--hustle
--fasten
+- bustle
+- castle
+- whistle
+- listen
+- mortgage
+- hustle
+- fasten
 
 ## Pronunciation of -ths
--youths
--months (munce)
-  -Two months ago I bought new clothes.
--clothes (cloze/close)
--Beth's
--oaths
--paths
--baths
--strengths
--goths (gawths)
--moths
+- youths
+- months (munce)
+- Two months ago I bought new clothes.
+- clothes (cloze/close)
+- Beth's
+- oaths
+- paths
+- baths
+- strengths
+- goths (gawths)
+- moths
 - sloths
 
 

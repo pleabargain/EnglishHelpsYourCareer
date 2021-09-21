@@ -3,6 +3,7 @@
 - What kind of car would you like to own?
 
 # statements
+- I have a drivers license. [[topic car]]
 
 # dialogues
 ---

@@ -1,3 +1,12 @@
+# idle chit chat
+- We were idly chit chatting when the fire alarm went off!
+
+# open door policy
+- My manager has an open door policy and she is always ready to answer my questions.
+
+# the powers that be
+- The powers that be seem to have their own agenda!
+
 # blows my mind
 - It's blows my mind how quickly the year has passed!
 

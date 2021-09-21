@@ -1,21 +1,8 @@
-Hello! Open this file with your favorite Markdown viewer.
-
-I use VS Code (https://code.visualstudio.com/3) for viewing markdown.
-
-It's free, fast and quite a good text tool as well.
- 
-You can also use
-
-https://markdownlivepreview.com/
-
+Hello! Open this file with your favorite browser. It should work on your phone as well! Let me know if you see any formatting weirdness!
 
 # Thank you
 
 Thank you for working with me! If you know of someone else who would be interested in English conversation practice please share my details with them. My details are below!
-
----
-
-This file contains some of the materials we worked with today.
 
 ---
 
@@ -62,6 +49,3 @@ You can also find me here on Skype:
 
 dennisdaniels
 
----
-
-Again, thank you! Please scroll down below for some notes from our session.

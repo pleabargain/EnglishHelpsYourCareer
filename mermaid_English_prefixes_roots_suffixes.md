@@ -287,6 +287,7 @@ im --> impatient;
 im --> impolite;
 im --> immortal;
 im --> improbable; 
+im--> imposing>>
 
 
 ```
@@ -483,6 +484,8 @@ graph TD;
 con -->concieve;
 con -->convince;
 con -->consider;
+con -->congested;
+
 ```
 
 
@@ -900,6 +903,21 @@ graph TD;
 
 # roots
 
+## gest
+carry or bear
+```mermaid
+graph TD;
+gest --> congestion;
+gest --> digest
+gest --> gestation
+gest --> gesticulate
+gest --> gesture
+gest --> ingest
+gest --> suggest
+```
+
+
+
 ## fect
 make or do
 ```mermaid
@@ -909,8 +927,21 @@ fect -->perfect;
 fect -->defect;
 ```
 
+## flect
+make or do
+```mermaid
+graph TD;
+flect --> reflect;
+flect --> deflect;
+flect --> inflect;
+
+```
+
+
+
+
 ##  ject 
-means '**throw**
+means **throw**
 
 ```mermaid
 graph TD;
