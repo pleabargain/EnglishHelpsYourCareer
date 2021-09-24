@@ -7,19 +7,31 @@
 # life rule :  be careful where you walk
 
 # life rule: Be careful with the boiling water.
+#mermaid 
+
 uncle: Be careful with the boiling water.
+
 nephew: Why?
+
 uncle: Because it's very dangerous and you can be injured by the hot water and the hospital is far from here.
+
 nephew: Why is boiling water dangerous?
+
 uncle: The boiling water will burn you and we won't be able to help you!
+
 nephew:  Why won't you be able to help me?
+
 uncle: Because we don't have the equipment to help you!
+
 nephew: Why don't you have the equipment to help me?
+
 uncle: Because I'm not a doctor. For burn treatment we need more specialized equipment?
+
 nephew: Why aren't you a doctor?
+
 uncle: Because I don't like being around sick people.
 
-
+---
 
 
 # life rule: be ready for challenges in relationships
@@ -33,6 +45,7 @@ uncle: Because I don't like being around sick people.
 # life rule: When choosing a rental car get full insurance.
 
 # life rule: Before driving a rental car away, check all of the cosmetics and systems.
+
 Dad: Before driving a rental car away, check all of the cosmetics and systems.
 
 Son: Why, Dad?
@@ -55,15 +68,25 @@ Dad: You might consider buying your own car but that's a different story!
 # life rule: four year old girls should not smoke cigars
 
 # life rule: children shouldn't play with electricity
+
 Dad: Please don't use this wall adapter!
+
 Daughter: Why not, Dad?
-Dad: Because this adapter is damaged?
+
+Dad: Because this adapter is damaged.
+
 Daughter:  Why is it damaged, Dad?
-Dad: Because the wire for the adapter is broken?
+
+Dad: Because the wire for the adapter is broken.
+
 Daughter: Why, Dad? How did it get broken?
+
 Dad: Because you were playing with this adapter with your dolls!
+
 Daughter: DAD! NOT TRUE! IT WAS TIMMY!
-Dad: Why were your dolls wrapped around the wire?
+
+Dad: Why were your dolls wrapped around the wire.
+
 Daughter: It wasn't me! It way TIMMY! He hates my dolls and he wanted to electrocute them!
 
 
@@ -72,10 +95,15 @@ Daughter: It wasn't me! It way TIMMY! He hates my dolls and he wanted to electro
 # life rule: couples should be honest with each other
 
 nephew: What's a good rule in a relationship?
+
 uncle: Couples should be honest and [loyal|true] to each other.
+
 nephew: Why?
+
 uncle: If a couple wants to be happy they should follow this simple rule.
+
 nephew: How can a couple be happy?
+
 uncle: If a couple loves each other, and if they are honest and loyal to each, 100% they will be happy!
 
 # life rule: children shouldn't be allowed to smoke
@@ -106,6 +134,7 @@ daughter: Ok, I will never tell you about my regrets (door slams, daughter disap
 
 
 # life rule: You shouldn't waste your time!
+
 Mom: You shouldn't waste your time!
 
 son: Why?
@@ -127,60 +156,100 @@ son: Thanks Mom!
 
 # life rules: muddy outside
 Mom: You should wear your rubber boots because it is muddy outside!
+
 Son: Why should I wear rubber boots?
+
 Mom: Because you will get dirty otherwise.
+
 Son: Why will I get dirty?
+
 Mom: Because you like to play in puddles.
+
 Son: Why are there puddles?
+
 Mom: Because it was raining and the roads are not properly maintained.
+
 Son: Why are the roads not maintained?
+
 Mom: Who knows!
+
 Son: Whom can I ask?
+
 Mom: Write a letter to Santa and ask him!
 
 
 
 # life rules: wealth
 Dad: If you want wealth, you should dream about it.
+
 daughter: Why should I dream about wealth?
+
 Dad: Because otherwise without dreaming about it you won't get it!
+
 daughter: Why?
+
 Dad: Because when you are dreaming about something you are visualizing it.
+
 daughter: I'm dreaming about cash. But I'm not getting it! Why?
+
 Dad: Because you are just dreaming and not visualizing it. That's why you are not getting cash.
+
 daughter: I see many presidents on green paper! Where is my money?
+
 Dad: Money won't make you happy. You need to visualize the stuff that you will buy with this money!
+
 daughter: I am visualizing a red car with horses.
 
 
 
 # life rules: fireman
 Dad: If there are firemen, you should not interfere with them.
+
 Son: Why not?
+
 Dad: Because they are busy putting out a fire.
+
 Son: Why?
+
 Dad: Because they are trying to save the building.
+
 Son: Why?
+
 Dad: Because the building is being used(d) by somebody.
+
 Son: Why?
+
 Dad: Because people usually live in buildings.
+
 Son: Why?
+
 Dad: Because people need shelter at night against the weather.
+
 son: Why?
+
 Dad: Because people are not wild animals and won't survive without shelter.
 
 
 # life rules: rainstorm
 Dad: If there is a rainstorm, you should take an umbrella.
 daughter: Why?
+
 Dad: Because without an umbrella you will get wet!
+
 daughter: Why?
+
 Dad: Because the rain falls from the sky!
+
 daughter: Why?
+
 Dad: Because it is a natural process.
+
 daughter: Why?
+
 Dad: Because when it was hot the water rose into the sky!
+
 daughter: Why?
+
 Dad: Because it is a feature of water. When it is hot it becomes a gas and gas is very light.
 
 
@@ -191,59 +260,59 @@ Dad: Because it is a feature of water. When it is hot it becomes a gas and gas i
 # life rules: don't park in the handicapped zone
 
 # piano
-* If you want to learn you should learn how to play with both hands from the beginning.
+-  If you want to learn you should learn how to play with both hands from the beginning.
 
 # metronome
-* If you are learning an instrument you should use a metronome.
+-  If you are learning an instrument you should use a metronome.
 
 
 # chicken
-* If the chicken is ready to eat, you should eat it soon!	
+-  If the chicken is ready to eat, you should eat it soon!	
 
 # butter
-* If the butter is fresh, you should buy it.
+-  If the butter is fresh, you should buy it.
 
 # bag
-* If I forget my bag at home, I should go back and get it!
-* If your bag was stolen, you should call the police!
+-  If I forget my bag at home, I should go back and get it!
+-  If your bag was stolen, you should call the police!
 
 
 # kettle
-* If the kettle is hot, you should not touch it.
+-  If the kettle is hot, you should not touch it.
 
 
 # pump 
-* If the pump is not working, you should contact a repairman.
+-  If the pump is not working, you should contact a repairman.
 
 # sea
-* If there is a storm at sea, you should avoid the water.
+-  If there is a storm at sea, you should avoid the water.
 
 # weather
-* If the weather is snowy, you should stay at home.
+-  If the weather is snowy, you should stay at home.
 
 # dad~ father
-* If you are a dad, then you should demonstrate good habits to your children.
+-  If you are a dad, then you should demonstrate good habits to your children.
 
 
 # book
-* If you are done with your books, then you should put them away.
-* Don't continue reading the book if it's not interesting anymore.
+-  If you are done with your books, then you should put them away.
+-  Don't continue reading the book if it's not interesting anymore.
 
 # cross the road
-* Look both ways before you cross the road.
+-  Look both ways before you cross the road.
 
-* If I haven't finished my work, I don't watch TV.
-* life rule: If you are in a stressful situation, then try to keep calm. Do as the British: Keep calm and carry on!
-* life rule: To be creative you must understand what you have on hand.
-* life rule:money: If you want to save your money, stay at home and turn off the internet and maybe your phone too.
-* If you are feeling ill, you must stay at home.
-* Teach your children to not touch fire.
-* rule: Before repairing a a machine, make sure it is not running.
-* If you are in the library then you must be quiet.
+-  If I haven't finished my work, I don't watch TV.
+-  life rule: If you are in a stressful situation, then try to keep calm. Do as the British: Keep calm and carry on!
+-  life rule: To be creative you must understand what you have on hand.
+-  life rule:money: If you want to save your money, stay at home and turn off the internet and maybe your phone too.
+-  If you are feeling ill, you must stay at home.
+-  Teach your children to not touch fire.
+-  rule: Before repairing a a machine, make sure it is not running.
+-  If you are in the library then you must be quiet.
 
-* rule: interviews: Your collar should always be clean and white.
+-  rule: interviews: Your collar should always be clean and white.
 
 
-What do you think about ...?
-How much time do you spend trying to answer a question before you ask for help?
-How do you monitor how much time you spend solving problems?
+- What do you think about ...?
+- How much time do you spend trying to answer a question before you ask for help?
+- How do you monitor how much time you spend solving problems?

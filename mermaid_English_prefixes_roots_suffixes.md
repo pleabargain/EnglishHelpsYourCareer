@@ -20,8 +20,14 @@ graph TD;
     -able--> preventable; 
 	-able--> editable; 
 	-able--> unbearable; 
-	
+
 	-able--> consumable; 
+    
+```
+
+## -able Meaning: capable of being > adjective
+```mermaid
+graph TD;
 	
 	-able--> adjustable; 
     -able--> adaptable;
@@ -30,6 +36,14 @@ graph TD;
     -able--> capable;
     
 ```
+
+
+
+
+
+
+
+
 
 ## -ate showing; full of'
 ```mermaid
@@ -190,12 +204,32 @@ graph TD;
 -ful-->  forceful; 
 -ful-->  fanciful;
 -ful--> grateful; 
+```
+
+
+## -ful 
+Meaning: full of or notable of (adjective)
+
+```mermaid
+graph TD;
+
+-ful--> thoughtful; 
 -ful-->  graceful;
 -ful-->  helpful; 
 -ful-->  hopeful;
 -ful-->  useful; 
 -ful-->  wonderful; 
 ```
+
+
+
+
+
+
+
+
+
+
 
 ## -ic 
 Meaning: relating to
@@ -287,7 +321,7 @@ im --> impatient;
 im --> impolite;
 im --> immortal;
 im --> improbable; 
-im--> imposing>>
+im--> imposing;
 
 
 ```
@@ -317,6 +351,13 @@ in --> injustice;
 in --> invariably; 
 in --> inject; 
 
+```
+
+## IN-
+not or no
+```mermaid
+graph TD; 
+
 in --> invisible;
 in --> infallible;
 in --> inactive; 
@@ -325,6 +366,9 @@ in --> indelible;
 in --> inedible;
 in --> indecisive;
 ```
+
+
+
 
 
 ## IR -
@@ -903,6 +947,53 @@ graph TD;
 
 # roots
 
+## mem
+mind memory
+```mermaid
+graph TD;
+
+-mem -->memoir;
+-mem -->memorabilia;
+-mem -->memorandum;
+-mem -->memorial;
+-mem -->memorize;
+-mem -->memory;
+-mem -->remember;
+-mem -->remembrance;
+
+```
+
+
+mind memory
+```mermaid
+graph TD;
+-mem -->memorable; 
+-mem -->remember;
+-mem -->commemorate; 
+-mem -->immemorial;
+-mem -->memento; 
+-mem -->memo;
+
+```
+
+
+
+
+
+
+# hood 
+```mermaid
+graph TD;
+-hood -->neighborhood; 
+-hood -->fatherhood; 
+-hood -->parenthood; 
+
+```
+
+
+
+
+
 ## gest
 carry or bear
 ```mermaid
@@ -959,13 +1050,13 @@ ject --> eject;
 cut (down)
 ```mermaid
 graph TD;
-cise(cut)-->circumcise
-cise(cut)-->decisive
-cise(cut)-->incision
-cise(cut)-->incisive
-cise(cut)-->incisor
-cise(cut)-->precise
-cise(cut)-->scissors
+cise-->circumcise
+cise-->decisive
+cise-->incision
+cise-->incisive
+cise-->incisor
+cise-->precise
+cise-->scissors
 
 ```
 
@@ -1102,9 +1193,9 @@ hear
 ```mermaid
 	graph TD;
 
-	aud(hear)-->audience;
-	aud(hear)--> audible;
-	aud(hear)-->audio;
+	aud-->audience;
+	aud--> audible;
+	aud-->audio;
 
 ```
 
@@ -1137,11 +1228,11 @@ flesh
 ```mermaid
 	graph TD;
 
-	carn(flesh)-->carnal;
-	carn(flesh)--> carnivorous;
-	carn(flesh)--> carnivore;
-	carn(flesh)--> reincarnate;
-	carn(flesh)--> incarnate;
+	carn-->carnal;
+	carn--> carnivorous;
+	carn--> carnivore;
+	carn--> reincarnate;
+	carn--> incarnate;
 	
 	
 ```
@@ -1152,9 +1243,9 @@ body
 ```mermaid
 	graph TD;
 
-	corp(body)-->corporal;
-	corp(body)--> corporate;
-	corp(body)--> corpse;
+	corp-->corporal;
+	corp--> corporate;
+	corp--> corpse;
 		
 ```
 
@@ -1163,9 +1254,9 @@ believe
 ```mermaid
 	graph TD;
 
-	cred(believe)-->credible;
-	cred(believe)-->credence;
-	cred(believe)-->incredible;
+	cred-->credible;
+	cred-->credence;
+	cred-->incredible;
 			
 ```
 
@@ -1175,9 +1266,9 @@ people
 ```mermaid
 	graph TD;
 
-	dem(people)-->democracy;
-	dem(people)-->democrat;
-	dem(people)-->demographic;
+	dem-->democracy;
+	dem-->democrat;
+	dem-->demographic;
 			
 ```
 
@@ -1188,8 +1279,8 @@ skin
 ```mermaid
 	graph TD;
 
-	derm(skin)-->dermatology;
-	derm(skin)-->epidermis;
+	derm-->dermatology;
+	derm-->epidermis;
 	
 			
 ```
@@ -1202,11 +1293,11 @@ say
 ```mermaid
 	graph TD;
 
-	dict(say)-->diction;
-	dict(say)-->dictionary;
-	dict(say)-->interdict;
-	dict(say)-->dictate;
-	dict(say)-->edict;
+	dict-->diction;
+	dict-->dictionary;
+	dict-->interdict;
+	dict-->dictate;
+	dict-->edict;
 			
 ```
 
@@ -1215,9 +1306,9 @@ I
 ```mermaid
 	graph TD;
 
-	ego(I)-->egotist;
-	ego(I)-->egocentric;
-	ego(I)-->egomaniac;
+	ego-->egotist;
+	ego-->egocentric;
+	ego-->egomaniac;
 			
 ```
 
@@ -1227,9 +1318,9 @@ equal
 ```mermaid
 	graph TD;
 
-	equi(equal)-->equidistant;
-	equi(equal)-->equity;
-	equi(equal)-->equilateral;
+	equi-->equidistant;
+	equi-->equity;
+	equi-->equilateral;
 	
 			
 ```
@@ -1239,8 +1330,8 @@ equal
 ```mermaid
 	graph TD;
 
-	eu(good)-->euphoric;
-	eu(good)-->Europe;
+	eu-->euphoric;
+	eu-->Europe;
 	
 			
 ```
@@ -1252,9 +1343,9 @@ equal
 ```mermaid
 	graph TD;
 
-	fac(to do)-->factory;
-	fac(to do)-->faculty;
-	fac(to do)-->faction;
+	fac-->factory;
+	fac-->faculty;
+	fac-->faction;
 			
 ```
 
@@ -1262,8 +1353,8 @@ equal
 plants
 ```mermaid
 	graph TD;
-
-	herb(plants)-->herbivore;
+	herb-->herbal;
+	herb-->herbivore;
 			
 ```
 

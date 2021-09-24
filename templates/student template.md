@@ -1,4 +1,9 @@
+# start date
+
 # motivation
+
+# topics
+
 
 # age
 
@@ -7,6 +12,8 @@
 # job title
 
 # career
+
+# education
 
 # family
 

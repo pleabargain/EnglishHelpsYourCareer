@@ -1,3 +1,15 @@
+# not going to see the light of day
+- It's not going to see the light of day.
+
+# touchy feely
+
+# watered down
+
+
+# walk a mile in my shoes
+- You might be a little nicer to him if you had to walk a mile in his shoes.
+
+
 # idle chit chat
 - We were idly chit chatting when the fire alarm went off!
 
@@ -118,33 +130,33 @@ is an expression used to communicate that a person will do anything to prevent s
 - The teenagers played truth or dare until early morning.
 
 # womb to tomb
-A good socialist economy will take care of you from womb to tomb.
+- A good socialist economy will take care of you from womb to tomb.
 
 # get a grip
 - Get a grip! It's not the end of the world!
 # wear and tear
-My shirt has seen a lot of wear and tear.
+- My shirt has seen a lot of wear and tear.
 
 # block party
-We are going to have a block this party and invite all of our neighbors.
+- We are going to have a block this party and invite all of our neighbors.
 # the apple doesn't fall far from the tree
 - The apple doesn't fall far from the tree is a phrase that is typically said **in connection with children who show qualities or talents that are similar to those of their parents**.
 
 
 # read the fine print
 # in my opinion
-In my opinion, this book is terrible.
+- In my opinion, this book is terrible.
 
 # TGIF
-Thank God it's Friday!
+- Thank God it's Friday!
 
 # throw a wrench into your plans
-When the client decided to change suppliers at the last minute, it really threw a wrench into our plans.
+- When the client decided to change suppliers at the last minute, it really threw a wrench into our plans.
 
 # We can figure it out together.
 
 # Money doesn't grow on trees!
-Be careful how you spend your earnings. Money doesn't grow on trees!
+- Be careful how you spend your earnings. Money doesn't grow on trees!
 
 # It goes in one ear and out the other!
 - When I hear people talk about politics, it goes in one ear and out the other!
@@ -191,10 +203,14 @@ Be careful how you spend your earnings. Money doesn't grow on trees!
 # give me a minute to think
 - Hold on! I don't know! Give me a minute to think!
 
+
+
 # don't hold your breath
 ---
-- He said that he will pay me back. 
-- Don't hold your breath, he has no money!
+#mermaid 
+-Q:  Howard said that he will pay me back. 
+-A: Don't hold your breath, he has no money!
+
 ---
 
 # anytime soon
@@ -282,7 +298,7 @@ No one takes care of the park so it looks really run down.
 - I have asked the manager from the other team to take a lead role at the next meeting.
 
 # they are key players
-We need to include them as they are key players.
+- We need to include them as they are key players.
 
 # master of ceremonies
 - She will be the master of ceremonies at our next event.
@@ -598,6 +614,13 @@ I'm not sure I follow your logic.
 
 # to nail it
 - You nailed it! You got it right!
+
+
+# I'm looking forward to it!
+#mermaid 
+- Q: See you next week!
+- A: I'm looking forward to it!
+
 
 # I'm looking forward to seeing...
 - I'm looking forward to seeing to how they do it.

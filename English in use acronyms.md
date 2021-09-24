@@ -1,3 +1,6 @@
+# SOW
+- scope of work
+
 # MQTT
 - message query telemetry transport 
 
@@ -132,55 +135,55 @@ https://en.wikipedia.org/wiki/Key_management
 - terms and conditions
 
 # RTFD
-read the fucking documents
+- read the fucking documents
 
 # TBD
-to be determined
+- to be determined
 
 # TL;DR 
-too long; didn't read
+- too long; didn't read
 
 # RCA 
-root cause analysis
+- root cause analysis
 
 # DIY
-Do it yourself
+- Do it yourself
 
 # JK
-Just kidding
+- Just kidding
 
 # BFF
-Best friends forever
+- Best friends forever
 
 # FWIW
-for what it's worth
+- for what it's worth
 
 # NP
-no problem
+- no problem
 
 # TCO
-total cost of ownership
+- total cost of ownership
 
 # OKR
-objectives, key results
+- objectives, key results
 
 # KPI
-key performance indicators
+- key performance indicators
 
 # WIP
-work in progress
+- work in progress
 
 # POC
-Proof of concept
+- Proof of concept
 
 # MVP
-minimum viable product
+- minimum viable product
 
 # 2FA
-two factor authorization [[topic cyber security]]
+- two factor authorization [[topic cyber security]]
 
 # IP
-intellectual property
+- intellectual property
 
 # NDA
 - non disclosure agreement

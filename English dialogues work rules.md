@@ -1,19 +1,27 @@
 ## work rule : Language evaluation interview
-* If you are being evaluated for your English language skills, you should turn on your video camera.
-* If you are being evaluated for your English language skills, you should review your English grammar rules.
-* If you are being evaluated for your English language skills, you should ask around to find someone who has recently been evaluated.
-* If you are being evaluated for your English language skills, you should verify the requirements for your target level.
+- If you are being evaluated for your English language skills, you should turn on your video camera.
+- If you are being evaluated for your English language skills, you should review your English grammar rules.
+- If you are being evaluated for your English language skills, you should ask around to find someone who has recently been evaluated.
+- If you are being evaluated for your English language skills, you should verify the requirements for your target level.
 
 
 ## work rule:  You must take part in the daily meeting.
 mngr: You must take part in the daily meeting.
+
 noob: Why?
+
 mngr: If you need to know why, then we can't work together.
+
 noob: Why?
+
 mngr: Because in the daily meeting we share what we have done.
+
 noob: Why?
+
 mngr: Because sharing helps us work as a team!
+
 noob: Why?
+
 mngr: Because working as a team you can get and give help to your team.
 
 * If nothing is working, then check the log files.
@@ -39,16 +47,27 @@ mngr: Because working as a team you can get and give help to your team.
 
 ## work rule: If you are in an open space office, please use a different room for your phone calls.
 Dad: If you are in an open space office, please use a different room for your phone calls.
+
 Son: Why?
+
 Dad: Because we don't want to interrupt our colleagues.
+
 Son: Why?
+
 Dad: Because we don't like to be interrupted.
+
 Son: Why?
+
 Dad: Because your voice can break their concentration.
+
 Son: Why is that important?
+
 Dad: Because their work requires a lot of concentration.
+
 Son: Why?
+
 Dad: Because they are trying to solve difficult problems.
+
 Son: Just like me Dad! Now I why I should not talk on my office in an open space office! Thanks Dad!
 
 

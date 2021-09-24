@@ -1,14 +1,14 @@
 # questions
 - Who is your favorite character on the show?
 - What do they sound like?
--  What are the best things you've watched, read, heard or played this year?
--  What are your TV habits?
--  Do your television viewing habits include 'Binge-Watching'?
--  What role does television play in your life and the life of your family?
--  What television shows have Mattered to You?
--  How Often Do You Watch a Television Show When It Originally Airs?
--  How Often Do You Watch a Television Show When It Originally starts?
--  Have You Fallen Into 'Friends' or Any Other Older Television Shows?
+- What are the best things you've watched, read, heard or played this year?
+- What are your TV habits?
+- Do your television viewing habits include 'Binge-Watching'?
+- What role does television play in your life and the life of your family?
+- What television shows have Mattered to You?
+- How Often Do You Watch a Television Show When It Originally Airs?
+- How Often Do You Watch a Television Show When It Originally starts?
+- Have You Fallen Into 'Friends' or Any Other Older Television Shows?
 -  What Old Television Shows Would You Bring Back?
 -  Why Do We Like Reality Shows So Much?
 -  What Ideas Do You Have for a Reality Show?

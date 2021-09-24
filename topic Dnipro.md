@@ -6,6 +6,7 @@
 - What kind of people would you like to meet in Dnipro? 
 - What street would you want to walk down in Dnipro?
 - What is your general impression of Dnipro?
+- Dnipro is a factory town.
 - How are the parks there?
 - How many violent crimes are committed in Dnipro every month?
 - Why should I move my company to **Dnipro**?

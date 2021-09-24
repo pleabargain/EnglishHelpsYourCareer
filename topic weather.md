@@ -1,4 +1,3 @@
-
 # questions
 - Does your car have air conditioning?
 - How is the weather there?
@@ -12,25 +11,27 @@
 - The wind will die down but there will be very heavy rain.
 
 
-## topic weather verbs
+# verbs
 - blow
 - rain
 - flood
 - damage
-# topic weather nouns
+
+# nouns
 - clouds 
 - rain
 - wind
 - weather report
 - average temperature
 
-## topic weather adjectives
+# adjectives
 - chilly
 - muggy
 - heavy rain
 - strong winds
 - cold
 - misty
+- overcast
 - hot
 - sunny
 - foggy
@@ -38,3 +39,5 @@
 - windy
 - icy
 - cloudy
+
+

@@ -16,6 +16,7 @@ BATNA is an acronym that stands for **Best Alternative To a Negotiated Agreement
 # [[grammar elements verbs]]
 
 # [[grammar elements nouns]]
+- clauses
 
 # [[grammar elements adjectives]]
 

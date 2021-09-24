@@ -1,98 +1,96 @@
-unusual <> usual
-strengths <> weaknesses.
-safe<>dangerous
-soft<>rigid
-sour <> sweet
-flexible<>rigid
-thick <>thin
-tame <> wild
-expect <> unexpected
-finite<>infinite
-something<>nothing
-high<>low
-stop<>go
-clean <>dirty
-sincere<>insincere
-manual<>automatic
-innocent<>guilty
-sane<>insane
-yesterday<>tomorrow
-unhealthy<>healthy
-inedible<>edible
-deep<>shallow
-guilty <>innocent
-over<>under
-unleash <> leash
-goodbye<>hello
+- unusual <> usual
+- strengths <> weaknesses.
+- safe<>dangerous
+- soft<>rigid
+- sour <> sweet
+- flexible<>rigid
+- thick <>thin
+- tame <> wild
+- complete <> incomplete
+- believable <> unbelievable
+- able <> unable
+- comfortable <>uncomfortable
+- expect <> unexpected
+- finite<>infinite
+- something<>nothing
+- high<>low
+- stop<>go
+- clean <>dirty
+- sincere<>insincere
+- manual<>automatic
+- innocent<>guilty
+- sane<>insane
+- yesterday<>tomorrow
+- unhealthy<>healthy
+- inedible<>edible
+- deep<>shallow
+- guilty <>innocent
+- over<>under
+- unleash <> leash
+- goodbye<>hello
+- inner <> outer
+- inconsistent<>consistent
+- inaccurate<>accurate
+- impolite<>polite
+- rude<>polite
 
-inner <> outer
+- desirable<>undesirable
 
+- configured<>misconfigured
 
-inconsistent<>consistent
+- get sick <>recover
 
-inaccurate<>accurate
+- suitable<>unsuitable
 
-impolite<>polite
+- rural<>urban
+- calm<>manic
+- sharp knife<>dull knife
+- sharp person<>stupid person
 
-rude<>polite
+- entertaining<>dull
 
-desirable<>undesirable
+- vertical<>horizontal
 
-configured<>misconfigured
+- waste of time <> more efficient
 
-get sick <>recover
+- happy<>sad
 
-suitable<>unsuitable
-
-rural<>urban
-calm<>manic
-sharp knife<>dull knife
-sharp person<>stupid person
-
-entertaining<>dull
-
-vertical<>horizontal
-
-waste of time <> more efficient
-
-happy<>sad
-
-major<>minor
-disciplined<>undisciplined
+- major<>minor
+- disciplined<>undisciplined
 
 
-legal<>illegal
+- legal<>illegal
 
-drunk<>sober
+- drunk<>sober
 
-logical<>illogical
+- logical<>illogical
 
-odd <> even
-black <> white
-hungry <> full
-normal <>abnormal
-wet<>dry
-busy <> free
-busy <> not busy
-poor <> rich
-fast <> slow
-long <> short
-cold <> hot
-cold <> warm
-comfortable <> uncomfortable
-convenient <> inconvenient
-loud <> silent
-loud <> quiet
-procrastinate<>act
-new<>old
-sick<>healthy
-chaos<>order
-sunny<>cloudy
-clear<>murky
-happiness<>sadness
-leafy<>bare
-hard<>soft
-sharp<>dull
-open<>close
-life<>death
+- odd <> even
+- black <> white
+- hungry <> full
+- normal <>abnormal
+- wet<>dry
+- busy <> free
+- busy <> not busy
+- poor <> rich
+- fast <> slow
+- long <> short
+- cold <> hot
+- cold <> warm
+- comfortable <> uncomfortable
+- convenient <> inconvenient
+- loud <> silent
+- loud <> quiet
+- procrastinate<>act
+- new<>old
+- sick<>healthy
+- chaos<>order
+- sunny<>cloudy
+- clear<>murky
+- happiness<>sadness
+- leafy<>bare
+- hard<>soft
+- sharp<>dull
+- open<>close
+- life<>death
 

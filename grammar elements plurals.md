@@ -12,6 +12,7 @@
   - problems
   - variations
   - combinations
+  - options
 
 - some
   - problems
@@ -37,6 +38,7 @@
 
 - there were a few
 	- dogs
+	- options
 	- glasses on the table
 	- cats
 	- people at the restaurant
