@@ -1,5 +1,5 @@
 January
-Februrary
+February
 March
 April
 May

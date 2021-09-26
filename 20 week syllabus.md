@@ -1,4 +1,4 @@
-The underlined documents are found on github: https://github.com/pleabargain/EnglishHelpsYourCareer
+The [[documents]] are found on github: https://github.com/pleabargain/EnglishHelpsYourCareer
 
 # week 1
 - introduce yourself

@@ -66,15 +66,25 @@
 ---
 #mermaid 
 
-Q: 
-A: 
+Q : What do you want me to do next? (context: qa to qa lead)
+A : Please schedule your smoke and regression tests.
 
 ---
+#mermaid 
+Q : Are there any critical issues to resolve before the demo? (pm to qa lead)
+A :  No there aren't. We are ready for the demo! All systems go!
 
+---
+#mermaid 
+Q : Could you investigate this bug, please, and share the results with me? (context: qa lead to qa)
+A : Sure I can do that... but only after I finish the smoke tests.
 
 
 
 # [[English in use phrases]]
+- smoke test
+- sanity test
+- regression test
 
 # [[grammar elements verbs]]
 
@@ -88,6 +98,7 @@ A:
 - share
 - communicate
 - contact
+- notify
 - edit
 - review
 - deploy
@@ -116,6 +127,12 @@ A:
 - issue
 - cause
 - users
+- demo
+- retrospective 
+- sprint
+- scrum
+- team
+- build
 - deployment
 - performance
 - measurement

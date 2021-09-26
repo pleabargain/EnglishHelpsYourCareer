@@ -1,7 +1,7 @@
 # coordinating conjunctions
 FANBOYS
 
-## for – for explaining why [more formal and less common than _because_] 
+## for – for explaining why more formal and less common than because 
 - He did it for the fun of it.
 - I eat at the café every weekend, **for** they serve the best bagels in town.
 

@@ -57,14 +57,14 @@
 
 - major<>minor
 - disciplined<>undisciplined
-
+- reasonable <> unreasonable
 
 - legal<>illegal
 
 - drunk<>sober
 
 - logical<>illogical
-
+- never<>always
 - odd <> even
 - black <> white
 - hungry <> full
@@ -84,6 +84,7 @@
 - procrastinate<>act
 - new<>old
 - sick<>healthy
+- helpful <> unhelpful
 - chaos<>order
 - sunny<>cloudy
 - clear<>murky

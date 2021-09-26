@@ -1,3 +1,7 @@
+# check on
+
+# I didn't sign up for this.
+
 # not going to see the light of day
 - It's not going to see the light of day.
 
@@ -22,8 +26,10 @@
 # blows my mind
 - It's blows my mind how quickly the year has passed!
 
+
 # two way street #negotiation
 - Marriage is a two way street.
+
 
 # give and take #negotiation
 There's a lot of give and take in relationships.
@@ -34,65 +40,89 @@ There's a lot of give and take in relationships.
 
 # on the same page 
 - We are all on the same page.
+
 # to be slammed
 - I'm slammed at work! I have got so much to do!
 
 # initial offer #negotiation
 the first offer made to a candidate 
+
 # counter-offer #negotiation
 an offer made in response to a previous offer including changes 
+
 # to lowball/ highball #negotiation
 (to make an offer much lower or higher than expected )
 
 # deadlock #negotiation
 (when the parties cannot reach an agreement )
+
 # amplify #negotiation
 (expand; give more information )
+
 # arbitration #negotiation
 (conflict that is addressed by using a neutral third party )
+
 # bargain #negotiation
 (try to change a person's mind by using various tactics) 
 - My wife likes to bargain at the farmer's market.
+
 # bottom line #negotiation
 the most important factor or point 
+
 #  deal-breaker #negotiation
 essential condition to a contract which, could cause one party to pull out of the deal 
+
 # amendment #negotiation
 a change to something 
 
 # leverage #negotiation
 (bargaining power) something that gives one party a greater chance at succeeding over another 
+
 # tentative solution #negotiation
 an agreement that depends on some conditions, so that it might not be a final agreement 
+
 # log-rolling #negotiation
 trading one favor for another 
+
 # the ball is in one’s court #negotiation
 is time for someone to deal with a problem 
+
 # cut-throat #negotiation
 ruthless 
+
 # to decline an offer #negotiation
 to not accept an offer 
+
 # to weigh up the options #negotiation
 to review all the options 
+
 # to reach an agreement #negotiation
 to agree on something 
+
 # to improve on an offer #negotiation
 make an offer more attractive 
+
 # to yield #negotiaton
 to give in to another's requests 
+
 # to iterate on an offer #negotiation
 make another offer 
+
 # to back down #negotiation
 to stop asking for something 
+
 # to call the shots 
 the person who makes the decisions. 
+
 # to draw the line
 to put a limit on what you will do or allow to happen 
+
 # to drive a hard bargain #negotiation
 to fiercely negotiate and demand what you want 
 
 # to have an ace up one’s sleeve
 means to have an important and secret advantage in a negotiation, competition, etc. 
+
 # over my dead body 
 is an expression used to communicate that a person will do anything to prevent something from happening.
 
@@ -111,6 +141,7 @@ is an expression used to communicate that a person will do anything to prevent s
 
 # shooting the shit
 - We were shooting the shit last night.
+
 # bullshitting
 - We spent the night bullshitting about nothing.
 
@@ -134,16 +165,19 @@ is an expression used to communicate that a person will do anything to prevent s
 
 # get a grip
 - Get a grip! It's not the end of the world!
+
 # wear and tear
 - My shirt has seen a lot of wear and tear.
 
 # block party
 - We are going to have a block this party and invite all of our neighbors.
+
 # the apple doesn't fall far from the tree
 - The apple doesn't fall far from the tree is a phrase that is typically said **in connection with children who show qualities or talents that are similar to those of their parents**.
 
 
 # read the fine print
+
 # in my opinion
 - In my opinion, this book is terrible.
 
@@ -172,8 +206,10 @@ is an expression used to communicate that a person will do anything to prevent s
 
 # to get cut off
 - He just cut me off! Some drivers are so rude!
+
 # stressing out
 - He is stressing out over the project.
+
 # over reacting
 - Why are you over reacting?
 
@@ -194,9 +230,12 @@ is an expression used to communicate that a person will do anything to prevent s
 - I'm like a fish out of water! I don't what to do!
 
 # a blanket statement
+
 ---
--  A: All Ukrainian men drink vodka every night!
-- B: That's a prejudiced and untrue blanket statement!
+
+-  Q : All Ukrainian men drink vodka every night!
+-  A: That's a prejudiced and untrue blanket statement!
+
 ---
 
 
@@ -206,10 +245,14 @@ is an expression used to communicate that a person will do anything to prevent s
 
 
 # don't hold your breath
+
 ---
+
 #mermaid 
--Q:  Howard said that he will pay me back. 
--A: Don't hold your breath, he has no money!
+
+- Q:  Howard said that he will pay me back. 
+
+- A: Don't hold your breath, he has no money!
 
 ---
 
@@ -219,8 +262,9 @@ is an expression used to communicate that a person will do anything to prevent s
 # to click with someone
 - I clicked immediately with her.
 
+
 # to be run down
-No one takes care of the park so it looks really run down.
+- No one takes care of the park so it looks really run down.
 
 # to jump for joy
 - My wife was jumping for joy when I surprised her with a new ring.
@@ -231,6 +275,8 @@ No one takes care of the park so it looks really run down.
 
 # assume the worst
 - We can assume the worst!
+
+
 # bring the house down
 - She really brought the house down when she sang "I'm Sexy and I Know It".
 
@@ -240,13 +286,16 @@ No one takes care of the park so it looks really run down.
 
 # daily life
 - We all must bear the pressures of daily life.
+
 # we have a bad connection
 - I'm sorry, can you repeat that? We have a bad connection.
+
 # by the deadline
 - I need to get this done by the deadline.
 
 # no matter what we do
 - No matter what we do at this point, the seas will continue to rise for generations.
+
 # just for your information
 - Just for your information, it's supposed to rain tonight.
 
@@ -271,10 +320,14 @@ No one takes care of the park so it looks really run down.
 # coined a term
 - I just coined a new term: evaluatable.
 
+
 # same shit, different day
 ---
-- How's it going?
-- Same shit. Different day!
+#mermaid 
+
+- Q: - How's it going?
+
+- A:- Same shit. Different day!
 
 ---
 
@@ -290,9 +343,11 @@ No one takes care of the park so it looks really run down.
 
 # to be green
 - He's green to the industry.
+
 # history buff
 - He's a history buff.
 - She's an art buff.
+
 
 # to take a lead role
 - I have asked the manager from the other team to take a lead role at the next meeting.
@@ -300,8 +355,15 @@ No one takes care of the park so it looks really run down.
 # they are key players
 - We need to include them as they are key players.
 
+
 # master of ceremonies
-- She will be the master of ceremonies at our next event.
+
+#mermaid 
+
+- Q: Who will be the MC?
+- A: Helen will be the master of ceremonies.
+
+---
 
 # couch potato
 ![[couch potato.png]]
@@ -339,9 +401,11 @@ No one takes care of the park so it looks really run down.
 
 # to be in a rut
 - I felt like I was in a rut at work.
+- 
 # marriage is a two-way street
 
 # marriage is a tug of war
+
 # marriage is a game of give and take
 
 
@@ -352,10 +416,12 @@ No one takes care of the park so it looks really run down.
 # word salad
 - He spilled his thoughts on us like a word salad.
 
+
 # idea salad
 
 # spit balling
 - We were just spit balling ideas.
+
 
 # off-the-cuff
 
@@ -365,10 +431,13 @@ No one takes care of the park so it looks really run down.
 
 # outlook on life
 - How do you maintain your positive outlook on life?
+
 # deadly serious
 - I'm deadly serious about this: don't mess up!
+
 # to man up
 - We need to man up and do this thing!
+
 # I need to switch gears.
 - Hold on a sec. I need to switch gears.
 
@@ -382,23 +451,27 @@ No one takes care of the park so it looks really run down.
 - In my opinion, X is the most important idea.
 - In my opinion, we haven't budgeted enough time?
 
+
 # common sense
-Common sense is not common. [[topic common sense]]
+- Common sense is not common. [[topic common sense]]
 
 
 # Perfect enemy is good.
 
 
 # butcher's bill
-Our army paid a high butcher's bill after our last battle.
+- Our army paid a high butcher's bill after our last battle.
+
 # It's a step in the right direction.
+
 # to zip up
-We need to zip up this project.
-Can you please zip me up? 
+- We need to zip up this project.
+- Can you please zip me up? 
+
 
 # pay off
-Our bet paid off! [[tense past simple]]
-This will investment will never pay off. [[tense future simple]]
+- Our bet paid off! [[tense past simple]]
+- This will investment will never pay off. [[tense future simple]]
 
 # to sneak around
 - The pentesters were sneaking around in the network.
@@ -408,10 +481,12 @@ This will investment will never pay off. [[tense future simple]]
 # to be screwed
 - We are totally screwed! 
 
+
 # screwed up
 
 - I screwed up the dates.
 - I screwed up the production server.
+
 
 # I've got good intel on X.
 - Where did you get this intel?
@@ -419,8 +494,9 @@ This will investment will never pay off. [[tense future simple]]
 # to crack a joke
 - He likes to crack a joke every now and then.
 
+
 # slow and steady
-Slow and steady wins the race.
+- Slow and steady wins the race.
 
 # slow your roll
 - You need to calm down! You need to slow your roll!
@@ -440,6 +516,7 @@ Slow and steady wins the race.
 
 # put down
 - I am going to put this down right here.
+
 # as far as I know
 - As far as I know, she will be arriving tonight.
 - As far as I know, it's not required.
@@ -697,7 +774,7 @@ I'm not sure I follow your logic.
 
 
 # fair enough
-We agreed that the deal was fair enough.
+- We agreed that the deal was fair enough.
 
 # it's not up to you
 - This decision is not up to you to decide.
@@ -761,6 +838,7 @@ We agreed that the deal was fair enough.
 - I hate it when I'm bored to death.
 - Would you rather be super busy or bored to death?
 
+
 # it begins to wear thin
 - After some time, even the best of things begins to wear thin.
 
@@ -801,6 +879,7 @@ We agreed that the deal was fair enough.
 - I returned to work on cloud nine.
 - "Confidence-wise, I'm on cloud nine right now," Bickell said.
 
+
 # over the moon with happiness
 - "When I found out I was pregnant, I was over the moon with happiness," she says.
 - I am over the moon with joy.
@@ -838,6 +917,7 @@ We agreed that the deal was fair enough.
 - I need to get out of this relationship!
 - I need to get out of this {noun}!
 
+
 # white elephant
 - Our monolithic code has become a white elephant so we've decided to move into micro-services.
 - Is it another white elephant like the Concorde?
@@ -864,6 +944,7 @@ We agreed that the deal was fair enough.
 - "We're trying to find common ground".
 - He advised both to find common ground.
 
+
 # bone to pick
 - "I have a bone to pick with you," Meryl Streep said to the Bagger.
 
@@ -887,6 +968,7 @@ We agreed that the deal was fair enough.
 - "Keep your eyes open," she advised.
 - I always say you should trust everyone but also keep your eyes open".
 #Keep your eyes open for helpful material that you may not have been expressly looking for.
+
 
 # found no [trace,sign] of something
 - The searchers found no trace of him.
@@ -1877,17 +1959,21 @@ He'll apologize when pigs fly.
 - Let's join together and fight the good fight!	origin: Shakespeare
 # Kiss and make up
 - A phrase used after a lover's spat.
+
 # He has his tail between his legs
 - He has lost his pride.
+
 # And they all lived happily ever after
 - The finale of countless movies and cartoons!	
+
 # Cat got your tongue?
-- Can't talk anymore? 
+- What's wrong? Can't talk anymore? Cat got your tongue?
 
 
 
 # Someone woke up on the wrong side of the bed
-- That someone is in a bad mood!
+- John woke up on the wrong side of the bed! He is is in a bad mood!
+
 # We're not laughing at you we’re laughing with you
 - Translate literally and you have the idea.
 
@@ -2397,6 +2483,8 @@ We shouldn't do harm to other people.
 
 # to step up   
 - I taught my daughter to step up and help out when possible.
+
+
 # This is what I do for love.
 
 # It covers a lot of material in depth.
@@ -2422,8 +2510,8 @@ We shouldn't do harm to other people.
 
 # to be on track
 (meaning: we are on time/ we are doing the right thing)
-We are on track to complete the project on time.
-We are on the right track with this solution.
+- We are on track to complete the project on time.
+- We are on the right track with this solution.
 
 # to be on time
 
@@ -2432,3 +2520,6 @@ We are on the right track with this solution.
 # take online courses
 - Before you take the exam, you should take a few online courses.
 - I need to take a refresher course on security before I take the GCP exam.
+
+
+

@@ -21,34 +21,34 @@
 # dialogues
 #mermaid 
 
-Q: What kind of fuel do you like?
-A: She likes octane 95. She also likes LPG!
+- Q: What kind of fuel do you like?
+- A: She likes octane 95. She also likes LPG!
 
 ---
 
 #mermaid 
 
-Q: How much does insurance cost?
-A: It doesn't cost very much but the insurance companies rarely pay out.
+- Q: How much does insurance cost?
+- A: It doesn't cost very much but the insurance companies rarely pay out.
 
 ---
 
 #mermaid 
 
-Q: person: Which do you prefer, petrol or gas?
-A: She told me that it doesn't matter.
+- Q: person: Which do you prefer, petrol or gas?
+- A: She told me that it doesn't matter.
 
 ---
 #mermaid 
 
-Q: How much did it cost to get the tire repaired?- 
-A: It didn't cost much.
+- Q: How much did it cost to get the tire repaired?- 
+- A: It didn't cost much.
 
 ---
 #mermaid 
 
-Q: How is the parking in your neighborhood?
-A:  I have got a private parking spot not far from home.
+- Q: How is the parking in your neighborhood?
+- A:  I have got a private parking spot not far from home.
 
 ---
 
@@ -131,6 +131,7 @@ A:  I have got a private parking spot not far from home.
 - passenger side
 - turn signal
 - wind shield
+
 # adjectives
 - scary
 - responsibility

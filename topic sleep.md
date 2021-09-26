@@ -18,18 +18,18 @@
 
 # dialogues
 ---
+#mermaid 
+- Q:  “So what’s the problem with the server?” 
 
-Ana: “So what’s the problem with the server?” 
+- A:  ” Ugh, I don’t have a clue, Ana. Do you know?”
 
-Bob:” Ugh, I don’t have a clue, Ana. Do you know?”
+- Q : Ana: “It's the API endpoint. It's configured properly. Do you know how I got that answer?”
 
-Ana: “It's the API endpoint. It's configured properly. Do you know how I got that answer?”
+- A:  Bob: “It’s a mystery to me. I don’t know, Ana. I just don’t get it. 
 
-Bob: “It’s a mystery to me. I don’t know, Ana. I just don’t get it. 
+- Q : Ana: “I don’t get how you can come to work without any sleep. That’s why you are having so much trouble!” 
 
-Ana: “I don’t get how you can come to work without any sleep. That’s why you are having so much trouble!” 
-
-Bob: “You’re right!”
+- A:  Bob: “You’re right!”
 
 ---
 

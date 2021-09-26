@@ -1,13 +1,3 @@
-# mermaid diagrams
-
-# http://www.uefap.com/vocab/build/building.htm
-
-To view as diagrams on Chrome, you need to install: 
-
-https://chrome.google.com/webstore/detail/github-%2B-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe/related
-
-Or use VS Code or any other MarkDown viewer.
-
 # adjectives suffixes
 
 
@@ -446,6 +436,19 @@ dis -->  disobey;
 
 
 # Prefixes 
+
+## de - 
+“from” or “off”
+```mermaid
+graph TD; 
+de --> despite;
+de --> deduce;
+de --> dejected;
+de--> descend;
+
+```
+
+
 
 ## be-
 

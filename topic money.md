@@ -1,6 +1,6 @@
 # questions
- Are you a coupon collector? 
- Do you sometimes get fanatical about saving money on groceries?
+ - Are you a coupon collector? 
+ - Do you sometimes get fanatical about saving money on groceries?
  
 
 # statements

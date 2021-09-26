@@ -153,6 +153,24 @@ https://englishlive.ef.com/blog/language-lab/silent-letter-english-words-silent-
 -  psychotic 
 - pseudo
 
+## silent s
+
+- aisle
+- apropos
+-  Arkansas
+-   Bourgeois
+-  chassis
+-  debris
+-  faux pas
+-  Illinois
+-  island
+-  islander
+-  isle
+-   islet
+-   Louisville
+-   rendezvous
+
+
 
 ## silent t (don't pronounce the T!)
 - bustle

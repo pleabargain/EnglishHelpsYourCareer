@@ -64,18 +64,15 @@ We often use _the_ with comparative adjectives to **show that one thing depends 
 # as something as
 
 - You're not as good as X.
+- It's not as expensive as I thought.
 - It's not as good as we had hoped.
 - It's not as fast as we had hoped.
-
 - The second book was not as good as the first book.
 - The world’s biggest bull is as big as a small elephant.
 - If I was a bird, I would fly as high as I can.
-
 - The weather this summer is as bad as last year. It hasn’t stopped raining for weeks.
 - Our previous team lead was not as good as the current team lead.
-
 - You have to unwrap it as carefully as you can. It’s quite fragile._
-
 - It’s not as heavy as I thought it would be, actually.
 
 - Rory hasn’t grown as tall as Tommy yet._

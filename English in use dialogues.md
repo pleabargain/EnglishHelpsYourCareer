@@ -1,12 +1,27 @@
 ---
 #mermaid 
--Q: Are we much further along today than we were six months ago?
--A: Yes, we are much further along today than we were six months ago.
+- Q: Are we much further along today than we were six months ago?
+- A: Yes, we are much further along today than we were six months ago.
 
 ---
 #mermaid 
--Q: When can I expect the project to be completed?
--A: Yes, we  are much further along today than we were six months ago.
+- Q: When can I expect the project to be completed?
+- A: Yes, we  are much further along today than we were six months ago.
+
+#mermaid
+- Q : Should we be testing function X at this time? (context: qa lead to PM)
+- A: Yes, we should.
+
+
+---
+
+#mermaid
+- Q : Could you be so kind as to share the documentation with me?
+- A: [Sure!Yes!] I can do that.
+
+
+---
+
 
 ---
 #mermaid 
@@ -123,7 +138,6 @@
 
 #mermaid 
 
-
 - Q: When did your PO launch this initiative?
 - A: Our PO launched this initiative six months ago.
 
@@ -144,8 +158,6 @@
 - A: A few weeks ago I finished reading The Petite Prince.
 
 --- 
-
-
 
 
 
@@ -176,6 +188,17 @@
 
 --- 
 
+#mermaid
+- Q :  What issues do we have to resolve before we go to production? (context: PM to QA lead)
+- A : The issue list is on Jira.
+
+---
+
+#mermaid 
+-  Q :  Do we have a time frame for the next production build? (context: PM to scrum master)
+-  A: Yes, we are planning to move to production at 4.
+
+---
 
 # contracts
 #mermaid 

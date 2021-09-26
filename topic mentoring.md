@@ -2,11 +2,21 @@
 - What makes a good mentor?
 - How did your network expand?
 - What makes a good mentee?
+- What is your goal as a mentor?
+
+#mermaid 
+
+- Q: What do you hope to learn as a mentor?
+- A: I think it will be good to understand what junior devs are struggling with?
+
+---
+
+- What do you hope to learn as a mentor?
+
+- Have you ever been a mentor before?
 - Have you thought about getting a mentor?
 - Has mentoring provided an opportunity to expand your professional network?
 - How has mentoring changed your perspective on how to hire for your team?
-- How has being a mentor made you a better [manager,person]?
-  - I faced several problems in the beginning. I had to improve my communication skills. It was my first time as a mentor... I learned how to work the mentees. I learned how to manage a small inexperienced team.
 - When does the mentoring program end?
 - What are some things that you consider important in  a mentor?
     - experience in different languages
@@ -17,6 +27,22 @@
 - Have you ever had a mentor?
 - How long will you be my mentor?
 - How do I begin to do a self-assessment?
+
+#mermaid 
+
+- Q: How has being a mentor made you a better [manager,person]?
+- A: I faced several problems in the beginning. I had to improve my communication skills. It was my first time as a mentor... I learned how to work the mentees. I learned how to manage a small inexperienced team.
+
+---
+
+# questions to ask a mentee
+-   What are your short-term goals? 
+-   What are your long-term goals?
+-   What's working in your career? 
+-   What's not working? 
+-   What ideas have you developed to help you overcome challenges and meet your goals? 
+-   What areas do you feel comfortable addressing on your own and what areas require more support?
+
 
 
 # statements
@@ -36,7 +62,7 @@
 - If they don't want to work then we can we remove them from the team. 
 - They told me that they want to continue their project. 
 
-## topic:  mentoring verbs
+# verbs
 - assign
 - help
 - grow
@@ -51,8 +77,8 @@ highlight
 show
 - You will show me what you have completed.
 
-## topic: mentoring adjectives 
+# adjectives 
 
-## topic:  mentoring nouns
+# nouns
 - self assessment
 
