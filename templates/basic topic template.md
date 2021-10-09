@@ -2,7 +2,7 @@
 
 # statements
 
-# dialogues
+# dialogs
 ---
 #mermaid 
 

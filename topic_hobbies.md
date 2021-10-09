@@ -1,0 +1,37 @@
+# questions
+- Do you think there are any books or movies I should read or see? Why these?
+- If you had to take a paid sabbatical and couldn't work for an entire year, what would you most like to do?
+- How often do you go clothes [[topic shopping]]?
+- Do you have problems letting someone else control the remote control? Are you a channel surfer?
+- What sort of parties do you enjoy going to? Do you like to go for a short while or stay until most people have gone?
+- Do you enjoy going to amusement parks? Do you like going on the thrill rides?
+- When was the last time you were on a roller coaster?
+- Do you regularly go to musicals, operas or plays? If not, why?
+- Do you prefer to spend most weekends lazing around the house, getting out of the house or being productive?
+- Do you think you read too much or too little?
+- Do you collect anything? What and how long have you collected? To what lengths do you go to add to your collection? How much do you spend each year on your collections?
+- What is your favorite type of [[topic art]]? Do you feel you are artistic in any way?
+- How many books do you usual y read in a year? What type of books do you read?
+- Do you have a favorite bar or place of entertainment? How often do you go there?
+- Do you have a location in the movie theater where you prefer to sit?
+- Do you think your family should have a limit on the hours of television watched each day? Would you be willing to start this week?
+- What role does art play in your life?
+- What are your favorite hobbies? Would you like to spend more time on them?
+- What shows on television do you always watch?
+- How many movies do you usual y watch in a month?
+- How personally involved do you get with "your" team's performance? If they lose, does it make you angry or put you in a bad mood?
+- How many hours a day on average do you spend on the computer/Internet (not counting time spent for work)?
+- Do you collect anything? How long have you been collecting? Why do you collect?
+- Which newspapers/news magazines do your read? How often? How often do you watch the news?
+- Do you go into Internet chat rooms? Are they general chat rooms or devoted to a certain topic?
+- What sports do you watch on television? College, Pro or both?
+- How often do you go to concerts? What kinds? Would you go more often if you had more time/money?
+- If you had a day to yourself with nothing that had to be done, how would you pamper yourself?
+- Do you enjoy shopping, don't care one way or the other, or detest shopping? Does it change whether it is for clothes, electronics or [[topic food]]?
+- If your mate had great interest in some sport or activity that you had absolutely no liking or interest in, would you try to like it or would you simply encourage him or her to do it without you? If your mate didn't like your hobby would you cut back significantly so you could enjoy more things together?
+- What are your three favorite board/card games?
+- On weekends how late do you like to stay out? On work nights?
+- Do you like any activities that are daring or risky?
+- How many hours of [[topic TV]] do you watch in an average day? When do you turn the television on and when do you turn it off?
+- If someone wanted to give you a $50 gift certificate to use on yourself, which store/theater/spa would you tel him or her you wanted.
+

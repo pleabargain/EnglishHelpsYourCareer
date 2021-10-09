@@ -1,1 +1,0 @@
-How to prepare for your M C exam

@@ -1,3 +1,6 @@
+By learning prefixes, root and suffixes you will rapidly improve your vocabulary!
+
+
 # adjectives suffixes
 
 
@@ -93,6 +96,22 @@ graph TD;
 
 
 # suffix
+
+## esque 
+means **“like” or “resembling**.”
+
+```mermaid
+	graph TD;
+	esque-->picturesque
+	esque-->statuesque
+	esque-->lionesque
+
+```
+
+
+
+
+
 ## -cede
 to go or yield 
 ```mermaid
@@ -276,10 +295,15 @@ Meaning: without something
 
 ```mermaid
 graph TD; 
--less-->hopeless; 
+-less-->  baseless; 
 -less-->  faultless; 
+-less-->  faithless; 
 -less-->  fearless; 
+-less--> hopeless; 
 -less-->  restless;
+-less-->  rudderless; 
+-less-->  soulless; 
+
 ```
 
 ## -y 
@@ -529,6 +553,7 @@ with
 ```mermaid
 graph TD;
 con -->concieve;
+con -->consensus;
 con -->convince;
 con -->consider;
 con -->congested;
@@ -617,6 +642,7 @@ graph TD;
 over --> overkill;
 over --> overwork;
 over --> overlook;
+over --> overheated;
 over --> oversee;
 over --> overcharge;
 
@@ -699,7 +725,9 @@ This prefix has a couple of different spellings.
 graph TD; 
 
 co --> coexist; 
+co --> coordinate; 
 co --> cooperate; 
+co --> cooperative; 
 co --> co-own;
 ```
 
@@ -733,7 +761,7 @@ fore--> foreskin;
 
 
 ## inter- 
-meaning between 	
+between among together - involving two or more
 
 
 ```mermaid
@@ -741,6 +769,9 @@ graph TD;
 
 inter --> interact; 
 inter --> intermix; 
+inter --> internet;
+inter --> intermediate;
+inter --> intersection;
 inter --> interface; 
 inter --> intercede;
 ```
@@ -941,6 +972,7 @@ graph TD;
 -ment -->punishment; 
 -ment -->augment;
 -ment --> impedement;
+-ment --> payment;
 -ment--> embellishment;
 -ment -->unemployment;
 -ment -->enticement;
@@ -949,6 +981,15 @@ graph TD;
 
 
 # roots
+
+## toxic
+poison
+
+```mermaid
+graph TD;
+-toxic -->intoxicated;
+
+```
 
 ## mem
 mind memory
@@ -982,12 +1023,13 @@ graph TD;
 
 
 
-
-
 # hood 
+particular state or period in someone's life
 ```mermaid
 graph TD;
 -hood -->neighborhood; 
+-hood -->falsehood; 
+-hood --> childhood;
 -hood -->fatherhood; 
 -hood -->parenthood; 
 
