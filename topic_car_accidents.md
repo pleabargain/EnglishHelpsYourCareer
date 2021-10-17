@@ -1,17 +1,18 @@
 [[topic cars]]
 # questions
-Have you ever been in a car accident?
+- Have you ever been in a car accident?
 
 # statements
-I was speeding and my car flipped!
-The road was slick from a recent rain.
+- I was speeding and my car flipped!
+- The road was slick from a recent rain.
+- I was in a car accident.
 
 # dialogs
 ---
 #mermaid 
 
-- Q: 
-- A: 
+- Q: Have you ever been in a car accident?
+- A: I was in a car accident last year. Luckily no was injured.
 
 ---
 

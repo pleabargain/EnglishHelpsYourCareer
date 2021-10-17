@@ -10,57 +10,65 @@ Past simple sentences are created by changing a regular verb into its past tense
 - 
 - They found out later that it was a different neighbor making the noise.
 ---
-- What did you do?
-- I went to school.
+#mermaid
+- Q: What did you do?
+- A: I went to school.
 
 ---
-
-- What did you do yesterday?
-- I went to school yesterday.
-
----
-
-- What she did she do last night? When did she arrive?
-- She arrived last night. [[grammar elements verbs#arrive arrived d reg]]
+#mermaid
+- Q: What did you do yesterday?
+- A: I went to school yesterday.
 
 ---
-- What did you do?
-- I watched TV. [[grammar elements verbs#watch watched t reg]]
+#mermaid
+- Q: What she did she do last night? When did she arrive?
+- A: She arrived last night.
 
 ---
-
-- I thought about the world.
+#mermaid
+- Q: What did you do?
+- A: I watched TV. 
 
 ---
-#mermaid 
-Q: When did you eat?
-A: We ate earlier.
+#mermaid
+- Q: What did you do last night?
+- A: I thought about the world and how I can make it a better place.
 
 ---
 #mermaid 
-Q: I made a good cup of coffee!
-- I went to a cafe.
+- Q: When did you eat?
+- A: We ate lunch earlier.
+
+---
+#mermaid 
+- Q: I made a good cup of coffee!
+- A: I went to a cafe.
 
 ---
 
----
+
 
 ---
+
 #mermaid 
 Q: A few weeks ago I finished a very good book. I think you will like it!
 A: What is the book's title? What is the book's name? What's the name of the book?
 
+
 ---
----
+
 #mermaid 
 Q: When did you finish the book? (you know what book I'm reading)
 A: A few weeks ago I finished reading The Petite Prince.
 
----
+
 ---
 #mermaid 
 Q:  I left my previous company two years ago.
 A: Our trees produced a lot of fruit.
+
+---
+
 - I went to Odessa one year ago.
 
 - We grew a number of crops this summer.
@@ -68,8 +76,9 @@ A: Our trees produced a lot of fruit.
 - We planted a lot of trees in our orchard.
 
 ---
-- When did your PO launch this initiative?
-- Our PO launched this initiative six months ago. [[English in use acronyms#PO]]
+#mermaid
+- Q: When did your PO launch this initiative?
+- A: Our PO launched this initiative six months ago. [[English in use acronyms#PO]]
 
 ---
 

@@ -1,16 +1,29 @@
 # questions
+ - How much experience do you have as an functional?
+ - What kinds of requirements are you familiar with?
+ - How do you go about setting up processes?
+ - How do you motivate your team?
+
 
 # statements
-
+- It's important to understand what motivates individuals in my team.
 
 # dialogs
 #mermaid 
 
-- Q:
-- A:
+- Q:  How do you motivate your team?
+- A: I try to figure out what is important to them and then I lean on that. I try to match my team's interests to the projects they will like.  I like to keep my team challenged.
 
 ---
 
+--- 
+
+#mermaid 
+
+- Q: When was the last time you established a new process?
+- A: I'm in the process of establishing a new process now! We are trying to scale our DS competencies to the whole company.
+
+---
 
 # [[English in use phrases]]
 
@@ -47,13 +60,13 @@
 - rehearse
 
 ---
-- Did you rehearse your presentation? [[mermaid_English_prefixes_roots_suffixes]]
+- Did you rehearse your presentation? 
 
 
 ---
 - estimate
 ---
-- Do you estimate the time required to complete a project?
+- How do you estimate the time required to complete a project?
 - Have you estimated the time required to complete this task?
 
 

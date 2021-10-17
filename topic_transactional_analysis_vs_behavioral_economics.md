@@ -21,6 +21,8 @@
 - What protocols exist for applying Transactional Analysis in the field?
 - How can we integrate this theory into our learning program?
 - Is this a time waster?
+- How do you get in alignment with someone else?
+- How do you effectively develop rapport with someone else?
 - What are the games that people play?
 
 # statements
@@ -28,28 +30,34 @@
 - Everybody has a purpose in life.
 - Nobody told me what was going on.
 - Stress can be infectious.
-- TA is practical if we can identify the mental problem.
-- There are four primal emotions: fear, love, happiness, anger,
+- In order to apply...
+- In order to know how to apply...
+- You should...
+- It's necessary... 
+- It's important to anticipate how people react to organizational changes.
+- Let me tell you a joke!
+- We've made great progress!
+- My goal is to accelerate change management.
+- Transactional Analysis is practical if and only if we can identify the mental problem.
+- There are four primal emotions: fear, love, happiness, anger.
 - We want people to become more mature.
 - He was a revolutionary in the field of psychiatry.
 - Transactional analysis might help in prioritizing tasks.
 
 # dialogs
 ---
-- How would you define a mature person?
-- A mature person will react to a situation thoughtfully.
+#mermaid 
+- Q: How would you define a mature person?
+- A: A mature person will react to a situation thoughtfully.
 ---
-
-
----
-- What are men most afraid of?
-
-- Being alone with the psychiatrist and being alone in the dark.
+#mermaid 
+- Q: What are men most afraid of?
+- A: Being alone with the psychiatrist and being alone in the dark.
 
 ---
-
-- Why are men afraid of the dark?
-- They don't know how many psychiatrists are in the dark with them!
+#mermaid 
+- Q: Why are men afraid of the dark?
+- A: They don't know how many psychiatrists are in the dark with them!
 
 ---
 

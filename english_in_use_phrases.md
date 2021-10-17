@@ -1,4 +1,39 @@
+
+# kickstart the process
+
+We will kickstart the process of selling our service by launching a major PR and advertising campaign.
+
+
+
+
+
+#mermaid 
+- Q: What do you infer from the evidence, Sherlock?
+- A: That is a very good question Watson!
+
+
+--- 
+
+#mermaid 
+
+- Q: What does this evidence imply?
+- A: There are a number of implications suggesting that the national bank is going to be robbed!
+
+
+
+# the art and science
+- A good programmer combines the art and science of coding to create good solutions.
+
+
+# wire transfer
+- We initiated a wire transfer between our bank and your bank yesterday.
+
 # check on 
+- I need to check on my mother!
+
+# tie the knot
+- They decided to [get married| tie the knot] after dating for three years.
+
 
 # cash is king
 - You know what they say, cash is king!

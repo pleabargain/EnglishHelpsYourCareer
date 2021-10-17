@@ -1,3 +1,7 @@
+# SOPs
+- Standard Operating Procedures 
+
+
 
 # QBR
 - quarterly business review [[topic project manager]]

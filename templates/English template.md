@@ -1,5 +1,5 @@
 # What's new
-- What new words or [[English in use phrases|phrases]] in English have you learned since we last spoke?
+- What new words or [[english_in_use_phrases|phrases]] in English have you learned since we last spoke?
 
 # warm up
 
@@ -10,33 +10,31 @@
 https://www.brainyquote.com/
 
 # parts of speech
--  [[grammar elements nouns]]
-	-  https://www.getrandomthings.com/random-nouns.php
--  [[grammar elements abstract nouns]]
-	-  https://www.getrandomthings.com/list-abstract-nouns.php
--  [[grammar elements concrete nouns]]
-	-  https://www.getrandomthings.com/list-concrete-nouns.php
--  [[English in use 1500 common words]]
--  [[grammar elements adjectives]]
-	-  https://www.getrandomthings.com/random-adjectives-words.php
--  [[grammar elements verbs]]
-	-  https://www.getrandomthings.com/random-verbs.php
--  [[grammar elements irregular verbs]]
-	-  
--  [[grammar elements adverbs]]
-	-  https://www.getrandomthings.com/random-adverbs.php
--  [[grammar elements prepositions]]
-	-  https://www.getrandomthings.com/random-prepositions.php
--  [[grammar elements modals]]
-	-  https://wordwall.net/resource/1080915/must-mustnt-speaking-cards
-	
+
+-  https://www.getrandomthings.com/random-nouns.php
+
+-  https://www.getrandomthings.com/list-abstract-nouns.php
+
+-  https://www.getrandomthings.com/list-concrete-nouns.php
+
+
+-  https://www.getrandomthings.com/random-adjectives-words.php
+
+-  https://www.getrandomthings.com/random-verbs.php
+
+-  https://www.getrandomthings.com/random-adverbs.php
+
+-  https://www.getrandomthings.com/random-prepositions.php
+
+-  https://wordwall.net/resource/1080915/must-mustnt-speaking-cards
+
 
 
 # grammar elements
 
--  [[grammar in use comparatives]]
--  [[grammar in use superlatives]]
--  [[grammar elements conditionals]]
+-  [[grammar_in_use_comparatives]]
+-  [[grammar_in_use_superlatives]]
+ - [[grammar_elements_conditionals]]
 -  [[grammar conjunctive adverbs]]
 -  [[grammar elements coordinating conjunctions]]
 -  [[grammar elements subordinating conjunctions]]

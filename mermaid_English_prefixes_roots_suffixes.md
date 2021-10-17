@@ -97,7 +97,7 @@ graph TD;
 
 # suffix
 
-## esque 
+## -esque 
 means **“like” or “resembling**.”
 
 ```mermaid
@@ -224,6 +224,8 @@ graph TD;
 
 -ful--> thoughtful; 
 -ful-->  graceful;
+-ful-->  careful;
+-ful-->  delightful;
 -ful-->  helpful; 
 -ful-->  hopeful;
 -ful-->  useful; 
@@ -405,10 +407,12 @@ ir --> irregular;
 graph TD;
 pro--> protect; 
 pro--> profession; 
+pro --> proposition; 
 pro--> proceed; 
 pro--> protest; 
 pro--> proactive;
 pro--> proclamation; 
+pro --> provision; 
 
 
 ```
@@ -578,6 +582,7 @@ within, in
 ```mermaid
 graph TD; 
 en --> endorse;
+en --> envision;
 en-->endanger;
 en -->encounter;
 en -->enclose;
@@ -592,6 +597,7 @@ out of
 graph TD; 
 ex --> exclaim;
 ex --> explain;
+ex --> expand;
 ex --> extent;
 ```
 
@@ -948,6 +954,7 @@ graph TD;
 -tion -->  demonstration;
 -tion -->  documentation;
 -tion -->  presentation;
+-sion --> proposition;
 
 ```
 
@@ -957,8 +964,8 @@ meaning action/instance of V-ing > NOUN
 ```mermaid
 graph TD;
 -sion --> expansion; 
--sion -->inclusion;
--sion -->exclusion;
+-sion --> inclusion;
+-sion --> exclusion;
 
 -sion --> admission;
 ```
@@ -1023,7 +1030,7 @@ graph TD;
 
 
 
-# hood 
+## hood 
 particular state or period in someone's life
 ```mermaid
 graph TD;

@@ -16,6 +16,7 @@
 
 # [[English in use phrases]]
 - I had a frog in my throat.
+- He's feeling under the weather.
 
 # [[grammar elements verbs]]
 

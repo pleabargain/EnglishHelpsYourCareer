@@ -1,17 +1,17 @@
 Olivia	
-
 Emma	
-
 Ava	
-
 Sophia	
-
+Daria
 Amelia	
-
+Julia
+Amanda
+Paola
 Isabella	
-
+Cecilia
+Galina
+Marie
 Mia	
-
 Charlotte	
 
 Luna	

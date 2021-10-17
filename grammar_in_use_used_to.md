@@ -19,10 +19,7 @@ I ___ waking up early for my new job.
 * am used to
 <details><summary><b>Answer</b></summary>
 <p>
-
-
-* am used to
-
+am used to
 
 </p>
 </details>
@@ -36,9 +33,7 @@ I used to ___ my parents on the weekend.
 * visit
 <details><summary><b>Answer</b></summary>
 <p>
-
-
-* visit
+visit
 
 
 </p>
@@ -46,15 +41,15 @@ I used to ___ my parents on the weekend.
 
 ---
 
-Paris in France ___ the most popular tourist destination. These days, French people prefer to go abroad.
+
+Paris, in France, ___ the most popular tourist destination. These days, French people prefer to go abroad.
 * used to be
 * is used to being
 * use
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* used to be
+used to be
 
 
 </p>
@@ -67,9 +62,7 @@ Did you ___ to work for MegaSoftec?
 * use
 <details><summary><b>Answer</b></summary>
 <p>
-
-
-* use
+use
 
 
 </p>
@@ -85,12 +78,13 @@ She still isn't ___ working at night.
 <p>
 
 
-* used to
+used to
 
 </p>
 </details>
 
 ---
+
 
 Don't worry. You will soon ___ used to cooking for yourself.
 * be
@@ -99,8 +93,7 @@ Don't worry. You will soon ___ used to cooking for yourself.
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* be
+be
 
 
 </p>
@@ -117,8 +110,7 @@ I ___ to go bed much earlier.
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* used
+used
 
 
 </p>
@@ -127,20 +119,16 @@ I ___ to go bed much earlier.
 ---
 
 
-I ___- go to the beach every day.
+I ___ go to the beach every day.
 * use to 
-
 * uses to
-
 * used to   
-
 * use
 
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* used to
+used to
 
 
 </p>
@@ -151,18 +139,17 @@ I ___- go to the beach every day.
 
 
 I didn’t ___-- play tennis.
-use to 
+- use to 
 
-uses to
+- uses to
 
-used to   
+- used to   
 
-use
+- use
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* use to
+use to
 
 
 </p>
@@ -173,6 +160,7 @@ use
  
 
 Susan ___ drink milk when she was young.
+
 * didn’t use to
 * use to
 * has
@@ -180,8 +168,7 @@ Susan ___ drink milk when she was young.
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* didn’t use to
+didn’t use to
 
 
 </p>
@@ -192,6 +179,7 @@ Susan ___ drink milk when she was young.
  
 
 I didn’t ___ watch television.
+
 * use to 
 * uses to
 * used to   
@@ -209,6 +197,7 @@ I didn’t ___ watch television.
 ---
 
 What ___ you use to wear at school?  
+
 did
 
 do
@@ -219,8 +208,7 @@ have
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* did
+did
 
 
 </p>
@@ -237,11 +225,7 @@ Did they ___ go to the cinema?
 * use to  
 <details><summary><b>Answer</b></summary>
 <p>
-
-
-* use to  
-
-
+use to  
 
 </p>
 </details>
@@ -251,6 +235,7 @@ Did they ___ go to the cinema?
  
 
 People ___ travel on horses.
+
 * used to
 * use
 * used
@@ -258,8 +243,7 @@ People ___ travel on horses.
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* used to
+used to
 
 
 
@@ -280,8 +264,7 @@ Ted used to -------- my best friend, but he lives in France now.
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* be
+be
 
 
 </p>
@@ -302,8 +285,7 @@ use
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* used to
+used to
 
 
 </p>
@@ -321,9 +303,7 @@ My mother ___cook for me, but now I cook for myself.
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* used to
-
+used to
 
 
 </p>
@@ -350,8 +330,8 @@ I ___ start work at 9 o'clock.
 
 ---
  
-
 We didn’t ___ swim in the river.
+
 * used to
 * used
 * use to  
@@ -360,9 +340,7 @@ We didn’t ___ swim in the river.
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* use to  
-
+use to  
 
 
 </p>
@@ -406,7 +384,6 @@ I ___ smoke, but now I have stopped.
 ---
 
 
-
 That auditorium ___ be a cinema.
 
 * used to
@@ -415,7 +392,6 @@ That auditorium ___ be a cinema.
 
 <details><summary><b>Answer</b></summary>
 <p>
-
 
 * used to
 
@@ -450,8 +426,7 @@ I ___ like western music, but now I do.
 <details><summary><b>Answer</b></summary>
 <p>
 
-
-* didn't use to
+didn't use to
 
 
 </p>
@@ -462,9 +437,7 @@ I ___ like western music, but now I do.
 I  ___ be afraid of the dark.
 
 * used to
-
 * use to
-
 * was used to
 
 <details><summary><b>Answer</b></summary>
@@ -529,7 +502,7 @@ It took me a long time to ___ living in the country.
 <p>
 
 
-* get used to
+get used to
 
 </p>
 </details>

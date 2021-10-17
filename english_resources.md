@@ -11,6 +11,13 @@ https://www.englishhints.com/question-formation.html
 # collocations in English
 https://colab.research.google.com/drive/1UbSQr72HL1AeF8FNYfGfGKxGpsqoq1jj?usp=sharing
 
+
+# analyis
+
+- https://www.online-utility.org/text/analyzer.jsp
+
+- ngram viewer: https://books.google.com/ngrams
+
 # applications
 - Duolingo
 - https://www.engvid.com/
@@ -33,12 +40,18 @@ And of course, reading (out loud!), listening and taking notes while listening t
 - Young Sheldon https://g.co/kgs/KejRvY
 - The Office (https://en.wikipedia.org/wiki/The_Office_(American_TV_series))
 - [[topic The Big Bang Theory]] https://g.co/kgs/qwKYLi
+
+---
+
 # Animated
   - The Fixies (children) https://www.youtube.com/channel/UCnRuuiSVqDF2EmoYS7yE6ZA
   - [[topic Rick and Morty]]  (very adult) 
   - [[topic Bo Jack Horseman]] (very adult)
 	- https://en.wikipedia.org/wiki/BoJack_Horseman 
 	- https://transcripts.fandom.com/wiki/BoJack_Horseman:_The_BoJack_Horseman_Story,_Chapter_One
+
+---
+
 # watch movies in English
 - The Princess Bride (romcom)
 - The Great Gatsby
@@ -47,6 +60,8 @@ And of course, reading (out loud!), listening and taking notes while listening t
 - Harry Potter
 - The King's Speech (https://g.co/kgs/zpTzMi)
 - Office Space: https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRzV5Ym1zU0FtVnVLQUFQAQ?oc=3&ceid=US:en
+
+---
 
 #  Watch YouTube channels in English:
   - watch at a reduced speed if you need to
@@ -67,8 +82,11 @@ And of course, reading (out loud!), listening and taking notes while listening t
 
 
 # documentaries
+
 https://g.co/kgs/VgZ5Tu
+
 # games
+
 -  Play [board,computer] games in English.
     - Alias
     - Dungeons and Dragons
@@ -91,6 +109,7 @@ https://g.co/kgs/VgZ5Tu
     - anything from Agatha Christie
 
 # websites
+
 - https://americanenglish.state.gov/
 
 # should
@@ -135,13 +154,16 @@ https://g.co/kgs/VgZ5Tu
 
 # singing
 https://www.youtube.com/watch?v=2dANDhfWU8g&list=PLikM1nBK3VWRbVxrnYC3Egn7m5XXKL1Y5
+
 - You should sing your favorite songs out loud in English.
+
 - You should sing out loud in English.
+
 - Karaoke https://en.wikipedia.org/wiki/Karaoke
    
 
 # try
--  Try to speak with your parents in English.
+- Try to speak with your parents in English.
 - Try to teach them a new phrase in English.
 
 
