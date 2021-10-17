@@ -58,13 +58,13 @@
 #mermaid
 
 - Q: Can I make marshmallows at home by myself? (context: novice to expert cook)
-- A: You must give my marshmallow recipe a try!
+- A: Yes! And, you must give my marshmallow recipe a try!
  
 --- 
 
 #mermaid
 
-- Q: Will we go to the movies tonight after work? (context: hubby to wife)
+- Q: Will we go to the movies tonight after work? (context: husband to wife)
 - A: Yes, we will! I have already bought the tickets!
 - Q: Oh honey! I love you! You are so thoughtful!
 
@@ -202,8 +202,8 @@
 ---
 
 #mermaid 
--  Q:  Do we have a time frame for the next production build? (context: PM to scrum master)
--  A: Yes, we are planning to move to production at 4.
+- Q:  Do we have a time frame for the next production build? (context: PM to scrum master)
+- A: Yes, we are planning to move to production at 4.
 
 ---
 

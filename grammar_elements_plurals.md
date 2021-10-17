@@ -163,32 +163,33 @@ Everybody (singular)
 
 
 # dialog 1
-What's on your shopping list?
+#mermaid
+-Q: What's on your shopping list?
 
-4 tomatoes, some carrots, 2 kilos of potatoes, 6 oranges, some cherries, 2 bottles of grape juice, a box of strawberries, 6 bottles of water, and some chicken. What about you?
+-A: 4 tomatoes, some carrots, 2 kilos of potatoes, 6 oranges, some cherries, 2 bottles of grape juice, a box of strawberries, 6 bottles of water, and some chicken. What about you?
 
-Er, 5 pizzas and some soda.
+-Q: Er, 5 pizzas and some soda.
 
-Let's go to the supermarket together. You will need some help!  
+-A: Let's go to the supermarket together. You will need some help!  
 
 
 # dialog 2
-I need some new clothes.
+-Q: I need some new clothes.
 
-Me too, I need a new pair of pants and a couple of shirts.
+-A: Me too, I need a new pair of pants and a couple of shirts.
 
-I need shoes, a couple of scarves for winter, and two dresses.
+-Q: I need shoes, a couple of scarves for winter, and two dresses.
 
-So let's go shopping this afternoon.
+-A: So, let's go shopping this afternoon.
 
-Good idea!  
+-Q: Good idea!  
 
 
 # dialog 3
-What do we need for dinner tonight?
+-Q: What do we need for dinner tonight?
 
-We need onions, potatoes, and some eggs.
+-A: We need onions, potatoes, and some eggs.
 
-How about some fruit and potato chips?
+-Q: How about some fruit and potato chips?
 
-OK, sounds great.
+-A: OK, sounds great.

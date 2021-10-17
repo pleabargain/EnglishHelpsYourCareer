@@ -1,5 +1,5 @@
 # when
-- Peter will telephone you **when / as soon as he returns**.
+- Peter will telephone you [when| as soon as] he returns.
 -   We will see them when they get here.
 -   I don't know when the train will leave.
 -   My manager **will reply to the letter** **when** he comes home from work.
@@ -9,32 +9,41 @@
 - Whenever he leaves the house he always takes an umbrella. 
 - The manager welcomes originality whenever it is shown. 
 - We'll begin the meeting whenever {FEMALE_NAME} gets here.
+
 # while
+
 - Peter waited while I had a bath.
 - I cut myself while I was shaving.
+
 # as
 - Your soup is as good as my mother's.
+
 # since 
 - She's been waiting for you since this morning.
 - I haven't talked to her since last week.
 - He's been asking about you since last night.
 - They have been waiting for the train since dawn.
+
 # after
 - He will finish reading the book after he eats lunch.
 - She will meet me after it stops raining.
+
 # before
 -   We had dinner before we watched the movie.
 -   Can you call me back before 5 pm, please?
 -  I met her just before she left.
+
 # until
 - I'll stay here until you come back. 
 - We have to wait until he arrives. 
 - We do not use will after until when speaking about the future. 
 - I'll stay here until you come back.
+
 # as soon as
-- I will return your book on Monday **when / as soon as I have read it**.
+- I will return your book on Monday [when| as soon as I have read it].
 - Come and see me me as soon as you have a spare minute.
 - He will tell us **as soon as he gets the news**.
+
 # once
 - I’ve only met Jane’s husband once.
 - I see him once every two or three weeks.

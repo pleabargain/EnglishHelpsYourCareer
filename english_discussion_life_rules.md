@@ -21,6 +21,9 @@
 
 # life rule: Before driving a rental car away, check all of the cosmetics and systems.
 
+```mermaid
+sequenceDiagram
+
 Dad: Before driving a rental car away, check all of the cosmetics and systems.
 
 Son: Why, Dad?
@@ -38,12 +41,13 @@ Dad: I'm not a mechanic either! But before you get into the car you need to chec
 Son: Thanks Dad! You're the best!
 
 Dad: You might consider buying your own car but that's a different story!
-
+```
 
 # life rule: four year old girls should not smoke cigars
 
 # life rule: children shouldn't play with electricity
-
+```mermaid
+sequenceDiagram
 Dad: Please don't use this wall adapter!
 
 Daughter: Why not, Dad?
@@ -63,12 +67,14 @@ Daughter: DAD! NOT TRUE! IT WAS TIMMY!
 Dad: Why were your dolls wrapped around the wire.
 
 Daughter: It wasn't me! It way TIMMY! He hates my dolls and he wanted to electrocute them!
-
+```
 
 # life rule: children shouldn't bite other people
 
 # life rule: couples should be honest with each other
 
+```mermaid
+sequenceDiagram
 nephew: What's a good rule in a relationship?
 
 uncle: Couples should be honest and [loyal|true] to each other.
@@ -80,6 +86,7 @@ uncle: If a couple wants to be happy they should follow this simple rule.
 nephew: How can a couple be happy?
 
 uncle: If a couple loves each other, and if they are honest and loyal to each, 100% they will be happy!
+```
 
 # life rule: children shouldn't be allowed to smoke
 
@@ -90,7 +97,8 @@ uncle: If a couple loves each other, and if they are honest and loyal to each, 1
 
 
 # life rule You should think before you act.
-
+```mermaid
+sequenceDiagram
 Dad: You should think before you act.
 
 daughter: Why is that important?
@@ -106,10 +114,12 @@ daughter: But this is my life! Not yours!
 Dad: Ok, do what you want but I don't want to hear about your regrets...
 
 daughter: Ok, I will never tell you about my regrets (door slams, daughter disappears, she shows up on the news five years later!)
-
+```
 
 # life rule: You shouldn't waste your time!
 
+```mermaid
+sequenceDiagram
 Mom: You shouldn't waste your time!
 
 son: Why?
@@ -125,11 +135,13 @@ son: Thanks for your advice but I want to be happy right now!
 Mom: I just want you to consider my ideas.
 
 son: Thanks Mom!
-
+```
 
 
 
 # life rules: muddy outside
+```mermaid
+sequenceDiagram
 Mom: You should wear your rubber boots because it is muddy outside!
 
 Son: Why should I wear rubber boots?
@@ -151,10 +163,13 @@ Mom: Who knows!
 Son: Whom can I ask?
 
 Mom: Write a letter to Santa and ask him!
-
+```
 
 
 # life rules: wealth
+```mermaid
+sequenceDiagram
+
 Dad: If you want wealth, you should dream about it.
 
 daughter: Why should I dream about wealth?
@@ -174,10 +189,12 @@ daughter: I see many presidents on green paper! Where is my money?
 Dad: Money won't make you happy. You need to visualize the stuff that you will buy with this money!
 
 daughter: I am visualizing a red car with horses.
-
+```
 
 
 # life rules: fireman
+```mermaid
+sequenceDiagram
 Dad: If there are firemen, you should not interfere with them.
 
 Son: Why not?
@@ -203,9 +220,11 @@ Dad: Because people need shelter at night against the weather.
 son: Why?
 
 Dad: Because people are not wild animals and won't survive without shelter.
-
+```
 
 # life rules: rainstorm
+```mermaid
+sequenceDiagram
 Dad: If there is a rainstorm, you should take an umbrella.
 daughter: Why?
 
@@ -225,8 +244,8 @@ Dad: Because when it was hot the water rose into the sky!
 
 daughter: Why?
 
-Dad: Because it is a feature of water. When it is hot it becomes a gas and gas is very light.
-
+Dad: Because it is a feature of water. When it is hot it becomes a gas and most gas is very light.
+```
 
 
 
