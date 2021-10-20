@@ -1,46 +1,46 @@
-## personality test
-
-
 # Are you a worrier?
-Ana: Are you a worrier?
+#mermaid
+- Q:Are you a worrier?
 
-Bob: I am a 'worrier'.
+- A:I am a 'worrier'.
 
-Bob: No, I'm not a worrier. I don't really care about anything other than my family.
+- A:No, I'm not a worrier. I don't really care about anything other than my family.
 
-Bob: Not at all. I'm selfish. I'm calm and chill about most everything.
+- A:Not at all. I'm selfish. I'm calm and chill about most everything.
+
+---
+#mermaid
+- Q:Do you worry a lot?
+
+- A:I'm a little bit of worrier. When an unexpected situation happens I can worry about it a lot.
+
+- A:Unfortunately, I worry a lot.
+
+- Q:What troubles you?
+
+- A:I worry about unimportant things.
 
 ---
 
-Ana: Do you worry a lot?
+#mermaid
+- Q:Do you stress a lot?
 
-Bob: I'm a little bit of worrier. When an unexpected situation happens I can worry about it a lot.
+- A:Sometimes I stress a little bit.
 
-Bob: Unfortunately, I worry a lot.
+- Q:What makes you feel uneasy?
 
-Ana: What troubles you?
-
-Bob: I worry about unimportant things.
-
----
-
-Ana: Do you stress a lot?
-
-Bob: Sometimes I stress a little bit.
-
-Ana: What makes you feel uneasy?
-
-Bob: Unexpected situations at work or in life can stress me out (idiomatic)
+- A:Unexpected situations at work or in life can stress me out (idiomatic)
 
 ---
 
-Ana: Do you stress a lot?
+#mermaid
+- Q:Do you stress a lot?
 
-Bob: I used to but now things don't bother me as much.
+- A:I used to but now things don't bother me as much.
 
-Ana: How are you able to control your stress?
+- Q:How are you able to control your stress?
 
-Bob: To be honest, I'm not able to control it. I observe my breathing. I control my breathing.
+- A:To be honest, I'm not able to control it. I observe my breathing. I control my breathing.
 
 ---
 
@@ -48,81 +48,96 @@ Bob: To be honest, I'm not able to control it. I observe my breathing. I control
 # Do you easily make friends?
 
 ---
-Ana: Do you easily make friends?
+#mermaid
+- Q:Do you easily make friends?
 
-Bob: I make friends easily.
+- A:I make friends easily.
 ---
-Ana: Do you easily make friends?
+#mermaid
+- Q:Do you easily make friends?
 
-Bob: It depends on the people and the situation.
-
----
-
-Ana: Can you make new friends easily?
-
-Bob: Yes, I like to meet new people.
+- A:It depends on the people and the situation.
 
 ---
+#mermaid
+- Q:Can you make new friends easily?
 
-Ana: Is it easy for you to make new friends?
+- A:Yes, I like to meet new people.
 
-Bob: It's not very easy for me to make new friends. I don't let people get close to me.
+---
+#mermaid
+- Q:Is it easy for you to make new friends?
+
+- A:It's not very easy for me to make new friends. I don't let people get close to me.
+
+---
+#mermaid
+- Q:Is it easy for you to make friends?
+
+- A:I used to make friends easily but now I'm married! But my wife is extremely shy so I don't want to bother her with new people.
 
 ---
 
-Ana: Is it easy for you to make friends?
+#mermaid
+- Q:Is it hard for you to make friends?
 
-Bob: I used to make friends easily but now I'm married! But my wife is extremely shy so I don't want to bother her with new people.
+- A:When I don't people at all, then it's hard to make friends. But, when I know someone in the group it's easier for me.
+
+
+# Do you have a vivid imagination?
+#mermaid
+- Q:Can you imagine things vividly?
+
+- A:Is a vivid imagination necessary to be a good engineer?
+
+- Q:I have a vivid imagination.
+
+- A:In some regards, yes. I don't remember everything that I have experienced. I cannot imagine everything so it makes it hard for me to grasp new concepts.
+
+- Q:I have a vivid imagination but sometimes I can't imagine anything at all! 
+
+- A:It's important to have a vivid imagination to be a good developer.
+
+
 
 ---
-Ana: Is it hard for you to make friends?
-
-Bob: When I don't people at all, then it's hard to make friends. But, when I know someone in the group it's easier for me.
-
-
-# Ana: Do you have a vivid imagination?
-Ana: Can you imagine things vividly?
-
-Ana: Is a vivid imagination necessary to be a good engineer?
-
-Bob: I have a vivid imagination.
-
-Bob: In some regards, yes. I don't remember everything that I have experienced. I cannot imagine everything so it makes it hard for me to grasp new concepts.
-
-Bob: I have a vivid imagination but sometimes I can't imagine anything at all! 
-
-Bob: It's important to have a vivid imagination to be a good developer.
 
 # Do you trust other people?
-Ana: Do you trust other people?
 
-Ana: Is it difficult to trust other people?
+#mermaid
+- Q:Do you trust other people?
 
-Bob: I trust others.
+- Q:Is it difficult to trust other people?
 
-Bob: Yes, I trust other people. It's easier to trust than be suspicious.
+- A:I trust others.
 
-Bob: I don't think it's difficult to trust other people. Is that person telling me the truth or is he trying to trick me? 
+- A:Yes, I trust other people. It's easier to trust than be suspicious.
 
+- A:I don't think it's difficult to trust other people. Is that person telling me the truth or is he trying to trick me? 
+
+---
 
 # Did you complete your tasks successfully today?
+#mermaid
+- Q:Did you complete your tasks successfully today?
 
-Ana: Did you complete your tasks successfully today?
-
-Bob: I complete tasks successfully.
-
----
-
-Ana: Is it easy for you to complete your tasks?
-
-Bob: My tasks today were to conduct meetings! So, yeah! I completed my tasks.
+- A:I complete tasks successfully.
 
 ---
+#mermaid
 
-Ana: Is it easy for you to complete your tasks?
+- Q:Is it easy for you to complete your tasks?
 
-Bob: If the task is easy then yes! If the task is difficult then we'll see!
+- A:My tasks today were to conduct meetings! So, yeah! I completed my tasks.
 
+---
+#mermaid
+
+- Q:Is it easy for you to complete your tasks?
+
+- A:If the task is easy then yes! If the task is difficult then we'll see!
+
+---
 
 #  Do you get angry easily?
 
@@ -132,16 +147,20 @@ Bob: If the task is easy then yes! If the task is difficult then we'll see!
 
 
 # Are you manipulative?
+---
+#mermaid
 
-Ana: Are you manipulative?
+- Q:Are you manipulative?
 
-Bob: I use and manipulate others to get my own way!
+- A:I use and manipulate others to get my own way!
 
 ---
 
-Ana: Are you manipulative?
+#mermaid
 
-Bob: I don't think I'm a manipulative person. Sometimes I have to manipulate others to get what I want.
+- Q:Are you manipulative?
+
+- A:I don't think I'm a manipulative person. Sometimes I have to manipulate others to get what I want.
 
 ---
 
@@ -192,7 +211,7 @@ Bob: I don't think I'm a manipulative person. Sometimes I have to manipulate oth
 #  Are you a really cheerful person?
 
 
-#  Do you tend to support political candidates who favour progress and reform?
+#  Do you tend to support political candidates who favor progress and reform?
 
 
 #  Do you sympathize with the homeless?
@@ -206,9 +225,13 @@ Bob: I don't think I'm a manipulative person. Sometimes I have to manipulate oth
 #  Do you fear for the worst?
 
 #  Do you feel comfortable around people?
-Ana: Do you feel comfortable around people?
 
-Bob: Usually I don't feel comfortable around people. It's hard to explain why. Maybe it's because I'm an introvert. I keep a few people close to me. When there are a lot of people around me that I don't know, it makes me feel uncomfortable.
+
+#mermaid
+
+- Q:Do you feel comfortable around people?
+
+- A:Usually I don't feel comfortable around people. It's hard to explain why. Maybe it's because I'm an introvert. I keep a few people close to me. When there are a lot of people around me that I don't know, it makes me feel uncomfortable.
 
 ---
 
@@ -217,9 +240,14 @@ Bob: Usually I don't feel comfortable around people. It's hard to explain why. M
 #  Do you believe that people basically have good intentions?
 
 #  When you do something, do you always do it well?
-Ana:When you do something, do you always do it well?
 
-Bob: When I do something, I can't always do it well. If it's important for myself and others then I will do it well. If it's not important, then I'll just do it without concern for the results.
+---
+
+#mermaid
+
+- Q:When you do something, do you always do it well?
+
+- A:When I do something, I can't always do it well. If it's important for myself and others then I will do it well. If it's not important, then I'll just do it without concern for the results.
 
 ---
 
@@ -244,23 +272,29 @@ Bob: When I do something, I can't always do it well. If it's important for mysel
 # Are you an honest person?
 
 #  Do you tell the truth?
-Ana: Do you always tell the truth?
+---
 
-Bob: I tell the truth almost always.
+#mermaid
 
-Ana: Really? Are you sure? Because I know that everybody tells a lie from time to time. 
+- Q:Do you always tell the truth?
 
-Bob: Like I said, I almost always tell the truth.
+- A:I tell the truth almost always.
 
-Ana: When do you lie? How does it make you feel?
+- Q:Really? Are you sure? Because I know that everybody tells a lie from time to time. 
 
-Bob: I lie when I think the truth will hurt the other person's feelings!
+- A:Like I said, I almost always tell the truth.
 
-Ana: I see. But I think sometimes it is better to tell the truth.
+- Q:When do you lie? How does it make you feel?
 
-Bob: How should I know when to tell the truth?
+- A:I lie when I think the truth will hurt the other person's feelings!
 
-Ana: When your information can help others to be better.
+- Q:I see. But I think sometimes it is better to tell the truth.
+
+- A:How should I know when to tell the truth?
+
+- Q:When your information can help others to be better.
+
+---
 
 #  Are you  afraid to draw attention to myself?
 
@@ -285,10 +319,15 @@ Ana: When your information can help others to be better.
 #  Do you become overwhelmed by events?
 
 #  Do you have a lot of fun?
-Ana: Do you have a lot of fun?
+---
 
-Bob: I haven't had a lot of fun in awhile. It's hard to have fun when you are stuck at home all day long. Some people can have fun when stuck at home. 
+#mermaid
 
+- Q:Do you have a lot of fun?
+
+- A:I haven't had a lot of fun in awhile. It's hard to have fun when you are stuck at home all day long. Some people can have fun when stuck at home. 
+
+---
 
 #  Do you believe that there is no absolute right or wrong?
 
@@ -337,16 +376,19 @@ Bob: I haven't had a lot of fun in awhile. It's hard to have fun when you are st
 #  Do you do just enough work to get by?
 
 #  Do you easily resist temptations?
+---
 
-Ana: Do you easily resist temptations?
+#mermaid
 
-Bob: No. For me it is difficult to resist temptations.
+- Q:Do you easily resist temptations?
 
-Ana: Why is it hard for you to resist?
+- A:No. For me it is difficult to resist temptations.
 
-Bob: Because if I want to do something then I just do it!
+- Q:Why is it hard for you to resist?
 
+- A:Because if I want to do something then I just do it!
 
+---
 
 #  Do you enjoy being reckless?
 
@@ -359,18 +401,23 @@ Bob: Because if I want to do something then I just do it!
 #  Do you feel that you're unable to deal with things?
 
 #  Do you love life?
-Ana: Do you love life?
+---
 
-Bob: Yes. I love life because my life is fun and I exactly what I want!
+#mermaid
 
-Ana: What do you like to do?
+- Q:Do you love life?
 
-Bob: I like to play with my ball. I like to eat tasty food. I like to eat sausages. I like to walk in the park with my friends.
+- A:Yes. I love life because my life is fun and I exactly what I want!
 
-Ana: Do you want to go for a walk with me now?
+- Q:What do you like to do?
 
-Bob! Ruff!
+- A:I like to play with my ball. I like to eat tasty food. I like to eat sausages. I like to walk in the park with my friends.
 
+- Q:Do you want to go for a walk with me now?
+
+- A:Ruff!
+
+---
 
 #  Do you tend to support political candidates who favour conventional and traditional views?
 
@@ -393,29 +440,37 @@ Bob! Ruff!
 
 # Do you have an exercise routine?
 
-Ana: Do you have an exercise routine?
+---
 
-Bob: I have taken a second job so I don't have time to exercise.
+#mermaid
 
-Bob: I've become too lazy to do any exercise.
+- Q:Do you have an exercise routine?
+
+- A:I have taken a second job so I don't have time to exercise.
+
+- A:I've become too lazy to do any exercise.
+
+---
 
 #  Do you avoid crowds?
+#mermaid 
+- Q:Do you avoid crowds?
 
-Ana: Do you avoid crowds?
+- A:Yes, I try to avoid crowds!
 
-Bob: Yes, I try to avoid crowds!
+- Q:What was the last big concert that you went to? Were there a lot of people there?
 
-Ana: What was the last big concert that you went to? Were there a lot of people there?
+- A:It was a year ago... it was a DJ. There were about 400 people there.
 
-Bob: It was a year ago... it was a DJ. There were about 400 people there.
+- Q:Did it bother you to be in that crowd?
 
-Ana: Did it bother you to be in that crowd?
+- A:Crowds at a concert are okay! Crowds in the metro are NOT okay!
 
-Bob: Crowds at a concert are okay! Crowds in the metro are NOT okay!
+---
 
 #  Do you do not enjoy going to art galleries or exhibitions?
 
-#  Are you un-cooperative - I obstruct other peoples' plans?
+#  Are you uncooperative - I obstruct other peoples' plans?
 
 #  Do you leave my 'bits and pieces' and belongings around?
 
@@ -424,16 +479,18 @@ Bob: Crowds at a concert are okay! Crowds in the metro are NOT okay!
 #  Do you wait for others to take the lead?
 
 #  Do you understand why people who get emotional?
-Ana: Do you understand why people who get emotional?
+#mermaid 
+- Q:Do you understand why people who get emotional?
 
-Bob: Yes, I understand these people.
+- A:Yes, I understand these people.
 
-Ana: Because, I'm an emotional person.
+- Q:Because, I'm an emotional person.
 
-Bob: What do you get emotional about?
+- A:What do you get emotional about?
 
-Ana: I get emotional about animals, being in nature. 
+- Q:I get emotional about animals, being in nature. 
 
+---
 
 #  Do you have time for other people?
 
@@ -450,10 +507,12 @@ Ana: I get emotional about animals, being in nature.
 #  Do you put little time and effort into my work
 
 #  Are you able to control your cravings?
+#mermaid 
+- Q:Are you able to control your cravings?
 
-Ana: Are you able to control your cravings?
+- A:I'm not able to control my cravings!
 
-Bob: I'm not able to control my cravings!
+---
 
 #  Do you act zany and outrageously
 

@@ -87,6 +87,7 @@
 - new<>old
 - sick<>healthy
 - helpful <> unhelpful
+- interesting <> uninteresting
 - chaos<>order
 - sunny<>cloudy
 - clear<>murky

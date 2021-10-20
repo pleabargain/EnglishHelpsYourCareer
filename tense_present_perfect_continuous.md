@@ -26,4 +26,8 @@ The present perfect continuous is formed using the construction has/have been + 
 -   {FEMALE_NAME} **has not been practicing** her English.
 -   {MALE_NAME}**has had** his car for two years.
 -   What **have** you **been doing**?
+- I have been doing my [laundry,expenses, homework].
+
+- We have been cleaning the house today.
+
 

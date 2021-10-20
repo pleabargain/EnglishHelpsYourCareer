@@ -1,9 +1,30 @@
-# question
 
+# questions
 
-- [ ] add notes on abbreviations
-
+- What are Magento prototypes?
 # statements
-- Magento provides options for...
+- Magento is a content management system.
 - I didn't know about it earlier...
-- If she had told me earlier... [[past perfect]]
+- If she had told me earlier... 
+- Magento provides options for...
+
+# dialogs
+---
+#mermaid 
+
+- Q: 
+- A: 
+
+---
+
+# [[English in use phrases]]
+
+# [[grammar elements verbs]]
+
+# [[grammar elements nouns]]
+
+# [[grammar elements adjectives]]
+
+# [[grammar elements adverbs]]
+
+# resources

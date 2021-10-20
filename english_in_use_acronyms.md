@@ -1,3 +1,31 @@
+# SOS
+- save our ship
+# DM
+- direct message
+
+# DD 
+- delivery director
+
+# PM
+- project manager
+
+# CMS
+- content management system
+
+# OOP
+- object oriented programming
+
+# RACI
+- responsible, accountable, consult, inform
+
+
+# RAID
+- Risk, Assumptions, Issue, and Dependencies
+
+# API
+application programming interface
+
+
 # SOPs
 - Standard Operating Procedures 
 
@@ -259,6 +287,10 @@ Minimum Viable Product
 
 # UI
 - user interface [[topic frontend developement]]
+
+# UX
+- user experience [[topic frontend developement]]
+
 
 # SRS
 - software requirements specification [[topic business analyst]]

@@ -95,7 +95,7 @@ Questions are indicated by inverting the subject and was/were. Negatives are mad
 - She was crying over spilled milk!
 -   The sun was shining every day last summer. 
 -   As I spoke, the children were laughing at my cleverness. 
- -   They were waiting for the bus when the accident happened.
+-   They were waiting for the bus when the accident happened.
 -   Caroline was skiing when she broke her leg.
 -   When we arrived he was having a bath.
 -   When the fire started I was watching television.
@@ -104,3 +104,13 @@ Questions are indicated by inverting the subject and was/were. Negatives are mad
 -   At 6 o'clock, I was eating dinner.
 -   I was working at X company in 2018.
 -   She was talking constantly in class in those days.
+
+- She was cooking when I [came in|arrived].
+- "We're approaching the airport in Nairobi now."
+- I was sitting in the kitchen while she was cooking.
+- I was waiting for my coffee while the barista was making it.
+- We were in the meeting while the server was rebooting.
+- I was driving to work while the snow was falling.
+- I was talking to my mother when my son entered the kitchen.
+- When I was studying, I spent my summer holidays with my grandmother.
+

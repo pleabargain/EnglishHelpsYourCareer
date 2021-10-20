@@ -1,6 +1,8 @@
 Hello! Open this file with your favorite browser. It should work on your phone as well! Let me know if you see any formatting weirdness! Screengrabs are really helpful! 
 <a href="mailto:dennis@englishhelpsyourcareer.com?subject=I found a bug in v9.5&body=Message me!">I found a bug!</a>
 
+
+
 # Usage
 Click on the tabs and explore the files!
 
@@ -14,7 +16,9 @@ Click on the tabs and explore the files!
   - Lot of pages about English and it's usage.
 
 - practice
-  - These are unique questions generated for you! I may have even created questions specific for your industry! Highlights include questions specific to:
+  - These are unique questions generated for you! All of the questions have answers. Click on the arrow to see them. Challenge yourself by speaking the question and answer outloud. If you don't recognize a word, highlight and search for the definition. 
+  
+  - There may even be questions specific for your industry! Highlights include questions specific to:
 
     - negotiation
 

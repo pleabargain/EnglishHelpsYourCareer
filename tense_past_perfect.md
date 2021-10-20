@@ -98,3 +98,11 @@ We use the past perfect simple (**had** + past participle) to talk about time up
 - I had talked to her about this problem before but nothing had changed.
 
 - He had acted [strangely, weirdly] before meeting his friends.
+- I had ordered food before he arrived.
+- It has had a positive impact.
+- When I returned from work, lunch had been prepared for me by my loving wife!
+- I had worked at X for three years before I changed my job.
+
+
+
+

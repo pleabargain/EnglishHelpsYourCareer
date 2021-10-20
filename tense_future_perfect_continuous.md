@@ -9,3 +9,5 @@ The future perfect continuous consists of **will + have + been + the verb's pres
 - I will have been playing football for three years this January.
 - I will have been publishing children's books for three years next summer.
 - We will have been deleting the old files for three hours [before,by the time] our boss arrives at 3 p.m.
+- I had been driving for hours when I got a flat tire.
+- I had been hoping for a promotion when I learned that my manager had been fired.

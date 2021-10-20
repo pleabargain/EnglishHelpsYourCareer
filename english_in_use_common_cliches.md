@@ -56,14 +56,9 @@
 
 # in the final analysis
 
-
---- 
-
-
-
-
--  The client doesn't like the UI, doesn't like the colors, and in the final analysis the client doesn't like the shopping cart.
-- We are over budget, we are behind on schedule but in the final analysis the client is happy!
+- The client doesn't like the UI, doesn't like the shopping cart, doesn't like the colors, and in the final analysis anything we have done.
+- We are over budget, we are behind on schedule but in the final analysis the client is happy and so are we!
+- We analyzed the risks, the goals and the timeline of this contract and in the final analysis we don't recommend signing this contract in it's current form.
 
 ---
 
@@ -131,6 +126,10 @@
 
 
 # in this day and age
+
+- In this day and age, it has become difficult to discuss international politics.
+- In this day and age, it has become difficult to meet people in person.
+- In this day and age, it has become difficult to travel internationally.
 
 --- 
 

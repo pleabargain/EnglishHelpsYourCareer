@@ -7,13 +7,15 @@ We make the Present Continuous tense **by adding -ing to the base verb**. Normal
 
 ---
 - I am creating my summer reading list right now.
-
--   She is crying.
--   We are generating good leads from this campaign!
--   He is talking to his friend.
--   We are observing massive changes in the earth's atmosphere.
--   I'm living at my brother's place.
--   The baby is sleeping in his crib.
+-  She is crying.
+- We are generating good leads from this campaign!
+- He is talking to his friend.
+- From X to Z I’m working on Y project.
+- I am doing all of the code review while I’m on this project.
+- I am drinking hot tea.
+-  We are observing massive changes in the earth's atmosphere.
+-  I'm living at my brother's place.
+-  The baby is sleeping in his crib.
 -   We are visiting the museum in the afternoon.
 -   Am you reading a book right now?
 -   Is he speaking on the phone with your manager?

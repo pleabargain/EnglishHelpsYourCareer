@@ -1,328 +1,6 @@
 By learning prefixes, root and suffixes you will rapidly improve your vocabulary!
 
 
-# adjectives suffixes
-
-
-
-## -able Meaning: capable of being > adjective
-```mermaid
-graph TD;
-    -able--> available;
-    -able--> enjoyable;
-    -able--> preventable; 
-	-able--> editable; 
-	-able--> unbearable; 
-
-	-able--> consumable; 
-    
-```
-
-## -able Meaning: capable of being > adjective
-```mermaid
-graph TD;
-	
-	-able--> adjustable; 
-    -able--> adaptable;
-    -able--> predictable;
-    -able--> dependable;
-    -able--> capable;
-    
-```
-
-
-
-
-
-
-
-
-
-## -ate showing; full of'
-```mermaid
-graph TD;
--ate--> elaborate;
--ate--> considerate;
-
--ate--> passionate;
-
-```
-
-
-## -ible Meaning: capable of being > adjective 
-```mermaid
-graph TD;
--ible--> responsible;
--ible--> reprehensible;
--ible--> credible; 
--ible--> edible; 
-
--ible--> flexible;
-
-```
-
-
-
-## -al 
-Meaning: pertaining to > adjective
-
-```mermaid
-graph TD;
--al--> theatrical; 
--al--> natural; 
--al--> criminal; 
--al--> jovial; 
-
--al --> perpetual;
--al--> seasonal;
--al--> habitual;
-
--al--> medieval;
-
-```
-
-## -al Meaning: result of Verb > noun
-
-```mermaid
-graph TD;
--al--> denial; 
--al--> refusal; 
--al--> dismissal; 
--al--> proposal; 
-
-```
-
-
-
-
-# suffix
-
-## -esque 
-means **“like” or “resembling**.”
-
-```mermaid
-	graph TD;
-	esque-->picturesque
-	esque-->statuesque
-	esque-->lionesque
-
-```
-
-
-
-
-
-## -cede
-to go or yield 
-```mermaid
-	graph TD;
-	cede-yield-->intercede
-	cede-yield-->recede
-	cede-yield-->concede
-
-```
-
-
-
-## -ant 
-Meaning:  person who is V+ant > noun 
-
-```mermaid
-graph TD;
-
-    -ant--> vigilant;
-    -ant-->  defiant; 
-    -ant--> brilliant; 
-	-ant--> exultant; 
-	-ant--> redundant; 
-	-ant-->jubilant;
-    -ant--> reliant;
-    -ant--> hesitant;
-
-
-```
-
-
-## -scope
-viewing or staring
-
-```mermaid
-graph TD; 
-	scope --> microscope;
-	scope --> telescope;
-	scope --> stethoscope;
-
-```
-
-
-## -ence
-action or process 
-```mermaid
-graph TD;
-    -ence--> emergence; 
-	-ence-->reference;
-    
-```
-
-
-quality or state
-
-```mermaid
-graph TD;
-    -ence--> despondence; 
-	-ence--> evidence; 
-	
-    
-```
-
-## -ary 
-of or relating to
-
-```mermaid
-graph TD;
-    -ary--> budgetary; 
-    -ary-->  planetary; 
-    -ary-->  military;
-     -ary-->  honorary;
-     -ary-->  contrary;
-
-```
-
-## -ent 
-Meaning:  person who is V+ent > noun 
-
-```mermaid
-graph TD;
--ent -->different;
--ent -->resilient;
--ent --> dependent;
--ent--> excellent;
--ent-->despondent;
-```
-
-
-## -ful 
-Meaning: full of or notable of (adjective)
-
-```mermaid
-graph TD;
-
--ful-->  beautiful; 
--ful-->  bountiful; 
--ful-->  eventful;
--ful-->  forceful; 
--ful-->  fanciful;
--ful--> grateful; 
-```
-
-
-## -ful 
-Meaning: full of or notable of (adjective)
-
-```mermaid
-graph TD;
-
--ful--> thoughtful; 
--ful-->  graceful;
--ful-->  careful;
--ful-->  delightful;
--ful-->  helpful; 
--ful-->  hopeful;
--ful-->  useful; 
--ful-->  wonderful; 
-```
-
-
-
-
-
-
-
-
-
-
-
-## -ic 
-Meaning: relating to
-```mermaid
-graph TD; 
--ic-->  heroic; 
--ic--> iconic;
--ic-->  organic; 
--ic-->  poetic
-```
-
-## -ious 
-Meaning: having qualities of
-
-```mermaid
-graph TD; 
--ious--> gracious; 
--ious-->  cautious; 
--ious-->  spacious; 
--ious-->  fallacious
-```
-
-## -ous 
-Meaning: having qualities of
-
-```mermaid
-graph TD; 
--ous--> humorous; 
--ous-->  fabulous;
--ous-->  dangerous;
--ous--> joyous; 
--ous--> cantankerous; 
-
-
-
-```
-
-
-## -ive 
-Meaning: quality or nature of
-
-```mermaid
-graph TD; 
--ive-->  creative; 
--ive-->  expensive; 
--ive-->  attractive; 
--ive-->  defensive; 
--ive-->  expressive; 
--ive-->  pensive;
-```
-
-## -less 
-Meaning: without something
-
-```mermaid
-graph TD; 
--less-->  baseless; 
--less-->  faultless; 
--less-->  faithless; 
--less-->  fearless; 
--less--> hopeless; 
--less-->  restless;
--less-->  rudderless; 
--less-->  soulless; 
-
-```
-
-## -y 
-Meaning: made up of or characterized by
-```mermaid
-graph TD; 
--y--> brainy; 
--y--> smelly; 
--y-->  fruity; 
--y-->  tasty; 
--y-->  sleepy; 
--y-->  windy; 
--y-->  grumpy; 
--y-->  grouchy;
--y-->  salty;
-```
-
 
 # Prefixes to create negatives 	Examples
 
@@ -473,6 +151,8 @@ de --> despite;
 de --> deduce;
 de --> dejected;
 de--> descend;
+de--> detect;
+
 
 ```
 
@@ -561,8 +241,25 @@ con -->consensus;
 con -->convince;
 con -->consider;
 con -->congested;
+con -->convey;
+
 
 ```
+
+
+
+## com- 
+with
+```mermaid
+graph TD;
+com -->complacent;
+com	 --> commit;
+com --> communicate;
+com --> computer;
+com --> combine;
+```
+
+
 
 
 ## em  -
@@ -581,12 +278,14 @@ em--> embraced;
 within, in
 ```mermaid
 graph TD; 
-en --> endorse;
-en --> envision;
-en-->endanger;
-en -->encounter;
-en -->enclose;
 en --> enable;
+en --> encounter;
+en --> enclose;
+en --> encourage;
+en --> endanger;
+en --> endorse;
+en --> enjoy;
+en --> envision;
 ```
 
 
@@ -649,6 +348,7 @@ over --> overkill;
 over --> overwork;
 over --> overlook;
 over --> overheated;
+over --> overestimate;
 over --> oversee;
 over --> overcharge;
 
@@ -659,10 +359,18 @@ meaning: reverse the meaning of the word
 
 ```mermaid
 graph TD; 
+un --> unable;
+un --> unbelievable;
+un --> uncertain;
 un --> undead;
-un --> unfasten;
 un --> undo;
-un-->unable;
+un --> unfasten;
+un --> unfortunate;
+un --> ungrateful;
+un --> unreachable;
+un --> unstoppable;
+un --> unsure;
+un --> untrusted;
 
 
 ```
@@ -806,6 +514,8 @@ sub--> subcontract;
 sub-->  subdivide;
 sub-->  subcontinent;
 sub-->  subordinate;
+sub-->  submit;
+sub-->  submarine;
 sub-->  subscribe;
 
 ```
@@ -830,164 +540,77 @@ graph TD;
 under--> underbelly;
 under--> underneath;
 under--> underperform;
+under--> underwear;
+under--> underground;
+under--> underestimate;
+under--> undervalue;
 under--> undermine;
 ```
 
-# suffixes 
-
-
-## -logy 
-study of
-```mermaid
-graph TD;
--logy --> psychology;
--logy --> caridologist;
-
-```
-
-
-## -ity 
-state or quality of being
-
-```mermaid
-graph TD;
--ity --> ability;
--ity --> stability;
-
-```
-
-## -ness 
-state or quality of being
-
-```mermaid
-graph TD;
--ness --> darkness;
--ness --> illness;
-```
-
-
-## -cy 
-state or quality of being
-
-```mermaid
-graph TD;
--cy --> frequency;
-
-```
-
-## -er 
-person concerned with N
-
-```mermaid
-graph TD;
--er --> programmer;
--er --> plumber;
--er --> painter;
-
-```
-
-
-## -atic 
-**of the nature of the thing specified**
-
-```mermaid
-graph TD;
--atic --> systematic;
--atic --> problematic;
--atic --> erratic;
-
-```
-
-
-
-## -ism 
-doctrine of N
-
-```mermaid
-graph TD;
--ism --> capitalism;
--ism --> communism;
--ism --> socialism;
-
-```
-
-## -ship 
-state of being  
-
-```mermaid
-graph TD;
--ship --> leadership;
--ship --> friendship;
-
-```
-
-## -age 
-collection of N > noun
-
-```mermaid
-graph TD;
--age --> baggage;
--age --> storage;
--age --> sabotage;
-
-
-```
-
-## -age 
-action result of > noun
-
-```mermaid
-graph TD;
--age --> wastage;
--age --> heritage;
--age --> garbage;
--age -->hostage;
-```
-
-
-## -tion 
-meaning action/instance of V-ing > NOUN
-
-```mermaid
-graph TD;
--tion --> alteration;
--tion -->  demonstration;
--tion -->  documentation;
--tion -->  presentation;
--sion --> proposition;
-
-```
-
-## -sion 
-meaning action/instance of V-ing > NOUN
-
-```mermaid
-graph TD;
--sion --> expansion; 
--sion --> inclusion;
--sion --> exclusion;
-
--sion --> admission;
-```
-
-## -ment 
-meaning	action/instance of V-ing > NOUN
-
-```mermaid
-graph TD;
--ment -->development; 
--ment -->punishment; 
--ment -->augment;
--ment --> impedement;
--ment --> payment;
--ment--> embellishment;
--ment -->unemployment;
--ment -->enticement;
-```
-
-
 
 # roots
+
+## tect
+means **cover**
+```mermaid
+graph TD;
+tect--> detect;
+tect --> protect;
+```
+
+
+
+## mit
+ -mit- comes from Latin, where it has the meaning **"send**
+```mermaid
+graph TD;
+
+mit -->permit;
+mit -->remit;
+mit -->emit;
+mit -->intermittent;
+mit -->noncommittal;
+mit -->omit;
+mit -->remittance;
+
+```
+
+## mit
+ -mit- comes from Latin, where it has the meaning **"send**
+```mermaid
+graph TD;
+mit -->submit; 
+mit -->commit; 
+mit -->transmit; 
+mit -->admit;
+mit -->committee;
+
+
+```
+
+
+## -pute-
+root. -pute- comes from Latin, where it has the meaning "**to clean, prune;** **consider;** **think**. ''
+```mermaid
+graph TD;
+pute -->amputate; 
+pute -->compute; 
+pute -->deputy; 
+pute -->dispute; 
+pute -->impute; 
+
+```
+
+
+
+## theo
+god
+```mermaid
+graph TD;
+theo -->theology; 
+
+```
+
 
 ## toxic
 poison
@@ -995,6 +618,8 @@ poison
 ```mermaid
 graph TD;
 -toxic -->intoxicated;
+-toxic -->toxicologist;
+
 
 ```
 
@@ -1003,12 +628,12 @@ mind memory
 ```mermaid
 graph TD;
 
+-mem -->memory;
 -mem -->memoir;
 -mem -->memorabilia;
 -mem -->memorandum;
 -mem -->memorial;
 -mem -->memorize;
--mem -->memory;
 -mem -->remember;
 -mem -->remembrance;
 
@@ -1035,9 +660,10 @@ particular state or period in someone's life
 ```mermaid
 graph TD;
 -hood -->neighborhood; 
--hood -->falsehood; 
+-hood --> falsehood; 
 -hood --> childhood;
 -hood -->fatherhood; 
+-hood -->motherhood; 
 -hood -->parenthood; 
 
 ```
@@ -1512,3 +1138,516 @@ write
 ```
 
 
+
+
+
+# suffixes 
+
+
+## -logy 
+study of
+```mermaid
+graph TD;
+-logy --> psychology;
+-logy --> caridology;
+-logy --> theology;
+-logy --> geology;
+-logy --> toxicology;
+
+
+```
+
+## -logist
+the person who studies or works in the field
+```mermaid
+graph TD;
+-logist --> psychologist;
+-logist --> caridologist;
+-logist --> toxicologist;
+-logist --> dermatologist;
+-logist --> archaelologist;
+-logist --> theologist;
+
+
+```
+
+
+
+## -ity 
+state or quality of being
+
+```mermaid
+graph TD;
+-ity --> ability;
+-ity --> stability;
+
+```
+
+## -ness 
+state or quality of being
+
+```mermaid
+graph TD;
+-ness --> darkness;
+-ness --> illness;
+```
+
+
+## -cy 
+state or quality of being
+
+```mermaid
+graph TD;
+-cy --> frequency;
+-cy --> urgency;
+-cy --> occupancy;
+
+
+```
+
+## -er 
+person concerned with N
+
+```mermaid
+graph TD;
+-er --> programmer;
+-er --> plumber;
+-er --> painter;
+
+```
+
+
+## -atic 
+**of the nature of the thing specified**
+
+```mermaid
+graph TD;
+-atic --> systematic;
+-atic --> problematic;
+-atic --> erratic;
+
+```
+
+
+
+## -ism 
+doctrine of N
+
+```mermaid
+graph TD;
+-ism --> capitalism;
+-ism --> communism;
+-ism --> socialism;
+
+```
+
+## -ship 
+state of being  
+
+```mermaid
+graph TD;
+-ship --> leadership;
+-ship --> friendship;
+
+```
+
+## -age 
+collection of N > noun
+
+```mermaid
+graph TD;
+-age --> baggage;
+-age --> storage;
+-age --> sabotage;
+
+
+```
+
+## -age 
+action result of > noun
+
+```mermaid
+graph TD;
+-age --> wastage;
+-age --> heritage;
+-age --> garbage;
+-age -->hostage;
+```
+
+
+## -tion 
+meaning action/instance of V-ing > NOUN
+
+```mermaid
+graph TD;
+-tion --> alteration;
+-tion -->  demonstration;
+-tion -->  documentation;
+-tion -->  presentation;
+-sion --> proposition;
+
+```
+
+## -sion 
+meaning action/instance of V-ing > NOUN
+
+```mermaid
+graph TD;
+-sion --> expansion; 
+-sion --> inclusion;
+-sion --> exclusion;
+
+-sion --> admission;
+```
+
+## -ment 
+meaning	action/instance of V-ing > NOUN
+
+```mermaid
+graph TD;
+-ment -->development; 
+-ment -->punishment; 
+-ment -->augment;
+-ment --> impedement;
+-ment --> payment;
+-ment--> embellishment;
+-ment -->unemployment;
+-ment -->enticement;
+```
+
+
+
+# adjectives suffixes
+
+
+
+## -able Meaning: capable of being > adjective
+```mermaid
+graph TD;
+    -able--> available;
+    -able--> enjoyable;
+    -able--> preventable; 
+	-able--> editable; 
+	-able--> unbearable; 
+
+	-able--> consumable; 
+    
+```
+
+## -able Meaning: capable of being > adjective
+```mermaid
+graph TD;
+	
+	-able--> adjustable; 
+    -able--> adaptable;
+    -able--> predictable;
+    -able--> dependable;
+    -able--> capable;
+    
+```
+
+
+
+
+
+
+
+
+
+## -ate showing; full of'
+```mermaid
+graph TD;
+-ate--> elaborate;
+-ate--> considerate;
+
+-ate--> passionate;
+
+```
+
+
+## -ible Meaning: capable of being > adjective 
+```mermaid
+graph TD;
+-ible--> responsible;
+-ible--> reprehensible;
+-ible--> credible; 
+-ible--> edible; 
+
+-ible--> flexible;
+
+```
+
+
+
+## -al 
+Meaning: pertaining to > adjective
+
+```mermaid
+graph TD;
+-al--> theatrical; 
+-al--> natural; 
+-al--> criminal; 
+-al--> jovial; 
+
+-al --> perpetual;
+-al--> seasonal;
+-al--> habitual;
+
+-al--> medieval;
+
+```
+
+## -al Meaning: result of Verb > noun
+
+```mermaid
+graph TD;
+-al--> denial; 
+-al--> refusal; 
+-al--> dismissal; 
+-al--> proposal; 
+
+```
+
+
+
+
+
+
+## -esque 
+means **“like” or “resembling**.”
+
+```mermaid
+	graph TD;
+	esque-->picturesque
+	esque-->statuesque
+	esque-->lionesque
+
+```
+
+
+
+
+
+## -cede
+to go or yield 
+```mermaid
+	graph TD;
+	cede-yield-->intercede
+	cede-yield-->recede
+	cede-yield-->concede
+
+```
+
+
+
+## -ant 
+Meaning:  person who is V+ant > noun 
+
+```mermaid
+graph TD;
+
+    -ant--> vigilant;
+    -ant-->  defiant; 
+    -ant--> brilliant; 
+	-ant--> exultant; 
+	-ant--> redundant; 
+	-ant-->jubilant;
+    -ant--> reliant;
+    -ant--> hesitant;
+
+
+```
+
+
+## -scope
+viewing or staring
+
+```mermaid
+graph TD; 
+	scope --> microscope;
+	scope --> telescope;
+	scope --> stethoscope;
+
+```
+
+
+## -ence
+action or process 
+```mermaid
+graph TD;
+    -ence--> emergence; 
+	-ence-->reference;
+    
+```
+
+
+quality or state
+
+```mermaid
+graph TD;
+    -ence--> despondence; 
+	-ence--> evidence; 
+	
+    
+```
+
+## -ary 
+of or relating to
+
+```mermaid
+graph TD;
+    -ary--> budgetary; 
+    -ary-->  planetary; 
+    -ary-->  military;
+     -ary-->  honorary;
+     -ary-->  contrary;
+
+```
+
+## -ent 
+Meaning:  person who is V+ent > noun 
+
+```mermaid
+graph TD;
+-ent -->different;
+-ent -->resilient;
+-ent --> dependent;
+-ent--> excellent;
+-ent-->despondent;
+```
+
+
+## -ful 
+Meaning: full of or notable of (adjective)
+
+```mermaid
+graph TD;
+
+-ful-->  beautiful; 
+-ful-->  bountiful; 
+-ful-->  eventful;
+-ful-->  forceful; 
+-ful-->  fanciful;
+-ful--> grateful; 
+```
+
+
+## -ful 
+Meaning: full of or notable of (adjective)
+
+```mermaid
+graph TD;
+
+-ful--> thoughtful; 
+-ful-->  graceful;
+-ful-->  careful;
+-ful-->  delightful;
+-ful-->  helpful; 
+-ful-->  hopeful;
+-ful-->  useful; 
+-ful-->  wonderful; 
+```
+
+
+
+
+
+
+
+
+
+
+
+## -ic 
+Meaning: relating to
+```mermaid
+graph TD; 
+-ic-->  heroic; 
+-ic--> iconic;
+-ic-->  organic; 
+-ic-->  poetic
+```
+
+## -ious 
+Meaning: having qualities of
+
+```mermaid
+graph TD; 
+-ious--> gracious; 
+-ious-->  cautious; 
+-ious-->  spacious; 
+-ious-->  fallacious
+```
+
+## -ous 
+Meaning: having qualities of
+
+```mermaid
+graph TD; 
+-ous--> humorous; 
+-ous-->  fabulous;
+-ous-->  dangerous;
+-ous--> joyous; 
+-ous--> cantankerous; 
+
+
+
+```
+
+
+## -ive 
+Meaning: quality or nature of
+
+```mermaid
+graph TD; 
+-ive-->  creative; 
+-ive-->  expensive; 
+-ive-->  attractive; 
+-ive-->  defensive; 
+-ive-->  expressive; 
+-ive-->  pensive;
+```
+
+## -less 
+Meaning: without something
+
+```mermaid
+graph TD; 
+-less-->  baseless; 
+-less-->  faultless; 
+-less-->  faithless; 
+-less-->  fearless; 
+
+
+```
+
+## -less 
+Meaning: without something
+
+```mermaid
+graph TD; 
+
+-less--> hopeless; 
+-less--> reckless; 
+-less-->  restless;
+-less-->  rudderless; 
+-less-->  soulless; 
+
+```
+
+
+
+## -y 
+Meaning: made up of or characterized by
+```mermaid
+graph TD; 
+-y--> brainy; 
+-y--> smelly; 
+-y-->  fruity; 
+-y-->  tasty; 
+-y-->  sleepy; 
+-y-->  windy; 
+-y-->  grumpy; 
+-y-->  grouchy;
+-y-->  salty;
+```

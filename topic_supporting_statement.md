@@ -1,4 +1,4 @@
-[[Ievgeniia Rudnystka Private]]
+[[Ievgeniia.Rudnystka.Private]]
 
 # intro
 

@@ -1,10 +1,11 @@
+# to broaden your horizons
+- This adventure will help me to broaden my horizons.
+
+# bargaining chip
 
 # kickstart the process
 
 We will kickstart the process of selling our service by launching a major PR and advertising campaign.
-
-
-
 
 
 #mermaid 

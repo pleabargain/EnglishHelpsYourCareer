@@ -17,6 +17,10 @@ come,
 see, 
 get
 
+- I will start a new course today so that I can continue to develop my skills. 
+- I will be in the office tomorrow. 
+- I will be X # of years in three months.
+- He will come back in a few minutes. 
 - They will arrive later.
 - I will eat lasagna for dinner tonight.
 - I will need to speak more English in the future.
