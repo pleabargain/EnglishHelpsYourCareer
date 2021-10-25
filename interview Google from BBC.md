@@ -1,0 +1,14 @@
+- May I call you Mr. Google?
+- Is it normal to hire students to do engineering work?
+- Would you share with us some of the technical details with us?
+- Can, you please, in a few words, explain which features did you provide with AI and ML?
+- Will you be increasing their salary in the future?
+- Have you considered offering them 600USD?
+- Did you consider engineering students from other countries?
+- Are
+- Were
+- Do
+- Does
+- Could
+- Should
+- Which

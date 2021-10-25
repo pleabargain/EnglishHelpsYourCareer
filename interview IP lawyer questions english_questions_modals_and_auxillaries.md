@@ -1,0 +1,15 @@
+- Could you please tell me about your previous [law,IT,IP law] experience?
+- Which details do you focus on while [reading|reviewing] a contract?
+- Can you describe to me your methodology for examining risks in a contract?
+- Are you familiar with international IP law?
+- May I ask about your career goals?
+- Have you ever been in a conflict with your colleagues? 
+- Have you ever had a conflict with your colleagues that impacted the client?
+- Do you like dealing directly with clients?
+- Is 
+- Would 
+- Will 
+- Did 
+- Were
+- Does
+- Should

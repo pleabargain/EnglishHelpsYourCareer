@@ -276,9 +276,11 @@
 # To Generalize
 
 - Overall
-- For the most part
 - In general
 - Generally speaking
+- Generally speaking, Albania is country with a lot of history and some [lovely|beautiful|delightful| captivating] nature. 
+- Generally speaking, I thought that my interview went well.
+- For the most part
 - By and large
 
 ---
@@ -620,10 +622,13 @@
 
 # Giving examples
 
+- 
+- A classic illustration of the beautiful nature in Albania is the X Canyon.
 - A classic illustration often cited is…
 - Another example of this may be given.
 - et cetera / and so on / and so forth
-- In particular / particularly
+- In particular  
+- Particularly
 - In the … case this was perhaps the most obvious.
 - More detailed studies show that…
 - Only in one respect does the advantage seem to be with…
@@ -772,8 +777,8 @@
 
 # To describe
 
-- To portray
 - To depict
+- To portray
 - To exhibit
 - To illustrate
 - To expose
@@ -785,7 +790,7 @@
 - To constitute 
 - to form 
 - to compose
-- To embody - (v) Represent or express in tangible form (embodiment); embodied - (adj)
+- To embody 
 
 ---
 

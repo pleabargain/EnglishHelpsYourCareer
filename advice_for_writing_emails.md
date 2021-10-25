@@ -1,0 +1,5 @@
+- Replace pronouns with names where possible
+- Read the email out loud before sending
+- Run a spell check
+- Break large emails into separate pieces and respond to each piece individually in the same email
+- Clearly offset each new idea in the email to make it easy to identify the topic

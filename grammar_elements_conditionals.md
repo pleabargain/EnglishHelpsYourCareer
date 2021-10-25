@@ -2,6 +2,12 @@
 **if + present simple, present simple**
 - If you heat water to 100C it boils.
 - If your battery is dead, you won't be able to use your phone.
+- If you heat ice, it melts.
+- Ice melts if you heat it.
+- If you heat magnesium, it burns with a white flame.
+- If you leave the door open, the cat comes in.
+- If I sleep too much in the afternoon, I get a headache.
+- If I go jogging; I always feel better later.
 
 # first conditional
 **if + past simple, simple future**
@@ -9,29 +15,46 @@
 - If it's cold, you should wear a coat.
 - If you invest a little bit every day, you might get rich.
 - We could have explored the area more if we had a car.
+- If I go out tonight, I will go to the cinema.
+- I will go to the cinema if I go out tonight.
+- If I get that job, I'll buy a new car. 
+- If we leave now, we'll be at the beach before lunchtime. 
+- You'll likely get a cold if you go out without your coat! 
+- She'll break that glass if she doesn't walk slowly.
+- I if I remember correctly ... 
+
+
 
 
 # second conditional 
 **if + past simple, present conditional**
 - If I  won a million dollars, I would buy a big house.
-- I if I remember correctly ... 
 - If I found her contact details, I'd send her an invitation.
 - If it was [lucrative,profitable], I would invest more.
 - If I had money, I would travel around the world.
 - If we had prepared more then the transition would have been easier. #conditional
 - If the weather was good, I would make a BBQ.
 - If there wasn't a quarantine, I would visit my relatives.
+- If I went out tonight, I would go to the cinema.
+- If I won the lottery, I would buy a yacht.
+- If I could fly, I'd escape from here today.
+- If you were more intelligent, you would pass your exams.
 
 # third conditional
 **if + past perfect, perfect conditional **
 **If + past perfect, would/ wouldn’t have + past participle.**
 (unrealized situation)
 -  If the weather had been good, we would have gone water-skiing.
+-  If I had gone out last night, I would have gone to the cinema.
+-  I would have gone to the cinema if I had gone out last night.
 -  If I had got a promotion, I would have thrown a party.
 -  If I had studied harder, I would have passed the test.
 -  If you had told me about the meeting, I would have come.
 -  If you had told me about the meeting, I wouldn’t have missed it.
 -  If I had been you, I would have closed all of the browser tabs!
+-  If I had studied harder, I would have passed my exams. 
+- We wouldn't have had an accident if we had driven more slowly. 
+- I might have got that job if I had worn a more elegant suit. 
   
 
 # mixed 1
@@ -75,9 +98,3 @@ If you hear someone say "Yo! " how would you respond?
 - If someone told you: 'Barbie is a good role model for young girls.', what would you say in response?
 - 
 
----
-A: If I understand correctly, you were fired yesterday.
-
-B: Yes, that is correct.
-
----

@@ -1,3 +1,22 @@
+# social proof
+---
+
+#mermaid 
+-Q: Why did you buy a car?
+- A: I didn't need a car but I bought one anyway because all of my friends have a car.
+- Q: Wow! That's a great example of social proof at work!
+
+---
+
+# melting pot
+- The myth of the American melting pot is quite pervasive.
+
+# tin foil hat
+- He wears a tin foil hat. (He's crazy!)
+
+# day in and day out
+- This is what I do day in and day out.
+
 # to broaden your horizons
 - This adventure will help me to broaden my horizons.
 
@@ -5,7 +24,7 @@
 
 # kickstart the process
 
-We will kickstart the process of selling our service by launching a major PR and advertising campaign.
+- We will kickstart the process of selling our service by launching a major PR and advertising campaign.
 
 
 #mermaid 

@@ -7,6 +7,7 @@
 - I'm sorry, it's not clear to me.
 - Sorry, I couldn’t hear that.  
 - I didn't catch that. Could you repeat that please?
+- I'm sorry could you say that again?
 - I'm sorry, I misunderstood.
 - I'm not sure I quite understand.
 
@@ -14,8 +15,9 @@
 #mermaid   
 - Q: Excuse me, could you please tell me the way to Bonder café?  
 - A: Go straight and take a right at the traffic light. Then walk for 50 meters and take the first left and the third shop is your destination.  
--Q: I am sorry. I didn’t understand. Could you please repeat that?  
+- Q: I am sorry. I didn’t understand. Could you please repeat that?  
   
+---
   
 # phrases to convey why you didn’t understand
   
@@ -27,8 +29,14 @@
 - I am not very good with English, so please bear with me.  
 
 # phrases to express uncertainty
+- How do you say it in English?
 - How do you say this word?
+- How do you say this in English?
+- What is it called in English?
+- What do you call this in English?
+- Maybe I didn't express myself correctly.
 - I don't know how to explain it.
+- I don't know what it's called.
 - I don't know what you are talking about.
 - I'm not sure what you are talking about.
 - I'm not sure how to say this.
@@ -37,8 +45,14 @@
 - I have no idea what you are talking about.
 
 # phrases for forgotten words
+- I don't remember how to say it in English!
+- What is it called? I don't remember!
+- I'm blanking on the word!
+- I'm sorry I just blanked on the word.
 - Oh, I can't remember the word in English!
+- I don't know what it's called.
 - I don't remember the word! Ah!!!
+- I don't remember the phrase! Ah!!!
 - Oh, it's on the tip of my tongue!
 - I have forgotten the word I want to use!
 - I lost the word!

@@ -70,6 +70,8 @@
 # verbs
 - to decompose
 - to analyze
+- to question
+- to plan
 
 
 

@@ -99,7 +99,10 @@ https://g.co/kgs/2p7bUo
 
 # verbs
 
+- watch
+ 
 # nouns
+
 
 
 # adjectives

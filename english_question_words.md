@@ -1,29 +1,56 @@
-- Who 
+- who 
 - what 
 - when
 - where 
 - why 
 - how
 
-
-
 # Who
-- Who will be using the application?
+- Who do you know from Japan?
+- Who are you going with?
+- Who are you going to visit in Spain?
+- Who did you buy your car from?
+- Who did you take your walk with?
+- Who did you go with on your walk?
+- Who sold you the car?
+- Who is this little angel?
+- Who is traveling with you today?
+- Who are you going to hire?
+- Who, from the client side, can help me with this question?
+- Who is responsible for granting permissions to access the server?
 - Who is responsible for assessing task completion?
-- Who… with ..?  
+- Who is responsible for delegating server permissions?
 - Who is responsible for task assignment in your team?
 - Who is responsible for task creation in your team?
+- Who will be using the application?
+- Who… with ..?  
 - With whom?
 - Who did you go to the restaurant with?  
-- Who do you think will win the game tonight?
+- Who  do you think will win the game tonight?
 
 # What
-- What are the deadlines that you can work under?
+- What are the differences between Japanese and Polish cultures?
+- What are you going to do in Spain?
+- What are you going to do there?
+- What's the make and model of the car?
+- What do you like to do?
+- What did you [think|talk] about during your walk?
+- What did you listen to during your walk?
+- What questions do you have for me?
+- What food products are you bringing with you?
+- What will they be responsible for?
+- What other ball games can you play with fewer people?
+- What are your responsibilities on this project? (context: TL to new guy)
+- What value does this feature bring the client?
+- What do we need to do in the scope of this task?
+- What's your role on this project?
+- What is the deadline?
+- What role do you have on your projects now?
+- What role do you serve on your current projects?
+- What is the difference between those two systems? (context: TL to BA)
 - What tasks remain to be completed?
 - What exactly does the application do?
-- What role do you have on your projects now?
 - What questions do you like to ask during an interview?
-- What role do you serve on your current projects?
 - What is the game we are going to see tonight?
 - What about?
 - What kind ..?  
@@ -37,7 +64,6 @@
 - What sort ..?  
 - Which? What type, kind?
 - What sort of questions did you want to ask?  
-
 - What questions did you ask?
 
 - What time ..?  
@@ -62,21 +88,33 @@
 - What is she like as an actress?
 - What… with ..?  
 - What do you eat your Chinese food with? Fork or chopsticks?  
-
 - What are you eating? 
-
 - What about?  
-
 - What of it?  
-
 - And so what?
 
 # Where
+- Where can I find a Japanese restaurant in Warsaw?
+- Where will you stay in Spain?
+- Where exactly are you going?
+- Where exactly are you going to stay?
+- Where are you going to stay?
+- Where did you buy the car?
+- Where have you bought the car?
+- Where exactly did you go on your walk?
+- Where are you planning to buy those pills that I prescribed to you?
+- Where are you traveling to?
+- Where are you searching for this new candidate? (context: manager to recruiter)
 - Where are your offices located?
+- Where are you from?
 - Where are the tasks documented?
+- Where is your company based?
+- Where is the club located?
 - Where is the application vulnerable to attack?
+- Where is the club situated?
+- Where do you guys meet?
+- Where can I find a link to the design mock up?
 - Where is the documentation located?
-- Where?
 - Where are we going tonight?
 - Where are we going to watch the game tonight?
 - Where… from ..?  
@@ -84,7 +122,23 @@
 - Where are your neighbors from?  
 
 # When
+- When did you last speak with a Japanese person?
+- When do Japanese people usually go to sleep?
+- When do you leave?
+- When will you return?
+- When did you buy your car?
+- When did you come back after your long walk?
+- When did you return after your long walk?
+- When did you first notice those spots on your child?
+- When did you arrive into the country?
+- When do you plan to onboard [your|this] new hire?
+- When will your product be available in the market?
+- When can we expect to be able to buy your product?
+- When was the last time your club had a meeting?
+- When was the last competition?
 - When does the daily meeting start on your project?
+- When are we scheduled to release this feature?
+- When is the next sprint?
 - When are you going to complete the current sprint?
 - When is the next pentest?
 - When it is going to happen?
@@ -99,7 +153,20 @@
 - When will it start?
 
 # Why
+- Why are you interested in Japanese culture?
+- Why are you going to Spain?
+- Why did you choose a place so far away?
+- Why don't you come and visit me?
+- Why did you select that place?
+- Why did you buy a car?
+- Why did you go for a long walk?
+- Why didn't you come earlier?!
+- Why did you choose this lane?
+- Why did you decide to hire somebody?
+- Why have you decided to hire someone now?
+- Why did you join that club?
 - Why are you thinking about leaving your current company?
+- Why do we need to implement this feature?
 - Why should we conduct pentests on our system?
 - Why do we need more security?
 - Why has security become an issue now?
@@ -113,19 +180,44 @@
 
 
 # How
+- How do Japanese celebrate New Years?
+- How are you going to get there?
+- How much did it cost?
+- How long will it take to drive there?
+- How many miles to the next oil change?
+- How long will your trip take?
+- How long was your walk?
+- How long did it take you to find a good candidate?
+- How long can I drive this car at night?
+- How long have you been involved with this club?
+- How long will this take?
+- How long does it take to do X?
+- How did you get there on foot?
+- How did you get there?
+- How did you get there on your bike?
+- How did you get there by car?
+- How are you going to pay for my services?
+- How much water should you drink during a normal day?
+- How much money did you spend on your [car|trip|stereo|anniversary gift|]?
+- How much sugar do you like in your tea?
+- How was your walk?
+- How long will it take? (BA to TL)
+- How is this possible?
+- How did you achieve this?
+- How difficult is it to get enough people to join a game?
 - How much time will it take?
+- How much time do we have?  
+- How many students are there in this class?  
 - How can we secure our system against bad actors?
 - How does your team work currently? Are they working remotely or are in they working in an office?
 - How long ..?  
 - How long will you be in {COUNTRY}?
 - How long did you stay there?  
+- How often do you go to the gym?  
 - How many ..?  
-- How many students are there in this class?  
 - How much ..?  
 - How many?
-- How much time do we have?  
 - How often ..?  
-- How often do you go to the gym?  
 - How old ..?  
 - How many years?
 - How old are you?  

@@ -1,0 +1,15 @@
+- Could 
+- Do 
+- Can
+- Which
+- May 
+- Is 
+- Would 
+- Will 
+- Have 
+- Did 
+- Are
+- Were
+- Does
+- Should
+- If

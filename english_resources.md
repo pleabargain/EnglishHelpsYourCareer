@@ -12,7 +12,7 @@ https://www.englishhints.com/question-formation.html
 https://colab.research.google.com/drive/1UbSQr72HL1AeF8FNYfGfGKxGpsqoq1jj?usp=sharing
 
 
-# analyis
+# analysis
 
 - https://www.online-utility.org/text/analyzer.jsp
 
@@ -23,6 +23,7 @@ https://colab.research.google.com/drive/1UbSQr72HL1AeF8FNYfGfGKxGpsqoq1jj?usp=sh
 - https://www.engvid.com/
 
 # vocabulary
+- https://www.google.com/fbx?fbx=vocab
 - www.Vocabulary.com (get the free student account)
 - https://www.getrandomthings.com/
 

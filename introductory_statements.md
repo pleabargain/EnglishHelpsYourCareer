@@ -1,9 +1,11 @@
-Hello! Open this file with your favorite browser. It should work on your phone as well! Let me know if you see any formatting weirdness! Screengrabs are really helpful! 
-<a href="mailto:dennis@englishhelpsyourcareer.com?subject=I found a bug in v9.5&body=Message me!">I found a bug!</a>
+Hello! Open this HMTL file with your favorite browser. It should work on your phone as well, though I've heard reports that IPhones can be fussy! Let me know if you see any formatting weirdness! Screen grabs are really helpful! 
+<a href="mailto:dennis@englishhelpsyourcareer.com?subject=I found a bug in v9.62&body=Message me!">I found a bug!</a>
+
+I hope you find this workbook useful and I would really appreciate any feedback you have for me!
 
 
 
-# Usage
+# How to use this workbook
 Click on the tabs and explore the files!
 
 - welcome
@@ -16,7 +18,7 @@ Click on the tabs and explore the files!
   - Lot of pages about English and it's usage.
 
 - practice
-  - These are unique questions generated for you! All of the questions have answers. Click on the arrow to see them. Challenge yourself by speaking the question and answer outloud. If you don't recognize a word, highlight and search for the definition. 
+  - These are unique questions generated for you! All of the questions have answers. Click on the arrow to see them. Challenge yourself by speaking the question and answer out loud. If you don't recognize a word, highlight and search for the definition. 
   
   - There may even be questions specific for your industry! Highlights include questions specific to:
 

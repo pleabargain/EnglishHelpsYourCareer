@@ -1,4 +1,19 @@
 # never say
+
+---
+
+-NO : closest future
+
+-YES: soon 
+
+or
+
+- sometime soon 
+
+---
+
+
+
 ---
 - NO: It's more easy.
 
