@@ -344,15 +344,32 @@ meaning: too much
 
 ```mermaid
 graph TD; 
-over --> overkill;
-over --> overwork;
-over --> overlook;
-over --> overheated;
 over --> overestimate;
+over --> overstatement;
 over --> oversee;
 over --> overcharge;
 
 ```
+
+## over - 
+meaning: too much
+
+```mermaid
+graph TD; 
+over --> overkill;
+over --> overwork;
+over --> overlook;
+over --> overheated;
+over --> oversell;
+
+```
+
+
+
+
+
+
+
 ## un - 
 meaning: reverse the meaning of the word
 
@@ -396,7 +413,7 @@ para --> paradigm;
 meaning: badly or wrongly 	
 
 ```mermaid
-graph TD; 
+graph LR; 
 mis --> misunderstand; 
 mis --> misbehave; 
 mis --> mislead; 
@@ -540,6 +557,7 @@ graph TD;
 under--> underbelly;
 under--> underneath;
 under--> underperform;
+under --> understatement;
 under--> underwear;
 under--> underground;
 under--> underestimate;

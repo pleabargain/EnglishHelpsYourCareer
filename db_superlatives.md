@@ -38,6 +38,7 @@ the quietest
 the rudest
 the safest
 the shortest
+the saddest
 the slowest
 the smartest
 the smoothest

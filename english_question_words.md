@@ -6,6 +6,7 @@
 - how
 
 # Who
+- Who told you to use a strong password?
 - Who do you know from Japan?
 - Who are you going with?
 - Who are you going to visit in Spain?
@@ -29,6 +30,7 @@
 - Who  do you think will win the game tonight?
 
 # What
+- What can happen if you don't use a strong password?
 - What are the differences between Japanese and Polish cultures?
 - What are you going to do in Spain?
 - What are you going to do there?
@@ -94,6 +96,7 @@
 - And so what?
 
 # Where
+- Where do you need to use strong passwords?
 - Where can I find a Japanese restaurant in Warsaw?
 - Where will you stay in Spain?
 - Where exactly are you going?
@@ -122,6 +125,7 @@
 - Where are your neighbors from?  
 
 # When
+- When do you need a strong password?
 - When did you last speak with a Japanese person?
 - When do Japanese people usually go to sleep?
 - When do you leave?
@@ -153,6 +157,7 @@
 - When will it start?
 
 # Why
+- Why do you need strong  passwords?
 - Why are you interested in Japanese culture?
 - Why are you going to Spain?
 - Why did you choose a place so far away?
@@ -180,6 +185,8 @@
 
 
 # How
+- How do you hack a strong password?
+- How do you crack a strong password?
 - How do Japanese celebrate New Years?
 - How are you going to get there?
 - How much did it cost?

@@ -29,8 +29,12 @@
 - I am not very good with English, so please bear with me.  
 
 # phrases to express uncertainty
+- How can I explain this to you in English?
 - How do you say it in English?
 - How do you say this word?
+- I'm not familiar with that idea.
+- I'm not familiar with that word.
+- I'm not familiar with their work.
 - How do you say this in English?
 - What is it called in English?
 - What do you call this in English?
@@ -64,6 +68,7 @@
 - Could you explain that idea differently?
 - Can you please explain what X means?
 - What does X mean?
+- I don't understand what you are saying! Please rephrase it.
 - What does this word mean?
 - What does this word mean again?
 - What's the best way to say it?

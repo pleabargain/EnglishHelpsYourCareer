@@ -26,28 +26,31 @@ https://colab.research.google.com/drive/1UbSQr72HL1AeF8FNYfGfGKxGpsqoq1jj?usp=sh
 - https://www.google.com/fbx?fbx=vocab
 - www.Vocabulary.com (get the free student account)
 - https://www.getrandomthings.com/
+- https://www.etymonline.com/ (find out words come from)
 
 And of course, reading (out loud!), listening and taking notes while listening to native speakers will help build your vocabulary.
 
 # watch TV in English
 - https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g
-- Shameless (https://www.sho.com/shameless)
-- Mr. Robot
-- West World
+	- Shameless (https://www.sho.com/shameless)
+	- Mr. Robot
+	- West World
+
 - Comedy
-- How I Met Your Mother
-- Friends (sitcom)
-- Silicon Valley (sitcom)
-- Young Sheldon https://g.co/kgs/KejRvY
-- The Office (https://en.wikipedia.org/wiki/The_Office_(American_TV_series))
-- [[topic The Big Bang Theory]] https://g.co/kgs/qwKYLi
+	- How I Met Your Mother
+	- Friends (sitcom)
+	- Silicon Valley (sitcom)
+	- Young Sheldon https://g.co/kgs/KejRvY
+	- The Office (https://en.wikipedia.org/wiki/The_Office_(American_TV_series))
+	- [[topic The Big Bang Theory]] https://g.co/kgs/qwKYLi
 
 ---
 
 # Animated
-  - The Fixies (children) https://www.youtube.com/channel/UCnRuuiSVqDF2EmoYS7yE6ZA
-  - [[topic Rick and Morty]]  (very adult) 
-  - [[topic Bo Jack Horseman]] (very adult)
+
+- The Fixies (children) https://www.youtube.com/channel/UCnRuuiSVqDF2EmoYS7yE6ZA
+- [[topic Rick and Morty]]  (very adult) 
+- [[topic Bo Jack Horseman]] (very adult)
 	- https://en.wikipedia.org/wiki/BoJack_Horseman 
 	- https://transcripts.fandom.com/wiki/BoJack_Horseman:_The_BoJack_Horseman_Story,_Chapter_One
 
@@ -73,10 +76,13 @@ And of course, reading (out loud!), listening and taking notes while listening t
   # children
   - The Fixies
 	  - https://www.youtube.com/channel/UCnRuuiSVqDF2EmoYS7yE6ZA
+  
   - Sesame Street
     - https://www.youtube.com/sesame/about
+  
   - Peppa Pig
     - https://www.youtube.com/channel/UCRYJW3Ao5AOmeowheBEyKFQ/about
+  
   - Dora
     - https://www.youtube.com/c/nickjr/videos
 	- https://www.youtube.com/c/scishowkids/about
@@ -123,7 +129,7 @@ https://g.co/kgs/VgZ5Tu
 - You should study more English grammar.
 - You should set up your phone's user interface in English.
 - You should listen to interviews in English of your favorite actor.
-- - You should know and understand your weaknesses.
+- You should know and understand your weaknesses.
 - You should immerse yourself in an English speaking environment.
 - You should have purposeful practice in English.
 - You should [learn,speak] English with passion.
@@ -131,6 +137,7 @@ https://g.co/kgs/VgZ5Tu
 - You should start reading children books in English 
     - Cinderella
     - Harry Potter
+    - Play the dictionary game with your children and friends!
 - You should read out loud to your pets!
 - You should set up your computer's user interface in English.
 - You should take lessons with a native speaker.
@@ -165,7 +172,7 @@ https://www.youtube.com/watch?v=2dANDhfWU8g&list=PLikM1nBK3VWRbVxrnYC3Egn7m5XXKL
 
 # try
 - Try to speak with your parents in English.
-- Try to teach them a new phrase in English.
+- Try to teach your loved ones a new phrase in English.
 
 
 
@@ -173,6 +180,6 @@ https://www.youtube.com/watch?v=2dANDhfWU8g&list=PLikM1nBK3VWRbVxrnYC3Egn7m5XXKL
 https://www.youtube.com/channel/UCxw-YwaBR9lVa1fmreWy94g
 
 # Toastmasters
-Find a Toastmasters club and join!
-https://www.toastmasters.org/
+- Find a Toastmasters club and join!
+	- https://www.toastmasters.org/
 

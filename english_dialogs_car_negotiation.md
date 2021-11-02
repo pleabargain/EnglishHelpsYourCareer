@@ -12,8 +12,7 @@
 - Q: (agreeing) Let’s stick to your idea. 
 - A: Ok, cash!
 - Q: I partially agree... let's take your idea improve upon it. From my perspective, if I see someone is ready to give a discount...
-- A: (clarification) To clarify, you are going to give me 40% of the value of the car in cash in ten minutes.
-  (Police car sirens in the background)
+- A: (clarification) To clarify, you are going to give me 40% of the value of the car in cash in ten minutes. (Police car sirens in the background)
 - Q: I would like to sign all of transfer of ownership documents before I give you the money!
 - A: I have to go!
 
