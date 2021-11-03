@@ -6,14 +6,23 @@
 - how
 
 # Who
-- Who told you to use a strong password?
 - Who do you know from Japan?
-- Who are you going with?
-- Who are you going to visit in Spain?
 - Who did you buy your car from?
 - Who did you take your walk with?
 - Who did you go with on your walk?
+- Who did you go to the restaurant with?  
+- Who do you think will win the game tonight?
+- Who did you go with?
+
+- Who took you? (context: father to son-> son went to beach)
+- Who walked with you?
+- Who went with you on your walk?
+- Who told you to use a strong password?
 - Who sold you the car?
+- Who worked with you on that project?
+- Who are you going with?
+- Who are you going with to the movies?
+- Who are you going to visit in Spain?
 - Who is this little angel?
 - Who is traveling with you today?
 - Who are you going to hire?
@@ -26,8 +35,6 @@
 - Who will be using the application?
 - Who… with ..?  
 - With whom?
-- Who did you go to the restaurant with?  
-- Who  do you think will win the game tonight?
 
 # What
 - What can happen if you don't use a strong password?
@@ -76,7 +83,6 @@
 - What ... for ..?  
 - For what?
 - What did you do that for?  
-- Why did you do it?
 - What ... about ..?  
 - About what?
 - What is this article about?  
@@ -159,6 +165,7 @@
 # Why
 - Why do you need strong  passwords?
 - Why are you interested in Japanese culture?
+- Why did you do it?
 - Why are you going to Spain?
 - Why did you choose a place so far away?
 - Why don't you come and visit me?

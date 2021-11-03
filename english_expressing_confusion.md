@@ -22,6 +22,7 @@
 # phrases to convey why you didn’t understand
   
 - English is not my first language.  
+- It was hard for me to understand what she wanted.
 - I'm a bit lost here. What are you trying to say?
 - I don't understand what you mean. English is not my first language.
 - Please excuse my English. I don't understand what you are saying.
@@ -31,11 +32,13 @@
 # phrases to express uncertainty
 - How can I explain this to you in English?
 - How do you say it in English?
+- How do you say this in English?
+- How can I explain it?
 - How do you say this word?
+- 
 - I'm not familiar with that idea.
 - I'm not familiar with that word.
 - I'm not familiar with their work.
-- How do you say this in English?
 - What is it called in English?
 - What do you call this in English?
 - Maybe I didn't express myself correctly.
