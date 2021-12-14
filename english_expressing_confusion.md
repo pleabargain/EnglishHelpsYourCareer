@@ -1,4 +1,4 @@
-  # phrases to say you didn’t understand
+# phrases to say you didn’t understand
   
 - I'm sorry, I didn’t catch that.  
 - I'm sorry, I don't get what you mean.
@@ -35,7 +35,6 @@
 - How do you say this in English?
 - How can I explain it?
 - How do you say this word?
-- 
 - I'm not familiar with that idea.
 - I'm not familiar with that word.
 - I'm not familiar with their work.
@@ -43,6 +42,7 @@
 - What do you call this in English?
 - Maybe I didn't express myself correctly.
 - I don't know how to explain it.
+- I don't know what it's called in English.
 - I don't know what it's called.
 - I don't know what you are talking about.
 - I'm not sure what you are talking about.

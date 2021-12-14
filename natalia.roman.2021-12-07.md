@@ -1,0 +1,10 @@
+- [x] small talk
+- [x] vocabulary
+	- [ ] https://www.google.com/fbx?fbx=vocab
+	- [ ] https://alias-party.ru/game.html#round
+- [x] grammar
+- [x] speed story
+- [ ] work jargon
+- [ ] questions
+- [x] reading out loud
+- [ ] story telling

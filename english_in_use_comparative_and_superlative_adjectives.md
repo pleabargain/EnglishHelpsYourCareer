@@ -24,3 +24,19 @@ We often use [_the_](https://learnenglish.britishcouncil.org/english-grammar-ref
 > 
 > _**The higher** they climbed,_ **the colder** _it got._   
 > (= When they climbed higher, it got colder.)
+
+# Questions
+
+- What is the scariest thing you have ever done?
+
+- Tell me about the time you were the most nervous.
+
+- What’s the most disgusting food you’ve ever eaten?
+
+- Who is the nicest person you know?
+
+- What is the hardest part about learning English?
+
+- What is the funniest movie you’ve ever seen?
+
+- What is the earliest you have ever woken up in the morning?

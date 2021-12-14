@@ -9,22 +9,35 @@ negative + adjective > adjective
 
 
 ```mermaid
-graph TD; 
+graph LR; 
 im --> 	immature;
 im --> impatient;
+im --> impossible;
 im --> impolite;
 im --> immortal;
 im --> improbable; 
-im--> imposing;
 
 
 ```
+
+```mermaid
+graph LR; 
+
+im--> imposing;
+im -->impregnate;
+
+
+```
+
+
+
+
 
 ## IL-
 negative + adjective > adjective
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 il --> illegal;
 il --> illicit;
@@ -36,7 +49,7 @@ il --> illegible;
 ## IN-
 not or no
 ```mermaid
-graph TD; 
+graph LR; 
 
 in --> inconvenient; 
 in --> inconcievable; 
@@ -50,11 +63,12 @@ in --> inject;
 ## IN-
 not or no
 ```mermaid
-graph TD; 
+graph LR; 
 
 in --> invisible;
 in --> infallible;
 in --> inactive; 
+in --> inefficient; 
 in --> inevitable;
 in --> indelible;
 in --> inedible;
@@ -68,7 +82,7 @@ in --> indecisive;
 ## IR -
 not, or no
 ```mermaid
-graph TD; 
+graph LR; 
  
 ir --> irreplaceable;
 ir --> irresponsible;
@@ -82,7 +96,7 @@ ir --> irregular;
 ## pro - 
 "**forward, forth, toward the front**"
 ```mermaid
-graph TD;
+graph LR;
 pro--> protect; 
 pro--> profession; 
 pro --> proposition; 
@@ -100,7 +114,7 @@ negative + adjective > adjective
 
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 un --> unfortunate; 
 un --> uncomfortable;
@@ -114,7 +128,7 @@ un -->  unjust;
 negative + adjective > adjective
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 non- --> non-fiction; 
 non- --> non-political; 
@@ -128,7 +142,7 @@ non- --> non-neutral;
 negative + adjective > adjective
 apart, not, away from
 ```mermaid
-graph TD; 
+graph LR; 
 dis --> disloyal;
 dis -->  dissimilar;
 dis -->  disagree;
@@ -143,19 +157,6 @@ dis -->  disobey;
 
 # Prefixes 
 
-## de - 
-“from” or “off”
-```mermaid
-graph TD; 
-de --> despite;
-de --> deduce;
-de --> dejected;
-de--> descend;
-de--> detect;
-
-
-```
-
 
 
 ## be-
@@ -163,40 +164,43 @@ de--> detect;
 all over, all around
 
 ```mermaid
-graph TD; 
+graph LR; 
 be --> bespatter;
 be --> beset;
 
 ```
-
+## be
 completely
 
 ```mermaid
-graph TD; 
+graph LR; 
 be --> bewitch;
 be --> bemuse;
 be --> bewilder;
 
 ```
+## be
 having, covered with
 ```mermaid
-graph TD; 
+graph LR; 
 be --> bejewelled;
 
 ```
 
+## be
 affect with (added to nouns)
 
 ```mermaid
-graph TD; 
+graph LR; 
 be --> befog;
 
 ```
 
+## be
 cause to be (added to adjectives)
 
 ```mermaid
-graph TD; 
+graph LR; 
 be --> becalm;
 
 ```
@@ -204,27 +208,28 @@ be --> becalm;
 
 
 
-## dia -
-complete, through
-
-```mermaid
-graph TD; 
-dia --> diagnose;
-dia --> dialogue;
-dia --> dialysis;
-dia --> diameter;
-dia --> diaphanous;
-dia --> diarrhea;
-
-
-```
 
 ## circum- 
 around, about
 ```mermaid
-graph TD;
+graph LR;
 circum -->circumspect;
 circum -->circumcise;
+
+```
+
+## co -
+with / partner
+
+```mermaid
+graph LR;
+co -->cooperate;
+co -->coworking;
+co -->coworker;
+co -->copilot;
+co -->cohabitate;
+co -->colocate;
+
 
 ```
 
@@ -235,7 +240,7 @@ circum -->circumcise;
 ## con- 
 with
 ```mermaid
-graph TD;
+graph LR;
 con -->concieve;
 con -->consensus;
 con -->convince;
@@ -251,7 +256,7 @@ con -->convey;
 ## com- 
 with
 ```mermaid
-graph TD;
+graph LR;
 com -->complacent;
 com	 --> commit;
 com --> communicate;
@@ -261,11 +266,42 @@ com --> combine;
 
 
 
+## de - 
+“from” or “off”
+```mermaid
+graph LR; 
+de --> deduce;
+de --> despite;
+de --> dejected;
+de --> depravity;
+de --> descend;
+de --> detect;
+
+
+```
+
+## dia -
+complete, through
+
+```mermaid
+graph LR; 
+dia --> diagnose;
+dia --> dialogue;
+dia --> dialysis;
+dia --> diameter;
+dia --> diaphanous;
+dia --> diarrhea;
+
+
+```
+
+
+
 
 ## em  -
 put in or into, bring to a certain state
 ```mermaid
-graph TD; 
+graph LR; 
 em --> embellishment;
 em --> embarrassment;
 em--> embraced;
@@ -277,7 +313,7 @@ em--> embraced;
 ## en -
 within, in
 ```mermaid
-graph TD; 
+graph LR; 
 en --> enable;
 en --> encounter;
 en --> enclose;
@@ -293,7 +329,7 @@ en --> envision;
 out of
 
 ```mermaid
-graph TD; 
+graph LR; 
 ex --> exclaim;
 ex --> explain;
 ex --> expand;
@@ -304,7 +340,7 @@ ex --> extent;
 ## anti -
 without or against
 ```mermaid
-graph TD; 
+graph LR; 
 anti --> antipathy;
 anti -->antitrust;
 
@@ -313,7 +349,7 @@ anti -->antitrust;
 ## re-
 meaning: again or back
 ```mermaid
-graph TD; 
+graph LR; 
 re --> restructure;
 re --> revisit;
 re --> rehearse;
@@ -328,7 +364,7 @@ re --> reinstate;
 meaning: reverse the meaning of the word
 
 ```mermaid
-graph TD; 
+graph LR; 
 dis --> disappear;
  dis --> disapprove;
  dis --> discharge;
@@ -343,7 +379,7 @@ dis --> disappear;
 meaning: too much
 
 ```mermaid
-graph TD; 
+graph LR; 
 over --> overestimate;
 over --> overstatement;
 over --> oversee;
@@ -355,7 +391,7 @@ over --> overcharge;
 meaning: too much
 
 ```mermaid
-graph TD; 
+graph LR; 
 over --> overkill;
 over --> overwork;
 over --> overlook;
@@ -375,7 +411,7 @@ meaning: reverse the meaning of the word
 
 
 ```mermaid
-graph TD; 
+graph LR; 
 un --> unable;
 un --> unbelievable;
 un --> uncertain;
@@ -396,7 +432,7 @@ un --> untrusted;
 alongside of, beside, near, resembling, beyond, apart from, and abnormal
 
 ```mermaid
-graph TD; 
+graph LR; 
 para --> parasol;
 para --> parallel;
 para --> paradigm;
@@ -427,7 +463,7 @@ mis --> misidentify;
 meaning: more or better than others 	
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 out -->outperform;
 out --> outbid;
@@ -438,7 +474,7 @@ out --> outbid;
 meaning: make or cause 	
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 be--> befriend;
 be--> belittle;
@@ -453,7 +489,7 @@ meaning: together
 This prefix has a couple of different spellings.
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 co --> coexist; 
 co --> coordinate; 
@@ -467,7 +503,7 @@ co --> co-own;
 meaning: do the opposite of 	
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 de--> devalue; 
 de--> deselect;
@@ -479,7 +515,7 @@ de--> deselect;
 meaning: earlier, before 	
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 fore--> forecast; 
 fore--> foreclose; 
@@ -496,7 +532,7 @@ between among together - involving two or more
 
 
 ```mermaid
-graph TD;
+graph LR;
 
 inter --> interact; 
 inter --> intermix; 
@@ -511,7 +547,7 @@ inter --> intercede;
 meaning: before 	
 
 ```mermaid
-graph TD;
+graph LR;
 
 pre--> prejudice;
 pre--> prevent;
@@ -526,7 +562,7 @@ pre--> pretest;
 meaning under/below 	
 
 ```mermaid
-graph TD;
+graph LR;
 sub--> subcontract;
 sub-->  subdivide;
 sub-->  subcontinent;
@@ -541,7 +577,7 @@ sub-->  subscribe;
 meaning across, over 	
 
 ```mermaid
-graph TD;
+graph LR;
 trans --> transform;
 trans -->  transcribe;
 trans -->  transmission;
@@ -553,7 +589,7 @@ trans --> transparent;
 meaning: not enough
 
 ```mermaid
-graph TD;
+graph LR;
 under--> underbelly;
 under--> underneath;
 under--> underperform;
@@ -571,7 +607,7 @@ under--> undermine;
 ## tect
 means **cover**
 ```mermaid
-graph TD;
+graph LR;
 tect--> detect;
 tect --> protect;
 ```
@@ -581,7 +617,7 @@ tect --> protect;
 ## mit
  -mit- comes from Latin, where it has the meaning **"send**
 ```mermaid
-graph TD;
+graph LR;
 
 mit -->permit;
 mit -->remit;
@@ -596,7 +632,7 @@ mit -->remittance;
 ## mit
  -mit- comes from Latin, where it has the meaning **"send**
 ```mermaid
-graph TD;
+graph LR;
 mit -->submit; 
 mit -->commit; 
 mit -->transmit; 
@@ -610,7 +646,7 @@ mit -->committee;
 ## -pute-
 root. -pute- comes from Latin, where it has the meaning "**to clean, prune;** **consider;** **think**. ''
 ```mermaid
-graph TD;
+graph LR;
 pute -->amputate; 
 pute -->compute; 
 pute -->deputy; 
@@ -624,7 +660,7 @@ pute -->impute;
 ## theo
 god
 ```mermaid
-graph TD;
+graph LR;
 theo -->theology; 
 
 ```
@@ -634,7 +670,7 @@ theo -->theology;
 poison
 
 ```mermaid
-graph TD;
+graph LR;
 -toxic -->intoxicated;
 -toxic -->toxicologist;
 
@@ -644,7 +680,7 @@ graph TD;
 ## mem
 mind memory
 ```mermaid
-graph TD;
+graph LR;
 
 -mem -->memory;
 -mem -->memoir;
@@ -660,7 +696,7 @@ graph TD;
 
 mind memory
 ```mermaid
-graph TD;
+graph LR;
 -mem -->memorable; 
 -mem -->remember;
 -mem -->commemorate; 
@@ -676,7 +712,7 @@ graph TD;
 ## hood 
 particular state or period in someone's life
 ```mermaid
-graph TD;
+graph LR;
 -hood -->neighborhood; 
 -hood --> falsehood; 
 -hood --> childhood;
@@ -693,7 +729,7 @@ graph TD;
 ## gest
 carry or bear
 ```mermaid
-graph TD;
+graph LR;
 gest --> congestion;
 gest --> digest
 gest --> gestation
@@ -708,7 +744,7 @@ gest --> suggest
 ## fect
 make or do
 ```mermaid
-graph TD;
+graph LR;
 fect --> infect;
 fect -->perfect;
 fect -->defect;
@@ -717,7 +753,7 @@ fect -->defect;
 ## flect
 make or do
 ```mermaid
-graph TD;
+graph LR;
 flect --> reflect;
 flect --> deflect;
 flect --> inflect;
@@ -731,7 +767,7 @@ flect --> inflect;
 means **throw**
 
 ```mermaid
-graph TD;
+graph LR;
 ject --> trajectory;
 ject --> inject;
 ject --> reject;
@@ -745,7 +781,7 @@ ject --> eject;
 
 cut (down)
 ```mermaid
-graph TD;
+graph LR;
 cise-->circumcise
 cise-->decisive
 cise-->incision
@@ -761,7 +797,7 @@ cise-->scissors
 logic;  reason;  judgment
 
 ```mermaid
-	graph TD;
+	graph LR;
 	ratio(logic)-->rational;
 	
 
@@ -772,7 +808,7 @@ logic;  reason;  judgment
 water
 
 ```mermaid
-	graph TD;
+	graph LR;
 	hydro(water)-->hydrant;
 	hydro(water)-->hydrometer;
 	hydro(water)-->hydrogen;
@@ -786,7 +822,7 @@ water
 ## act
 to move or do (actor, acting, reenact)
 ```mermaid
-	graph TD;
+	graph LR;
 	act(do)-->actor;
 	act(do)-->acting;
 	act(do)-->reenact;
@@ -797,7 +833,7 @@ to move or do (actor, acting, reenact)
 ## crim
 judicial, crime
 ```mermaid
-	graph TD;
+	graph LR;
 	crim-->criminal;
 	crim-->incriminate;
 	crim-->crime;
@@ -809,7 +845,7 @@ judicial, crime
 ## ambul
 to move or walk
 ```mermaid
-	graph TD;
+	graph LR;
 	ambul(to move)-->ambulance;
 	ambul(to move)-->ambulate;
 
@@ -819,7 +855,7 @@ to move or walk
 ## init
 to begin
 ```mermaid
-	graph TD;
+	graph LR;
 	init-->initiate;
 	init-->initialize;
 
@@ -831,7 +867,7 @@ to begin
 tree
 
 ```mermaid
-	graph TD;
+	graph LR;
 	arbor(tree)-->arboreal;
 	arbor(tree)-->arboretum;
 
@@ -842,7 +878,7 @@ tree
 ## cardio
 heart
 ```mermaid
-	graph TD;
+	graph LR;
 	cardio(heart)-->cardiovascular;
 	cardio(heart)-->cardiology;
 	cardio(heart)-->electrocardiogram;
@@ -854,7 +890,7 @@ heart
 ## crypt
 to hide
 ```mermaid
-	graph TD;
+	graph LR;
 	crypt(hide)-->apocryphal;
 	crypt(hide)--> cryptic;
 	crypt(hide)-->encrpyt;
@@ -867,7 +903,7 @@ to hide
 ## acri
 bitter
 ```mermaid
-	graph TD;
+	graph LR;
 	acri(bitter)-->acrid;
 	acri(bitter)-->acrimony;
 	acri(bitter)--> acridity;
@@ -876,7 +912,7 @@ bitter
 ## astro
 stars
 ```mermaid
-	graph TD;
+	graph LR;
 
 	astro(star)-->astronaut;
 	astro(star)--> astronomy;
@@ -887,7 +923,7 @@ stars
 ## aud
 hear
 ```mermaid
-	graph TD;
+	graph LR;
 
 	aud-->audience;
 	aud--> audible;
@@ -898,7 +934,7 @@ hear
 ## auto
 self
 ```mermaid
-	graph TD;
+	graph LR;
 	auto(self)-->automobile;
 	auto(self)-->autonomy;
 	auto(self)--> autocrat;
@@ -911,7 +947,7 @@ self
 ## bene
 good
 ```mermaid
-	graph TD;
+	graph LR;
 
 	bene(good)-->benefactor;
 	bene(good)--> benevolent;
@@ -922,7 +958,7 @@ good
 ## carn
 flesh
 ```mermaid
-	graph TD;
+	graph LR;
 
 	carn-->carnal;
 	carn--> carnivorous;
@@ -937,7 +973,7 @@ flesh
 ## corp
 body
 ```mermaid
-	graph TD;
+	graph LR;
 
 	corp-->corporal;
 	corp--> corporate;
@@ -948,7 +984,7 @@ body
 ## cred
 believe
 ```mermaid
-	graph TD;
+	graph LR;
 
 	cred-->credible;
 	cred-->credence;
@@ -960,7 +996,7 @@ believe
 
 people
 ```mermaid
-	graph TD;
+	graph LR;
 
 	dem-->democracy;
 	dem-->democrat;
@@ -973,7 +1009,7 @@ people
 skin
 
 ```mermaid
-	graph TD;
+	graph LR;
 
 	derm-->dermatology;
 	derm-->epidermis;
@@ -987,7 +1023,7 @@ skin
 ## dict
 say
 ```mermaid
-	graph TD;
+	graph LR;
 
 	dict-->diction;
 	dict-->dictionary;
@@ -1000,7 +1036,7 @@ say
 ## ego
 I
 ```mermaid
-	graph TD;
+	graph LR;
 
 	ego-->egotist;
 	ego-->egocentric;
@@ -1012,7 +1048,7 @@ I
 equal
 
 ```mermaid
-	graph TD;
+	graph LR;
 
 	equi-->equidistant;
 	equi-->equity;
@@ -1024,7 +1060,7 @@ equal
 
 ## eu
 ```mermaid
-	graph TD;
+	graph LR;
 
 	eu-->euphoric;
 	eu-->Europe;
@@ -1037,7 +1073,7 @@ equal
 ## fac
 
 ```mermaid
-	graph TD;
+	graph LR;
 
 	fac-->factory;
 	fac-->faculty;
@@ -1048,7 +1084,7 @@ equal
 ## herb
 plants
 ```mermaid
-	graph TD;
+	graph LR;
 	herb-->herbal;
 	herb-->herbivore;
 			
@@ -1058,7 +1094,7 @@ plants
 ## hypo
 sleep
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	hypno(sleep)-->hypnosis;
 	hypno(sleep)-->hypnotic;
@@ -1070,7 +1106,7 @@ sleep
 ## intra
 within or into
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	intra(within)-->intrapersonal;
 	intra(within)-->intramural;
@@ -1080,7 +1116,7 @@ within or into
 
 ## gen
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	gen(birth)-->genesis;
 	gen(birth)-->genetics;
@@ -1091,7 +1127,7 @@ within or into
 ## lum
 light
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	lum(light)-->lumen;
 	lum(light)-->luminary;
@@ -1101,7 +1137,7 @@ light
 ## micro
  small
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	micro(small)-->microbiology;
 	micro(small)-->microcosm;
@@ -1112,7 +1148,7 @@ light
 ## multi
 many
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	multi(many)-->multilingual;
 	multi(many)-->multiple;
@@ -1123,7 +1159,7 @@ many
 
 ## port
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	port(carry)-->portal;
 	port(carry)-->portable;
@@ -1132,7 +1168,7 @@ many
 
 ## ject
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	ject-->abject;
 	ject-->reject;
@@ -1147,7 +1183,7 @@ many
 ## scrib
 write
 ```mermaid
-	graph TD;
+	graph LR;
 	
 	scrib(write)-->transcribe;
 	scrib(write)-->subscribe;
@@ -1165,7 +1201,7 @@ write
 ## -logy 
 study of
 ```mermaid
-graph TD;
+graph LR;
 -logy --> psychology;
 -logy --> caridology;
 -logy --> theology;
@@ -1178,7 +1214,7 @@ graph TD;
 ## -logist
 the person who studies or works in the field
 ```mermaid
-graph TD;
+graph LR;
 -logist --> psychologist;
 -logist --> caridologist;
 -logist --> toxicologist;
@@ -1195,7 +1231,7 @@ graph TD;
 state or quality of being
 
 ```mermaid
-graph TD;
+graph LR;
 -ity --> ability;
 -ity --> stability;
 
@@ -1205,7 +1241,7 @@ graph TD;
 state or quality of being
 
 ```mermaid
-graph TD;
+graph LR;
 -ness --> darkness;
 -ness --> illness;
 ```
@@ -1215,7 +1251,7 @@ graph TD;
 state or quality of being
 
 ```mermaid
-graph TD;
+graph LR;
 -cy --> frequency;
 -cy --> urgency;
 -cy --> occupancy;
@@ -1227,7 +1263,7 @@ graph TD;
 person concerned with N
 
 ```mermaid
-graph TD;
+graph LR;
 -er --> programmer;
 -er --> plumber;
 -er --> painter;
@@ -1239,7 +1275,7 @@ graph TD;
 **of the nature of the thing specified**
 
 ```mermaid
-graph TD;
+graph LR;
 -atic --> systematic;
 -atic --> problematic;
 -atic --> erratic;
@@ -1252,7 +1288,7 @@ graph TD;
 doctrine of N
 
 ```mermaid
-graph TD;
+graph LR;
 -ism --> capitalism;
 -ism --> communism;
 -ism --> socialism;
@@ -1263,7 +1299,7 @@ graph TD;
 state of being  
 
 ```mermaid
-graph TD;
+graph LR;
 -ship --> leadership;
 -ship --> friendship;
 
@@ -1273,7 +1309,7 @@ graph TD;
 collection of N > noun
 
 ```mermaid
-graph TD;
+graph LR;
 -age --> baggage;
 -age --> storage;
 -age --> sabotage;
@@ -1285,7 +1321,7 @@ graph TD;
 action result of > noun
 
 ```mermaid
-graph TD;
+graph LR;
 -age --> wastage;
 -age --> heritage;
 -age --> garbage;
@@ -1297,7 +1333,7 @@ graph TD;
 meaning action/instance of V-ing > NOUN
 
 ```mermaid
-graph TD;
+graph LR;
 -tion --> alteration;
 -tion -->  demonstration;
 -tion -->  documentation;
@@ -1310,7 +1346,7 @@ graph TD;
 meaning action/instance of V-ing > NOUN
 
 ```mermaid
-graph TD;
+graph LR;
 -sion --> expansion; 
 -sion --> inclusion;
 -sion --> exclusion;
@@ -1322,7 +1358,7 @@ graph TD;
 meaning	action/instance of V-ing > NOUN
 
 ```mermaid
-graph TD;
+graph LR;
 -ment -->development; 
 -ment -->punishment; 
 -ment -->augment;
@@ -1341,7 +1377,7 @@ graph TD;
 
 ## -able Meaning: capable of being > adjective
 ```mermaid
-graph TD;
+graph LR;
     -able--> available;
     -able--> enjoyable;
     -able--> preventable; 
@@ -1354,7 +1390,7 @@ graph TD;
 
 ## -able Meaning: capable of being > adjective
 ```mermaid
-graph TD;
+graph LR;
 	
 	-able--> adjustable; 
     -able--> adaptable;
@@ -1374,7 +1410,7 @@ graph TD;
 
 ## -ate showing; full of'
 ```mermaid
-graph TD;
+graph LR;
 -ate--> elaborate;
 -ate--> considerate;
 
@@ -1385,7 +1421,7 @@ graph TD;
 
 ## -ible Meaning: capable of being > adjective 
 ```mermaid
-graph TD;
+graph LR;
 -ible--> responsible;
 -ible--> reprehensible;
 -ible--> credible; 
@@ -1401,7 +1437,7 @@ graph TD;
 Meaning: pertaining to > adjective
 
 ```mermaid
-graph TD;
+graph LR;
 -al--> theatrical; 
 -al--> natural; 
 -al--> criminal; 
@@ -1418,7 +1454,7 @@ graph TD;
 ## -al Meaning: result of Verb > noun
 
 ```mermaid
-graph TD;
+graph LR;
 -al--> denial; 
 -al--> refusal; 
 -al--> dismissal; 
@@ -1435,7 +1471,7 @@ graph TD;
 means **“like” or “resembling**.”
 
 ```mermaid
-	graph TD;
+	graph LR;
 	esque-->picturesque
 	esque-->statuesque
 	esque-->lionesque
@@ -1449,7 +1485,7 @@ means **“like” or “resembling**.”
 ## -cede
 to go or yield 
 ```mermaid
-	graph TD;
+	graph LR;
 	cede-yield-->intercede
 	cede-yield-->recede
 	cede-yield-->concede
@@ -1462,7 +1498,7 @@ to go or yield
 Meaning:  person who is V+ant > noun 
 
 ```mermaid
-graph TD;
+graph LR;
 
     -ant--> vigilant;
     -ant-->  defiant; 
@@ -1481,7 +1517,7 @@ graph TD;
 viewing or staring
 
 ```mermaid
-graph TD; 
+graph LR; 
 	scope --> microscope;
 	scope --> telescope;
 	scope --> stethoscope;
@@ -1492,7 +1528,7 @@ graph TD;
 ## -ence
 action or process 
 ```mermaid
-graph TD;
+graph LR;
     -ence--> emergence; 
 	-ence-->reference;
     
@@ -1502,7 +1538,7 @@ graph TD;
 quality or state
 
 ```mermaid
-graph TD;
+graph LR;
     -ence--> despondence; 
 	-ence--> evidence; 
 	
@@ -1513,7 +1549,7 @@ graph TD;
 of or relating to
 
 ```mermaid
-graph TD;
+graph LR;
     -ary--> budgetary; 
     -ary-->  planetary; 
     -ary-->  military;
@@ -1526,7 +1562,7 @@ graph TD;
 Meaning:  person who is V+ent > noun 
 
 ```mermaid
-graph TD;
+graph LR;
 -ent -->different;
 -ent -->resilient;
 -ent --> dependent;
@@ -1539,7 +1575,7 @@ graph TD;
 Meaning: full of or notable of (adjective)
 
 ```mermaid
-graph TD;
+graph LR;
 
 -ful-->  beautiful; 
 -ful-->  bountiful; 
@@ -1554,7 +1590,7 @@ graph TD;
 Meaning: full of or notable of (adjective)
 
 ```mermaid
-graph TD;
+graph LR;
 
 -ful--> thoughtful; 
 -ful-->  graceful;
@@ -1579,7 +1615,7 @@ graph TD;
 ## -ic 
 Meaning: relating to
 ```mermaid
-graph TD; 
+graph LR; 
 -ic-->  heroic; 
 -ic--> iconic;
 -ic-->  organic; 
@@ -1590,7 +1626,7 @@ graph TD;
 Meaning: having qualities of
 
 ```mermaid
-graph TD; 
+graph LR; 
 -ious--> gracious; 
 -ious-->  cautious; 
 -ious-->  spacious; 
@@ -1601,7 +1637,7 @@ graph TD;
 Meaning: having qualities of
 
 ```mermaid
-graph TD; 
+graph LR; 
 -ous--> humorous; 
 -ous-->  fabulous;
 -ous-->  dangerous;
@@ -1617,7 +1653,7 @@ graph TD;
 Meaning: quality or nature of
 
 ```mermaid
-graph TD; 
+graph LR; 
 -ive-->  creative; 
 -ive-->  expensive; 
 -ive-->  attractive; 
@@ -1630,7 +1666,7 @@ graph TD;
 Meaning: without something
 
 ```mermaid
-graph TD; 
+graph LR; 
 -less-->  baseless; 
 -less-->  faultless; 
 -less-->  faithless; 
@@ -1643,7 +1679,7 @@ graph TD;
 Meaning: without something
 
 ```mermaid
-graph TD; 
+graph LR; 
 
 -less--> hopeless; 
 -less--> reckless; 
@@ -1658,7 +1694,7 @@ graph TD;
 ## -y 
 Meaning: made up of or characterized by
 ```mermaid
-graph TD; 
+graph LR; 
 -y--> brainy; 
 -y--> smelly; 
 -y-->  fruity; 

@@ -1,4 +1,10 @@
-Hello! Open this HMTL file with your favorite browser. It should work on your phone as well, though I've heard reports that IPhones can be fussy! Let me know if you see any formatting weirdness! Screen grabs are really helpful! 
+Hello! 
+
+Welcome to my prototype English workbook. This workbook is designed to work offline. I imagine that some of you might be traveling in a bus or metro.  This workbook is built for your busy life!
+
+Please open this HMTL file with your favorite browser. It should work on your smart phone as well, though I've heard reports that IPhones can be fussy! 
+
+I know the CSS is unfinished. Let me know if you see any formatting weirdness! Screen grabs are really helpful! 
 <a href="mailto:dennis@englishhelpsyourcareer.com?subject=I found a bug in v9.62&body=Message me!">I found a bug!</a>
 
 I hope you find this workbook useful and I would really appreciate any feedback you have for me!
@@ -15,7 +21,7 @@ Click on the tabs and explore the files!
   - This page highlights the things we discussed today.
 
 - resources
-  - Lot of pages about English and it's usage.
+  - An incredible collection of English resources!
 
 - practice
   - These are unique questions generated for you! All of the questions have answers. Click on the arrow to see them. Challenge yourself by speaking the question and answer out loud. If you don't recognize a word, highlight and search for the definition. 
@@ -48,7 +54,7 @@ https://www.englishhelpsyourcareer.com/home
 
 https://github.com/pleabargain/EnglishHelpsYourCareer
 
-  
+
 
 
 # contact

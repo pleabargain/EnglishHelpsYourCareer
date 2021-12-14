@@ -5,7 +5,13 @@
 - why 
 - how
 
+
 # Who
+- Who invented _this_ robot?
+- Who was the first girl you played chess with?
+- Who is in the TV show?
+- Who is watching the TV show?
+- Who is the main actor in the TV show?
 - Who do you know from Japan?
 - Who did you buy your car from?
 - Who did you take your walk with?
@@ -13,7 +19,6 @@
 - Who did you go to the restaurant with?  
 - Who do you think will win the game tonight?
 - Who did you go with?
-
 - Who took you? (context: father to son-> son went to beach)
 - Who walked with you?
 - Who went with you on your walk?
@@ -37,6 +42,10 @@
 - With whom?
 
 # What
+- What can this robot do?
+- What is your favorite chess board situation?
+- What is the TV show about?
+- What has he done?
 - What can happen if you don't use a strong password?
 - What are the differences between Japanese and Polish cultures?
 - What are you going to do in Spain?
@@ -74,7 +83,6 @@
 - Which? What type, kind?
 - What sort of questions did you want to ask?  
 - What questions did you ask?
-
 - What time ..?  
 - What time is it now?  
 - What color ..?  
@@ -102,6 +110,12 @@
 - And so what?
 
 # Where
+- Where can we buy this robot?
+- Where has the werewolf been since last night?
+- Where does your wife prefer to play chess?
+- Where do you watch the TV show?
+- Where is the TV show set?
+- Where is the TV show filmed?
 - Where do you need to use strong passwords?
 - Where can I find a Japanese restaurant in Warsaw?
 - Where will you stay in Spain?
@@ -131,6 +145,12 @@
 - Where are your neighbors from?  
 
 # When
+- When can they deliver the robot to my apartment?
+- When was the last time you played chess?
+- When was the last time you watched the TV show?
+- When did you learn how to [ice skate|dance|cook|ski|fly a plane]?
+- When was the last time you saw your mother?
+- When was the last time you ate sushi?
 - When do you need a strong password?
 - When did you last speak with a Japanese person?
 - When do Japanese people usually go to sleep?
@@ -163,6 +183,14 @@
 - When will it start?
 
 # Why
+
+- Why is this robot expensive?
+- Why is the werewolf howling?
+- Why is the maintenance icon a different color?
+- Why is the werewolf howling at the moon?
+- Why have you chosen such a boring game?
+- Why have you chosen such an exciting game?
+- Why do you like the TV Show?
 - Why do you need strong  passwords?
 - Why are you interested in Japanese culture?
 - Why did you do it?
@@ -192,6 +220,14 @@
 
 
 # How
+- How is this robot useful to us?
+- How is that working for you?
+- Please describe to me briefly how you got your first checkmate.
+- How often do you watch the TV show?
+- How often do you see your Mom?
+- How often do you go shopping?
+- How often do you go to the swimming pool?
+- How often do you read books?
 - How do you hack a strong password?
 - How do you crack a strong password?
 - How do Japanese celebrate New Years?
@@ -200,6 +236,7 @@
 - How long will it take to drive there?
 - How many miles to the next oil change?
 - How long will your trip take?
+- How long will it take to get a working prototype?
 - How long was your walk?
 - How long did it take you to find a good candidate?
 - How long can I drive this car at night?

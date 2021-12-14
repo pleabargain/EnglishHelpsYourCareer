@@ -3,13 +3,17 @@
 # statements
 
 # dialogs
----
+
+
+--- 
+
 #mermaid 
-
-Q: 
-A: 
+Note over both: context goes here
+- Q : 
+- A : 
 
 ---
+
 
 # [[English in use phrases]]
 

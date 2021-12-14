@@ -7,18 +7,92 @@ We make the past simple just like the present simple except we use 'did' instead
 Past simple sentences are created by changing a regular verb into its past tense form, we normally add –ED to the end of the verb.
 
 ---
+
+
+- They found out later that it was a different neighbor making the noise.
+
+---
+
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant John
+    Note over Alice,John: this note spans both participants
+    Alice->>John: Hello John, how are you?
+    Note right of John: Right thoughts <br/>prevail!
+    John->>Alice: Hello John, how are you?
+    Note left of John: left thoughts <br/>prevail!
+
+
+```
+
+Hello Horst!
+
+---
+
+#mermaid 
+Note over both: small talk
+
+- Q: When did you eat?
+- A: We ate lunch earlier.
+
+
+
+
+
+
+---
+
 #mermaid
-- Q: What came of the fight with the noisy neighbor? 
-- A:They found out later that it was a different neighbor making the noise!
----
+- Note left of Q: left-leaning note
+- Q: What did you do?
+- A: I went to school.
+
+
 
 
 ---
+#mermaid
+Note right of Q: right-leaning note
+- Q: Triple dash above.What did you do?
+- A: I went to school.
+
+
+---
+
+note over both
+
+---
+
+#mermaid
+Note over both: over all note
+- Q: What did you do? This is BOTH.
+- A: I went to school.
+
+---
+
+
+
+
+---
+
+#mermaid
+Note over Q,A: over all note
+- Q: What did you do?
+- A: I went to school.
+
+---
+
+Some placeholder.
+
+---
+
 #mermaid
 - Q: What did you do yesterday?
 - A: I went to school yesterday.
 
 ---
+
 #mermaid
 - Q: What she did she do last night? When did she arrive?
 - A: She arrived last night.
@@ -35,6 +109,8 @@ Past simple sentences are created by changing a regular verb into its past tense
 
 ---
 #mermaid 
+Note over both: small talk
+
 - Q: When did you eat?
 - A: We ate lunch earlier.
 
@@ -50,8 +126,8 @@ Past simple sentences are created by changing a regular verb into its past tense
 ---
 
 #mermaid 
-Q: A few weeks ago I finished a very good book. I think you will like it!
-A: What is the book's title? What is the book's name? What's the name of the book?
+- Q: A few weeks ago I finished a very good book. I think you will like it!
+- A: What is the book's title? What is the book's name? What's the name of the book?
 
 
 ---
@@ -80,13 +156,6 @@ A: Our trees produced a lot of fruit.
 - A: Our PO launched this initiative six months ago. [[English in use acronyms#PO]]
 
 ---
-
-#mermaid
-- Q: How long did you work at X?
-- A: I worked at X for three years.
----
-
-
 
 - Yesterday our friend was really determined to get vaccinated.
 
@@ -170,3 +239,7 @@ A: Our trees produced a lot of fruit.
 -   {FEMALE_NAME}  washed her car.
 -   {MALE_NAME}  didn't wash his car.
 
+# dialogs
+-   How long did you work at X?
+-   I worked at X for three years.
+  ---
