@@ -55,7 +55,7 @@
 
 
 # if
-If I pass my yachting exam this spring, I will go sailing in the summer.
+- If I pass my yachting exam this spring, I will go sailing in the summer.
 
 # is
 - Is analysis important for the success of the project?
