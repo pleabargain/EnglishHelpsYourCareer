@@ -11,7 +11,6 @@
 - I will do my best to answer your questions.
 - My colleagues must respond to a questionnaire.
 - I need to have evidence of my activities.
-
 - I understand your question. Let me think about it for a moment.
 - I need to answer the question and show an example.
 - If I do this then it will mean that I have succeeded.

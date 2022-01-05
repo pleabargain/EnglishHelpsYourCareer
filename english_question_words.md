@@ -43,7 +43,9 @@
 
 # What
 - What can this robot do?
+- What do you call the people who take care of animals?
 - What is your favorite chess board situation?
+- What does that mean?
 - What is the TV show about?
 - What has he done?
 - What can happen if you don't use a strong password?

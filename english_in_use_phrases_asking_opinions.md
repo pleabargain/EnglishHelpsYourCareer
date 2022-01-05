@@ -1,3 +1,4 @@
+https://docs.google.com/spreadsheets/d/1jv6UKNM1Q8ao35L1svpGoQVh72hgDABMivo5B6210vs/edit?usp=sharing
 - Do Apps Help You or Just Waste Your Time?
 - Do You Keep a Diary or Journal?
 - Should Schools Offer Cash Bonuses for Good Test Scores?
@@ -41,9 +42,7 @@
 - Do Photoshopped Images Make You Feel Bad About Your Own Looks?
 - When in Your Life Have You Been a Leader?
 - What Would You Put in Your Emergency ‘Go-Bag’?
-- What Artists or Bands of Today Are Destined for the Rock and Roll
-       - Hall of Fame?
-- Which Republican Candidate Will Win the Presidential Nomination?
+- What Artists or Bands of Today Are Destined for the Rock and Roll Hall of Fame?
 - What’s Next for Computing?
 - What New Emoticons Does the World Need?
 - Should the Morning-After Pill Be Sold Over the Counter to People
@@ -156,7 +155,7 @@
 - How Far Would You Go for Fashion?
 - How Often Do You Interact With People of Another Race or Ethnicity?
 - What Would Your Fantasy Road Trip Be Like?
-   - What Would Your Fantasy Vacation Be Like?
+- What Would Your Fantasy Vacation Be Like?
 - Would You Consider a Nontraditional Occupation?
 - How Full Is Your Glass?
 - What’s On Your Summer Reading List?
@@ -170,6 +169,6 @@
 - What Is Your Opinion About the Morning-After Pill?
 - Do You Have a Job?
 - When Should Juvenile Offenders Receive Life Sentences?
-   - Should schools try to earn a profit?
+- Should schools try to earn a profit?
    
    

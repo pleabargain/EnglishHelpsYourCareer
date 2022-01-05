@@ -62,6 +62,7 @@ verbs (pronunciation) (regular or irregular)
 
 # labor labored (d) (reg)
 - We labored very long to finish this project.
+  
 # vet vetted (id) (reg)
 - I have done my due diligence and vetted this company as appropriate for our needs.
 
@@ -134,7 +135,7 @@ verbs (pronunciation) (regular or irregular)
 # reckon reckoned (d)(reg)
 - I reckon that we can fix that!
 
-# to burst
+# to burst (irr)
 - Daddy! My balloon burst!
 - Daddy! My balloon popped!
 - The weather man reported that there was a cloud burst over the city last night.
