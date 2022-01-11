@@ -388,7 +388,7 @@ I like to exercise in the morning.
 
 # exclude excluded (id) (reg)
 - We chose to exclude this feature from this release.
-- I had excluded you from the last email because ease I didn't think it applied to you.  (past perfect simple)
+- I had excluded you from the last email because I didn't think it applied to you.  
 
 # expand expanded (id) (reg)
 - We have expanded our operations.
@@ -451,7 +451,7 @@ I like to exercise in the morning.
 - I don't like to create documentation at all!
 - I should create an entire solution that will resolve an issue for a client.
 
-# deny denied (d)  (reg)
+# deny denied (d) (reg)
 - We are in a state of denial.
 
 # deliver delivered (d) (reg)

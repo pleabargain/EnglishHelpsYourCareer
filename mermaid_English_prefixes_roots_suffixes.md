@@ -4,6 +4,19 @@ By learning prefixes, root and suffixes you will rapidly improve your vocabulary
 
 # Prefixes to create negatives 	Examples
 
+
+## EM-
+negative + adjective > adjective
+
+
+```mermaid
+graph LR; 
+em --> 	empathetic;
+
+```
+
+
+
 ## IM-
 negative + adjective > adjective
 
@@ -52,8 +65,8 @@ not or no
 graph LR; 
 
 in --> inconvenient; 
-in --> inconcievable; 
-in --> incongrous; 
+in --> inconceivable; 
+in --> incongruous; 
 in --> injustice; 
 in --> invariably; 
 in --> inject; 
@@ -603,6 +616,28 @@ under--> undermine;
 
 
 # roots
+
+## contra
+against
+```mermaid
+graph LR; 
+contra-->contradict;
+
+```
+
+## pathos
+means suffering, feeling, emotion, calamity
+
+```mermaid
+graph LR;
+pathos-->pathetic;
+pathos-->empathetic;
+pathos-->sympathetic;
+
+```
+
+
+
 
 ## tect
 means **cover**
