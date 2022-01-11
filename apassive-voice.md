@@ -1,0 +1,16 @@
+The window HAS BEEN OPENED . (OPEN - present perfect simple)
+Her room WAS BEING PAINTED when the roof fell in. (PAINT - past progressive)
+She WAS TAKEN to the airport. (TAKE - past simple)
+The bike IS BEING REPAIRED. (REPAIR - present progressive)
+The cat IS FED every morning. (FEED - present simple)
+The novel WAS WRITTEN a hundred years ago. (WRITE - past simple)
+The new shop WILL BE OPENED next week. (OPEN - future )
+The food MUST BE PUT into the fridge. (MUST PUT - present simple)
+The shoes HAVEN'T BEEN CLEANED yet. (NOT CLEAN - present perfect simple)
+Most of the thieves 
+have been caught.
+ . (CATCH - past perfect simple)
+My sister WILL BE OFFERED a new job. (OFFER - future)
+The tourist WAS GIVEN a map by the tour guide. (GIVE - past simple)
+All home work SHOULD BE HANDED in by next Friday. (SHOULD HAND - present simple)
+The ceremony WAS BEING ORGANIZED when we came . (ORGANIZE - past progressive)

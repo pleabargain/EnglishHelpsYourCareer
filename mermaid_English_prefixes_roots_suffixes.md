@@ -83,6 +83,7 @@ in --> infallible;
 in --> inactive; 
 in --> inefficient; 
 in --> inevitable;
+in --> inappropriate;
 in --> indelible;
 in --> inedible;
 in --> indecisive;
@@ -367,7 +368,7 @@ re --> restructure;
 re --> revisit;
 re --> rehearse;
 re --> redo;
-
+re --> recollect;
 re --> repulsive;
 
 re --> reinstate;
