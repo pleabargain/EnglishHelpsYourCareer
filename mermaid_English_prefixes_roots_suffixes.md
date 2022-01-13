@@ -259,6 +259,7 @@ con -->concieve;
 con -->consensus;
 con -->convince;
 con -->consider;
+con -->concede;
 con -->congested;
 con -->convey;
 
@@ -623,6 +624,7 @@ against
 ```mermaid
 graph LR; 
 contra-->contradict;
+contra-->contrary;
 
 ```
 
