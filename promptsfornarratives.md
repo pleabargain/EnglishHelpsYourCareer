@@ -2,7 +2,7 @@
 # personality
 * What things about me remind you of anyone from your past, either past sweethearts or good friends?
 * What do you think are my talents? Do you think you have any of the same talents?
-* How many physical fights have you been in? Do you usual y start them? Why do you fight?
+* How many physical fights have you been in? Do you usually start them? Why do you fight?
 * Has anyone very dear to you died? How did you handle it?
 * What are you most fearful of? How does that fear keep you from doing things you would like to do?
 * Are you chirpy in the morning or are you a grouch?
@@ -52,7 +52,7 @@
 * Do you tend to keep a lot of thoughts and feelings to yourself or do you share them pretty openly?
 * Do you ever lose your temper? How does it manifest itself?
 * Do you give money to homeless people/beggars? Why or why not?
-* What experiences usual y make you fil ed with joy?
+* What experiences usually make you fil ed with joy?
 * Do you currently believe that you are mature and experienced enough to be able to build and maintain a very successful marriage?
 * When did you feel you were ready or when do you think you wil be there?
 * Which do you think should have the final say in decisions - logic or emotions? Why?
@@ -120,7 +120,7 @@
 
 
 
-* Do you usual y ask for help or support or do you prefer to fail al on your own?
+* Do you usually ask for help or support or do you prefer to fail al on your own?
 
 
 
@@ -157,9 +157,6 @@
 
 
 * Why do you feel that you are trustworthy?
-
-
-
 * Do you think you are competitive? In what areas?
 * Am I a nagger? How so? Does it irritate you?
 * Are there any rituals you do every day?
@@ -168,12 +165,12 @@
 * In which areas are you dependent on others?
 * Do you enjoy debating others?
 * In what ways do you feel real y blessed?
-* What things tend to make you angry? How do you usual y react when you are angry?
+* What things tend to make you angry? How do you usually react when you are angry?
 * On which topics do you feel qualified at giving advice?
 * Would you make a serious attempt to lose weight if your partner asked you to?
 * How do you think I could enjoy life more?
 * What is a talent that you wish you possessed?
-* Do you write important dates such as birthdays and anniversaries in your calendar? Do you use a calendar? Do you usual y remember those dates?
+* Do you write important dates such as birthdays and anniversaries in your calendar? Do you use a calendar? Do you usually remember those dates?
 
 
 
@@ -198,7 +195,7 @@
 * Do you feel that you need to be occasional y held or emotional y supported by someone who is strong? Why or why not?
 * Do you general y make to do lists? Would you like it or be offended if your mate helped you make a to do list?
 * Do you feel like you waste a lot of time? Do you wish you didn't? Do you feel that your partner wastes a lot of time? Does that bother you?
-* Do you tend to be punctual or are you usual y late?
+* Do you tend to be punctual or are you usually late?
 * What are some things that you consider a waste of time?
 * What do you like most about my personality?
 
@@ -731,7 +728,7 @@ better: What languages were commonly used on your last project?
 * Are there duties or chores that you don't think you would do in a marriage? (take out the trash, mow the lawn, clean bathrooms, iron, etc)
 * Which type of home do you think would have the most benefit for our lifestyle? Apartment (no maintenance but not much privacy and not a long term investment)? House (regular yard work and maintenance but the most privacy)? Townhouse/condo (no yard or exterior maintenance but certain restrictions and not as much privacy)?
 * Do you keep things that have no real use and wil probably never been used again (old newspapers, magazines, broken appliances, etc.)? Would you be wil ing to throw out or let your mate help you go through your "junk" if the clutter began to affect your relationship?
-* How long do you usual y take to get ready in the morning?
+* How long do you usually take to get ready in the morning?
 * How do you feel about your mate redecorating without consulting you?
 * How soon would you like to move out of our first (or current) home?
 * Next year? Five years? After the kids move out? Never?
@@ -748,7 +745,7 @@ better: What languages were commonly used on your last project?
 * What do you do with your junk mail?
 * Do you clean up the kitchen after every meal? Each night? Or when you run out of dishes or company is coming over?
 * How clean do you keep your house?
-* Do you usual y put things back where they belong soon after you use them?
+* Do you usually put things back where they belong soon after you use them?
 * What temperature do you like it in the house during the winter?
 * What temperature do you like it in the house during the summer?
 * Would it bother you if I walked around the house naked?
@@ -768,7 +765,7 @@ better: What languages were commonly used on your last project?
 * Have you ever hired a gardener? Do you think they are a waste of money or money well spent?
 * Do you put toxic poisons on your yard (weed kil er, etc.)? How do you feel about using those chemicals?
 * If you and your mate decide to get a hot tub or a pool in the future, who would be responsible for cleaning it?
-* How many hours a week do you usual y spend taking care of your yard?
+* How many hours a week do you usually spend taking care of your yard?
 * Can you live in a place that has junk in the yard (broken down vehicles, old appliances, ratty furniture, etc.)? Does your yard currently have junk in it? What are your plans for the junk? Would you do everyone a favor and haul it to the dump this week?
 * Do you enjoy doing yard work? Do you expect your mate to help you with the yard work? Or for them to do it without you?
 * Do you use your yard for any activities?
@@ -919,7 +916,7 @@ better: What languages were commonly used on your last project?
 * What sort of sexual things do you discuss with your friends?
 * How do you feel about anal sex? Do you feel it is unnatural and/or unhealthy or do you feel it is a legitimate alternative to vaginal intercourse?
 * Is there anything sexually you find wrong, offensive or distasteful?
-* Do you usual y feel that when we are making love that I am just doing it to make you happy?
+* Do you usually feel that when we are making love that I am just doing it to make you happy?
 * Do you consider these sexual experiences to be acceptable and healthy for your relationship or inappropriate and damaging to your relationship: Oral sex? Sex toys? Bondage? Threesomes, wife-swapping or orgies?
 * Do you think it is appropriate to use sex as a negotiating tool? Is it ever healthy for a husband/wife to withhold sex from their mate?
 * Would you like to take showers together on a regular basis, only every once in a while or do you prefer to take them alone?

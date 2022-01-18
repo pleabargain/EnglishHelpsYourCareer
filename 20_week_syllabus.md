@@ -65,19 +65,21 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - tense present perfect
 
 # week13 
-- give a presentation on your favorite food
-- grammar in use comparatives
+
+- grammar in use comparatives (more than)
 - tense present continuous
+- grammar elements conditionals
 
 # week14 
-- describe the ideal week
-- grammar elements conditionals
+- present your favorite food (recipe, ingredients, equipment)
+- determiners and quantifiers
 
 # week15 
 - describe a healthy family relationship
 - grammar elements subordinating conjunctions
 
 # week16 
+- describe the ideal week
 - What do you wish you knew when you were twenty years old?
 
 
