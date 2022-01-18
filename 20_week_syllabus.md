@@ -27,6 +27,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - convince an audience that your company is the best at X
 - tense past simple
 - use grammar comparatives
+- modals
 
 # week 6
 - convince us that driving your own topic cars|car or topic public transportation|public transportation is superior
@@ -76,10 +77,12 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 # week15 
 - describe a healthy family relationship
+- phrasal verbs
 - grammar elements subordinating conjunctions
 
 # week16 
 - describe the ideal week
+- collocations
 - What do you wish you knew when you were twenty years old?
 
 
