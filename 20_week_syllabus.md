@@ -1,5 +1,16 @@
 The documents are found on github: https://github.com/pleabargain/EnglishHelpsYourCareer
 
+# Checklist
+- vocabulary
+- upcoming presentations | demonstrations
+- grammar
+- questions
+- pros and cons
+- tell a story
+
+--- 
+
+
 # lesson 1
 - introduce yourself
 - give a pitch about your company, profession, career choice
@@ -91,6 +102,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 
 # lesson17 
+- Sharing viewpoints
 - Where do you see yourself in 5 years?
 
 # lesson18 
@@ -98,6 +110,38 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 # lesson19 
 - Why is social media both good and bad?
+- Asking for information
 
 # lesson20
 - Give career advice to your 20 year old self.
+- adverbs of time
+
+# lesson21
+- Communicative structures for expression of opinions
+- soft skills
+
+# lesson22
+- Asking for descriptions
+
+# lesson23
+- Inviting
+
+# lesson24
+
+
+# lesson25
+
+
+# lesson26
+- Challenges at work.
+
+# lesson27
+
+
+# lesson28
+
+
+# lesson29
+
+
+# lesson30
