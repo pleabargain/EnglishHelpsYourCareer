@@ -1,99 +1,103 @@
 The documents are found on github: https://github.com/pleabargain/EnglishHelpsYourCareer
 
-# week 1
+# lesson 1
 - introduce yourself
 - give a pitch about your company, profession, career choice
 - grammar
 - reading
 
 
-# week 2
+# lesson 2
 - present your favorite topic hobby|hobby
+- two letter 
+- three letter
 - tense future simple
 - use grammar in use superlatives
 - 
 
-# week 3
+# lesson 3
 - present your favorite topic food|food
 - tense future perfect
 - use grammar elements adjectives
 
-# week 4 
-- present your favorite topic books|book  or topic movies|movie
+# lesson 4 
+- present your favorite topic books|book or topic movies|movie
+- three letter words
 - tense future continuous
 - use grammar elements adverbs
   
-# week 5
+# lesson 5
 - convince an audience that your company is the best at X
+- three letter words
 - tense past simple
 - use grammar comparatives
 - modals
 
-# week 6
+# lesson 6
 - convince us that driving your own topic cars|car or topic public transportation|public transportation is superior
 - tense past perfect
 - use grammar elements conditionals
 
 
-# week7 
+# lesson7 
 - interview a candidate to replace you in your current position
 - tense past continuous
 - topic onboarding|onboarding
 
-# week8 
+# lesson8 
 - interview your favorite person in history
 - tense future simple
 - grammar in use  reported speech
   
-# week9 
+# lesson9 
 - ask for a promotion at your company
 -  tense future perfect
 -  grammar in use superlatives
 
-# week10 
+# lesson10 
 - promote your home town
 - tense future continuous
 -  grammar in use superlatives
 
-# week11 
+# lesson11 
 - describe your dream topic vacation|vacation
 - grammar in use time clauses
 - tense present simple
 
-# week12 
+# lesson12 
 - describe your topic investments|investment strategy
 - grammar elements conditionals
 - tense present perfect
 
-# week13 
+# lesson13 
 
 - grammar in use comparatives (more than)
 - tense present continuous
 - grammar elements conditionals
 
-# week14 
+# lesson14 
 - present your favorite food (recipe, ingredients, equipment)
 - determiners and quantifiers
 
-# week15 
-- describe a healthy family relationship
+# lesson15 
+- describe a healthy family or work relationship
 - phrasal verbs
 - grammar elements subordinating conjunctions
 
-# week16 
-- describe the ideal week
+# lesson16 
+- describe how to best teach someone something
 - collocations
 - What do you wish you knew when you were twenty years old?
 
 
-# week17 
+# lesson17 
 - Where do you see yourself in 5 years?
 
-# week18 
+# lesson18 
 - How has technology changed the way you interact with your parents?
 
-# week19 
+# lesson19 
 - Why is social media both good and bad?
 
-# week20
+# lesson20
 - Give career advice to your 20 year old self.
