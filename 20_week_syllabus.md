@@ -82,7 +82,8 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 # lesson13 
 
-- grammar in use comparatives (more than)
+- vocabulary
+- grammar in use comparatives (more than) / soft skills
 - tense present continuous
 - grammar elements conditionals
 
