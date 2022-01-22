@@ -1,10 +1,12 @@
 The documents are found on github: https://github.com/pleabargain/EnglishHelpsYourCareer
 
 # Checklist
+- small talk
 - vocabulary
 - upcoming presentations | demonstrations
 - grammar
 - questions
+- joke
 - pros and cons
 - tell a story
 
@@ -23,13 +25,14 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - two letter 
 - three letter
 - tense future simple
-- use grammar in use superlatives
+- adjectives
 - 
 
 # lesson 3
 - present your favorite topic food|food
 - tense future perfect
 - use grammar elements adjectives
+- use grammar in use superlatives
 
 # lesson 4 
 - present your favorite topic books|book or topic movies|movie
@@ -93,6 +96,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 # lesson15 
 - describe a healthy family or work relationship
+- soft skills and adjectives
 - phrasal verbs
 - grammar elements subordinating conjunctions
 
