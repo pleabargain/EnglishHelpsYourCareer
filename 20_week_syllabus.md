@@ -2,7 +2,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 # Checklist
 - small talk
-- vocabulary
+- vocabulary (3 letter words)
 - upcoming presentations | demonstrations
 - grammar
 - questions
@@ -132,7 +132,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - Inviting
 
 # lesson24
-
+- 
 
 # lesson25
 
