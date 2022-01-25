@@ -16,6 +16,8 @@ A:
 # [[grammar elements verbs]]
 
 # [[grammar elements nouns]]
+- chair lift
+- ski slope
 
 # [[grammar elements adjectives]]
 

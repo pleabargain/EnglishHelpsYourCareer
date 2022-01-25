@@ -45,7 +45,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - three letter words
 - tense past simple
 - use grammar comparatives
-- modals
+- modals plus conditionals
 
 # lesson 6
 - convince us that driving your own topic cars|car or topic public transportation|public transportation is superior
@@ -135,7 +135,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - 
 
 # lesson25
-
+- expressing opinion
 
 # lesson26
 - Challenges at work.
