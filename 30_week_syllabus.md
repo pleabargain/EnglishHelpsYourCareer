@@ -16,6 +16,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 # lesson 1
 - introduce yourself
 - give a pitch about your company, profession, career choice
+- What do you need to do to advance your career?
 - grammar
 - reading
 
@@ -150,15 +151,17 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 # lesson26
 - Challenges at work.
+- subordinating clauses
 
 # lesson27
 - Perfect Modals (e.g. would have, should have)
-- Passive voice
 - perform an appraisal on a colleague
+- Passive voice
 
 
 # lesson28
 - Common phrasal verbs and idioms (e.g., get ___, put ___, take ___ etc.)
+- collocations
 
 
 
