@@ -62,6 +62,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - interview your favorite person in history
 - tense future simple
 - grammar in use  reported speech
+ - Commonly confused verbs (e.g., do/make, say/tell, bring/ take, learn/teach,go/come, etc.)
   
 # lesson9 
 - ask for a promotion at your company
@@ -95,17 +96,21 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 # lesson14 
 - present your favorite food (recipe, ingredients, equipment)
 - determiners and quantifiers
+- Simple expressions for giving advice, inviting, and expressing regret
 
 # lesson15 
-- describe a healthy family or work relationship
-- soft skills and adjectives
-- phrasal verbs
+- vocabulary
 - grammar elements subordinating conjunctions
+  - time
+  - comparison
+- describe a healthy family or work relationship
 
 # lesson16 
 - describe how to best teach someone something
+- Narrate complex sequence of events. 
 - collocations
-- What do you wish you knew when you were twenty years old?
+- soft skills and adjectives
+- phrasal verbs
 
 
 # lesson17 
@@ -116,6 +121,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - How has technology changed the way you interact with your parents?
 
 # lesson19 
+- Reflexive pronouns (e.g., myself, yourself, herself)
 - Why is social media both good and bad?
 - Asking for information
 
@@ -126,15 +132,18 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 # lesson21
 - Communicative structures for expression of opinions
 - soft skills
+- Persuade, argue or reason to support spoken ideas with evidence, elaborations and examples. 
 
 # lesson22
 - Asking for descriptions
+- What do you wish you knew when you were twenty years old?
 
 # lesson23
 - Inviting
+- Retell and paraphrases familiar stories with simple sentences. 
 
 # lesson24
-- 
+- Modals and expressions indicating wishes doubt, regret, obligation 
 
 # lesson25
 - expressing opinion
@@ -143,12 +152,20 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - Challenges at work.
 
 # lesson27
+- Perfect Modals (e.g. would have, should have)
+- Passive voice
+- perform an appraisal on a colleague
 
 
 # lesson28
+- Common phrasal verbs and idioms (e.g., get ___, put ___, take ___ etc.)
+
 
 
 # lesson29
-
+- Transitional adverbs (therefore, however)
+- Prepare and deliver extended oral presentations that follow a process of organization using a variety of sources for a research project. 
 
 # lesson30
+
+- Idioms 
