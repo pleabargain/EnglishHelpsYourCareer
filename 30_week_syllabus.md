@@ -8,7 +8,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - questions
 - joke
 - pros and cons
-- tell a story
+- tell a story (yesterday, today, tomorrow)
 
 --- 
 
@@ -22,7 +22,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 
 # lesson 2
-- present your favorite topic hobby|hobby
+- present your favorite topic or hobby
 - two letter 
 - three letter
 - tense future simple
@@ -30,13 +30,13 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - 
 
 # lesson 3
-- present your favorite topic food|food
+- present your favorite food
 - tense future perfect
 - use grammar elements adjectives
 - use grammar in use superlatives
 
 # lesson 4 
-- present your favorite topic books|book or topic movies|movie
+- present your favorite book or movie
 - three letter words
 - tense future continuous
 - use grammar elements adverbs
@@ -172,3 +172,4 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 # lesson30
 
 - Idioms 
+- 
