@@ -11,7 +11,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - tell a story (yesterday, today, tomorrow)
 
 --- 
-
+add softskill to every lesson
 
 # lesson 1
 - introduce yourself
@@ -119,7 +119,6 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 - Where do you see yourself in 5 years?
 
 # lesson18 
-- How has technology changed the way you interact with your parents?
 
 # lesson19 
 - Reflexive pronouns (e.g., myself, yourself, herself)
@@ -145,9 +144,12 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 
 # lesson24
 - Modals and expressions indicating wishes doubt, regret, obligation 
+- Modals using yesterday, today and tomorrow
+- Give advice, correct someone, become an authority!
 
 # lesson25
 - expressing opinion
+- assertivesness
 
 # lesson26
 - Challenges at work.
@@ -162,6 +164,7 @@ The documents are found on github: https://github.com/pleabargain/EnglishHelpsYo
 # lesson28
 - Common phrasal verbs and idioms (e.g., get ___, put ___, take ___ etc.)
 - collocations
+- How has technology changed the way you interact with your parents?
 
 
 
