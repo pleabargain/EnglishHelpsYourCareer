@@ -33,6 +33,8 @@
 - Critical observation
 
 - Critical thinking
+- 
+- Curiosity
 
 - Customer service
 
@@ -253,8 +255,6 @@
 - Tolerance of change and uncertainty
 
 - Tolerant
-
-- Trainability
 
 - Trainable
 
