@@ -144,8 +144,6 @@
 
 - Motivating
 
-- Motivation
-
 - Multitasking
 
 - Negotiation
@@ -209,8 +207,6 @@
 - Results-orientation
 
 - Safety conscious
-
-- Scheduling
 
 - Scheduling
 
