@@ -19,6 +19,8 @@ add softskill to every lesson
 - What do you need to do to advance your career?
 - grammar
 - reading
+- softskills
+  
 
 
 # lesson 2
