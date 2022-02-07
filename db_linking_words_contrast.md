@@ -1,17 +1,24 @@
-However
-Nevertheless
-Nonetheless
-Still
-Although 
-even though
-Though
-But
-Yet
-Despite  
-in spite of
-In contrast 
-in comparison
-While
-Whereas
-On the other hand
-On the contrary
+alternatively
+as opposed to
+contrarily
+contrary to
+conversely
+despite/in spite of
+differing from
+even so
+however
+in contrast (to)
+in opposition
+instead
+nevertheless
+nonetheless
+nor
+notwithstanding
+on the other hand
+rather
+though
+unlike
+up against
+whereas
+while
+yet
