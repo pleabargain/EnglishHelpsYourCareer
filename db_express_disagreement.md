@@ -1,0 +1,18 @@
+I don't agree. 
+I disagree.
+I don't think so.
+You are / he is wrong. 
+I think otherwise.
+I don't think that's quite right.
+I don't agree with you.                      
+I don't agree with what you say.               
+I don't agree with them.
+I am afraid that is not quite true.
+I take a different view.
+I don't share your view.
+This argument does not hold water.
+Not at all!
+Nonsense!
+Rubbish!
+He's off his head!
+I think they are missing the point.

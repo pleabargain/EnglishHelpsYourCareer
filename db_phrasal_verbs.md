@@ -1,3 +1,4 @@
+figure out
 allow for
 attend to
 broke down
@@ -6,7 +7,6 @@ called in
 calm down
 catch up
 check in
-Check out
 check out
 come back
 dress up
@@ -15,9 +15,16 @@ ended up
 fell out of
 find out
 get around
+give advice
+be sincere
+be honest
+be disciplined
+be self assured
+smile at
+forgot to check
+forgot to look
+forgot to ask
 get back
-get back
-get off
 get off
 get up
 giving away

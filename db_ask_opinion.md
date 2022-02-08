@@ -37,18 +37,15 @@ Can you give me your thoughts on … ?
 Do you disapprove of … ?
 Do you agree with the opinion that … ?
 Do you approve of … ?
-
 Do you have any views on … ?
 Do you share my view that … ?
 If I asked your opinion about … , … ?
 Do you share the view that … ?
-
 If I said ?
 I’d like (to hear) your views on …
 I’m sure you’d agree that …
 What are your feelings about … ?
 What are your views on … ?
-
 What do you reckon?
 Any thoughts on … ?
 Are people right in thinking … ?
@@ -59,7 +56,8 @@ From your point of view, … ?
 I know this is not your specialist subject, but …
 I know you haven’t had long to think about this …
 I know you haven’t had much time to think about this, but …
-I’d be (very) interested to hear your views on …
+I’d be interested to hear your views on …
+I’d be very interested to hear your views on …
 What are your (first) thoughts on … ?
 What would be your reaction if I said … ?
 What’s your position on … ?
