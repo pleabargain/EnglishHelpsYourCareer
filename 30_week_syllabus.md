@@ -130,6 +130,7 @@ add softskill to every lesson
 # lesson20
 - Give career advice to your 20 year old self.
 - adverbs of time
+- investment strategies
 
 # lesson21
 - Communicative structures for expression of opinions

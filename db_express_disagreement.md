@@ -16,3 +16,13 @@ Nonsense!
 Rubbish!
 He's off his head!
 I think they are missing the point.
+This is not good.
+This is not what I need.
+I don’t like it.
+I’m not satisfied with what I have done for them
+This is not quite the right style.
+I had in mind something very different.
+That won’t do.
+His work isn’t up to the mark.
+These shoes seem a little small for me.
+I don’t like it like this.
