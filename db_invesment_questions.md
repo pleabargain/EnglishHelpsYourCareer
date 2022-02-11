@@ -3,6 +3,7 @@ How does the investment work?
 Do you understand the investment well enough to explain it to someone else?
 What are your goals? 
 Are you looking for safety, income or growth from this investment? Or both growth and income?
+What investments do you have now?
 What are the risks of this investment? 
 Are you comfortable taking these risks?
 How much do you expect to earn on this investment? 
