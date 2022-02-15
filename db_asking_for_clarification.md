@@ -1,14 +1,22 @@
+What did you say?! (informal)
+WTF did you say?! (informal)
+What? What?
+What was that?
+What do you mean?
+What do you mean by...?
+Do you mean...?
+Say again! (informal)
+Could you repeat please?
+Could you repeat that for me again?
+Could you repeat that last part for me again?
 Could you be more specific?
 Is that what you mean?
+What do you mean by this?
 Could you give me more details about X?
 Is that what you are talking about?
 What was that?
 I'm not sure I understand you. Could you say it again please?
-Say again! (informal)
-What do you mean by...?
-Do you mean...?
 Could you say that again, please?
-Could you repeat please?
 Could you clarify that, please?
 Would you elaborate on that , please?
 Could you be more explicit?
@@ -17,13 +25,10 @@ Could you give us an example?
 I wonder if you could say that in a different way.
 Could you put it differently, please?
 Could you be more specific, please?
-What did you say?! (informal)
-WTF did you say?! (informal)
 I'm sorry. I didn't understand! Could you say it again please?
 I don't understand what you are saying. Say again?
 Can you repeat that for me please?
 Could you say that again for me?
-What was that?
 Sorry, could you repeat that?
 I'm sorry, I didn't quite follow what you said there.
 I'm sorry, I'm not sure I fully understand.
