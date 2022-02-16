@@ -617,15 +617,7 @@
 
 
 # past job
-* What
-* Why
-* Who
-* When
-* Where
-* How
 
-ok:Was English the primary language on your last project?
-better: What languages were commonly used on your last project?
 * Why do you prefer working with teams?
 * What was your role in the team?
 * Why do you prefer working alone?
@@ -776,8 +768,8 @@ better: What languages were commonly used on your last project?
 * What chore do you most detest?
 * What is your attitude towards house work?
 * What is your least favorite house hold chore?
-  * I don't like hanging up wet clothes to dry.
-  * I don't like the daily cooking routine.
+* Do you like hanging up wet clothes to dry?
+* Do you like the daily cooking routine?
 * Do you make your bed every day? Does it bother you if it is left unmade?
 * Do you like a breeze blowing on you while you are asleep?
 * How important to you is a house that is clean and without clutter?
@@ -796,14 +788,14 @@ better: What languages were commonly used on your last project?
 * Will You Be Wearing a Halloween Costume This Year?
 * Do You Believe in Ghosts?
 
-## Christmas
+# Christmas
 * What Does Santa Claus Mean to You?
 
-## New Years
+# New Years
 * Do You Make New Year's Resolutions?
 * Do You Look Forward to New Year's Eve?
 
-## Valentines
+# Valentines
 * How Do You Feel About Valentine's Day?
 
 # Wedding & Honeymoon
@@ -825,11 +817,11 @@ better: What languages were commonly used on your last project?
 
 
 
-## Spring
+# Spring
 * How Do You Celebrate Spring?
-* What Would Your Fantasy Spring Break Be Like?
+* What Would Your Fantasy spring Break Be Like?
 
-## Summer
+# Summer
 * What are you looking forward to this summer?
 * What would your ideal summer camp be like?
 * What are your favorite summer hangouts? E.G. Forests, pool, park, beach, mountains, cafe
@@ -1098,7 +1090,7 @@ better: What languages were commonly used on your last project?
 * What is your wish for your children/grandchildren?
 * Who is someone you admire? Why?
 
-## Getting to know you:
+# Getting to know you:
 * Who is your hero?
 * If you could live anywhere, where would it be?
 * What is your biggest fear?
@@ -1235,67 +1227,46 @@ better: What languages were commonly used on your last project?
 * What is your child's proudest accomplishment?
 
 
-## Is your glass half full or half empty?
-* I have a lot friends who think that the glass is half-full. They are optimists. Some of my other friends think life is worthless. They are pessimists. It's good to know both sides of the coin. Everyone on their own whether or not the glass is half empty or half full. 
-* I'm an optimist and I think my glass is half full.
+* Is your glass half full or half empty?
 
 
-## What rule in life helps you to be an optimist?
-* I always try to learn. I never stop learning. I never rest on my laurels.
+* What rule in life helps you to be an optimist?
 
-## What motivates you to do a good job?
-
-
-## Where do you find motivation?
-* I find motivation in all of the things that I can learn.
-
-## What advice would you give to someone who has LOST their motivation?
-* Identify what topics were interesting to you. Ask your where did you lose your motivation? Where did you get stuck? Try to find something that still interests you and use that as your foundation for your next step.
-
-## Did you learn  magic tricks when you were a kid?
-## Have you ever taught your kids a magic trick?
-* No. But, my daughter recognizes/spots magic tricks very quickly.
-
-## Did your father teach you any magic tricks?
-* No my father didn't teach me any magic tricks.
-
-## Does your wife know any magic tricks?
-* Yes, she makes dinner out of nothing all of the time!
+* What motivates you to do a good job?
 
 
-## What drives you nuts?
-* Death metal music drives me insane!
-* It drives me nuts when someone forces me to do something again with giving me a good reason. 
+* Where do you find motivation?
+
+* What advice would you give to someone who has LOST their motivation?
+
+* Did you learn  magic tricks when you were a kid?
+* Have you ever taught your kids a magic trick?
+
+* Did your father teach you any magic tricks?
+
+* Does your wife know any magic tricks?
+
+
+* What drives you nuts?
 
 
 
-## What is something you learned in the last week?
-* I learned a couple of new English words. And I read several pages from an interesting technical book... And I read several pages from an interesting non-fiction book about water purification... 
-* I learned how to use REACT more effectively.
+* What is something you learned in the last week?
 
-## What is something that you wished you had learned when you were younger?
-* I wish I had learned more English when I was younger.
-* I wish I had learned more  about ancient history.
+* What is something that you wished you had learned when you were younger?
 
-## What are you wishing for now?
-* I have been wishing for a new cell phone for the last few months and then my loving girlfriend gave me a new Iphone 12.
-* I am wishing for some homemade HachaPuri for dinner.
-
-## Do you get along with your parents?
-* I live far away from my mother. I see her rarely. Usually, we don't have time enough to argue. I believe though, if I saw her everyday, then we might fight a bit.
-* I call my mother three times a day! When I don't call her she gets annoyed and takes offense. 	
+* What are you wishing for now?
 
 
-## Who from your past do you really wish you'd stayed in contact(v) with?
-* I wish I had stayed in contact with my childhood friend Rolfy.
+* Do you get along with your parents?
+
+* Who from your past do you really wish you'd stayed in contact(v) with?
 
 
-## You've been given an elephant. You can't get rid of it. What would you do with it?
-* If I had an elephant, I would ride it to work everyday. And then I would take it to the park and charge children to ride it!
+* You've been given an elephant. You can't get rid of it. What would you do with it?
 
 
-## Have you ever ridden an elephant?
-* Since we are vegetarians, we have become more concerned about animals. We were in Thailand and we went on a tour. One of the excursions was riding an elephant. The elephants were treated quite poorly. My wife started to cry when they put her on the elephant. 
+* Have you ever ridden an elephant?
 
 
 * Which do you like better, shop online or shop offline?
@@ -1357,36 +1328,25 @@ Have you ever dined and dashed?
 
 
 
-## What is something you learned in the last week?
-* I learned a couple of new English words. And I read several pages from an interesting technical book... And I read several pages from an interesting non-fiction book about water purification... 
-* I learned how to use REACT more effectively.
-
-## What is something that you wished you had learned when you were younger?
-* I wish I had learned more English when I was younger.
-* I wish I had learned more  about ancient history.
-* 
-## What are you wishing for now?
-* I have been wishing for a new cell phone for the last few months and then my loving girlfriend gave me a new Iphone 12.
-* I am wishing for some HachaPuri for dinner.
-
-## Do you get along with your parents?
-* I live far away from my mother. I see her rarely. Usually, we don't have time enough to argue. I believe though, if I saw her everyday, then we might fight a bit.
-* I call my mother three times a day! When I don't call her she gets annoyed and takes offense. 	
+* What is something you learned in the last week?
 
 
-# Who from your past do you really wish you'd stayed in contact(v) with?
-* I wish I had stayed in contact with my childhood friend Ignat.
+* What is something that you wished you had learned when you were younger?
+
+ 
+* What are you wishing for now?
+
+
+* Do you get along with your parents?
+
+* Who from your past do you really wish you'd stayed in contact(v) with?
 
 
 
-# You've been given an elephant. You can't get rid of it. What would you do with it?
-* If I had an elephant, I would ride it to work everyday. And then I would take it to the park and charge children to ride it!
+* You've been given an elephant. You can't get rid of it. What would you do with it?
 
 
-# Have you ever ridden an elephant?
-* Since we are vegetarians, we have become more concerned about animals. We were in Thailand and we went on a tour. One of the excursions was riding an elephant. The elephants were treated quite poorly. My wife started to cry when they put her on the elephant. 
+* Have you ever ridden an elephant?
 
 
-## What drives you nuts?
-* Death metal music drives me insane!
-* It drives me nuts when someone forces me to do something again with giving me a good reason. 
+* What drives you nuts?

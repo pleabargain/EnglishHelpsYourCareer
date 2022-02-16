@@ -17,7 +17,7 @@
 # serenity
 - When I go to bed I feel serenity.
 - I feel a lot of serenity when I'm walking in the forest.
-- I feel serenity when my cat is in a good mood!
+- I feel serene when my cat is in a good mood!
 
 # frontier
 - We are at the frontier of AI designed micro chips.
@@ -32,7 +32,7 @@
 
 
 # flawlessly #adverb
-This software is perfect! It runs flawlessly!
+- This software is perfect! It runs flawlessly!
 
 # scuttlebutt
 - What's the scuttlebutt on our planned return to the office?

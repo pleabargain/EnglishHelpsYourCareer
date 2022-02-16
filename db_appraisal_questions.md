@@ -7,6 +7,11 @@ What drives you in this role as {POSITION}?
 What challenges did you face this year?
 What have you done right?
 What have you done wrong?
+What do you consider to be your strengths?
+In what areas do you think you need to improve?
+Does your current role help you leverage your strengths?
+What parts of your job do your weaknesses hinder you?
+How do you mitigate your weaknesses?
 Please describe your strengths and weaknesses.
 Please describe how you will correct some of your weaknesses.
 What was your proudest moment last year?

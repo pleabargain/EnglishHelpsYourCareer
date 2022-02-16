@@ -103,7 +103,7 @@
 -   The problems are not serious. Nonetheless, we shall need to tackle them soon.
 
 ## therefore
- ergo
+- ergo
  
 - She was not going to make the meeting therefore we started without her.
 - She was not going to make the meeting ergo we started without her.
