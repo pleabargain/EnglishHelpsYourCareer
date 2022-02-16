@@ -1,6 +1,9 @@
 What did you say?! (informal)
 WTF did you say?! (informal)
 What? What?
+Does that make sense?
+Does that make sense to you?
+Does that make sense for our project?
 What was that?
 What do you mean?
 What do you mean by...?

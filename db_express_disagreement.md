@@ -1,7 +1,10 @@
 I don't agree. 
 I disagree.
+I'm not sure I agree with you.
+I think you are wrong.
 I don't think so.
-You are / he is wrong. 
+You are wrong.
+He is wrong.
 I think otherwise.
 I don't think that's quite right.
 I don't agree with you.                      

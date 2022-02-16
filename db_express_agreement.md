@@ -3,6 +3,8 @@ I agree with them ...
 I share your view.                                   
 I think so.                                     
 I really think so.
+I'm in line with him about this.
+We are in alignment.
 He is quite  absolutely right.
 He is quite right .
 He may be right.
