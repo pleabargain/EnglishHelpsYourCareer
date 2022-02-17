@@ -3,6 +3,7 @@ I disagree.
 I'm not sure I agree with you.
 I think you are wrong.
 I don't think so.
+I think you are missing a critical point.
 You are wrong.
 He is wrong.
 I think otherwise.
