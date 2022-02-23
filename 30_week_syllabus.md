@@ -139,6 +139,8 @@ add softskill to every lesson
 
 # lesson22
 - Asking for descriptions
+- Should I learn more about
+- Conditionals... If I could
 - What do you wish you knew when you were twenty years old?
 
 # lesson23

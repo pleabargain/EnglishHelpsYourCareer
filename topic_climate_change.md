@@ -36,4 +36,5 @@
 # adjectives
 - frequent
 - severe
+  
 # resources
