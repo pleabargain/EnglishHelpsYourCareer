@@ -3,6 +3,8 @@ Sorry, I didn’t catch that.
 I'm sorry. I didn’t hear what you said.
 I didn’t get that.
 Sorry, I couldn’t hear that.
+I don't know what you are talking about!
+I don't understand what you are talking about!
 Could you repeat that?
 Could you say that again?
 Would you mind repeating that?
